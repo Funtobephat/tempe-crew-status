@@ -3,6 +3,11 @@
 # block or fail a commit. Only commit metadata leaves the machine: no game files, no diffs.
 param([string]$Repo = "C:\Users\Joe\Downloads\PoE2-Joe\TempeMassacre")
 $ErrorActionPreference = "Continue"
+# Hooks run with GIT_DIR/GIT_INDEX_FILE/... set to the committing repo (a worktree's .git/worktrees/<name> for agent
+# lanes). Inherited, they point every git call below - including the add/commit/push of THIS repo - at that one, which
+# committed status.json into a game branch, broke the push ("'origin' does not appear to be a git repository") and hung
+# the per-worktree status scan while it held the lock.
+Get-ChildItem Env: | Where-Object { $_.Name -like 'GIT_*' } | ForEach-Object { Remove-Item "Env:$($_.Name)" }
 $here = $PSScriptRoot
 $log = Join-Path $here "update.log"
 $rerun = Join-Path $here ".rerun"
