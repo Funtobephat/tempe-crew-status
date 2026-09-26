@@ -1,0 +1,921 @@
+{
+    "master":  "98af4ee",
+    "branches":  [
+                     {
+                         "name":  "audio-ambience",
+                         "sha":  "2f116aa",
+                         "date":  "2026-09-17T19:46:32-07:00",
+                         "subject":  "Audio foundation: sound classes/base mix + volume settings, procedural ambience/weather/footsteps/UI/music, dynamic music subsystem",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "audio-fix",
+                         "sha":  "8d26f28",
+                         "date":  "2026-09-17T22:47:51-07:00",
+                         "subject":  "v0.25: audio beds rebuilt without broadband noise (resonant wind bands, tonal insects, droplet rain, periodic hum, rumble thunder), Music_Tension without noise textures, -30/-26 dBFS RMS levels with -6 dB true-peak headroom, TPDF dither, circular loop-safe filters; analyze_audio.py acceptance test; weapon true-peak/DC fix and darker tails; horde bed seam fix; runtime bed/stem volumes retuned and active bed/stem set logged; Test-Audio.ps1",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "audio-weapons",
+                         "sha":  "bb47d1d",
+                         "date":  "2026-09-17T19:37:27-07:00",
+                         "subject":  "CLAUDE.md: weapon audio pipeline note",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "audio-zombies",
+                         "sha":  "b7867a6",
+                         "date":  "2026-09-17T19:41:35-07:00",
+                         "subject":  "Zombie + gore audio v0.22: procedural SFX generator, UE import with attenuation/concurrency, UTMZombieAudio voice budget (16 voices, nearest/priority win), hooks in zombie/AI/horde, horde bed",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "barricades",
+                         "sha":  "8726c46",
+                         "date":  "2026-09-17T23:02:57-07:00",
+                         "subject":  "Barricades: prop push sweep fix, -TMBarricadeTest phase guard + outside screenshot camera, -TMNoBarricades A/B switch, Test-Barricade.ps1, rebuilt Proto_Tempe (29 doors, 7 props), CLAUDE.md notes",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "coop-lobby",
+                         "sha":  "21ce266",
+                         "date":  "2026-09-17T22:47:59-07:00",
+                         "subject":  "Co-op session flow: hub lobby (ready toggles, lobby panel, deploy countdown, join/leave notices), main-menu name entry, Host/Join hardening, mid-mission drop-in, two-client Test-Coop.ps1",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "district-expand",
+                         "sha":  "5f4d074",
+                         "date":  "2026-09-18T21:00:50-07:00",
+                         "subject":  "Docs/LevelPerf.md: v0.33 expansion numbers against the master baseline",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "flashlight-fix",
+                         "sha":  "b9e8db6",
+                         "date":  "2026-09-18T14:02:59-07:00",
+                         "subject":  "Flashlight rebuilt: movable camera spotlight, FP meshes on lighting channel 1 without shadows, TP copy for teammates, night exposure clamp, smooth fade; Test-Flashlight.ps1; v0.27",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "fp-hands",
+                         "sha":  "e41f376",
+                         "date":  "2026-09-17T22:50:08-07:00",
+                         "subject":  "FP hands: life-size fists (HAND_SCALE 0.6 in build_fparms.py), fist-centre wrist targets re-tuned for all five weapons, per-weapon reload raise table (TMReloadRaiseFor / RELOAD_RAISE), unused UI/TMWeaponPreview + -TMPreviewShot removed",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "fp-hands-v2",
+                         "sha":  "480cd04",
+                         "date":  "2026-09-26T15:03:09-07:00",
+                         "subject":  "v0.58: AK-47 playable - per-weapon hold, reload and view-model tables",
+                         "ahead":  15,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "fp-motion",
+                         "sha":  "047bb96",
+                         "date":  "2026-09-16T21:40:05-07:00",
+                         "subject":  "FP weapon handling: procedural view-model layer, IK-solved rifle hold, reload clip (v0.17)",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "gun-models",
+                         "sha":  "ee2e927",
+                         "date":  "2026-09-18T14:25:00-07:00",
+                         "subject":  "MP5/870/M24 v2: Meshy image-to-3d (meshy-7, 4K PBR, 16k remesh) from nano-banana side-profile references, v1 GLBs kept; PRE_ROT/sight windows/SCOPE/MAG re-measured, MP5 REAR_DROP 1.0 clears the receiver cap, scope fallback when a tube slice is empty; CLAUDE.md notes",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "guns-ars",
+                         "sha":  "16c5f95",
+                         "date":  "2026-09-18T18:37:42-07:00",
+                         "subject":  "guns-ars: G36 prompt under 600 chars, CLAUDE.md notes",
+                         "ahead":  2,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "guns-pistols",
+                         "sha":  "0ee643e",
+                         "date":  "2026-09-18T18:37:38-07:00",
+                         "subject":  "Pistols v0.31 prep (P_M9/P_1911/P_FN57/P_DE50): reference photos + condensed Meshy prompts, pipeline placeholders (LENGTH_CM/ROT_FIX/REAR_DROP/FRONT_X/REAR_X, MAG boxes, KnownRoll, POSES aliases); generation on hold for credits",
+                         "ahead":  1,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "guns-shotguns",
+                         "sha":  "985b4ce",
+                         "date":  "2026-09-18T18:39:08-07:00",
+                         "subject":  "Shotguns: reference photos, Meshy prompts and provisional pipeline entries for G_M1014/G_SPAS/G_AA12/G_DB (no credits spent)",
+                         "ahead":  1,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "guns-smgs",
+                         "sha":  "4fda17b",
+                         "date":  "2026-09-18T18:36:54-07:00",
+                         "subject":  "SMG models prep: reference photos + condensed Meshy prompts for UMP45/Vector/P90/MPX, pipeline placeholders (no credits spent)",
+                         "ahead":  1,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "guns-v3-a",
+                         "sha":  "3cd6abd",
+                         "date":  "2026-09-18T18:50:37-07:00",
+                         "subject":  "MP5A3 v4: Meshy image-to-3d from a real reference photo, 50k remesh, narrow drum aperture punch, hold refit; SR-25/M82 refs + prompts staged",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "guns-v3-b",
+                         "sha":  "e07b76c",
+                         "date":  "2026-09-18T18:50:16-07:00",
+                         "subject":  "Prep R_SVD / R_AWM references + prompts (no credits spent); CLAUDE.md gun v3 learnings",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "help-prop-library",
+                         "sha":  "d91ddf9",
+                         "date":  "2026-09-18T20:24:27-07:00",
+                         "subject":  "Area map + prop importers: T_AreaMap / T_AreaNotes generator and UE import scripts",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "help-weapon-feel",
+                         "sha":  "59c5160",
+                         "date":  "2026-09-18T20:30:24-07:00",
+                         "subject":  "QA tooling: drop committed __pycache__ and ignore it",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "help-world-props",
+                         "sha":  "2e52d24",
+                         "date":  "2026-09-18T20:40:51-07:00",
+                         "subject":  "chore: drop __pycache__ from the branch",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "hub-prep-room",
+                         "sha":  "fc9502c",
+                         "date":  "2026-09-18T21:19:11-07:00",
+                         "subject":  "Hub: drop the unused props.json load; regression logs from the post-merge proofs",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "hud-detail",
+                         "sha":  "f400ff5",
+                         "date":  "2026-09-18T14:06:53-07:00",
+                         "subject":  "HUD detail pass: weapon/vitals/squad/objective panels, compass, hit markers, prompts, vignette (v0.27)",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "hud-followups",
+                         "sha":  "4589cb0",
+                         "date":  "2026-09-18T14:28:44-07:00",
+                         "subject":  "Customizer: weapon card name shrinks to clear the PRIMARY/SECONDARY tag on 720p cards",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "integration-qa",
+                         "sha":  "d4d4e80",
+                         "date":  "2026-09-18T23:20:12-07:00",
+                         "subject":  "Docs/TestStatus.md: 19 PASS / 0 FAIL baseline on master v0.34, clean build",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "level-design",
+                         "sha":  "2048721",
+                         "date":  "2026-09-17T19:41:16-07:00",
+                         "subject":  "Notes: district builder and test switches",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "lighting-afternoon",
+                         "sha":  "6babb29",
+                         "date":  "2026-09-18T14:38:31-07:00",
+                         "subject":  "Lighting: physically plausible Tempe sun (SolarPosition), lamps at solar elevation \u003c 1.5 deg, brighter horizon sun / dimmer moon, sky light day lift + lit lower hemisphere, shadow-side metering (histogram 10/85, bias 0.7); v0.28",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "lighting-fix",
+                         "sha":  "1b77687",
+                         "date":  "2026-09-18T14:14:50-07:00",
+                         "subject":  "v0.27 lighting: single directional light (moon removed, sun doubles as moon), TOD sun/sky/exposure pass, street lamps aimed down in candelas, Test-Lighting.ps1",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "m4-hold",
+                         "sha":  "375be87",
+                         "date":  "2026-09-18T14:51:41-07:00",
+                         "subject":  "Merge master (2x ADS blend speed)",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "m4-ironsights",
+                         "sha":  "467dc05",
+                         "date":  "2026-09-18T14:12:51-07:00",
+                         "subject":  "M4A1 v3: Meshy iron-sight rebuild (optic stripped in Blender, procedural flip-up rear aperture), STRIP/REAR_SIGHT/--profile in build_weapons.py, render_frame.py, MAG box, AdsAlpha snap + sight cam-space log, v0.27",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "main-menu",
+                         "sha":  "e2c1018",
+                         "date":  "2026-09-16T21:02:50-07:00",
+                         "subject":  "Main menu: MainMenu map, TMMenuGameMode/HUD/controller, Tempe backdrop",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "master",
+                         "sha":  "98af4ee",
+                         "date":  "2026-09-22T17:43:38-07:00",
+                         "subject":  "v0.42: quality pass (sight materials, M24 optic, glove density, wounds, ragdoll tuning) - checkpoint of uncommitted work",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "melee-bat-hold",
+                         "sha":  "3420946",
+                         "date":  "2026-09-18T20:19:18-07:00",
+                         "subject":  "preview_hold.py: print the real fist centroids for melee too (no magazine needed)",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "melee-weapons",
+                         "sha":  "7526254",
+                         "date":  "2026-09-17T22:55:59-07:00",
+                         "subject":  "Melee test: frozen target pose + retry loops (deterministic sever / head pop)",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "menu-polish",
+                         "sha":  "a48bf7c",
+                         "date":  "2026-09-18T14:08:15-07:00",
+                         "subject":  "Menu polish: crisp Slate-cached menu text, 20% larger main menu, bigger weapon customizer slot callouts and option popup, resolution scaling (v0.27)",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "pistol-hold",
+                         "sha":  "4c94dcb",
+                         "date":  "2026-09-18T14:01:08-07:00",
+                         "subject":  "Pistol FP hold: analytic elbow pole per hold (P_G17 elbows out-and-down, wrists straight 0.60, fists stacked on the grip), reload mag-out stays in frame; preview_hold prints chain heads in camera cm; v0.27",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "reload-visuals",
+                         "sha":  "1647c36",
+                         "date":  "2026-09-18T20:19:52-07:00",
+                         "subject":  "CLAUDE.md: reload visuals v0.32 (tilt table, beats, mag window, -TMReloadStrip)",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "sfx-foley",
+                         "sha":  "dcaa9f5",
+                         "date":  "2026-09-18T18:57:45-07:00",
+                         "subject":  "sfx: re-imported melee + grenade pin waves from the recorded set",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "sfx-guns",
+                         "sha":  "297d315",
+                         "date":  "2026-09-18T19:02:33-07:00",
+                         "subject":  "Keep the Free Firearm Sound Library master sheet (clip descriptions) with the source manifest",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "sfx-surfaces",
+                         "sha":  "4d64ad9",
+                         "date":  "2026-09-18T21:03:55-07:00",
+                         "subject":  ".gitignore: the *.dec.wav rule needs its comment on its own line",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "sfx-weapon-variety",
+                         "sha":  "367e40b",
+                         "date":  "2026-09-18T20:56:08-07:00",
+                         "subject":  "sfx: download_oga.py no longer re-fetches the FFSL 7z for the 4 unused takes",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "sub2-next",
+                         "sha":  "b78d64e",
+                         "date":  "2026-09-17T20:22:18-07:00",
+                         "subject":  "Squad HUD: career tally moved to the local PlayerState tick (works under nullrhi), server join/rename logs, Test-Coop.ps1 hidden server+client smoke, CLAUDE.md notes",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "weapon-customize",
+                         "sha":  "3410eea",
+                         "date":  "2026-09-17T22:24:28-07:00",
+                         "subject":  "Customize Weapons: status line moved right of the BACK button",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "weapon-poses",
+                         "sha":  "a14d517",
+                         "date":  "2026-09-17T21:45:40-07:00",
+                         "subject":  "Per-weapon hold clips imported (A_Survivor01_{Aim,Reload}_\u003cId\u003e uassets), CLAUDE.md notes on the POSES table, profile measuring and -TMPrimary",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "weapon-preview",
+                         "sha":  "e016aff",
+                         "date":  "2026-09-17T21:31:48-07:00",
+                         "subject":  "Weapon preview studio: ATMWeaponPreview (scene capture RT, real mesh + mag, orbit/zoom/idle turn, slot anchors, DrawTo) + -TMPreviewShot proof on Hub/MainMenu",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "weapon-qa",
+                         "sha":  "2e27303",
+                         "date":  "2026-09-17T21:49:20-07:00",
+                         "subject":  "QA: -TMNoHud / -TMSightBackdrop hooks, Test-Weapons ADS at the horizon against a flat wall, check_ads backdrop classifier (RGB), ring-from-opening and post protrusion scan",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "weapon-recoil",
+                         "sha":  "d572ca0",
+                         "date":  "2026-09-18T20:08:56-07:00",
+                         "subject":  "Untrack Saved/ (logs, screenshots, editor config) on this branch",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "weapon-rig",
+                         "sha":  "17ede97",
+                         "date":  "2026-09-18T19:09:44-07:00",
+                         "subject":  "Weapon rig: re-exported MP5 body after the lever change",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "weapon-rig-v4",
+                         "sha":  "d7e2e01",
+                         "date":  "2026-09-18T19:38:20-07:00",
+                         "subject":  "Weapon rig v4: M4 charging-handle T-bar lowered under the ADS aperture (top y -10.9), CLAUDE.md rig v4 notes",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "weapon-sights",
+                         "sha":  "fd980c9",
+                         "date":  "2026-09-17T22:28:00-07:00",
+                         "subject":  "G17 sight picture: aim over the notch ears; 870 muzzle bead window; CLAUDE.md notes on the weapon mesh frame",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "weapon-stats",
+                         "sha":  "c9ff8bd",
+                         "date":  "2026-09-17T21:03:18-07:00",
+                         "subject":  "Weapon stat model: UTMWeaponStats bars/deltas + -TMStatsTest",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "zombie-density",
+                         "sha":  "0b93b1a",
+                         "date":  "2026-09-18T20:10:22-07:00",
+                         "subject":  "CLAUDE.md: v0.32 infected density notes (helpers, counts, caps, measurements)",
+                         "ahead":  0,
+                         "merged":  true
+                     }
+                 ],
+    "worktrees":  [
+                      {
+                          "folder":  "TempeMassacre",
+                          "branch":  "fp-hands-v2",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-ars",
+                          "branch":  "guns-ars",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-audio-ambience",
+                          "branch":  "audio-ambience",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-audio-weapons",
+                          "branch":  "audio-weapons",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-audio-zombies",
+                          "branch":  "audio-zombies",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-audiofix",
+                          "branch":  "audio-fix",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-barricades",
+                          "branch":  "barricades",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-coop",
+                          "branch":  "coop-lobby",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-customize",
+                          "branch":  "weapon-customize",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-district",
+                          "branch":  "district-expand",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-flash",
+                          "branch":  "flashlight-fix",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-fpmotion",
+                          "branch":  "fp-motion",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-guns2",
+                          "branch":  "m4-ironsights",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-guns3",
+                          "branch":  "guns-v3-a",
+                          "dirty":  4
+                      },
+                      {
+                          "folder":  "TempeMassacre-hands7",
+                          "branch":  "fp-hands",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-help-feel",
+                          "branch":  "help-weapon-feel",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-help-props",
+                          "branch":  "help-prop-library",
+                          "dirty":  1
+                      },
+                      {
+                          "folder":  "TempeMassacre-help-world",
+                          "branch":  "help-world-props",
+                          "dirty":  6
+                      },
+                      {
+                          "folder":  "TempeMassacre-hub",
+                          "branch":  "hub-prep-room",
+                          "dirty":  6
+                      },
+                      {
+                          "folder":  "TempeMassacre-hud2",
+                          "branch":  "hud-detail",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-hud3",
+                          "branch":  "hud-followups",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-level",
+                          "branch":  "level-design",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-light",
+                          "branch":  "lighting-fix",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-light2",
+                          "branch":  "lighting-afternoon",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-m4hold",
+                          "branch":  "m4-hold",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-melee",
+                          "branch":  "melee-weapons",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-melee2",
+                          "branch":  "melee-bat-hold",
+                          "dirty":  6
+                      },
+                      {
+                          "folder":  "TempeMassacre-menu",
+                          "branch":  "main-menu",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-menu2",
+                          "branch":  "menu-polish",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-models",
+                          "branch":  "gun-models",
+                          "dirty":  1
+                      },
+                      {
+                          "folder":  "TempeMassacre-models2",
+                          "branch":  "guns-v3-b",
+                          "dirty":  4
+                      },
+                      {
+                          "folder":  "TempeMassacre-pistol",
+                          "branch":  "pistol-hold",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-pistols",
+                          "branch":  "guns-pistols",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-poses",
+                          "branch":  "weapon-poses",
+                          "dirty":  1
+                      },
+                      {
+                          "folder":  "TempeMassacre-preview",
+                          "branch":  "weapon-preview",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-qa",
+                          "branch":  "weapon-qa",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-qa2",
+                          "branch":  "integration-qa",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-recoil",
+                          "branch":  "weapon-recoil",
+                          "dirty":  3
+                      },
+                      {
+                          "folder":  "TempeMassacre-reload",
+                          "branch":  "reload-visuals",
+                          "dirty":  8
+                      },
+                      {
+                          "folder":  "TempeMassacre-rig",
+                          "branch":  "weapon-rig",
+                          "dirty":  13
+                      },
+                      {
+                          "folder":  "TempeMassacre-rig2",
+                          "branch":  "weapon-rig-v4",
+                          "dirty":  49
+                      },
+                      {
+                          "folder":  "TempeMassacre-sfx-foley",
+                          "branch":  "sfx-foley",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-sfx-guns",
+                          "branch":  "sfx-guns",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-sfxf2",
+                          "branch":  "sfx-surfaces",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-sfxg2",
+                          "branch":  "sfx-weapon-variety",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-shotguns",
+                          "branch":  "guns-shotguns",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-sights",
+                          "branch":  "weapon-sights",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-smgs",
+                          "branch":  "guns-smgs",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-stats",
+                          "branch":  "weapon-stats",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-sub2",
+                          "branch":  "sub2-next",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "TempeMassacre-zombies",
+                          "branch":  "zombie-density",
+                          "dirty":  4
+                      }
+                  ],
+    "commits":  [
+                    {
+                        "sha":  "480cd04",
+                        "date":  "2026-09-26T15:03:09-07:00",
+                        "refs":  "HEAD -\u003e fp-hands-v2",
+                        "subject":  "v0.58: AK-47 playable - per-weapon hold, reload and view-model tables"
+                    },
+                    {
+                        "sha":  "fd3b02a",
+                        "date":  "2026-09-26T14:50:22-07:00",
+                        "refs":  "",
+                        "subject":  "v0.57: procedural AK-47 (A_AK47) built from a reference photo, imported as SM_A_AK47"
+                    },
+                    {
+                        "sha":  "0cfcb48",
+                        "date":  "2026-09-23T22:14:44-07:00",
+                        "refs":  "",
+                        "subject":  "v0.56: fix two crashes - GC\u0027d weapon sound in delayed audio beats, and reload/death timers firing on destroyed actors"
+                    },
+                    {
+                        "sha":  "30821d1",
+                        "date":  "2026-09-23T22:07:12-07:00",
+                        "refs":  "",
+                        "subject":  "v0.55: triple birdshot pellet hole size"
+                    },
+                    {
+                        "sha":  "5817956",
+                        "date":  "2026-09-23T22:03:51-07:00",
+                        "refs":  "",
+                        "subject":  "v0.53 night lighting (sodium/LED/halide street lamps, lenses, shadow budget, volumetric haze, skyglow, dusk fix) + v0.54 shotgun ammo (birdshot 140 pellets default, buckshot)"
+                    },
+                    {
+                        "sha":  "70e0a97",
+                        "date":  "2026-09-23T21:24:11-07:00",
+                        "refs":  "",
+                        "subject":  "v0.52: gunfire breaks district props, 2.5x bullet destruction on walls/doors, 2x bullet hole size"
+                    },
+                    {
+                        "sha":  "7f838cf",
+                        "date":  "2026-09-23T21:10:48-07:00",
+                        "refs":  "",
+                        "subject":  "v0.51: bullet holes on every surface - per-pellet impacts multicast, surface-matched decals (concrete/metal/wood/glass/soft/flesh), bone-following holes on characters, caps; -TMHoleTest / Test-Holes.ps1"
+                    },
+                    {
+                        "sha":  "6fec3aa",
+                        "date":  "2026-09-23T20:32:59-07:00",
+                        "refs":  "",
+                        "subject":  "v0.50: Remington 870 damage doubled again (46 per pellet)"
+                    },
+                    {
+                        "sha":  "78e2c9b",
+                        "date":  "2026-09-23T20:30:57-07:00",
+                        "refs":  "",
+                        "subject":  "v0.49: 870 support hand remade from the reference photo (palm under the pump, fingers wrap its far side, thumb along the near side, forearm under the gun); contact test confirms \u0027inside\u0027 by ray parity"
+                    },
+                    {
+                        "sha":  "ff0e1ad",
+                        "date":  "2026-09-23T20:23:18-07:00",
+                        "refs":  "",
+                        "subject":  "v0.48: 870 damage doubled (23 per pellet); 870 support thumb tucked under the pump"
+                    },
+                    {
+                        "sha":  "b921b7d",
+                        "date":  "2026-09-23T20:17:49-07:00",
+                        "refs":  "",
+                        "subject":  "v0.47: save prompt redesigned as a centred modal; 870 strong thumb wraps the stock wrist, support fingers all wrap the pump, index curled; 870 spread 5-\u003e7 deg, damage 10-\u003e11.5 per pellet"
+                    },
+                    {
+                        "sha":  "0bf8f30",
+                        "date":  "2026-09-23T20:05:02-07:00",
+                        "refs":  "",
+                        "subject":  "v0.46: G17 customize preview opens 3 wheel-clicks zoomed out; control-hint text removed from Customize Weapons and the Main Menu"
+                    },
+                    {
+                        "sha":  "f012cd3",
+                        "date":  "2026-09-23T19:58:52-07:00",
+                        "refs":  "",
+                        "subject":  "v0.45: Customize Weapons redesign - category/weapon list on the left, large 3D preview with last-picked hover, \u003c Back top left, stats hidden (kept in code)"
+                    },
+                    {
+                        "sha":  "b27e193",
+                        "date":  "2026-09-22T20:47:07-07:00",
+                        "refs":  "",
+                        "subject":  "v0.44: straighter wrists (auto out-of-view elbows), M4 support hand snug under the handguard, G17 strong thumb wraps the grip, bat grip redone (per-hand roll + diagonal grip, thumbs wrapped)"
+                    },
+                    {
+                        "sha":  "f99d484",
+                        "date":  "2026-09-22T18:46:17-07:00",
+                        "refs":  "",
+                        "subject":  "v0.43: articulated FP glove hands, jacket sleeves and contact-solved grips for all guns and the bat"
+                    },
+                    {
+                        "sha":  "98af4ee",
+                        "date":  "2026-09-22T17:43:38-07:00",
+                        "refs":  "master",
+                        "subject":  "v0.42: quality pass (sight materials, M24 optic, glove density, wounds, ragdoll tuning) - checkpoint of uncommitted work"
+                    },
+                    {
+                        "sha":  "a24c961",
+                        "date":  "2026-09-20T11:32:10-07:00",
+                        "refs":  "",
+                        "subject":  "v0.41d: MP5 support hand is a flat palm under the gun, with no fingers visible"
+                    },
+                    {
+                        "sha":  "864e79b",
+                        "date":  "2026-09-20T11:21:04-07:00",
+                        "refs":  "",
+                        "subject":  "v0.41c: MP5 support hand drops below the gun body so no fingers show through it"
+                    },
+                    {
+                        "sha":  "5faa9bf",
+                        "date":  "2026-09-20T11:08:41-07:00",
+                        "refs":  "",
+                        "subject":  "v0.41b: MP5 support hand wraps the handguard, as high as the sight line allows"
+                    },
+                    {
+                        "sha":  "b8d2cd2",
+                        "date":  "2026-09-20T10:53:03-07:00",
+                        "refs":  "",
+                        "subject":  "Record what check_ads.py cannot judge, and correct the v0.41 verification claim"
+                    },
+                    {
+                        "sha":  "6cff9ee",
+                        "date":  "2026-09-20T10:51:13-07:00",
+                        "refs":  "",
+                        "subject":  "v0.41: MP5 sights rebuilt, stock out of the ADS frame, support hand cups the handguard; weapon rig playbook"
+                    },
+                    {
+                        "sha":  "24fea2f",
+                        "date":  "2026-09-20T10:25:56-07:00",
+                        "refs":  "",
+                        "subject":  "v0.40: menu rows are measured from their label and scale with the font"
+                    },
+                    {
+                        "sha":  "b769f47",
+                        "date":  "2026-09-19T17:47:42-07:00",
+                        "refs":  "",
+                        "subject":  "v0.39: shelf items sit on the boards; the in-game menu highlights and clicks on mouse-over"
+                    },
+                    {
+                        "sha":  "5ce2c9e",
+                        "date":  "2026-09-19T17:29:35-07:00",
+                        "refs":  "",
+                        "subject":  "v0.38: recoil rewrite - the sights climb with the group, smoothly, at 40% of the old size"
+                    },
+                    {
+                        "sha":  "f254eff",
+                        "date":  "2026-09-19T13:46:10-07:00",
+                        "refs":  "",
+                        "subject":  "v0.37: straight strong-side wrist and flipped support hand on the two-handed melee holds"
+                    },
+                    {
+                        "sha":  "b42f4cf",
+                        "date":  "2026-09-19T12:57:34-07:00",
+                        "refs":  "",
+                        "subject":  "v0.36: authored iron sights (M4 ring + blade, G17 notch), grip-hand follow-ups, natural melee holds"
+                    },
+                    {
+                        "sha":  "b52a01a",
+                        "date":  "2026-09-19T10:14:16-07:00",
+                        "refs":  "",
+                        "subject":  "v0.35: FP weapon lighting in the hub, floating prep-room props, M4A1 iron sights + ADS eye relief, M4A1 burst shot clip, closed grip hands"
+                    },
+                    {
+                        "sha":  "f01ca57",
+                        "date":  "2026-09-18T23:21:30-07:00",
+                        "refs":  "",
+                        "subject":  "Merge branch \u0027integration-qa\u0027"
+                    },
+                    {
+                        "sha":  "536cf25",
+                        "date":  "2026-09-18T23:21:23-07:00",
+                        "refs":  "",
+                        "subject":  "Untrack Binaries, Intermediate and Saved for good; they carried absolute paths from other worktrees and made this checkout compile another lane\u0027s sources"
+                    },
+                    {
+                        "sha":  "d4d4e80",
+                        "date":  "2026-09-18T23:20:12-07:00",
+                        "refs":  "integration-qa",
+                        "subject":  "Docs/TestStatus.md: 19 PASS / 0 FAIL baseline on master v0.34, clean build"
+                    },
+                    {
+                        "sha":  "6e1bda3",
+                        "date":  "2026-09-18T22:29:18-07:00",
+                        "refs":  "",
+                        "subject":  "Docs/TestStatus.md: write up the cross-worktree build trap"
+                    },
+                    {
+                        "sha":  "4fa9283",
+                        "date":  "2026-09-18T22:28:50-07:00",
+                        "refs":  "",
+                        "subject":  "Untrack Intermediate/Binaries/Saved - they were shipping other worktrees\u0027 builds"
+                    },
+                    {
+                        "sha":  "3cad336",
+                        "date":  "2026-09-18T21:35:38-07:00",
+                        "refs":  "",
+                        "subject":  "Test-All: gate on switch presence, not on file mtimes"
+                    },
+                    {
+                        "sha":  "1f6d616",
+                        "date":  "2026-09-18T21:32:48-07:00",
+                        "refs":  "",
+                        "subject":  "Merge master (v0.34, -nosplash everywhere, hub prep room) into integration-qa"
+                    },
+                    {
+                        "sha":  "27c2593",
+                        "date":  "2026-09-18T21:21:23-07:00",
+                        "refs":  "",
+                        "subject":  "Tests never flash a window: -nosplash on every UE launch"
+                    },
+                    {
+                        "sha":  "15fc07e",
+                        "date":  "2026-09-18T21:20:23-07:00",
+                        "refs":  "",
+                        "subject":  "Merge branch \u0027hub-prep-room\u0027 (prep area: weapon benches with labels, ammo crates, district maps, survival gear, work lighting); Env materials kept from master pending one regeneration pass"
+                    },
+                    {
+                        "sha":  "fc9502c",
+                        "date":  "2026-09-18T21:19:11-07:00",
+                        "refs":  "hub-prep-room",
+                        "subject":  "Hub: drop the unused props.json load; regression logs from the post-merge proofs"
+                    },
+                    {
+                        "sha":  "8d61a0e",
+                        "date":  "2026-09-18T21:17:21-07:00",
+                        "refs":  "",
+                        "subject":  "Recoil test \"regression\" was a stale module DLL, not the district or density"
+                    },
+                    {
+                        "sha":  "d3bc33e",
+                        "date":  "2026-09-18T21:14:48-07:00",
+                        "refs":  "",
+                        "subject":  "Fix the version header left with conflict markers by the merge"
+                    },
+                    {
+                        "sha":  "d58aade",
+                        "date":  "2026-09-18T21:14:34-07:00",
+                        "refs":  "",
+                        "subject":  "Merge branch \u0027sfx-surfaces\u0027 (surface tagging kit and audit, outskirts ambience emitters, doubled infected voice pools); v0.34"
+                    }
+                ],
+    "generatedAt":  "2026-09-26T15:45:43.5039420-07:00"
+}
