@@ -114,6 +114,14 @@
                          "merged":  false
                      },
                      {
+                         "name":  "guns-procedural",
+                         "sha":  "a371f41",
+                         "date":  "2026-09-26T16:54:14-07:00",
+                         "subject":  "Merge branch \u0027worktree-agent-a7f3968d337988089\u0027 into guns-procedural",
+                         "ahead":  25,
+                         "merged":  false
+                     },
+                     {
                          "name":  "guns-shotguns",
                          "sha":  "985b4ce",
                          "date":  "2026-09-18T18:39:08-07:00",
@@ -410,6 +418,46 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-a4f5afbe80c6112a2",
+                         "sha":  "a6a89b7",
+                         "date":  "2026-09-26T16:46:31-07:00",
+                         "subject":  "P_M9: procedural Beretta M9 model from reference photo",
+                         "ahead":  16,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-a5117d9b03b482d74",
+                         "sha":  "f21fe3a",
+                         "date":  "2026-09-26T16:50:31-07:00",
+                         "subject":  "P_1911: procedural Colt M1911A1 model from reference photo",
+                         "ahead":  16,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-a7f3968d337988089",
+                         "sha":  "95cdbe4",
+                         "date":  "2026-09-26T16:53:40-07:00",
+                         "subject":  "G_M1014: procedural Benelli M4 model from reference photo",
+                         "ahead":  16,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-ac1eb0697f855df5c",
+                         "sha":  "b6a7131",
+                         "date":  "2026-09-26T16:48:40-07:00",
+                         "subject":  "R_SR25: procedural KAC SR-25 model from reference photo",
+                         "ahead":  16,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-acb72df481d7c8c3d",
+                         "sha":  "02d94db",
+                         "date":  "2026-09-26T16:54:54-07:00",
+                         "subject":  "status 98af4ee 2026-09-26T16:54:54",
+                         "ahead":  18,
+                         "merged":  false
+                     },
+                     {
                          "name":  "zombie-density",
                          "sha":  "0b93b1a",
                          "date":  "2026-09-18T20:10:22-07:00",
@@ -421,8 +469,33 @@
     "worktrees":  [
                       {
                           "folder":  "TempeMassacre",
-                          "branch":  "fp-hands-v2",
+                          "branch":  "guns-procedural",
+                          "dirty":  18
+                      },
+                      {
+                          "folder":  "agent-a4f5afbe80c6112a2",
+                          "branch":  "worktree-agent-a4f5afbe80c6112a2",
                           "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-a5117d9b03b482d74",
+                          "branch":  "worktree-agent-a5117d9b03b482d74",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-a7f3968d337988089",
+                          "branch":  "worktree-agent-a7f3968d337988089",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-ac1eb0697f855df5c",
+                          "branch":  "worktree-agent-ac1eb0697f855df5c",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-acb72df481d7c8c3d",
+                          "branch":  "worktree-agent-acb72df481d7c8c3d",
+                          "dirty":  1
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -677,9 +750,81 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "02d94db",
+                        "date":  "2026-09-26T16:54:54-07:00",
+                        "refs":  "worktree-agent-acb72df481d7c8c3d",
+                        "subject":  "status 98af4ee 2026-09-26T16:54:54"
+                    },
+                    {
+                        "sha":  "a371f41",
+                        "date":  "2026-09-26T16:54:14-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge branch \u0027worktree-agent-a7f3968d337988089\u0027 into guns-procedural"
+                    },
+                    {
+                        "sha":  "55c03cb",
+                        "date":  "2026-09-26T16:54:13-07:00",
+                        "refs":  "",
+                        "subject":  "Merge branch \u0027worktree-agent-a5117d9b03b482d74\u0027 into guns-procedural"
+                    },
+                    {
+                        "sha":  "d549d1b",
+                        "date":  "2026-09-26T16:53:53-07:00",
+                        "refs":  "",
+                        "subject":  "Import procedural P_M9, S_UMP45, R_SR25 into UE; M9/UMP45 hold poses"
+                    },
+                    {
+                        "sha":  "95cdbe4",
+                        "date":  "2026-09-26T16:53:40-07:00",
+                        "refs":  "worktree-agent-a7f3968d337988089",
+                        "subject":  "G_M1014: procedural Benelli M4 model from reference photo"
+                    },
+                    {
+                        "sha":  "f21fe3a",
+                        "date":  "2026-09-26T16:50:31-07:00",
+                        "refs":  "worktree-agent-a5117d9b03b482d74",
+                        "subject":  "P_1911: procedural Colt M1911A1 model from reference photo"
+                    },
+                    {
+                        "sha":  "2b65795",
+                        "date":  "2026-09-26T16:50:02-07:00",
+                        "refs":  "",
+                        "subject":  "status 98af4ee 2026-09-26T16:50:02"
+                    },
+                    {
+                        "sha":  "28f8aa6",
+                        "date":  "2026-09-26T16:49:56-07:00",
+                        "refs":  "",
+                        "subject":  "Merge branch \u0027worktree-agent-ac1eb0697f855df5c\u0027 into guns-procedural"
+                    },
+                    {
+                        "sha":  "b6a7131",
+                        "date":  "2026-09-26T16:48:40-07:00",
+                        "refs":  "worktree-agent-ac1eb0697f855df5c",
+                        "subject":  "R_SR25: procedural KAC SR-25 model from reference photo"
+                    },
+                    {
+                        "sha":  "60d74ba",
+                        "date":  "2026-09-26T16:47:11-07:00",
+                        "refs":  "",
+                        "subject":  "Merge branch \u0027worktree-agent-a4f5afbe80c6112a2\u0027 into guns-procedural"
+                    },
+                    {
+                        "sha":  "a6a89b7",
+                        "date":  "2026-09-26T16:46:31-07:00",
+                        "refs":  "worktree-agent-a4f5afbe80c6112a2",
+                        "subject":  "P_M9: procedural Beretta M9 model from reference photo"
+                    },
+                    {
+                        "sha":  "5c5906a",
+                        "date":  "2026-09-26T16:41:18-07:00",
+                        "refs":  "",
+                        "subject":  "S_UMP45: procedural H\u0026K UMP45 model from reference photo"
+                    },
+                    {
                         "sha":  "480cd04",
                         "date":  "2026-09-26T15:03:09-07:00",
-                        "refs":  "HEAD -\u003e fp-hands-v2",
+                        "refs":  "fp-hands-v2",
                         "subject":  "v0.58: AK-47 playable - per-weapon hold, reload and view-model tables"
                     },
                     {
@@ -843,79 +988,7 @@
                         "date":  "2026-09-18T23:21:30-07:00",
                         "refs":  "",
                         "subject":  "Merge branch \u0027integration-qa\u0027"
-                    },
-                    {
-                        "sha":  "536cf25",
-                        "date":  "2026-09-18T23:21:23-07:00",
-                        "refs":  "",
-                        "subject":  "Untrack Binaries, Intermediate and Saved for good; they carried absolute paths from other worktrees and made this checkout compile another lane\u0027s sources"
-                    },
-                    {
-                        "sha":  "d4d4e80",
-                        "date":  "2026-09-18T23:20:12-07:00",
-                        "refs":  "integration-qa",
-                        "subject":  "Docs/TestStatus.md: 19 PASS / 0 FAIL baseline on master v0.34, clean build"
-                    },
-                    {
-                        "sha":  "6e1bda3",
-                        "date":  "2026-09-18T22:29:18-07:00",
-                        "refs":  "",
-                        "subject":  "Docs/TestStatus.md: write up the cross-worktree build trap"
-                    },
-                    {
-                        "sha":  "4fa9283",
-                        "date":  "2026-09-18T22:28:50-07:00",
-                        "refs":  "",
-                        "subject":  "Untrack Intermediate/Binaries/Saved - they were shipping other worktrees\u0027 builds"
-                    },
-                    {
-                        "sha":  "3cad336",
-                        "date":  "2026-09-18T21:35:38-07:00",
-                        "refs":  "",
-                        "subject":  "Test-All: gate on switch presence, not on file mtimes"
-                    },
-                    {
-                        "sha":  "1f6d616",
-                        "date":  "2026-09-18T21:32:48-07:00",
-                        "refs":  "",
-                        "subject":  "Merge master (v0.34, -nosplash everywhere, hub prep room) into integration-qa"
-                    },
-                    {
-                        "sha":  "27c2593",
-                        "date":  "2026-09-18T21:21:23-07:00",
-                        "refs":  "",
-                        "subject":  "Tests never flash a window: -nosplash on every UE launch"
-                    },
-                    {
-                        "sha":  "15fc07e",
-                        "date":  "2026-09-18T21:20:23-07:00",
-                        "refs":  "",
-                        "subject":  "Merge branch \u0027hub-prep-room\u0027 (prep area: weapon benches with labels, ammo crates, district maps, survival gear, work lighting); Env materials kept from master pending one regeneration pass"
-                    },
-                    {
-                        "sha":  "fc9502c",
-                        "date":  "2026-09-18T21:19:11-07:00",
-                        "refs":  "hub-prep-room",
-                        "subject":  "Hub: drop the unused props.json load; regression logs from the post-merge proofs"
-                    },
-                    {
-                        "sha":  "8d61a0e",
-                        "date":  "2026-09-18T21:17:21-07:00",
-                        "refs":  "",
-                        "subject":  "Recoil test \"regression\" was a stale module DLL, not the district or density"
-                    },
-                    {
-                        "sha":  "d3bc33e",
-                        "date":  "2026-09-18T21:14:48-07:00",
-                        "refs":  "",
-                        "subject":  "Fix the version header left with conflict markers by the merge"
-                    },
-                    {
-                        "sha":  "d58aade",
-                        "date":  "2026-09-18T21:14:34-07:00",
-                        "refs":  "",
-                        "subject":  "Merge branch \u0027sfx-surfaces\u0027 (surface tagging kit and audit, outskirts ambience emitters, doubled infected voice pools); v0.34"
                     }
                 ],
-    "generatedAt":  "2026-09-26T15:48:16.5623024-07:00"
+    "generatedAt":  "2026-09-26T16:55:44.7593653-07:00"
 }
