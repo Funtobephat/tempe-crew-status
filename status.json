@@ -771,7 +771,7 @@
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  0
+                          "dirty":  114
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1036,6 +1036,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "12541fa",
+                        "date":  "2026-09-27T10:49:16-07:00",
+                        "refs":  "worktree-agent-a1bccf2e41869cb3f",
+                        "subject":  "A_AK47 sight picture: wide clean rear notch, post level with the shoulders, check_ads PASS"
+                    },
+                    {
                         "sha":  "4f13cfd",
                         "date":  "2026-09-27T10:46:45-07:00",
                         "refs":  "worktree-agent-aebb56d563c8fd45f",
@@ -1128,7 +1134,7 @@
                     {
                         "sha":  "a7e8f56",
                         "date":  "2026-09-27T10:34:35-07:00",
-                        "refs":  "worktree-agent-a1bccf2e41869cb3f",
+                        "refs":  "",
                         "subject":  "QA: check_ads.py judges every sight style (ring/hooded/notch/bead/scope), SKIP instead of false FAIL"
                     },
                     {
@@ -1268,13 +1274,7 @@
                         "date":  "2026-09-26T23:17:59-07:00",
                         "refs":  "",
                         "subject":  "Gore WIP: TMGoreFX subsystem (exit spray, landing splatter, spurts, pools), blood atlas + materials, -TMGoreShot proof"
-                    },
-                    {
-                        "sha":  "eeeeed7",
-                        "date":  "2026-09-26T23:17:56-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 6: grenades 3x radius + procedural explosion FX (fireball, smoke column, shockwave, embers, flash, camera shake)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:48:31.6078521-07:00"
+    "generatedAt":  "2026-09-27T10:49:48.8108336-07:00"
 }
