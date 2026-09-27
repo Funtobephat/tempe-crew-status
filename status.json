@@ -1,5 +1,5 @@
 {
-    "master":  "2ea648f",
+    "master":  "a850155",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "2ea648f",
-                         "date":  "2026-09-27T11:06:59-07:00",
-                         "subject":  "CLAUDE.md: crew board page freshness notes",
+                         "sha":  "a850155",
+                         "date":  "2026-09-27T11:11:21-07:00",
+                         "subject":  "v0.89: Sub-agent 1 pistol support hand + M9/1911 sights integrated; crew board progress notes",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T11:07:03.9627195-07:00"
+                          "active":  "2026-09-27T11:11:21.1391008-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "a850155",
+                        "date":  "2026-09-27T11:11:21-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.89: Sub-agent 1 pistol support hand + M9/1911 sights integrated; crew board progress notes"
+                    },
+                    {
                         "sha":  "2ea648f",
                         "date":  "2026-09-27T11:06:59-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "CLAUDE.md: crew board page freshness notes"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T09:52:09-07:00",
                         "refs":  "",
                         "subject":  "v0.84: M4 ADS to reference (folded rear, ringed front tower, 15.5 cm eye relief); compact main menu; campaign map You Are Here"
-                    },
-                    {
-                        "sha":  "0ed487b",
-                        "date":  "2026-09-27T09:24:34-07:00",
-                        "refs":  "",
-                        "subject":  "v0.83: M4A1 ADS keeps stock-on eye relief (ads_clear) - no more near-plane clipping"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:10:57.2723357-07:00"
+    "generatedAt":  "2026-09-27T11:11:21.7059604-07:00"
 }
