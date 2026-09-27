@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  118,
-                          "active":  "2026-09-27T13:11:15.0956938-07:00"
+                          "active":  "2026-09-27T13:15:24.5958667-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -780,7 +780,7 @@
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
                           "dirty":  12,
-                          "active":  "2026-09-27T13:10:48.8145074-07:00"
+                          "active":  "2026-09-27T13:15:12.1296666-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1355,5 +1355,5 @@
                         "subject":  "Car sections: cars are shot apart panel by panel (13 sections + indestructible core) instead of crushed flat"
                     }
                 ],
-    "generatedAt":  "2026-09-27T13:11:14.8644664-07:00"
+    "generatedAt":  "2026-09-27T13:15:24.1659531-07:00"
 }
