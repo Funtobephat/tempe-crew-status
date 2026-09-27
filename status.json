@@ -654,7 +654,7 @@
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
                           "dirty":  30,
-                          "active":  "2026-09-27T11:53:23.8107110-07:00"
+                          "active":  "2026-09-27T11:54:14.6037345-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -797,8 +797,8 @@
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  356,
-                          "active":  "2026-09-27T11:53:25.3039528-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1115,6 +1115,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "08a7a7f",
+                        "date":  "2026-09-27T11:54:24-07:00",
+                        "refs":  "worktree-agent-aebb56d563c8fd45f",
+                        "subject":  "Car glass shatters, tyres deflate and the car leans, shot-off panels are launched; car events replicated for late joiners"
+                    },
+                    {
                         "sha":  "1cbb0c9",
                         "date":  "2026-09-27T11:52:00-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1141,7 +1147,7 @@
                     {
                         "sha":  "922ecf5",
                         "date":  "2026-09-27T11:15:18-07:00",
-                        "refs":  "worktree-agent-aebb56d563c8fd45f, worktree-agent-a00e40f662f518017",
+                        "refs":  "worktree-agent-a00e40f662f518017",
                         "subject":  "CLAUDE.md: crew board drops the bar for finished lanes"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:34:35-07:00",
                         "refs":  "",
                         "subject":  "QA: check_ads.py judges every sight style (ring/hooded/notch/bead/scope), SKIP instead of false FAIL"
-                    },
-                    {
-                        "sha":  "099f0f6",
-                        "date":  "2026-09-27T10:22:53-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 3: M4 charging handle rebuilt as a dark rounded AR T-handle"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:53:24.2603137-07:00"
+    "generatedAt":  "2026-09-27T11:54:24.0342278-07:00"
 }
