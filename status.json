@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "bc0da15",
-                         "date":  "2026-09-26T20:04:34-07:00",
-                         "subject":  "Untrack Python bytecode caches",
-                         "ahead":  46,
+                         "sha":  "413babd",
+                         "date":  "2026-09-26T20:16:20-07:00",
+                         "subject":  "Merge Sub-agent 5: night soundscape replaces music, recorded infected voices/gore, space reverb, level-matched sets",
+                         "ahead":  51,
                          "merged":  false
                      },
                      {
@@ -590,7 +590,7 @@
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
-                          "dirty":  2
+                          "dirty":  3
                       },
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
@@ -1120,5 +1120,5 @@
                         "subject":  "Merge branch \u0027worktree-agent-adbcc631b9a256947\u0027 into guns-procedural"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:16:30.8035603-07:00"
+    "generatedAt":  "2026-09-26T20:16:59.6846971-07:00"
 }
