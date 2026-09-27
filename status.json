@@ -654,7 +654,7 @@
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
                           "dirty":  30,
-                          "active":  "2026-09-27T11:52:24.8056968-07:00"
+                          "active":  "2026-09-27T11:53:23.8107110-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -798,7 +798,7 @@
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
                           "dirty":  356,
-                          "active":  "2026-09-27T11:52:24.9790249-07:00"
+                          "active":  "2026-09-27T11:53:25.3039528-07:00"
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1355,5 +1355,5 @@
                         "subject":  "Merge Sub-agent 3: M4 charging handle rebuilt as a dark rounded AR T-handle"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:52:24.4318080-07:00"
+    "generatedAt":  "2026-09-27T11:53:24.2603137-07:00"
 }
