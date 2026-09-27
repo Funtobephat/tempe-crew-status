@@ -419,10 +419,10 @@
                      },
                      {
                          "name":  "worktree-agent-a00e40f662f518017",
-                         "sha":  "b2f6b7f",
-                         "date":  "2026-09-27T10:41:24-07:00",
-                         "subject":  "Pistol support hand grips the gun (G17/M9/1911 shared hold)",
-                         "ahead":  119,
+                         "sha":  "944bc6f",
+                         "date":  "2026-09-27T10:41:37-07:00",
+                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a00e40f662f518017",
+                         "ahead":  129,
                          "merged":  false
                      },
                      {
@@ -651,7 +651,7 @@
                       {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
-                          "dirty":  25
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -671,7 +671,7 @@
                       {
                           "folder":  "agent-a1bccf2e41869cb3f",
                           "branch":  "worktree-agent-a1bccf2e41869cb3f",
-                          "dirty":  21
+                          "dirty":  24
                       },
                       {
                           "folder":  "agent-a1e4d716b9b161880",
@@ -711,7 +711,7 @@
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
                           "branch":  "worktree-agent-a7e1db2966d2992d3",
-                          "dirty":  0
+                          "dirty":  13
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -1276,5 +1276,5 @@
                         "subject":  "Merge Sub-agent 1: mobile homes + water tower remodelled with the building kit"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:42:35.5496237-07:00"
+    "generatedAt":  "2026-09-27T10:44:51.2612818-07:00"
 }
