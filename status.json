@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "e8529e5",
-                         "date":  "2026-09-26T20:52:59-07:00",
-                         "subject":  "CLAUDE.md: commit automatically after each change",
-                         "ahead":  65,
+                         "sha":  "736f283",
+                         "date":  "2026-09-26T20:55:48-07:00",
+                         "subject":  "Merge Sub-agent 3: physics asset built into an empty asset (20 bodies every import)",
+                         "ahead":  71,
                          "merged":  false
                      },
                      {
@@ -550,7 +550,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  226
+                          "dirty":  1
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1120,5 +1120,5 @@
                         "subject":  "status 98af4ee 2026-09-26T19:06:36"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:55:57.3473874-07:00"
+    "generatedAt":  "2026-09-26T20:56:20.2516114-07:00"
 }
