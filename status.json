@@ -1,5 +1,5 @@
 {
-    "master":  "c335bbd",
+    "master":  "1cbb0c9",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "c335bbd",
-                         "date":  "2026-09-27T11:39:56-07:00",
-                         "subject":  "v0.90: ESC pause in solo + Ready row removed (Sub-agent 3)",
+                         "sha":  "1cbb0c9",
+                         "date":  "2026-09-27T11:52:00-07:00",
+                         "subject":  "CLAUDE.md: crew board activity includes test logs",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -654,7 +654,7 @@
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
                           "dirty":  30,
-                          "active":  "2026-09-27T11:51:51.6618151-07:00"
+                          "active":  "2026-09-27T11:52:10.0257683-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -798,7 +798,7 @@
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
                           "dirty":  356,
-                          "active":  "2026-09-27T11:51:52.3466896-07:00"
+                          "active":  "2026-09-27T11:52:11.6319902-07:00"
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "1cbb0c9",
+                        "date":  "2026-09-27T11:52:00-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "CLAUDE.md: crew board activity includes test logs"
+                    },
+                    {
                         "sha":  "c335bbd",
                         "date":  "2026-09-27T11:39:56-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.90: ESC pause in solo + Ready row removed (Sub-agent 3)"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:22:53-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 3: M4 charging handle rebuilt as a dark rounded AR T-handle"
-                    },
-                    {
-                        "sha":  "d701f2b",
-                        "date":  "2026-09-27T10:22:29-07:00",
-                        "refs":  "",
-                        "subject":  "M4 charging handle: rounded AR-15 T-handle with latch paddle in the dark sight-metal finish"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:51:51.2281278-07:00"
+    "generatedAt":  "2026-09-27T11:52:02.8512588-07:00"
 }
