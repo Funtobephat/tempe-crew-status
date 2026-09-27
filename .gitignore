@@ -2,3 +2,5 @@
 .rerun
 .last-body.json
 update.log
+.branch-cache.json
+.dirty-cache.json
