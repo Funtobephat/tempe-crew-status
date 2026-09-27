@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "44d14d3",
-                         "date":  "2026-09-26T21:40:06-07:00",
-                         "subject":  "v0.69: hub chairs moved off the range walkway; hub build no longer clobbers kit-owned facade materials",
-                         "ahead":  77,
+                         "sha":  "ac79831",
+                         "date":  "2026-09-26T22:05:31-07:00",
+                         "subject":  "v0.70: M4 stock hidden while aiming down sights",
+                         "ahead":  78,
                          "merged":  false
                      },
                      {
@@ -550,7 +550,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1
+                          "dirty":  2
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -880,9 +880,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "ac79831",
+                        "date":  "2026-09-26T22:05:31-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.70: M4 stock hidden while aiming down sights"
+                    },
+                    {
                         "sha":  "44d14d3",
                         "date":  "2026-09-26T21:40:06-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.69: hub chairs moved off the range walkway; hub build no longer clobbers kit-owned facade materials"
                     },
                     {
@@ -1112,13 +1118,7 @@
                         "date":  "2026-09-26T19:34:57-07:00",
                         "refs":  "",
                         "subject":  "status 98af4ee 2026-09-26T19:34:57"
-                    },
-                    {
-                        "sha":  "cacf762",
-                        "date":  "2026-09-26T19:27:29-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T19:27:29"
                     }
                 ],
-    "generatedAt":  "2026-09-26T21:40:30.1086911-07:00"
+    "generatedAt":  "2026-09-26T22:05:50.8377292-07:00"
 }
