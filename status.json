@@ -676,7 +676,7 @@
                       {
                           "folder":  "agent-a1e4d716b9b161880",
                           "branch":  "worktree-agent-a1e4d716b9b161880",
-                          "dirty":  117
+                          "dirty":  118
                       },
                       {
                           "folder":  "agent-a3509403be866a68e",
@@ -706,7 +706,7 @@
                       {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
-                          "dirty":  15
+                          "dirty":  16
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -756,7 +756,7 @@
                       {
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
-                          "dirty":  5
+                          "dirty":  7
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1276,5 +1276,5 @@
                         "subject":  "CLAUDE.md: reply formatting preference (no red code spans for routine info)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:26:18.6785315-07:00"
+    "generatedAt":  "2026-09-27T10:28:54.3562936-07:00"
 }
