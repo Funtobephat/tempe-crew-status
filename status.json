@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "17f44a1",
-                         "date":  "2026-09-27T10:10:11-07:00",
-                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post",
-                         "ahead":  118,
+                         "sha":  "099f0f6",
+                         "date":  "2026-09-27T10:22:53-07:00",
+                         "subject":  "Merge Sub-agent 3: M4 charging handle rebuilt as a dark rounded AR T-handle",
+                         "ahead":  120,
                          "merged":  false
                      },
                      {
@@ -661,7 +661,7 @@
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
                           "branch":  "worktree-agent-a08d89b2f8d1de0bf",
-                          "dirty":  9
+                          "dirty":  19
                       },
                       {
                           "folder":  "agent-a10bee3c4c922a711",
@@ -756,7 +756,7 @@
                       {
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
-                          "dirty":  4
+                          "dirty":  5
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1276,5 +1276,5 @@
                         "subject":  "CLAUDE.md: reply formatting preference (no red code spans for routine info)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:23:37.2174642-07:00"
+    "generatedAt":  "2026-09-27T10:26:18.6785315-07:00"
 }
