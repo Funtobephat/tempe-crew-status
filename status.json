@@ -572,11 +572,11 @@
                      },
                      {
                          "name":  "worktree-agent-ab11cc93b7268b66e",
-                         "sha":  "05ab42c",
-                         "date":  "2026-09-27T12:41:15-07:00",
-                         "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "9f066c0",
+                         "date":  "2026-09-27T13:11:14-07:00",
+                         "subject":  "Campaign starts in the Safe House; mission board is a framed campaign map that opens the level selection",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-ac1eb0697f855df5c",
@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  118,
-                          "active":  "2026-09-27T13:10:25.4670018-07:00"
+                          "active":  "2026-09-27T13:11:15.0956938-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -767,8 +767,8 @@
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
                           "branch":  "worktree-agent-ab11cc93b7268b66e",
-                          "dirty":  101,
-                          "active":  "2026-09-27T13:10:16.2720284-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -780,7 +780,7 @@
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
                           "dirty":  12,
-                          "active":  "2026-09-27T13:10:24.6214141-07:00"
+                          "active":  "2026-09-27T13:10:48.8145074-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1115,6 +1115,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "9f066c0",
+                        "date":  "2026-09-27T13:11:14-07:00",
+                        "refs":  "worktree-agent-ab11cc93b7268b66e",
+                        "subject":  "Campaign starts in the Safe House; mission board is a framed campaign map that opens the level selection"
+                    },
+                    {
                         "sha":  "a4d22f2",
                         "date":  "2026-09-27T13:08:32-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1141,7 +1147,7 @@
                     {
                         "sha":  "05ab42c",
                         "date":  "2026-09-27T12:41:15-07:00",
-                        "refs":  "worktree-agent-ab11cc93b7268b66e",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:45:30-07:00",
                         "refs":  "",
                         "subject":  "Car sections: cars are shot apart panel by panel (13 sections + indestructible core) instead of crushed flat"
-                    },
-                    {
-                        "sha":  "944bc6f",
-                        "date":  "2026-09-27T10:41:37-07:00",
-                        "refs":  "",
-                        "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a00e40f662f518017"
                     }
                 ],
-    "generatedAt":  "2026-09-27T13:10:24.7836885-07:00"
+    "generatedAt":  "2026-09-27T13:11:14.8644664-07:00"
 }
