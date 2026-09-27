@@ -719,8 +719,8 @@
                       {
                           "folder":  "agent-a04751b701c49f7e1",
                           "branch":  "worktree-agent-a04751b701c49f7e1",
-                          "dirty":  0,
-                          "active":  null
+                          "dirty":  2,
+                          "active":  "2026-09-27T16:47:09.6331439-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -767,8 +767,8 @@
                       {
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
-                          "dirty":  9,
-                          "active":  "2026-09-27T16:46:18.6973171-07:00"
+                          "dirty":  10,
+                          "active":  "2026-09-27T16:46:45.6277321-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -893,8 +893,8 @@
                       {
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
-                          "dirty":  0,
-                          "active":  null
+                          "dirty":  1,
+                          "active":  "2026-09-27T16:46:58.0436424-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1439,5 +1439,5 @@
                         "subject":  "Merge worktree-agent-a6f530223364c0a43"
                     }
                 ],
-    "generatedAt":  "2026-09-27T16:46:24.0449471-07:00"
+    "generatedAt":  "2026-09-27T16:47:24.0654900-07:00"
 }
