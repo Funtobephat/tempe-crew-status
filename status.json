@@ -667,7 +667,7 @@
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  0
+                          "dirty":  1
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1172,5 +1172,5 @@
                         "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated"
                     }
                 ],
-    "generatedAt":  "2026-09-27T09:55:31.2239279-07:00"
+    "generatedAt":  "2026-09-27T10:02:50.9435694-07:00"
 }
