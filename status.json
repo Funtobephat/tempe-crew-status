@@ -1,5 +1,5 @@
 {
-    "master":  "dced18f",
+    "master":  "63dab70",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "dced18f",
-                         "date":  "2026-09-27T11:01:08-07:00",
-                         "subject":  "v0.88: generated Env/Hub assets as re-saved by the district rebuild",
+                         "sha":  "63dab70",
+                         "date":  "2026-09-27T11:01:35-07:00",
+                         "subject":  "Merge Sub-agent 1: pistol support hand grips the gun (G17/M9/1911); M9 and 1911 notch sights rebuilt",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -423,8 +423,8 @@
                          "sha":  "a1867a2",
                          "date":  "2026-09-27T11:00:53-07:00",
                          "subject":  "Pistol sight pictures: rebuild the M9 and 1911 notch sights (check_ads PASS)",
-                         "ahead":  3,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a0366b80b65e236bf",
@@ -647,8 +647,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  60,
-                          "active":  "2026-09-27T11:01:22.3626068-07:00"
+                          "dirty":  1,
+                          "active":  "2026-09-27T11:01:35.4524358-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "63dab70",
+                        "date":  "2026-09-27T11:01:35-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 1: pistol support hand grips the gun (G17/M9/1911); M9 and 1911 notch sights rebuilt"
+                    },
+                    {
                         "sha":  "dced18f",
                         "date":  "2026-09-27T11:01:08-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.88: generated Env/Hub assets as re-saved by the district rebuild"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T09:20:09-07:00",
                         "refs":  "",
                         "subject":  "v0.82: fix debris chip crash (GC-freed static material pointer); hide hub squad panel when solo"
-                    },
-                    {
-                        "sha":  "1d7a87d",
-                        "date":  "2026-09-27T09:09:02-07:00",
-                        "refs":  "",
-                        "subject":  "v0.81: first mission renamed Tempe Public Library -\u003e Gas Station"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:01:23.5296688-07:00"
+    "generatedAt":  "2026-09-27T11:01:36.2182806-07:00"
 }
