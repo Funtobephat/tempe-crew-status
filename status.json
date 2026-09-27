@@ -516,9 +516,9 @@
                      },
                      {
                          "name":  "worktree-agent-a7e1db2966d2992d3",
-                         "sha":  "b148557",
-                         "date":  "2026-09-27T10:50:24-07:00",
-                         "subject":  "P_DE50 sights: front blade raised to the rear blade tops, aim points there, wider notch (check_ads PASS)",
+                         "sha":  "82507df",
+                         "date":  "2026-09-27T12:19:00-07:00",
+                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -588,9 +588,9 @@
                      },
                      {
                          "name":  "worktree-agent-ac599cb6f090da687",
-                         "sha":  "daa5aa1",
-                         "date":  "2026-09-27T10:35:57-07:00",
-                         "subject":  "Sniper stock grip: R_M24/R_AWM stock hides with the scope overlay (ads_hide_at 0.9) so the right fist keeps the wrist mid-ADS",
+                         "sha":  "82507df",
+                         "date":  "2026-09-27T12:19:00-07:00",
+                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T12:28:24.2915146-07:00"
+                          "active":  "2026-09-27T12:29:01.7576476-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1117,7 +1117,7 @@
                     {
                         "sha":  "82507df",
                         "date":  "2026-09-27T12:19:00-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ac599cb6f090da687, worktree-agent-a7e1db2966d2992d3",
                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)"
                     },
                     {
@@ -1279,7 +1279,7 @@
                     {
                         "sha":  "b148557",
                         "date":  "2026-09-27T10:50:24-07:00",
-                        "refs":  "worktree-agent-a7e1db2966d2992d3",
+                        "refs":  "",
                         "subject":  "P_DE50 sights: front blade raised to the rear blade tops, aim points there, wider notch (check_ads PASS)"
                     },
                     {
@@ -1351,9 +1351,9 @@
                     {
                         "sha":  "daa5aa1",
                         "date":  "2026-09-27T10:35:57-07:00",
-                        "refs":  "worktree-agent-ac599cb6f090da687",
+                        "refs":  "",
                         "subject":  "Sniper stock grip: R_M24/R_AWM stock hides with the scope overlay (ads_hide_at 0.9) so the right fist keeps the wrist mid-ADS"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:28:24.2695158-07:00"
+    "generatedAt":  "2026-09-27T12:29:01.8106484-07:00"
 }
