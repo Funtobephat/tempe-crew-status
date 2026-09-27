@@ -1,5 +1,5 @@
 {
-    "master":  "aa03af5",
+    "master":  "8b3160a",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "aa03af5",
-                         "date":  "2026-09-27T16:36:46-07:00",
-                         "subject":  "v0.97: Level 2 Police Station scaffold - shared floor plan, build orchestrator, lane modules, baseline map, campaign wiring",
+                         "sha":  "8b3160a",
+                         "date":  "2026-09-27T16:37:29-07:00",
+                         "subject":  "Police layout: POI display spots + keep-clear zones",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "8b3160a",
+                        "date":  "2026-09-27T16:37:29-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Police layout: POI display spots + keep-clear zones"
+                    },
+                    {
                         "sha":  "aa03af5",
                         "date":  "2026-09-27T16:36:46-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.97: Level 2 Police Station scaffold - shared floor plan, build orchestrator, lane modules, baseline map, campaign wiring"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:55:50-07:00",
                         "refs":  "",
                         "subject":  "Merge worktree-agent-a6f530223364c0a43"
-                    },
-                    {
-                        "sha":  "b10d1ce",
-                        "date":  "2026-09-27T10:55:49-07:00",
-                        "refs":  "",
-                        "subject":  "Merge worktree-agent-a7e1db2966d2992d3"
                     }
                 ],
-    "generatedAt":  "2026-09-27T16:37:23.9730747-07:00"
+    "generatedAt":  "2026-09-27T16:37:30.5203969-07:00"
 }
