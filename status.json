@@ -1,5 +1,5 @@
 {
-    "master":  "b10d1ce",
+    "master":  "2632302",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "b10d1ce",
-                         "date":  "2026-09-27T10:55:49-07:00",
-                         "subject":  "Merge worktree-agent-a7e1db2966d2992d3",
+                         "sha":  "2632302",
+                         "date":  "2026-09-27T10:55:50-07:00",
+                         "subject":  "Merge worktree-agent-a08d89b2f8d1de0bf",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -1277,5 +1277,5 @@
                         "subject":  "Merge Sub-agent 3: ADS stock hiding for all 11 remaining long guns (ads_clear rig flag keeps eye relief)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:55:50.1920491-07:00"
+    "generatedAt":  "2026-09-27T10:55:56.0533099-07:00"
 }
