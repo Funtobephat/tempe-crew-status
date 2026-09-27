@@ -419,6 +419,14 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-a0009bf327f4e898b",
+                         "sha":  "8b3160a",
+                         "date":  "2026-09-27T16:37:29-07:00",
+                         "subject":  "Police layout: POI display spots + keep-clear zones",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-a00e40f662f518017",
                          "sha":  "e47be40",
                          "date":  "2026-09-27T12:17:18-07:00",
@@ -431,6 +439,14 @@
                          "sha":  "1e69e42",
                          "date":  "2026-09-26T17:39:28-07:00",
                          "subject":  "G_DB: procedural double-barrel coach gun model from reference photo",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "worktree-agent-a04751b701c49f7e1",
+                         "sha":  "8b3160a",
+                         "date":  "2026-09-27T16:37:29-07:00",
+                         "subject":  "Police layout: POI display spots + keep-clear zones",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -491,6 +507,14 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-a561616921da725b6",
+                         "sha":  "8b3160a",
+                         "date":  "2026-09-27T16:37:29-07:00",
+                         "subject":  "Police layout: POI display spots + keep-clear zones",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-a59b7989711694684",
                          "sha":  "5a77a7f",
                          "date":  "2026-09-26T23:11:57-07:00",
@@ -511,6 +535,14 @@
                          "sha":  "7c56de7",
                          "date":  "2026-09-27T10:53:37-07:00",
                          "subject":  "G_DB: parked shell no longer re-shown by the scope-hide propagation (ReapplyHidden), bead r 0.32 on the sight line",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "worktree-agent-a7570fc3f1ade6260",
+                         "sha":  "8b3160a",
+                         "date":  "2026-09-27T16:37:29-07:00",
+                         "subject":  "Police layout: POI display spots + keep-clear zones",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -603,6 +635,14 @@
                          "merged":  false
                      },
                      {
+                         "name":  "worktree-agent-ad1a4775f60f3a736",
+                         "sha":  "8b3160a",
+                         "date":  "2026-09-27T16:37:29-07:00",
+                         "subject":  "Police layout: POI display spots + keep-clear zones",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-adbcc631b9a256947",
                          "sha":  "0839285",
                          "date":  "2026-09-26T17:39:31-07:00",
@@ -635,6 +675,14 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-aff4cd4695d4ce12e",
+                         "sha":  "8b3160a",
+                         "date":  "2026-09-27T16:37:29-07:00",
+                         "subject":  "Police layout: POI display spots + keep-clear zones",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "zombie-density",
                          "sha":  "0b93b1a",
                          "date":  "2026-09-18T20:10:22-07:00",
@@ -651,6 +699,12 @@
                           "active":  "2026-09-27T16:36:28.2950774-07:00"
                       },
                       {
+                          "folder":  "agent-a0009bf327f4e898b",
+                          "branch":  "worktree-agent-a0009bf327f4e898b",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
                           "dirty":  0,
@@ -659,6 +713,12 @@
                       {
                           "folder":  "agent-a0366b80b65e236bf",
                           "branch":  "worktree-agent-a0366b80b65e236bf",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-a04751b701c49f7e1",
+                          "branch":  "worktree-agent-a04751b701c49f7e1",
                           "dirty":  0,
                           "active":  null
                       },
@@ -705,6 +765,12 @@
                           "active":  null
                       },
                       {
+                          "folder":  "agent-a561616921da725b6",
+                          "branch":  "worktree-agent-a561616921da725b6",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
                           "folder":  "agent-a59b7989711694684",
                           "branch":  "worktree-agent-a59b7989711694684",
                           "dirty":  0,
@@ -719,6 +785,12 @@
                       {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-a7570fc3f1ade6260",
+                          "branch":  "worktree-agent-a7570fc3f1ade6260",
                           "dirty":  0,
                           "active":  null
                       },
@@ -789,6 +861,12 @@
                           "active":  null
                       },
                       {
+                          "folder":  "agent-ad1a4775f60f3a736",
+                          "branch":  "worktree-agent-ad1a4775f60f3a736",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
                           "folder":  "agent-adbcc631b9a256947",
                           "branch":  "worktree-agent-adbcc631b9a256947",
                           "dirty":  0,
@@ -809,6 +887,12 @@
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
                           "branch":  "worktree-agent-afe2fce4a30bc7be4",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-aff4cd4695d4ce12e",
+                          "branch":  "worktree-agent-aff4cd4695d4ce12e",
                           "dirty":  0,
                           "active":  null
                       },
@@ -1117,7 +1201,7 @@
                     {
                         "sha":  "8b3160a",
                         "date":  "2026-09-27T16:37:29-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-aff4cd4695d4ce12e, worktree-agent-ad1a4775f60f3a736, worktree-agent-a7570fc3f1ade6260, worktree-agent-a561616921da725b6, worktree-agent-a04751b701c49f7e1, worktree-agent-a0009bf327f4e898b",
                         "subject":  "Police layout: POI display spots + keep-clear zones"
                     },
                     {
@@ -1355,5 +1439,5 @@
                         "subject":  "Merge worktree-agent-a6f530223364c0a43"
                     }
                 ],
-    "generatedAt":  "2026-09-27T16:39:24.0032399-07:00"
+    "generatedAt":  "2026-09-27T16:40:24.3483306-07:00"
 }
