@@ -1,5 +1,5 @@
 {
-    "master":  "9ab1ed1",
+    "master":  "bd05471",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "9ab1ed1",
-                         "date":  "2026-09-27T13:28:09-07:00",
-                         "subject":  "v0.94: campaign starts inside the Safe House; rebuilt Hub with the wall map board",
+                         "sha":  "bd05471",
+                         "date":  "2026-09-27T13:28:21-07:00",
+                         "subject":  "Merge Sub-agent 5: bat breaks car windows, harder hits, hit reactions + natural knockback",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -591,8 +591,8 @@
                          "sha":  "cbe4eb5",
                          "date":  "2026-09-27T13:25:29-07:00",
                          "subject":  "Bat hits: car windows shatter, more bat damage, physical hit reaction + natural knockback on infected",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-acb72df481d7c8c3d",
@@ -647,8 +647,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  14,
-                          "active":  "2026-09-27T13:28:09.4220690-07:00"
+                          "dirty":  2,
+                          "active":  "2026-09-27T13:28:21.4966219-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "bd05471",
+                        "date":  "2026-09-27T13:28:21-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 5: bat breaks car windows, harder hits, hit reactions + natural knockback"
+                    },
+                    {
                         "sha":  "9ab1ed1",
                         "date":  "2026-09-27T13:28:09-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.94: campaign starts inside the Safe House; rebuilt Hub with the wall map board"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:50:24-07:00",
                         "refs":  "",
                         "subject":  "P_DE50 sights: front blade raised to the rear blade tops, aim points there, wider notch (check_ads PASS)"
-                    },
-                    {
-                        "sha":  "b4a5729",
-                        "date":  "2026-09-27T10:50:02-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 7: AK-47 notch sight picture fixed (wider notch/post, level sight line); check_ads edge measured on the post only"
                     }
                 ],
-    "generatedAt":  "2026-09-27T13:28:09.8387658-07:00"
+    "generatedAt":  "2026-09-27T13:28:22.1621450-07:00"
 }
