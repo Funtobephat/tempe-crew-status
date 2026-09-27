@@ -893,8 +893,8 @@
                       {
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
-                          "dirty":  1,
-                          "active":  "2026-09-27T16:46:58.0436424-07:00"
+                          "dirty":  2,
+                          "active":  "2026-09-27T16:49:56.0799937-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1439,5 +1439,5 @@
                         "subject":  "Merge worktree-agent-a6f530223364c0a43"
                     }
                 ],
-    "generatedAt":  "2026-09-27T16:49:24.1058748-07:00"
+    "generatedAt":  "2026-09-27T16:50:24.0681346-07:00"
 }
