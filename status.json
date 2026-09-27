@@ -604,7 +604,7 @@
                       {
                           "folder":  "agent-a59b7989711694684",
                           "branch":  "worktree-agent-a59b7989711694684",
-                          "dirty":  0
+                          "dirty":  2
                       },
                       {
                           "folder":  "agent-a5e7ebff2912f47e0",
@@ -659,7 +659,7 @@
                       {
                           "folder":  "agent-af6b0d6274a433e04",
                           "branch":  "worktree-agent-af6b0d6274a433e04",
-                          "dirty":  0
+                          "dirty":  1
                       },
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
@@ -1159,5 +1159,5 @@
                         "subject":  "Range notes: dedicated-server label gotcha"
                     }
                 ],
-    "generatedAt":  "2026-09-26T22:51:58.3403987-07:00"
+    "generatedAt":  "2026-09-26T22:52:38.7793879-07:00"
 }
