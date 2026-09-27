@@ -647,12 +647,12 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1
+                          "dirty":  3
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
-                          "dirty":  47
+                          "dirty":  51
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1277,5 +1277,5 @@
                         "subject":  "Merge Sub-agent 3: ADS stock hiding for all 11 remaining long guns (ads_clear rig flag keeps eye relief)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:55:56.0533099-07:00"
+    "generatedAt":  "2026-09-27T10:56:23.5260055-07:00"
 }
