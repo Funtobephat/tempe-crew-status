@@ -516,11 +516,11 @@
                      },
                      {
                          "name":  "worktree-agent-a7e1db2966d2992d3",
-                         "sha":  "82507df",
-                         "date":  "2026-09-27T12:19:00-07:00",
-                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "fc0de7c",
+                         "date":  "2026-09-27T12:40:42-07:00",
+                         "subject":  "M_Bat: batter\u0027s grip (aligned knuckles, palms facing, hands touching) + sign-continuous quaternion keys in melee clips",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a7f3968d337988089",
@@ -725,8 +725,8 @@
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
                           "branch":  "worktree-agent-a7e1db2966d2992d3",
-                          "dirty":  10,
-                          "active":  "2026-09-27T12:40:07.0578579-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "fc0de7c",
+                        "date":  "2026-09-27T12:40:42-07:00",
+                        "refs":  "worktree-agent-a7e1db2966d2992d3",
+                        "subject":  "M_Bat: batter\u0027s grip (aligned knuckles, palms facing, hands touching) + sign-continuous quaternion keys in melee clips"
+                    },
+                    {
                         "sha":  "82507df",
                         "date":  "2026-09-27T12:19:00-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ac599cb6f090da687, worktree-agent-a7e1db2966d2992d3",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ac599cb6f090da687",
                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:36:00-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 8: seal hollow-shell doors, interiors behind kept doors, door audit (map rebuild pending)"
-                    },
-                    {
-                        "sha":  "daa5aa1",
-                        "date":  "2026-09-27T10:35:57-07:00",
-                        "refs":  "",
-                        "subject":  "Sniper stock grip: R_M24/R_AWM stock hides with the scope overlay (ads_hide_at 0.9) so the right fist keeps the wrist mid-ADS"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:40:24.3825377-07:00"
+    "generatedAt":  "2026-09-27T12:40:42.8290604-07:00"
 }
