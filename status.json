@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "13c256c",
-                         "date":  "2026-09-26T21:02:31-07:00",
-                         "subject":  "v0.64: round 3 integrated - realistic buildings, street props, scarier infected, hub range, night soundscape audio",
-                         "ahead":  72,
+                         "sha":  "330ebbe",
+                         "date":  "2026-09-26T21:10:22-07:00",
+                         "subject":  "v0.65: new main-menu key art (mirrored, blurred menu band, dark feathered border)",
+                         "ahead":  73,
                          "merged":  false
                      },
                      {
@@ -880,9 +880,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "330ebbe",
+                        "date":  "2026-09-26T21:10:22-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.65: new main-menu key art (mirrored, blurred menu band, dark feathered border)"
+                    },
+                    {
                         "sha":  "13c256c",
                         "date":  "2026-09-26T21:02:31-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.64: round 3 integrated - realistic buildings, street props, scarier infected, hub range, night soundscape audio"
                     },
                     {
@@ -1112,13 +1118,7 @@
                         "date":  "2026-09-26T19:17:41-07:00",
                         "refs":  "",
                         "subject":  "Env materials resaved by the v0.61 hub rebuild"
-                    },
-                    {
-                        "sha":  "e32f3ed",
-                        "date":  "2026-09-26T19:12:29-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T19:12:29"
                     }
                 ],
-    "generatedAt":  "2026-09-26T21:02:52.3909969-07:00"
+    "generatedAt":  "2026-09-26T21:10:41.5454048-07:00"
 }
