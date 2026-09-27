@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "f63843a",
-                         "date":  "2026-09-26T20:49:52-07:00",
-                         "subject":  "CLAUDE.md: route structured decisions through Laya",
-                         "ahead":  57,
+                         "sha":  "e8529e5",
+                         "date":  "2026-09-26T20:52:59-07:00",
+                         "subject":  "CLAUDE.md: commit automatically after each change",
+                         "ahead":  65,
                          "merged":  false
                      },
                      {
@@ -550,7 +550,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  9
+                          "dirty":  1
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -565,7 +565,7 @@
                       {
                           "folder":  "agent-a3509403be866a68e",
                           "branch":  "worktree-agent-a3509403be866a68e",
-                          "dirty":  7
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -590,7 +590,7 @@
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
-                          "dirty":  75
+                          "dirty":  149
                       },
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
@@ -1120,5 +1120,5 @@
                         "subject":  "status 98af4ee 2026-09-26T18:38:01"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:53:06.8597936-07:00"
+    "generatedAt":  "2026-09-26T20:53:28.6004964-07:00"
 }
