@@ -574,7 +574,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  3
+                          "dirty":  13
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1159,5 +1159,5 @@
                         "subject":  "v0.72: no right-hand hint column on the main menu"
                     }
                 ],
-    "generatedAt":  "2026-09-27T09:45:48.6639172-07:00"
+    "generatedAt":  "2026-09-27T09:46:51.0756261-07:00"
 }
