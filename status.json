@@ -1,5 +1,5 @@
 {
-    "master":  "a850155",
+    "master":  "922ecf5",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "a850155",
-                         "date":  "2026-09-27T11:11:21-07:00",
-                         "subject":  "v0.89: Sub-agent 1 pistol support hand + M9/1911 sights integrated; crew board progress notes",
+                         "sha":  "922ecf5",
+                         "date":  "2026-09-27T11:15:18-07:00",
+                         "subject":  "CLAUDE.md: crew board drops the bar for finished lanes",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T11:11:24.9384645-07:00"
+                          "active":  "2026-09-27T11:15:18.6523392-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "922ecf5",
+                        "date":  "2026-09-27T11:15:18-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "CLAUDE.md: crew board drops the bar for finished lanes"
+                    },
+                    {
                         "sha":  "a850155",
                         "date":  "2026-09-27T11:11:21-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.89: Sub-agent 1 pistol support hand + M9/1911 sights integrated; crew board progress notes"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T09:52:15-07:00",
                         "refs":  "",
                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild"
-                    },
-                    {
-                        "sha":  "67a2a80",
-                        "date":  "2026-09-27T09:52:09-07:00",
-                        "refs":  "",
-                        "subject":  "v0.84: M4 ADS to reference (folded rear, ringed front tower, 15.5 cm eye relief); compact main menu; campaign map You Are Here"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:14:23.6304609-07:00"
+    "generatedAt":  "2026-09-27T11:15:19.2569397-07:00"
 }
