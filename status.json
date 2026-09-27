@@ -719,8 +719,8 @@
                       {
                           "folder":  "agent-a04751b701c49f7e1",
                           "branch":  "worktree-agent-a04751b701c49f7e1",
-                          "dirty":  120,
-                          "active":  "2026-09-27T16:55:15.9764744-07:00"
+                          "dirty":  121,
+                          "active":  "2026-09-27T16:56:24.8288887-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  131,
-                          "active":  "2026-09-27T16:55:14.2820302-07:00"
+                          "active":  "2026-09-27T16:56:23.2643537-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -791,8 +791,8 @@
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
-                          "dirty":  118,
-                          "active":  "2026-09-27T16:55:22.3176560-07:00"
+                          "dirty":  119,
+                          "active":  "2026-09-27T16:56:23.4994580-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -893,8 +893,8 @@
                       {
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
-                          "dirty":  23,
-                          "active":  "2026-09-27T16:54:53.0092224-07:00"
+                          "dirty":  27,
+                          "active":  "2026-09-27T16:56:03.4181196-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1439,5 +1439,5 @@
                         "subject":  "Merge worktree-agent-a6f530223364c0a43"
                     }
                 ],
-    "generatedAt":  "2026-09-27T16:55:24.0888744-07:00"
+    "generatedAt":  "2026-09-27T16:56:24.6847773-07:00"
 }
