@@ -779,8 +779,8 @@
                       {
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
-                          "dirty":  3,
-                          "active":  "2026-09-27T12:34:11.5624333-07:00"
+                          "dirty":  5,
+                          "active":  "2026-09-27T12:35:43.1104980-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1355,5 +1355,5 @@
                         "subject":  "Sniper stock grip: R_M24/R_AWM stock hides with the scope overlay (ads_hide_at 0.9) so the right fist keeps the wrist mid-ADS"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:35:24.2995250-07:00"
+    "generatedAt":  "2026-09-27T12:36:24.3067764-07:00"
 }
