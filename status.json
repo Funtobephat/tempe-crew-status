@@ -588,11 +588,11 @@
                      },
                      {
                          "name":  "worktree-agent-ac599cb6f090da687",
-                         "sha":  "82507df",
-                         "date":  "2026-09-27T12:19:00-07:00",
-                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "cbe4eb5",
+                         "date":  "2026-09-27T13:25:29-07:00",
+                         "subject":  "Bat hits: car windows shatter, more bat damage, physical hit reaction + natural knockback on infected",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-acb72df481d7c8c3d",
@@ -647,8 +647,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  2,
-                          "active":  "2026-09-27T13:21:43.0860995-07:00"
+                          "dirty":  85,
+                          "active":  "2026-09-27T13:25:26.7519262-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -779,8 +779,8 @@
                       {
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
-                          "dirty":  12,
-                          "active":  "2026-09-27T13:21:22.3073241-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1115,6 +1115,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "cbe4eb5",
+                        "date":  "2026-09-27T13:25:29-07:00",
+                        "refs":  "worktree-agent-ac599cb6f090da687",
+                        "subject":  "Bat hits: car windows shatter, more bat damage, physical hit reaction + natural knockback on infected"
+                    },
+                    {
                         "sha":  "d1c32ac",
                         "date":  "2026-09-27T13:21:42-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1171,7 +1177,7 @@
                     {
                         "sha":  "82507df",
                         "date":  "2026-09-27T12:19:00-07:00",
-                        "refs":  "worktree-agent-ac599cb6f090da687",
+                        "refs":  "",
                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:49:16-07:00",
                         "refs":  "worktree-agent-a1bccf2e41869cb3f",
                         "subject":  "A_AK47 sight picture: wide clean rear notch, post level with the shoulders, check_ads PASS"
-                    },
-                    {
-                        "sha":  "4f13cfd",
-                        "date":  "2026-09-27T10:46:45-07:00",
-                        "refs":  "",
-                        "subject":  "Merge guns-procedural (doors, v0.86) into car sections"
                     }
                 ],
-    "generatedAt":  "2026-09-27T13:21:43.7877906-07:00"
+    "generatedAt":  "2026-09-27T13:25:29.8739707-07:00"
 }
