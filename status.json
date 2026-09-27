@@ -654,7 +654,7 @@
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
                           "dirty":  31,
-                          "active":  "2026-09-27T12:07:24.5291994-07:00"
+                          "active":  "2026-09-27T12:08:23.9926536-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1355,5 +1355,5 @@
                         "subject":  "CLAUDE.md: remove leftover merge markers"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:07:24.2997431-07:00"
+    "generatedAt":  "2026-09-27T12:08:24.1551818-07:00"
 }
