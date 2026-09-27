@@ -486,7 +486,7 @@
                          "sha":  "5a7b6e8",
                          "date":  "2026-09-26T22:27:10-07:00",
                          "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated",
-                         "ahead":  83,
+                         "ahead":  84,
                          "merged":  false
                      },
                      {
@@ -547,10 +547,10 @@
                      },
                      {
                          "name":  "worktree-agent-af6b0d6274a433e04",
-                         "sha":  "5a7b6e8",
-                         "date":  "2026-09-26T22:27:10-07:00",
-                         "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated",
-                         "ahead":  83,
+                         "sha":  "e2c7473",
+                         "date":  "2026-09-26T23:15:10-07:00",
+                         "subject":  "Audio lane: layered explosions, recorded gore and destruction sounds + UTMWeaponAudio entry points",
+                         "ahead":  84,
                          "merged":  false
                      },
                      {
@@ -574,7 +574,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1
+                          "dirty":  4
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -619,7 +619,7 @@
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
-                          "dirty":  121
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
@@ -629,7 +629,7 @@
                       {
                           "folder":  "agent-a999b1ba7e103c415",
                           "branch":  "worktree-agent-a999b1ba7e103c415",
-                          "dirty":  2
+                          "dirty":  3
                       },
                       {
                           "folder":  "agent-a9ff6a1890f8fe5a4",
@@ -659,7 +659,7 @@
                       {
                           "folder":  "agent-af6b0d6274a433e04",
                           "branch":  "worktree-agent-af6b0d6274a433e04",
-                          "dirty":  101
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
@@ -919,6 +919,36 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "24cafd5",
+                        "date":  "2026-09-26T23:16:25-07:00",
+                        "refs":  "worktree-agent-a999b1ba7e103c415",
+                        "subject":  "Grenades: squared structure falloff for the 3x blast, debris via TMDebris pool, -TMThrowKind"
+                    },
+                    {
+                        "sha":  "b092915",
+                        "date":  "2026-09-26T23:16:09-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 1: mobile homes + water tower remodelled with the building kit"
+                    },
+                    {
+                        "sha":  "077b43c",
+                        "date":  "2026-09-26T23:16:00-07:00",
+                        "refs":  "",
+                        "subject":  "Merge Sub-agent 5: layered explosion, gore and destruction sounds + UTMWeaponAudio entry points"
+                    },
+                    {
+                        "sha":  "78f010e",
+                        "date":  "2026-09-26T23:15:47-07:00",
+                        "refs":  "",
+                        "subject":  "Unreal MCP: enable Epic\u0027s ModelContextProtocol + AllToolsets (editor only), .mcp.json for Claude Code, Open-Editor-MCP.ps1 launcher"
+                    },
+                    {
+                        "sha":  "c3527d8",
+                        "date":  "2026-09-26T23:15:39-07:00",
+                        "refs":  "worktree-agent-a8d3fe226b9f67a2c",
+                        "subject":  "Buildings: mobile homes and water tower remodelled with the building kit"
+                    },
+                    {
                         "sha":  "e2c7473",
                         "date":  "2026-09-26T23:15:10-07:00",
                         "refs":  "worktree-agent-af6b0d6274a433e04",
@@ -927,13 +957,13 @@
                     {
                         "sha":  "cc0dc4c",
                         "date":  "2026-09-26T23:12:20-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 2: chain-link fences, W-beam guard rails and sign gantries as street-prop meshes"
                     },
                     {
                         "sha":  "8b656bc",
                         "date":  "2026-09-26T23:11:57-07:00",
-                        "refs":  "worktree-agent-a999b1ba7e103c415",
+                        "refs":  "",
                         "subject":  "Merge guns-procedural into grenades lane"
                     },
                     {
@@ -993,7 +1023,7 @@
                     {
                         "sha":  "5a7b6e8",
                         "date":  "2026-09-26T22:27:10-07:00",
-                        "refs":  "worktree-agent-afe2fce4a30bc7be4, worktree-agent-a8d3fe226b9f67a2c, worktree-agent-a3509403be866a68e",
+                        "refs":  "worktree-agent-afe2fce4a30bc7be4, worktree-agent-a3509403be866a68e",
                         "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated"
                     },
                     {
@@ -1127,37 +1157,7 @@
                         "date":  "2026-09-26T20:49:52-07:00",
                         "refs":  "",
                         "subject":  "CLAUDE.md: route structured decisions through Laya"
-                    },
-                    {
-                        "sha":  "7b853ad",
-                        "date":  "2026-09-26T20:42:21-07:00",
-                        "refs":  "",
-                        "subject":  "Buildings lane notes: cull tags, sign facing table, hooks, commit rules"
-                    },
-                    {
-                        "sha":  "b2df0da",
-                        "date":  "2026-09-26T20:41:31-07:00",
-                        "refs":  "",
-                        "subject":  "Trial integration: merge Sub-agent 1 buildings (fc81a5e) with street props; keep both lanes\u0027 build() hooks, facade materials from the buildings lane"
-                    },
-                    {
-                        "sha":  "bb5f457",
-                        "date":  "2026-09-26T20:41:10-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 3: scarier infected (hunched clips + Idle, repainted skins, smoothed normals, face sculpt)"
-                    },
-                    {
-                        "sha":  "fc46307",
-                        "date":  "2026-09-26T20:40:41-07:00",
-                        "refs":  "",
-                        "subject":  "Zombies: hunched re-authored clips + Idle, repainted skins, smoothed normals, face sculpt, -TMZombieShot"
-                    },
-                    {
-                        "sha":  "fc81a5e",
-                        "date":  "2026-09-26T20:27:17-07:00",
-                        "refs":  "",
-                        "subject":  "Buildings polish: see-through shop glass, lit rooms at night, church/barn/diner roofs + canopies, trailer window frames, sign placement, cull tags"
                     }
                 ],
-    "generatedAt":  "2026-09-26T23:15:24.1164259-07:00"
+    "generatedAt":  "2026-09-26T23:16:26.6236925-07:00"
 }
