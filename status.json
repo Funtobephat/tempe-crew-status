@@ -671,7 +671,7 @@
                       {
                           "folder":  "agent-a1bccf2e41869cb3f",
                           "branch":  "worktree-agent-a1bccf2e41869cb3f",
-                          "dirty":  1
+                          "dirty":  15
                       },
                       {
                           "folder":  "agent-a1e4d716b9b161880",
@@ -706,7 +706,7 @@
                       {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
-                          "dirty":  3
+                          "dirty":  16
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -1036,6 +1036,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "b2f6b7f",
+                        "date":  "2026-09-27T10:41:24-07:00",
+                        "refs":  "worktree-agent-a00e40f662f518017",
+                        "subject":  "Pistol support hand grips the gun (G17/M9/1911 shared hold)"
+                    },
+                    {
                         "sha":  "71e8393",
                         "date":  "2026-09-27T10:37:02-07:00",
                         "refs":  "worktree-agent-a7e1db2966d2992d3",
@@ -1116,7 +1122,7 @@
                     {
                         "sha":  "17f44a1",
                         "date":  "2026-09-27T10:10:11-07:00",
-                        "refs":  "worktree-agent-a08d89b2f8d1de0bf, worktree-agent-a00e40f662f518017",
+                        "refs":  "worktree-agent-a08d89b2f8d1de0bf",
                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post"
                     },
                     {
@@ -1268,13 +1274,7 @@
                         "date":  "2026-09-26T23:16:00-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 5: layered explosion, gore and destruction sounds + UTMWeaponAudio entry points"
-                    },
-                    {
-                        "sha":  "78f010e",
-                        "date":  "2026-09-26T23:15:47-07:00",
-                        "refs":  "",
-                        "subject":  "Unreal MCP: enable Epic\u0027s ModelContextProtocol + AllToolsets (editor only), .mcp.json for Claude Code, Open-Editor-MCP.ps1 launcher"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:38:31.8167297-07:00"
+    "generatedAt":  "2026-09-27T10:41:25.3897430-07:00"
 }
