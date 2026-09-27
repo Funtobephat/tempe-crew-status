@@ -780,7 +780,7 @@
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
                           "dirty":  12,
-                          "active":  "2026-09-27T12:46:12.6403585-07:00"
+                          "active":  "2026-09-27T12:46:24.8261644-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1355,5 +1355,5 @@
                         "subject":  "Merge Sub-agent 5: bolt rifles keep the stock (and the right fist\u0027s grip) until the scope overlay covers the view"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:46:12.2271762-07:00"
+    "generatedAt":  "2026-09-27T12:46:24.4145777-07:00"
 }
