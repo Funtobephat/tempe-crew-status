@@ -1,5 +1,5 @@
 {
-    "master":  "4369ef7",
+    "master":  "78f4c22",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "4369ef7",
-                         "date":  "2026-09-27T12:01:01-07:00",
-                         "subject":  "v0.91: district rebuilt with car glass panes and tyres",
+                         "sha":  "78f4c22",
+                         "date":  "2026-09-27T12:18:09-07:00",
+                         "subject":  "Merge Sub-agent 1: downed state - fall to the ground, one-handed pistol; co-op clients get their weapons (WeaponId replicated), teammates no longer float",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -423,8 +423,8 @@
                          "sha":  "e47be40",
                          "date":  "2026-09-27T12:17:18-07:00",
                          "subject":  "Downed state: fall to the ground, one-handed pistol only (+ co-op weapon replication fix)",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a0366b80b65e236bf",
@@ -647,8 +647,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1,
-                          "active":  "2026-09-27T12:00:46.5497574-07:00"
+                          "dirty":  2,
+                          "active":  "2026-09-27T12:18:10.0146023-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1115,6 +1115,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "78f4c22",
+                        "date":  "2026-09-27T12:18:09-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 1: downed state - fall to the ground, one-handed pistol; co-op clients get their weapons (WeaponId replicated), teammates no longer float"
+                    },
+                    {
                         "sha":  "e47be40",
                         "date":  "2026-09-27T12:17:18-07:00",
                         "refs":  "worktree-agent-a00e40f662f518017",
@@ -1123,7 +1129,7 @@
                     {
                         "sha":  "4369ef7",
                         "date":  "2026-09-27T12:01:01-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.91: district rebuilt with car glass panes and tyres"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:35:52-07:00",
                         "refs":  "",
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a6f530223364c0a43"
-                    },
-                    {
-                        "sha":  "99961c2",
-                        "date":  "2026-09-27T10:35:52-07:00",
-                        "refs":  "",
-                        "subject":  "G_870/G_DB: stock cut moved behind the strong fist (butt only hides in ADS, wrist stays on the body)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:17:24.1751356-07:00"
+    "generatedAt":  "2026-09-27T12:18:10.5074510-07:00"
 }
