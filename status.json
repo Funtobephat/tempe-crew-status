@@ -661,7 +661,7 @@
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
                           "branch":  "worktree-agent-a08d89b2f8d1de0bf",
-                          "dirty":  1
+                          "dirty":  4
                       },
                       {
                           "folder":  "agent-a10bee3c4c922a711",
@@ -711,7 +711,7 @@
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
                           "branch":  "worktree-agent-a7e1db2966d2992d3",
-                          "dirty":  0
+                          "dirty":  1
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -746,7 +746,7 @@
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
                           "branch":  "worktree-agent-ab11cc93b7268b66e",
-                          "dirty":  1
+                          "dirty":  6
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -771,7 +771,7 @@
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  150
+                          "dirty":  151
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1276,5 +1276,5 @@
                         "subject":  "Hub: build the ceiling lamp shades (lights() before the Instancer flush; dress_interactables reset them)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:14:57.2343106-07:00"
+    "generatedAt":  "2026-09-27T10:15:58.5840278-07:00"
 }
