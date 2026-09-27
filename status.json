@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "76daeff",
-                         "date":  "2026-09-26T22:24:57-07:00",
-                         "subject":  "v0.74: hide the top-left info line in game (-TMDebugHud shows it)",
-                         "ahead":  82,
+                         "sha":  "5a7b6e8",
+                         "date":  "2026-09-26T22:27:10-07:00",
+                         "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated",
+                         "ahead":  83,
                          "merged":  false
                      },
                      {
@@ -490,6 +490,14 @@
                          "merged":  false
                      },
                      {
+                         "name":  "worktree-agent-a999b1ba7e103c415",
+                         "sha":  "76daeff",
+                         "date":  "2026-09-26T22:24:57-07:00",
+                         "subject":  "v0.74: hide the top-left info line in game (-TMDebugHud shows it)",
+                         "ahead":  82,
+                         "merged":  false
+                     },
+                     {
                          "name":  "worktree-agent-a9ff6a1890f8fe5a4",
                          "sha":  "0c45eb9",
                          "date":  "2026-09-26T19:49:51-07:00",
@@ -595,6 +603,11 @@
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
                           "branch":  "worktree-agent-a90ab0996d0a38bbf",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-a999b1ba7e103c415",
+                          "branch":  "worktree-agent-a999b1ba7e103c415",
                           "dirty":  0
                       },
                       {
@@ -880,9 +893,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "5a7b6e8",
+                        "date":  "2026-09-26T22:27:10-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated"
+                    },
+                    {
                         "sha":  "76daeff",
                         "date":  "2026-09-26T22:24:57-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "worktree-agent-a999b1ba7e103c415",
                         "subject":  "v0.74: hide the top-left info line in game (-TMDebugHud shows it)"
                     },
                     {
@@ -1112,13 +1131,7 @@
                         "date":  "2026-09-26T19:49:51-07:00",
                         "refs":  "worktree-agent-a9ff6a1890f8fe5a4",
                         "subject":  "Range notes: dedicated-server label gotcha"
-                    },
-                    {
-                        "sha":  "93af37c",
-                        "date":  "2026-09-26T19:49:43-07:00",
-                        "refs":  "",
-                        "subject":  "Range target: guard the TextRender label on dedicated servers (not loaded there) - Test-Coop PASS"
                     }
                 ],
-    "generatedAt":  "2026-09-26T22:25:16.7347027-07:00"
+    "generatedAt":  "2026-09-26T22:27:30.3868041-07:00"
 }
