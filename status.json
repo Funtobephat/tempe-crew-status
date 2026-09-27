@@ -647,392 +647,470 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  2
+                          "dirty":  2,
+                          "active":  "2026-09-27T10:57:20.5461727-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
-                          "dirty":  51
+                          "dirty":  51,
+                          "active":  "2026-09-27T10:56:23.0600036-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
                           "branch":  "worktree-agent-a0366b80b65e236bf",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
                           "branch":  "worktree-agent-a08d89b2f8d1de0bf",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  "2026-09-27T10:52:24.1330118-07:00"
                       },
                       {
                           "folder":  "agent-a10bee3c4c922a711",
                           "branch":  "worktree-agent-a10bee3c4c922a711",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a1bccf2e41869cb3f",
                           "branch":  "worktree-agent-a1bccf2e41869cb3f",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  "2026-09-27T10:49:16.0693506-07:00"
                       },
                       {
                           "folder":  "agent-a1e4d716b9b161880",
                           "branch":  "worktree-agent-a1e4d716b9b161880",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  "2026-09-27T10:35:35.1546710-07:00"
                       },
                       {
                           "folder":  "agent-a3509403be866a68e",
                           "branch":  "worktree-agent-a3509403be866a68e",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
                           "branch":  "worktree-agent-a4f5afbe80c6112a2",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a5117d9b03b482d74",
                           "branch":  "worktree-agent-a5117d9b03b482d74",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
                           "branch":  "worktree-agent-a59b7989711694684",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a5e7ebff2912f47e0",
                           "branch":  "worktree-agent-a5e7ebff2912f47e0",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  "2026-09-27T10:53:53.3611312-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
                           "branch":  "worktree-agent-a7e1db2966d2992d3",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  "2026-09-27T10:50:24.2408492-07:00"
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
                           "branch":  "worktree-agent-a7f3968d337988089",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
                           "branch":  "worktree-agent-a90ab0996d0a38bbf",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a999b1ba7e103c415",
                           "branch":  "worktree-agent-a999b1ba7e103c415",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a9ff6a1890f8fe5a4",
                           "branch":  "worktree-agent-a9ff6a1890f8fe5a4",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
                           "branch":  "worktree-agent-aab0ef3128d9d2764",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
                           "branch":  "worktree-agent-ab11cc93b7268b66e",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  "2026-09-27T10:22:29.8171897-07:00"
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
                           "branch":  "worktree-agent-ac1eb0697f855df5c",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  "2026-09-27T10:35:57.7911675-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
                           "branch":  "worktree-agent-acb72df481d7c8c3d",
-                          "dirty":  1
+                          "dirty":  1,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
                           "branch":  "worktree-agent-adbcc631b9a256947",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  "2026-09-27T10:52:08.1486695-07:00"
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
                           "branch":  "worktree-agent-af6b0d6274a433e04",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
                           "branch":  "worktree-agent-afe2fce4a30bc7be4",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-ars",
                           "branch":  "guns-ars",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-audio-ambience",
                           "branch":  "audio-ambience",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-audio-weapons",
                           "branch":  "audio-weapons",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-audio-zombies",
                           "branch":  "audio-zombies",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-audiofix",
                           "branch":  "audio-fix",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-barricades",
                           "branch":  "barricades",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-coop",
                           "branch":  "coop-lobby",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-customize",
                           "branch":  "weapon-customize",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-district",
                           "branch":  "district-expand",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-flash",
                           "branch":  "flashlight-fix",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-fpmotion",
                           "branch":  "fp-motion",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-guns2",
                           "branch":  "m4-ironsights",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-guns3",
                           "branch":  "guns-v3-a",
-                          "dirty":  4
+                          "dirty":  4,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-hands7",
                           "branch":  "fp-hands",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-help-feel",
                           "branch":  "help-weapon-feel",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-help-props",
                           "branch":  "help-prop-library",
-                          "dirty":  1
+                          "dirty":  1,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-help-world",
                           "branch":  "help-world-props",
-                          "dirty":  6
+                          "dirty":  6,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-hub",
                           "branch":  "hub-prep-room",
-                          "dirty":  6
+                          "dirty":  6,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-hud2",
                           "branch":  "hud-detail",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-hud3",
                           "branch":  "hud-followups",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-level",
                           "branch":  "level-design",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-light",
                           "branch":  "lighting-fix",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-light2",
                           "branch":  "lighting-afternoon",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-m4hold",
                           "branch":  "m4-hold",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-melee",
                           "branch":  "melee-weapons",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-melee2",
                           "branch":  "melee-bat-hold",
-                          "dirty":  6
+                          "dirty":  6,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-menu",
                           "branch":  "main-menu",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-menu2",
                           "branch":  "menu-polish",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-models",
                           "branch":  "gun-models",
-                          "dirty":  1
+                          "dirty":  1,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-models2",
                           "branch":  "guns-v3-b",
-                          "dirty":  4
+                          "dirty":  4,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-pistol",
                           "branch":  "pistol-hold",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-pistols",
                           "branch":  "guns-pistols",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-poses",
                           "branch":  "weapon-poses",
-                          "dirty":  1
+                          "dirty":  1,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-preview",
                           "branch":  "weapon-preview",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-qa",
                           "branch":  "weapon-qa",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-qa2",
                           "branch":  "integration-qa",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-recoil",
                           "branch":  "weapon-recoil",
-                          "dirty":  3
+                          "dirty":  3,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-reload",
                           "branch":  "reload-visuals",
-                          "dirty":  8
+                          "dirty":  8,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-rig",
                           "branch":  "weapon-rig",
-                          "dirty":  13
+                          "dirty":  13,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-rig2",
                           "branch":  "weapon-rig-v4",
-                          "dirty":  49
+                          "dirty":  49,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-sfx-foley",
                           "branch":  "sfx-foley",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-sfx-guns",
                           "branch":  "sfx-guns",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-sfxf2",
                           "branch":  "sfx-surfaces",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-sfxg2",
                           "branch":  "sfx-weapon-variety",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-shotguns",
                           "branch":  "guns-shotguns",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-sights",
                           "branch":  "weapon-sights",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-smgs",
                           "branch":  "guns-smgs",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-stats",
                           "branch":  "weapon-stats",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-sub2",
                           "branch":  "sub2-next",
-                          "dirty":  0
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-zombies",
                           "branch":  "zombie-density",
-                          "dirty":  4
+                          "dirty":  4,
+                          "active":  null
                       }
                   ],
     "commits":  [
@@ -1277,5 +1355,5 @@
                         "subject":  "Merge branch \u0027worktree-agent-afe2fce4a30bc7be4\u0027 into worktree-agent-a9ff6a1890f8fe5a4"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:57:23.5118478-07:00"
+    "generatedAt":  "2026-09-27T10:57:44.2896568-07:00"
 }
