@@ -651,7 +651,7 @@
                       {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
-                          "dirty":  2
+                          "dirty":  8
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1276,5 +1276,5 @@
                         "subject":  "CLAUDE.md: reply formatting preference (no red code spans for routine info)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:31:14.3549175-07:00"
+    "generatedAt":  "2026-09-27T10:32:26.7947814-07:00"
 }
