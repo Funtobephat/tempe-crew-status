@@ -590,7 +590,7 @@
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
-                          "dirty":  31
+                          "dirty":  32
                       },
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
@@ -1120,5 +1120,5 @@
                         "subject":  "status 98af4ee 2026-09-26T17:51:52"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:27:47.4454791-07:00"
+    "generatedAt":  "2026-09-26T20:33:06.9001416-07:00"
 }
