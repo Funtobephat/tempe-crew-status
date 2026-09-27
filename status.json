@@ -1,5 +1,5 @@
 {
-    "master":  "05ab42c",
+    "master":  "b4933c7",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "05ab42c",
-                         "date":  "2026-09-27T12:41:15-07:00",
-                         "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix",
+                         "sha":  "b4933c7",
+                         "date":  "2026-09-27T12:46:56-07:00",
+                         "subject":  "Merge Sub-agent 2: all melee swings re-exported with the quaternion-sign fix; reach clamps removed",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -519,8 +519,8 @@
                          "sha":  "8e49220",
                          "date":  "2026-09-27T12:46:35-07:00",
                          "subject":  "Melee: re-export all five weapons with sign-continuous keys; fix reach-clamp message and the crowbar/machete/axe/sledge heavy-swing clamps",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a7f3968d337988089",
@@ -683,8 +683,8 @@
                       {
                           "folder":  "agent-a1e4d716b9b161880",
                           "branch":  "worktree-agent-a1e4d716b9b161880",
-                          "dirty":  9,
-                          "active":  "2026-09-27T12:45:57.6695025-07:00"
+                          "dirty":  10,
+                          "active":  "2026-09-27T12:46:42.1021168-07:00"
                       },
                       {
                           "folder":  "agent-a3509403be866a68e",
@@ -780,7 +780,7 @@
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
                           "dirty":  12,
-                          "active":  "2026-09-27T12:46:33.5117670-07:00"
+                          "active":  "2026-09-27T12:46:48.1603261-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1115,6 +1115,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "b4933c7",
+                        "date":  "2026-09-27T12:46:56-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 2: all melee swings re-exported with the quaternion-sign fix; reach clamps removed"
+                    },
+                    {
                         "sha":  "8e49220",
                         "date":  "2026-09-27T12:46:35-07:00",
                         "refs":  "worktree-agent-a7e1db2966d2992d3",
@@ -1123,7 +1129,7 @@
                     {
                         "sha":  "05ab42c",
                         "date":  "2026-09-27T12:41:15-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ab11cc93b7268b66e",
+                        "refs":  "worktree-agent-ab11cc93b7268b66e",
                         "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:37:02-07:00",
                         "refs":  "",
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a7e1db2966d2992d3"
-                    },
-                    {
-                        "sha":  "df5f020",
-                        "date":  "2026-09-27T10:36:44-07:00",
-                        "refs":  "",
-                        "subject":  "P_DE50: support hand grips the pistol (own DE_L hold, heel on the left panel, fingers over the strong hand)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:46:36.2549315-07:00"
+    "generatedAt":  "2026-09-27T12:46:57.7500508-07:00"
 }
