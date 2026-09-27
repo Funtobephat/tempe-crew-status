@@ -435,10 +435,10 @@
                      },
                      {
                          "name":  "worktree-agent-a3509403be866a68e",
-                         "sha":  "c8e859f",
-                         "date":  "2026-09-26T20:52:46-07:00",
-                         "subject":  "Physics asset: build into an empty asset (fixes 17 vs 20 zombie bodies on re-import)",
-                         "ahead":  57,
+                         "sha":  "4d2756a",
+                         "date":  "2026-09-26T20:55:37-07:00",
+                         "subject":  "AutoTest deterministic again: body-centre aim, no random anim phase/jitter in bone tests, stricter evidence",
+                         "ahead":  58,
                          "merged":  false
                      },
                      {
@@ -565,7 +565,7 @@
                       {
                           "folder":  "agent-a3509403be866a68e",
                           "branch":  "worktree-agent-a3509403be866a68e",
-                          "dirty":  4
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -880,6 +880,30 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "736f283",
+                        "date":  "2026-09-26T20:55:48-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 3: physics asset built into an empty asset (20 bodies every import)"
+                    },
+                    {
+                        "sha":  "5daf3e7",
+                        "date":  "2026-09-26T20:55:47-07:00",
+                        "refs":  "",
+                        "subject":  "Merge Sub-agent 1: roof tile/shingle relief, hash-based re-import"
+                    },
+                    {
+                        "sha":  "bc78619",
+                        "date":  "2026-09-26T20:55:47-07:00",
+                        "refs":  "",
+                        "subject":  "Rebuild district + hub maps with buildings, street props, range (Test-District AutoTest/MissionTest PASS, hub interactables 2)"
+                    },
+                    {
+                        "sha":  "4d2756a",
+                        "date":  "2026-09-26T20:55:37-07:00",
+                        "refs":  "worktree-agent-a3509403be866a68e",
+                        "subject":  "AutoTest deterministic again: body-centre aim, no random anim phase/jitter in bone tests, stricter evidence"
+                    },
+                    {
                         "sha":  "f1f2dec",
                         "date":  "2026-09-26T20:54:33-07:00",
                         "refs":  "worktree-agent-a8d3fe226b9f67a2c",
@@ -888,7 +912,7 @@
                     {
                         "sha":  "e8529e5",
                         "date":  "2026-09-26T20:52:59-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "CLAUDE.md: commit automatically after each change"
                     },
                     {
@@ -906,7 +930,7 @@
                     {
                         "sha":  "c8e859f",
                         "date":  "2026-09-26T20:52:46-07:00",
-                        "refs":  "worktree-agent-a3509403be866a68e",
+                        "refs":  "",
                         "subject":  "Physics asset: build into an empty asset (fixes 17 vs 20 zombie bodies on re-import)"
                     },
                     {
@@ -1094,31 +1118,7 @@
                         "date":  "2026-09-26T19:06:36-07:00",
                         "refs":  "",
                         "subject":  "status 98af4ee 2026-09-26T19:06:36"
-                    },
-                    {
-                        "sha":  "3be55db",
-                        "date":  "2026-09-26T19:00:53-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T19:00:53"
-                    },
-                    {
-                        "sha":  "5a409d9",
-                        "date":  "2026-09-26T18:55:16-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T18:55:16"
-                    },
-                    {
-                        "sha":  "3511006",
-                        "date":  "2026-09-26T18:49:36-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T18:49:36"
-                    },
-                    {
-                        "sha":  "c79ec35",
-                        "date":  "2026-09-26T18:43:53-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T18:43:53"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:54:57.8308002-07:00"
+    "generatedAt":  "2026-09-26T20:55:57.3473874-07:00"
 }
