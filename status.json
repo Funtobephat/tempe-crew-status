@@ -919,6 +919,18 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "d1276fc",
+                        "date":  "2026-09-26T23:38:59-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 7: realistic gore (exit spray, wall splatter, headshot chunks, arterial spurts, spreading pools, drying) + gore sounds wired"
+                    },
+                    {
+                        "sha":  "6a48316",
+                        "date":  "2026-09-26T23:38:58-07:00",
+                        "refs":  "worktree-agent-a9ff6a1890f8fe5a4",
+                        "subject":  "Merge branch \u0027worktree-agent-afe2fce4a30bc7be4\u0027 into worktree-agent-a9ff6a1890f8fe5a4"
+                    },
+                    {
                         "sha":  "d8ad428",
                         "date":  "2026-09-26T23:38:23-07:00",
                         "refs":  "worktree-agent-afe2fce4a30bc7be4",
@@ -927,7 +939,7 @@
                     {
                         "sha":  "b9be743",
                         "date":  "2026-09-26T23:28:32-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.79: ADS stock hiding on all long guns integrated (Sub-agent 3)"
                     },
                     {
@@ -939,7 +951,7 @@
                     {
                         "sha":  "bb3be56",
                         "date":  "2026-09-26T23:28:08-07:00",
-                        "refs":  "worktree-agent-a9ff6a1890f8fe5a4",
+                        "refs":  "",
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a9ff6a1890f8fe5a4"
                     },
                     {
@@ -1145,19 +1157,7 @@
                         "date":  "2026-09-26T21:32:20-07:00",
                         "refs":  "",
                         "subject":  "v0.68: visible recoil +20% on all weapons (camera climb, walk, view-model kick; bloom unchanged)"
-                    },
-                    {
-                        "sha":  "39793b0",
-                        "date":  "2026-09-26T21:29:04-07:00",
-                        "refs":  "",
-                        "subject":  "v0.67: interactive campaign map after New Campaign"
-                    },
-                    {
-                        "sha":  "f87eb91",
-                        "date":  "2026-09-26T21:17:10-07:00",
-                        "refs":  "",
-                        "subject":  "v0.66: weapon customization key art (blurred list band, dark feathered border)"
                     }
                 ],
-    "generatedAt":  "2026-09-26T23:38:45.0084900-07:00"
+    "generatedAt":  "2026-09-26T23:39:09.4880976-07:00"
 }
