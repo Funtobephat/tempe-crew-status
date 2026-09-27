@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "7f7a8ad",
-                         "date":  "2026-09-26T19:20:14-07:00",
-                         "subject":  "v0.62: other shotguns\u0027 damage brought close to the 870",
-                         "ahead":  40,
+                         "sha":  "dccf500",
+                         "date":  "2026-09-26T19:50:28-07:00",
+                         "subject":  "Merge Sub-agent 4: hub shooting range",
+                         "ahead":  44,
                          "merged":  false
                      },
                      {
@@ -491,9 +491,9 @@
                      },
                      {
                          "name":  "worktree-agent-a9ff6a1890f8fe5a4",
-                         "sha":  "93af37c",
-                         "date":  "2026-09-26T19:49:43-07:00",
-                         "subject":  "Range target: guard the TextRender label on dedicated servers (not loaded there) - Test-Coop PASS",
+                         "sha":  "0c45eb9",
+                         "date":  "2026-09-26T19:49:51-07:00",
+                         "subject":  "Range notes: dedicated-server label gotcha",
                          "ahead":  43,
                          "merged":  false
                      },
@@ -1120,5 +1120,5 @@
                         "subject":  "status 98af4ee 2026-09-26T17:28:41"
                     }
                 ],
-    "generatedAt":  "2026-09-26T19:50:51.2895426-07:00"
+    "generatedAt":  "2026-09-26T19:51:20.2023437-07:00"
 }
