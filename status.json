@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "b5b94f5",
-                         "date":  "2026-09-26T20:25:06-07:00",
-                         "subject":  "Merge Sub-agent 2: procedural street-prop mesh library (cars, wrecks, barriers, lights, signals, furniture, desert)",
-                         "ahead":  54,
+                         "sha":  "bb5f457",
+                         "date":  "2026-09-26T20:41:10-07:00",
+                         "subject":  "Merge Sub-agent 3: scarier infected (hunched clips + Idle, repainted skins, smoothed normals, face sculpt)",
+                         "ahead":  56,
                          "merged":  false
                      },
                      {
@@ -880,6 +880,18 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "b2df0da",
+                        "date":  "2026-09-26T20:41:31-07:00",
+                        "refs":  "worktree-agent-a59b7989711694684",
+                        "subject":  "Trial integration: merge Sub-agent 1 buildings (fc81a5e) with street props; keep both lanes\u0027 build() hooks, facade materials from the buildings lane"
+                    },
+                    {
+                        "sha":  "bb5f457",
+                        "date":  "2026-09-26T20:41:10-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 3: scarier infected (hunched clips + Idle, repainted skins, smoothed normals, face sculpt)"
+                    },
+                    {
                         "sha":  "fc46307",
                         "date":  "2026-09-26T20:40:41-07:00",
                         "refs":  "worktree-agent-a3509403be866a68e",
@@ -894,7 +906,7 @@
                     {
                         "sha":  "b5b94f5",
                         "date":  "2026-09-26T20:25:06-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-a59b7989711694684",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 2: procedural street-prop mesh library (cars, wrecks, barriers, lights, signals, furniture, desert)"
                     },
                     {
@@ -1106,19 +1118,7 @@
                         "date":  "2026-09-26T18:03:21-07:00",
                         "refs":  "",
                         "subject":  "status 98af4ee 2026-09-26T18:03:21"
-                    },
-                    {
-                        "sha":  "fd23e29",
-                        "date":  "2026-09-26T17:59:54-07:00",
-                        "refs":  "",
-                        "subject":  "v0.60: procedural Desert Eagle, KRISS Vector, coach gun, AI AWM and G36C playable"
-                    },
-                    {
-                        "sha":  "ad666d0",
-                        "date":  "2026-09-26T17:57:29-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T17:57:29"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:41:11.3864708-07:00"
+    "generatedAt":  "2026-09-26T20:41:36.2571224-07:00"
 }
