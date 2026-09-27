@@ -435,10 +435,10 @@
                      },
                      {
                          "name":  "worktree-agent-a3509403be866a68e",
-                         "sha":  "fc46307",
-                         "date":  "2026-09-26T20:40:41-07:00",
-                         "subject":  "Zombies: hunched re-authored clips + Idle, repainted skins, smoothed normals, face sculpt, -TMZombieShot",
-                         "ahead":  41,
+                         "sha":  "bb5f457",
+                         "date":  "2026-09-26T20:41:10-07:00",
+                         "subject":  "Merge Sub-agent 3: scarier infected (hunched clips + Idle, repainted skins, smoothed normals, face sculpt)",
+                         "ahead":  56,
                          "merged":  false
                      },
                      {
@@ -580,7 +580,7 @@
                       {
                           "folder":  "agent-a59b7989711694684",
                           "branch":  "worktree-agent-a59b7989711694684",
-                          "dirty":  174
+                          "dirty":  226
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -894,13 +894,13 @@
                     {
                         "sha":  "bb5f457",
                         "date":  "2026-09-26T20:41:10-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-a3509403be866a68e",
                         "subject":  "Merge Sub-agent 3: scarier infected (hunched clips + Idle, repainted skins, smoothed normals, face sculpt)"
                     },
                     {
                         "sha":  "fc46307",
                         "date":  "2026-09-26T20:40:41-07:00",
-                        "refs":  "worktree-agent-a3509403be866a68e",
+                        "refs":  "",
                         "subject":  "Zombies: hunched re-authored clips + Idle, repainted skins, smoothed normals, face sculpt, -TMZombieShot"
                     },
                     {
@@ -1120,5 +1120,5 @@
                         "subject":  "v0.61: generic weapon names, no maker logos, unlicensed reference photos untracked"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:42:42.4727904-07:00"
+    "generatedAt":  "2026-09-26T20:48:55.1974510-07:00"
 }
