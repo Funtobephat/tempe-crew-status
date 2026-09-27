@@ -435,10 +435,10 @@
                      },
                      {
                          "name":  "worktree-agent-a3509403be866a68e",
-                         "sha":  "7f7a8ad",
-                         "date":  "2026-09-26T19:20:14-07:00",
-                         "subject":  "v0.62: other shotguns\u0027 damage brought close to the 870",
-                         "ahead":  40,
+                         "sha":  "fc46307",
+                         "date":  "2026-09-26T20:40:41-07:00",
+                         "subject":  "Zombies: hunched re-authored clips + Idle, repainted skins, smoothed normals, face sculpt, -TMZombieShot",
+                         "ahead":  41,
                          "merged":  false
                      },
                      {
@@ -565,7 +565,7 @@
                       {
                           "folder":  "agent-a3509403be866a68e",
                           "branch":  "worktree-agent-a3509403be866a68e",
-                          "dirty":  110
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -1120,5 +1120,5 @@
                         "subject":  "status 98af4ee 2026-09-26T17:57:29"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:40:44.6374268-07:00"
+    "generatedAt":  "2026-09-26T20:41:11.3864708-07:00"
 }
