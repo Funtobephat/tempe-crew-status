@@ -648,13 +648,13 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  228,
-                          "active":  "2026-09-27T11:59:24.6067288-07:00"
+                          "active":  "2026-09-27T12:00:23.7290531-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
                           "dirty":  30,
-                          "active":  "2026-09-27T11:59:24.3729125-07:00"
+                          "active":  "2026-09-27T12:00:24.9533719-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1355,5 +1355,5 @@
                         "subject":  "District: seal hollow-shell doors, interiors behind the kept ATMDoors, door audit"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:59:24.1928770-07:00"
+    "generatedAt":  "2026-09-27T12:00:24.3689625-07:00"
 }
