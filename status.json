@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "9f565fd",
-                         "date":  "2026-09-27T10:36:00-07:00",
-                         "subject":  "Merge Sub-agent 8: seal hollow-shell doors, interiors behind kept doors, door audit (map rebuild pending)",
-                         "ahead":  125,
+                         "sha":  "26eeec4",
+                         "date":  "2026-09-27T10:36:42-07:00",
+                         "subject":  "Merge Sub-agent 5: bolt rifles keep the stock (and the right fist\u0027s grip) until the scope overlay covers the view",
+                         "ahead":  127,
                          "merged":  false
                      },
                      {
@@ -515,10 +515,10 @@
                      },
                      {
                          "name":  "worktree-agent-a7e1db2966d2992d3",
-                         "sha":  "17f44a1",
-                         "date":  "2026-09-27T10:10:11-07:00",
-                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post",
-                         "ahead":  118,
+                         "sha":  "71e8393",
+                         "date":  "2026-09-27T10:37:02-07:00",
+                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a7e1db2966d2992d3",
+                         "ahead":  129,
                          "merged":  false
                      },
                      {
@@ -646,7 +646,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  10
+                          "dirty":  2
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -671,7 +671,7 @@
                       {
                           "folder":  "agent-a1bccf2e41869cb3f",
                           "branch":  "worktree-agent-a1bccf2e41869cb3f",
-                          "dirty":  0
+                          "dirty":  1
                       },
                       {
                           "folder":  "agent-a1e4d716b9b161880",
@@ -706,12 +706,12 @@
                       {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
-                          "dirty":  0
+                          "dirty":  3
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
                           "branch":  "worktree-agent-a7e1db2966d2992d3",
-                          "dirty":  5
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -1276,5 +1276,5 @@
                         "subject":  "Unreal MCP: enable Epic\u0027s ModelContextProtocol + AllToolsets (editor only), .mcp.json for Claude Code, Open-Editor-MCP.ps1 launcher"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:37:13.4678749-07:00"
+    "generatedAt":  "2026-09-27T10:38:31.8167297-07:00"
 }
