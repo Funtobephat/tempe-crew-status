@@ -654,7 +654,7 @@
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
                           "dirty":  4,
-                          "active":  "2026-09-27T11:31:10.2252160-07:00"
+                          "active":  "2026-09-27T11:31:34.5370514-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -797,8 +797,8 @@
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  117,
-                          "active":  "2026-09-27T11:31:14.2198039-07:00"
+                          "dirty":  233,
+                          "active":  "2026-09-27T11:32:03.7753763-07:00"
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1355,5 +1355,5 @@
                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:31:23.8833348-07:00"
+    "generatedAt":  "2026-09-27T11:32:24.0894369-07:00"
 }
