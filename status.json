@@ -582,7 +582,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1
+                          "dirty":  12
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -667,7 +667,7 @@
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  141
+                          "dirty":  142
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1172,5 +1172,5 @@
                         "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:08:47.5249987-07:00"
+    "generatedAt":  "2026-09-27T10:09:44.7548970-07:00"
 }
