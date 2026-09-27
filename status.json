@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "26eeec4",
-                         "date":  "2026-09-27T10:36:42-07:00",
-                         "subject":  "Merge Sub-agent 5: bolt rifles keep the stock (and the right fist\u0027s grip) until the scope overlay covers the view",
-                         "ahead":  127,
+                         "sha":  "81a8087",
+                         "date":  "2026-09-27T10:45:56-07:00",
+                         "subject":  "v0.87: integrate Sub-agents 3, 5, 7, 8 (M4 charging handle, rifle ADS grip, ADS checker, sealed doors)",
+                         "ahead":  128,
                          "merged":  false
                      },
                      {
@@ -611,10 +611,10 @@
                      },
                      {
                          "name":  "worktree-agent-aebb56d563c8fd45f",
-                         "sha":  "747a55c",
-                         "date":  "2026-09-27T09:52:15-07:00",
-                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild",
-                         "ahead":  116,
+                         "sha":  "4f13cfd",
+                         "date":  "2026-09-27T10:46:45-07:00",
+                         "subject":  "Merge guns-procedural (doors, v0.86) into car sections",
+                         "ahead":  129,
                          "merged":  false
                      },
                      {
@@ -646,7 +646,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  2
+                          "dirty":  1
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -661,7 +661,7 @@
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
                           "branch":  "worktree-agent-a08d89b2f8d1de0bf",
-                          "dirty":  19
+                          "dirty":  13
                       },
                       {
                           "folder":  "agent-a10bee3c4c922a711",
@@ -771,7 +771,7 @@
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  151
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1276,5 +1276,5 @@
                         "subject":  "Merge Sub-agent 6: grenades 3x radius + procedural explosion FX (fireball, smoke column, shockwave, embers, flash, camera shake)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:47:48.1471322-07:00"
+    "generatedAt":  "2026-09-27T10:48:31.6078521-07:00"
 }
