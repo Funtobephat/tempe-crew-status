@@ -664,7 +664,7 @@
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
                           "branch":  "worktree-agent-afe2fce4a30bc7be4",
-                          "dirty":  3
+                          "dirty":  13
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1159,5 +1159,5 @@
                         "subject":  "AutoTest deterministic again: body-centre aim, no random anim phase/jitter in bone tests, stricter evidence"
                     }
                 ],
-    "generatedAt":  "2026-09-26T23:20:45.0569155-07:00"
+    "generatedAt":  "2026-09-26T23:21:21.1235111-07:00"
 }
