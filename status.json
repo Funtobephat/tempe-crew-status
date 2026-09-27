@@ -459,10 +459,10 @@
                      },
                      {
                          "name":  "worktree-agent-a59b7989711694684",
-                         "sha":  "b2df0da",
-                         "date":  "2026-09-26T20:41:31-07:00",
-                         "subject":  "Trial integration: merge Sub-agent 1 buildings (fc81a5e) with street props; keep both lanes\u0027 build() hooks, facade materials from the buildings lane",
-                         "ahead":  57,
+                         "sha":  "8df5954",
+                         "date":  "2026-09-26T20:50:43-07:00",
+                         "subject":  "Street props x buildings: facade clearance guards (sidewalk furniture skipped where a building sits, parked cars nudged off walls, truck-stop tractor dropped when its nose would enter the diner) + clearance report",
+                         "ahead":  58,
                          "merged":  false
                      },
                      {
@@ -565,7 +565,7 @@
                       {
                           "folder":  "agent-a3509403be866a68e",
                           "branch":  "worktree-agent-a3509403be866a68e",
-                          "dirty":  2
+                          "dirty":  55
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -580,7 +580,7 @@
                       {
                           "folder":  "agent-a59b7989711694684",
                           "branch":  "worktree-agent-a59b7989711694684",
-                          "dirty":  226
+                          "dirty":  225
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -880,6 +880,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "8df5954",
+                        "date":  "2026-09-26T20:50:43-07:00",
+                        "refs":  "worktree-agent-a59b7989711694684",
+                        "subject":  "Street props x buildings: facade clearance guards (sidewalk furniture skipped where a building sits, parked cars nudged off walls, truck-stop tractor dropped when its nose would enter the diner) + clearance report"
+                    },
+                    {
                         "sha":  "f63843a",
                         "date":  "2026-09-26T20:49:52-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -894,7 +900,7 @@
                     {
                         "sha":  "b2df0da",
                         "date":  "2026-09-26T20:41:31-07:00",
-                        "refs":  "worktree-agent-a59b7989711694684",
+                        "refs":  "",
                         "subject":  "Trial integration: merge Sub-agent 1 buildings (fc81a5e) with street props; keep both lanes\u0027 build() hooks, facade materials from the buildings lane"
                     },
                     {
@@ -1112,13 +1118,7 @@
                         "date":  "2026-09-26T18:15:27-07:00",
                         "refs":  "",
                         "subject":  "status 98af4ee 2026-09-26T18:15:26"
-                    },
-                    {
-                        "sha":  "e1da591",
-                        "date":  "2026-09-26T18:09:39-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T18:09:39"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:50:13.4409952-07:00"
+    "generatedAt":  "2026-09-26T20:51:07.1246629-07:00"
 }
