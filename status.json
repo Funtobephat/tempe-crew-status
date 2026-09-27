@@ -546,6 +546,14 @@
                          "merged":  false
                      },
                      {
+                         "name":  "worktree-agent-aebb56d563c8fd45f",
+                         "sha":  "747a55c",
+                         "date":  "2026-09-27T09:52:15-07:00",
+                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild",
+                         "ahead":  116,
+                         "merged":  false
+                     },
+                     {
                          "name":  "worktree-agent-af6b0d6274a433e04",
                          "sha":  "e2c7473",
                          "date":  "2026-09-26T23:15:10-07:00",
@@ -654,6 +662,11 @@
                       {
                           "folder":  "agent-adbcc631b9a256947",
                           "branch":  "worktree-agent-adbcc631b9a256947",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-aebb56d563c8fd45f",
+                          "branch":  "worktree-agent-aebb56d563c8fd45f",
                           "dirty":  0
                       },
                       {
@@ -921,7 +934,7 @@
                     {
                         "sha":  "747a55c",
                         "date":  "2026-09-27T09:52:15-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-aebb56d563c8fd45f",
                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild"
                     },
                     {
@@ -1159,5 +1172,5 @@
                         "subject":  "v0.74: hide the top-left info line in game (-TMDebugHud shows it)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T09:52:49.9801532-07:00"
+    "generatedAt":  "2026-09-27T09:53:50.4226875-07:00"
 }
