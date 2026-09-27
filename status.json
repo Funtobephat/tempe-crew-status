@@ -934,7 +934,7 @@
                     {
                         "sha":  "17f44a1",
                         "date":  "2026-09-27T10:10:11-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ac599cb6f090da687, worktree-agent-ab11cc93b7268b66e, worktree-agent-a7e1db2966d2992d3, worktree-agent-a6f530223364c0a43, worktree-agent-a1e4d716b9b161880, worktree-agent-a1bccf2e41869cb3f, worktree-agent-a08d89b2f8d1de0bf, worktree-agent-a00e40f662f518017",
                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post"
                     },
                     {
@@ -1172,5 +1172,5 @@
                         "subject":  "Hub: build the ceiling lamp shades (lights() before the Instancer flush; dress_interactables reset them)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:10:50.9726289-07:00"
+    "generatedAt":  "2026-09-27T10:12:12.3222729-07:00"
 }
