@@ -1,5 +1,5 @@
 {
-    "master":  "b43c611",
+    "master":  "d1c32ac",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "b43c611",
-                         "date":  "2026-09-27T13:21:25-07:00",
-                         "subject":  "v0.93: safe-house start - rebuilt Proto_Tempe (safe house, tagged starts, quiet zone)",
+                         "sha":  "d1c32ac",
+                         "date":  "2026-09-27T13:21:42-07:00",
+                         "subject":  "Merge Sub-agent 3: campaign starts inside the Safe House; wall board is a map that opens the level select",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -575,8 +575,8 @@
                          "sha":  "9f066c0",
                          "date":  "2026-09-27T13:11:14-07:00",
                          "subject":  "Campaign starts in the Safe House; mission board is a framed campaign map that opens the level selection",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-ac1eb0697f855df5c",
@@ -647,8 +647,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  22,
-                          "active":  "2026-09-27T13:21:29.9380572-07:00"
+                          "dirty":  2,
+                          "active":  "2026-09-27T13:21:43.0860995-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "d1c32ac",
+                        "date":  "2026-09-27T13:21:42-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 3: campaign starts inside the Safe House; wall board is a map that opens the level select"
+                    },
+                    {
                         "sha":  "b43c611",
                         "date":  "2026-09-27T13:21:25-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.93: safe-house start - rebuilt Proto_Tempe (safe house, tagged starts, quiet zone)"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:46:45-07:00",
                         "refs":  "",
                         "subject":  "Merge guns-procedural (doors, v0.86) into car sections"
-                    },
-                    {
-                        "sha":  "81a8087",
-                        "date":  "2026-09-27T10:45:56-07:00",
-                        "refs":  "",
-                        "subject":  "v0.87: integrate Sub-agents 3, 5, 7, 8 (M4 charging handle, rifle ADS grip, ADS checker, sealed doors)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T13:21:26.0076589-07:00"
+    "generatedAt":  "2026-09-27T13:21:43.7877906-07:00"
 }
