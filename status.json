@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  10,
-                          "active":  "2026-09-27T16:46:45.6277321-07:00"
+                          "active":  "2026-09-27T16:48:16.7169971-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1439,5 +1439,5 @@
                         "subject":  "Merge worktree-agent-a6f530223364c0a43"
                     }
                 ],
-    "generatedAt":  "2026-09-27T16:47:24.0654900-07:00"
+    "generatedAt":  "2026-09-27T16:48:24.0442354-07:00"
 }
