@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T12:26:24.4333351-07:00"
+                          "active":  "2026-09-27T12:27:24.3844630-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1355,5 +1355,5 @@
                         "subject":  "Sniper stock grip: R_M24/R_AWM stock hides with the scope overlay (ads_hide_at 0.9) so the right fist keeps the wrist mid-ADS"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:26:24.2710907-07:00"
+    "generatedAt":  "2026-09-27T12:27:24.3190483-07:00"
 }
