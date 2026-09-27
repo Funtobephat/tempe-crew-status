@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "67a2a80",
-                         "date":  "2026-09-27T09:52:09-07:00",
-                         "subject":  "v0.84: M4 ADS to reference (folded rear, ringed front tower, 15.5 cm eye relief); compact main menu; campaign map You Are Here",
-                         "ahead":  115,
+                         "sha":  "747a55c",
+                         "date":  "2026-09-27T09:52:15-07:00",
+                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild",
+                         "ahead":  116,
                          "merged":  false
                      },
                      {
@@ -574,7 +574,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  7
+                          "dirty":  1
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1159,5 +1159,5 @@
                         "subject":  "v0.74: hide the top-left info line in game (-TMDebugHud shows it)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T09:52:28.2381227-07:00"
+    "generatedAt":  "2026-09-27T09:52:49.9801532-07:00"
 }
