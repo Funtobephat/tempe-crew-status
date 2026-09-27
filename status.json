@@ -647,8 +647,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1,
-                          "active":  "2026-09-27T12:39:42.1577636-07:00"
+                          "dirty":  118,
+                          "active":  "2026-09-27T13:10:25.4670018-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-ab11cc93b7268b66e",
                           "branch":  "worktree-agent-ab11cc93b7268b66e",
                           "dirty":  101,
-                          "active":  "2026-09-27T13:08:38.0261794-07:00"
+                          "active":  "2026-09-27T13:10:16.2720284-07:00"
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -780,7 +780,7 @@
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
                           "dirty":  12,
-                          "active":  "2026-09-27T13:08:03.0425475-07:00"
+                          "active":  "2026-09-27T13:10:24.6214141-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1355,5 +1355,5 @@
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a00e40f662f518017"
                     }
                 ],
-    "generatedAt":  "2026-09-27T13:08:33.4157575-07:00"
+    "generatedAt":  "2026-09-27T13:10:24.7836885-07:00"
 }
