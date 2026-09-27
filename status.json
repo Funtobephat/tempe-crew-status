@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "39793b0",
-                         "date":  "2026-09-26T21:29:04-07:00",
-                         "subject":  "v0.67: interactive campaign map after New Campaign",
-                         "ahead":  75,
+                         "sha":  "6ae2b4b",
+                         "date":  "2026-09-26T21:32:20-07:00",
+                         "subject":  "v0.68: visible recoil +20% on all weapons (camera climb, walk, view-model kick; bloom unchanged)",
+                         "ahead":  76,
                          "merged":  false
                      },
                      {
@@ -880,9 +880,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "6ae2b4b",
+                        "date":  "2026-09-26T21:32:20-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.68: visible recoil +20% on all weapons (camera climb, walk, view-model kick; bloom unchanged)"
+                    },
+                    {
                         "sha":  "39793b0",
                         "date":  "2026-09-26T21:29:04-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.67: interactive campaign map after New Campaign"
                     },
                     {
@@ -1112,13 +1118,7 @@
                         "date":  "2026-09-26T19:22:37-07:00",
                         "refs":  "",
                         "subject":  "status 98af4ee 2026-09-26T19:22:37"
-                    },
-                    {
-                        "sha":  "7f7a8ad",
-                        "date":  "2026-09-26T19:20:14-07:00",
-                        "refs":  "",
-                        "subject":  "v0.62: other shotguns\u0027 damage brought close to the 870"
                     }
                 ],
-    "generatedAt":  "2026-09-26T21:29:31.1803907-07:00"
+    "generatedAt":  "2026-09-26T21:32:44.5306022-07:00"
 }
