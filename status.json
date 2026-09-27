@@ -1,5 +1,5 @@
 {
-    "master":  "cf22ace",
+    "master":  "4369ef7",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "cf22ace",
-                         "date":  "2026-09-27T11:55:09-07:00",
-                         "subject":  "v0.91: car glass/tyres/launched panels integrated (Sub-agent 9); notes tidy",
+                         "sha":  "4369ef7",
+                         "date":  "2026-09-27T12:01:01-07:00",
+                         "subject":  "v0.91: district rebuilt with car glass panes and tyres",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -647,14 +647,14 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  228,
-                          "active":  "2026-09-27T12:00:23.7290531-07:00"
+                          "dirty":  1,
+                          "active":  "2026-09-27T12:00:46.5497574-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
                           "dirty":  30,
-                          "active":  "2026-09-27T12:00:24.9533719-07:00"
+                          "active":  "2026-09-27T12:01:05.4674163-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "4369ef7",
+                        "date":  "2026-09-27T12:01:01-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.91: district rebuilt with car glass panes and tyres"
+                    },
+                    {
                         "sha":  "cf22ace",
                         "date":  "2026-09-27T11:55:09-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.91: car glass/tyres/launched panels integrated (Sub-agent 9); notes tidy"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:35:23-07:00",
                         "refs":  "",
                         "subject":  "CLAUDE.md: remove leftover merge markers"
-                    },
-                    {
-                        "sha":  "eb946b0",
-                        "date":  "2026-09-27T10:35:12-07:00",
-                        "refs":  "worktree-agent-a1e4d716b9b161880",
-                        "subject":  "District: seal hollow-shell doors, interiors behind the kept ATMDoors, door audit"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:00:24.3689625-07:00"
+    "generatedAt":  "2026-09-27T12:01:02.7339256-07:00"
 }
