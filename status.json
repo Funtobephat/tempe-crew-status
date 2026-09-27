@@ -516,9 +516,9 @@
                      },
                      {
                          "name":  "worktree-agent-a7e1db2966d2992d3",
-                         "sha":  "fc0de7c",
-                         "date":  "2026-09-27T12:40:42-07:00",
-                         "subject":  "M_Bat: batter\u0027s grip (aligned knuckles, palms facing, hands touching) + sign-continuous quaternion keys in melee clips",
+                         "sha":  "05ab42c",
+                         "date":  "2026-09-27T12:41:15-07:00",
+                         "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -780,7 +780,7 @@
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
                           "dirty":  12,
-                          "active":  "2026-09-27T12:41:25.7609186-07:00"
+                          "active":  "2026-09-27T12:41:38.7985973-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1117,13 +1117,13 @@
                     {
                         "sha":  "05ab42c",
                         "date":  "2026-09-27T12:41:15-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-a7e1db2966d2992d3",
                         "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix"
                     },
                     {
                         "sha":  "fc0de7c",
                         "date":  "2026-09-27T12:40:42-07:00",
-                        "refs":  "worktree-agent-a7e1db2966d2992d3",
+                        "refs":  "",
                         "subject":  "M_Bat: batter\u0027s grip (aligned knuckles, palms facing, hands touching) + sign-continuous quaternion keys in melee clips"
                     },
                     {
@@ -1355,5 +1355,5 @@
                         "subject":  "Merge Sub-agent 5: bolt rifles keep the stock (and the right fist\u0027s grip) until the scope overlay covers the view"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:41:24.9408133-07:00"
+    "generatedAt":  "2026-09-27T12:41:38.4264580-07:00"
 }
