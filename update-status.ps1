@@ -82,6 +82,8 @@ try {
           $fp = Join-Path $p ($rel -replace '/', '\')
           if (Test-Path -LiteralPath $fp -PathType Leaf) { $t = (Get-Item -LiteralPath $fp).LastWriteTime; if ($t -gt $latest) { $latest = $t } }
         }
+        # test/build runs only write Saved\Logs (git-ignored): count the newest log too, so a lane busy testing keeps ticking
+        if ($st.Count -gt 0) { $lg = Get-ChildItem -LiteralPath (Join-Path $p "Saved\Logs") -File -ErrorAction SilentlyContinue | Sort-Object LastWriteTime -Descending | Select-Object -First 1; if ($lg -and $lg.LastWriteTime -gt $latest) { $latest = $lg.LastWriteTime } }
         if ($st.Count -gt 0 -and $latest -gt [datetime]::MinValue) { $w.active = $latest.ToString("o") }   # only real uncommitted work counts as activity
       } else { $w.dirty = [int]$dc[$p] }
       $dcNew[$p] = $w.dirty
