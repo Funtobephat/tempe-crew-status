@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "8c5ca39",
-                         "date":  "2026-09-26T22:08:59-07:00",
-                         "subject":  "v0.71: campaign map reads as a progression with only the live choices lit",
-                         "ahead":  79,
+                         "sha":  "dc6fe29",
+                         "date":  "2026-09-26T22:16:56-07:00",
+                         "subject":  "v0.72: no right-hand hint column on the main menu",
+                         "ahead":  80,
                          "merged":  false
                      },
                      {
@@ -880,9 +880,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "dc6fe29",
+                        "date":  "2026-09-26T22:16:56-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.72: no right-hand hint column on the main menu"
+                    },
+                    {
                         "sha":  "8c5ca39",
                         "date":  "2026-09-26T22:08:59-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.71: campaign map reads as a progression with only the live choices lit"
                     },
                     {
@@ -1112,13 +1118,7 @@
                         "date":  "2026-09-26T19:42:15-07:00",
                         "refs":  "",
                         "subject":  "Audio lane: retire the music score for a recorded night soundscape; recorded infected voices"
-                    },
-                    {
-                        "sha":  "378ef45",
-                        "date":  "2026-09-26T19:40:11-07:00",
-                        "refs":  "",
-                        "subject":  "Hub shooting range: 4-lane annex behind the prep room, ATMRangeTarget knock-down plates, -TMRangeTest"
                     }
                 ],
-    "generatedAt":  "2026-09-26T22:09:18.8418484-07:00"
+    "generatedAt":  "2026-09-26T22:17:16.3625123-07:00"
 }
