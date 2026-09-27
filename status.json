@@ -574,7 +574,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1
+                          "dirty":  4
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1159,5 +1159,5 @@
                         "subject":  "v0.69: hub chairs moved off the range walkway; hub build no longer clobbers kit-owned facade materials"
                     }
                 ],
-    "generatedAt":  "2026-09-27T00:07:40.4200718-07:00"
+    "generatedAt":  "2026-09-27T09:08:56.4358352-07:00"
 }
