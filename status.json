@@ -612,11 +612,11 @@
                      },
                      {
                          "name":  "worktree-agent-aebb56d563c8fd45f",
-                         "sha":  "922ecf5",
-                         "date":  "2026-09-27T11:15:18-07:00",
-                         "subject":  "CLAUDE.md: crew board drops the bar for finished lanes",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "08a7a7f",
+                         "date":  "2026-09-27T11:54:24-07:00",
+                         "subject":  "Car glass shatters, tyres deflate and the car leans, shot-off panels are launched; car events replicated for late joiners",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-af6b0d6274a433e04",
@@ -1355,5 +1355,5 @@
                         "subject":  "QA: check_ads.py judges every sight style (ring/hooded/notch/bead/scope), SKIP instead of false FAIL"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:54:24.0342278-07:00"
+    "generatedAt":  "2026-09-27T11:54:26.6002227-07:00"
 }
