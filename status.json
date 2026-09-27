@@ -659,7 +659,7 @@
                       {
                           "folder":  "agent-af6b0d6274a433e04",
                           "branch":  "worktree-agent-af6b0d6274a433e04",
-                          "dirty":  49
+                          "dirty":  52
                       },
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
@@ -919,9 +919,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "c894bdb",
+                        "date":  "2026-09-26T22:57:21-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "CLAUDE.md: reply formatting preference (no red code spans for routine info)"
+                    },
+                    {
                         "sha":  "e11d50c",
                         "date":  "2026-09-26T22:55:33-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 4: hub ceiling lamp shades placed before the Instancer flush"
                     },
                     {
@@ -1151,13 +1157,7 @@
                         "date":  "2026-09-26T20:03:28-07:00",
                         "refs":  "",
                         "subject":  "Street props: procedural mesh library (cars/wrecks, bus, semi, jersey, sandbags, razor wire, tents, lamps, signals, signs, furniture, containers, desert) + street_kit placement hooks"
-                    },
-                    {
-                        "sha":  "6927d88",
-                        "date":  "2026-09-26T19:56:21-07:00",
-                        "refs":  "",
-                        "subject":  "v0.63: hub shooting range integrated"
                     }
                 ],
-    "generatedAt":  "2026-09-26T22:57:11.5010531-07:00"
+    "generatedAt":  "2026-09-26T22:58:36.0408627-07:00"
 }
