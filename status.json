@@ -1,5 +1,5 @@
 {
-    "master":  "2632302",
+    "master":  "3429fbd",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "2632302",
-                         "date":  "2026-09-27T10:55:50-07:00",
-                         "subject":  "Merge worktree-agent-a08d89b2f8d1de0bf",
+                         "sha":  "3429fbd",
+                         "date":  "2026-09-27T10:56:25-07:00",
+                         "subject":  "Merge Sub-agent 9: cars shot apart panel by panel",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -615,8 +615,8 @@
                          "sha":  "4f13cfd",
                          "date":  "2026-09-27T10:46:45-07:00",
                          "subject":  "Merge guns-procedural (doors, v0.86) into car sections",
-                         "ahead":  2,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-af6b0d6274a433e04",
@@ -647,7 +647,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  3
+                          "dirty":  1
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1037,9 +1037,21 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "3429fbd",
+                        "date":  "2026-09-27T10:56:25-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 9: cars shot apart panel by panel"
+                    },
+                    {
+                        "sha":  "6f70a05",
+                        "date":  "2026-09-27T10:56:25-07:00",
+                        "refs":  "",
+                        "subject":  "Fix merge of Sub-agents 4+5: keep SetAdsAlpha and ReapplyHidden (stocks handled per tick by SetAdsAlpha)"
+                    },
+                    {
                         "sha":  "2632302",
                         "date":  "2026-09-27T10:55:50-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge worktree-agent-a08d89b2f8d1de0bf"
                     },
                     {
@@ -1263,19 +1275,7 @@
                         "date":  "2026-09-26T23:38:23-07:00",
                         "refs":  "worktree-agent-afe2fce4a30bc7be4",
                         "subject":  "Gore: realistic exit spray/mist, landing wall splatter, arterial spurts, drips, spreading corpse pools; one merged blood RPC per infected per frame; gore sounds wired; -TMGoreShot/-TMGoreCrowd proofs"
-                    },
-                    {
-                        "sha":  "b9be743",
-                        "date":  "2026-09-26T23:28:32-07:00",
-                        "refs":  "",
-                        "subject":  "v0.79: ADS stock hiding on all long guns integrated (Sub-agent 3)"
-                    },
-                    {
-                        "sha":  "1e2a481",
-                        "date":  "2026-09-26T23:28:11-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 3: ADS stock hiding for all 11 remaining long guns (ads_clear rig flag keeps eye relief)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:56:23.5260055-07:00"
+    "generatedAt":  "2026-09-27T10:56:25.9549297-07:00"
 }
