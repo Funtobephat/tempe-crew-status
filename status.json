@@ -531,10 +531,10 @@
                      },
                      {
                          "name":  "worktree-agent-af6b0d6274a433e04",
-                         "sha":  "29b7015",
-                         "date":  "2026-09-26T20:07:19-07:00",
-                         "subject":  "Audio lane: listener-space reverb, indoor-muffled beds, loudness-matched variant sets",
-                         "ahead":  42,
+                         "sha":  "112d1d0",
+                         "date":  "2026-09-26T20:11:02-07:00",
+                         "subject":  "Audio lane: recorded infected gore (bite, sever, splatter, bodyfall thud, corpse hit)",
+                         "ahead":  43,
                          "merged":  false
                      },
                      {
@@ -565,7 +565,7 @@
                       {
                           "folder":  "agent-a3509403be866a68e",
                           "branch":  "worktree-agent-a3509403be866a68e",
-                          "dirty":  48
+                          "dirty":  97
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -590,7 +590,7 @@
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
-                          "dirty":  83
+                          "dirty":  51
                       },
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
@@ -880,9 +880,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "112d1d0",
+                        "date":  "2026-09-26T20:11:02-07:00",
+                        "refs":  "worktree-agent-af6b0d6274a433e04",
+                        "subject":  "Audio lane: recorded infected gore (bite, sever, splatter, bodyfall thud, corpse hit)"
+                    },
+                    {
                         "sha":  "29b7015",
                         "date":  "2026-09-26T20:07:19-07:00",
-                        "refs":  "worktree-agent-af6b0d6274a433e04",
+                        "refs":  "",
                         "subject":  "Audio lane: listener-space reverb, indoor-muffled beds, loudness-matched variant sets"
                     },
                     {
@@ -1112,13 +1118,7 @@
                         "date":  "2026-09-26T17:39:28-07:00",
                         "refs":  "worktree-agent-a0366b80b65e236bf",
                         "subject":  "G_DB: procedural double-barrel coach gun model from reference photo"
-                    },
-                    {
-                        "sha":  "d6d4e07",
-                        "date":  "2026-09-26T17:37:15-07:00",
-                        "refs":  "",
-                        "subject":  "Merge branch \u0027worktree-agent-a10bee3c4c922a711\u0027 into guns-procedural"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:07:51.7467300-07:00"
+    "generatedAt":  "2026-09-26T20:11:34.4995382-07:00"
 }
