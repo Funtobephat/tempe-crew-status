@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T11:06:59.7483108-07:00"
+                          "active":  "2026-09-27T11:07:03.9627195-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1355,5 +1355,5 @@
                         "subject":  "v0.83: M4A1 ADS keeps stock-on eye relief (ads_clear) - no more near-plane clipping"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:07:00.3726610-07:00"
+    "generatedAt":  "2026-09-27T11:07:23.7191586-07:00"
 }
