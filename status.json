@@ -653,8 +653,8 @@
                       {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
-                          "dirty":  29,
-                          "active":  "2026-09-27T11:39:18.4565729-07:00"
+                          "dirty":  30,
+                          "active":  "2026-09-27T11:50:09.3419744-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1355,5 +1355,5 @@
                         "subject":  "M4 charging handle: rounded AR-15 T-handle with latch paddle in the dark sight-metal finish"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:49:24.0005313-07:00"
+    "generatedAt":  "2026-09-27T11:50:24.2602879-07:00"
 }
