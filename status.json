@@ -609,7 +609,7 @@
                       {
                           "folder":  "agent-a5e7ebff2912f47e0",
                           "branch":  "worktree-agent-a5e7ebff2912f47e0",
-                          "dirty":  15
+                          "dirty":  16
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -1159,5 +1159,5 @@
                         "subject":  "Street props: procedural mesh library (cars/wrecks, bus, semi, jersey, sandbags, razor wire, tents, lamps, signals, signs, furniture, containers, desert) + street_kit placement hooks"
                     }
                 ],
-    "generatedAt":  "2026-09-26T23:03:03.6116288-07:00"
+    "generatedAt":  "2026-09-26T23:04:55.2384106-07:00"
 }
