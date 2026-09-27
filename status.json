@@ -572,9 +572,9 @@
                      },
                      {
                          "name":  "worktree-agent-ab11cc93b7268b66e",
-                         "sha":  "642df57",
-                         "date":  "2026-09-27T11:37:48-07:00",
-                         "subject":  "Escape menu pauses the world solo; Ready row removed from the in-game menu",
+                         "sha":  "05ab42c",
+                         "date":  "2026-09-27T12:41:15-07:00",
+                         "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -683,8 +683,8 @@
                       {
                           "folder":  "agent-a1e4d716b9b161880",
                           "branch":  "worktree-agent-a1e4d716b9b161880",
-                          "dirty":  6,
-                          "active":  "2026-09-27T12:45:15.3700292-07:00"
+                          "dirty":  9,
+                          "active":  "2026-09-27T12:45:57.6695025-07:00"
                       },
                       {
                           "folder":  "agent-a3509403be866a68e",
@@ -726,7 +726,7 @@
                           "folder":  "agent-a7e1db2966d2992d3",
                           "branch":  "worktree-agent-a7e1db2966d2992d3",
                           "dirty":  493,
-                          "active":  "2026-09-27T12:45:27.2898400-07:00"
+                          "active":  "2026-09-27T12:46:03.7957788-07:00"
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -780,7 +780,7 @@
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
                           "dirty":  12,
-                          "active":  "2026-09-27T12:45:27.5366779-07:00"
+                          "active":  "2026-09-27T12:46:12.6403585-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1117,7 +1117,7 @@
                     {
                         "sha":  "05ab42c",
                         "date":  "2026-09-27T12:41:15-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-a7e1db2966d2992d3",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ab11cc93b7268b66e, worktree-agent-a7e1db2966d2992d3",
                         "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix"
                     },
                     {
@@ -1189,7 +1189,7 @@
                     {
                         "sha":  "642df57",
                         "date":  "2026-09-27T11:37:48-07:00",
-                        "refs":  "worktree-agent-ab11cc93b7268b66e",
+                        "refs":  "",
                         "subject":  "Escape menu pauses the world solo; Ready row removed from the in-game menu"
                     },
                     {
@@ -1355,5 +1355,5 @@
                         "subject":  "Merge Sub-agent 5: bolt rifles keep the stock (and the right fist\u0027s grip) until the scope overlay covers the view"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:45:24.5037732-07:00"
+    "generatedAt":  "2026-09-27T12:46:12.2271762-07:00"
 }
