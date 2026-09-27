@@ -475,10 +475,10 @@
                      },
                      {
                          "name":  "worktree-agent-a8d3fe226b9f67a2c",
-                         "sha":  "fc81a5e",
-                         "date":  "2026-09-26T20:27:17-07:00",
-                         "subject":  "Buildings polish: see-through shop glass, lit rooms at night, church/barn/diner roofs + canopies, trailer window frames, sign placement, cull tags",
-                         "ahead":  42,
+                         "sha":  "7b853ad",
+                         "date":  "2026-09-26T20:42:21-07:00",
+                         "subject":  "Buildings lane notes: cull tags, sign facing table, hooks, commit rules",
+                         "ahead":  43,
                          "merged":  false
                      },
                      {
@@ -580,7 +580,7 @@
                       {
                           "folder":  "agent-a59b7989711694684",
                           "branch":  "worktree-agent-a59b7989711694684",
-                          "dirty":  0
+                          "dirty":  174
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -590,7 +590,7 @@
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
-                          "dirty":  32
+                          "dirty":  31
                       },
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
@@ -880,6 +880,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "7b853ad",
+                        "date":  "2026-09-26T20:42:21-07:00",
+                        "refs":  "worktree-agent-a8d3fe226b9f67a2c",
+                        "subject":  "Buildings lane notes: cull tags, sign facing table, hooks, commit rules"
+                    },
+                    {
                         "sha":  "b2df0da",
                         "date":  "2026-09-26T20:41:31-07:00",
                         "refs":  "worktree-agent-a59b7989711694684",
@@ -900,7 +906,7 @@
                     {
                         "sha":  "fc81a5e",
                         "date":  "2026-09-26T20:27:17-07:00",
-                        "refs":  "worktree-agent-a8d3fe226b9f67a2c",
+                        "refs":  "",
                         "subject":  "Buildings polish: see-through shop glass, lit rooms at night, church/barn/diner roofs + canopies, trailer window frames, sign placement, cull tags"
                     },
                     {
@@ -1112,13 +1118,7 @@
                         "date":  "2026-09-26T18:09:36-07:00",
                         "refs":  "",
                         "subject":  "v0.61: generic weapon names, no maker logos, unlicensed reference photos untracked"
-                    },
-                    {
-                        "sha":  "2257cb2",
-                        "date":  "2026-09-26T18:03:21-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T18:03:21"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:42:04.9864808-07:00"
+    "generatedAt":  "2026-09-26T20:42:42.4727904-07:00"
 }
