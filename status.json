@@ -647,8 +647,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1,
-                          "active":  null
+                          "dirty":  2,
+                          "active":  "2026-09-27T11:38:22.2561062-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1355,5 +1355,5 @@
                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:38:14.4730796-07:00"
+    "generatedAt":  "2026-09-27T11:38:24.1822191-07:00"
 }
