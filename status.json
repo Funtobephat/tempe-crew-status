@@ -1,5 +1,5 @@
 {
-    "master":  "d2b76a8",
+    "master":  "cf22ace",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "d2b76a8",
-                         "date":  "2026-09-27T11:54:50-07:00",
-                         "subject":  "Merge Sub-agent 9: car windows shatter, tyres deflate with a lean, panels fly off; late joiners replay car damage",
+                         "sha":  "cf22ace",
+                         "date":  "2026-09-27T11:55:09-07:00",
+                         "subject":  "v0.91: car glass/tyres/launched panels integrated (Sub-agent 9); notes tidy",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -654,7 +654,7 @@
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
                           "dirty":  30,
-                          "active":  "2026-09-27T11:54:54.1524701-07:00"
+                          "active":  "2026-09-27T11:55:14.7099111-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "cf22ace",
+                        "date":  "2026-09-27T11:55:09-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.91: car glass/tyres/launched panels integrated (Sub-agent 9); notes tidy"
+                    },
+                    {
                         "sha":  "d2b76a8",
                         "date":  "2026-09-27T11:54:50-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 9: car windows shatter, tyres deflate with a lean, panels fly off; late joiners replay car damage"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:35:12-07:00",
                         "refs":  "worktree-agent-a1e4d716b9b161880",
                         "subject":  "District: seal hollow-shell doors, interiors behind the kept ATMDoors, door audit"
-                    },
-                    {
-                        "sha":  "0030f85",
-                        "date":  "2026-09-27T10:35:12-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 7: ADS checker judges every sight style (ring, hooded, notch, bead, scope; SKIP instead of false FAIL)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:54:51.4880289-07:00"
+    "generatedAt":  "2026-09-27T11:55:09.8999361-07:00"
 }
