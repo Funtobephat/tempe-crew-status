@@ -654,7 +654,7 @@
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
                           "dirty":  30,
-                          "active":  "2026-09-27T11:55:14.7099111-07:00"
+                          "active":  "2026-09-27T11:55:24.3340195-07:00"
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1355,5 +1355,5 @@
                         "subject":  "District: seal hollow-shell doors, interiors behind the kept ATMDoors, door audit"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:55:09.8999361-07:00"
+    "generatedAt":  "2026-09-27T11:55:24.1480991-07:00"
 }
