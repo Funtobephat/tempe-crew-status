@@ -572,9 +572,9 @@
                      },
                      {
                          "name":  "worktree-agent-ab11cc93b7268b66e",
-                         "sha":  "d701f2b",
-                         "date":  "2026-09-27T10:22:29-07:00",
-                         "subject":  "M4 charging handle: rounded AR-15 T-handle with latch paddle in the dark sight-metal finish",
+                         "sha":  "922ecf5",
+                         "date":  "2026-09-27T11:15:18-07:00",
+                         "subject":  "CLAUDE.md: crew board drops the bar for finished lanes",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -1117,7 +1117,7 @@
                     {
                         "sha":  "922ecf5",
                         "date":  "2026-09-27T11:15:18-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ab11cc93b7268b66e",
                         "subject":  "CLAUDE.md: crew board drops the bar for finished lanes"
                     },
                     {
@@ -1333,7 +1333,7 @@
                     {
                         "sha":  "d701f2b",
                         "date":  "2026-09-27T10:22:29-07:00",
-                        "refs":  "worktree-agent-ab11cc93b7268b66e",
+                        "refs":  "",
                         "subject":  "M4 charging handle: rounded AR-15 T-handle with latch paddle in the dark sight-metal finish"
                     },
                     {
@@ -1355,5 +1355,5 @@
                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:24:23.7276981-07:00"
+    "generatedAt":  "2026-09-27T11:25:23.7531202-07:00"
 }
