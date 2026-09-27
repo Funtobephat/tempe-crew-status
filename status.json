@@ -435,10 +435,10 @@
                      },
                      {
                          "name":  "worktree-agent-a3509403be866a68e",
-                         "sha":  "bb5f457",
-                         "date":  "2026-09-26T20:41:10-07:00",
-                         "subject":  "Merge Sub-agent 3: scarier infected (hunched clips + Idle, repainted skins, smoothed normals, face sculpt)",
-                         "ahead":  56,
+                         "sha":  "c8e859f",
+                         "date":  "2026-09-26T20:52:46-07:00",
+                         "subject":  "Physics asset: build into an empty asset (fixes 17 vs 20 zombie bodies on re-import)",
+                         "ahead":  57,
                          "merged":  false
                      },
                      {
@@ -550,7 +550,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1
+                          "dirty":  9
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -565,7 +565,7 @@
                       {
                           "folder":  "agent-a3509403be866a68e",
                           "branch":  "worktree-agent-a3509403be866a68e",
-                          "dirty":  55
+                          "dirty":  7
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -580,7 +580,7 @@
                       {
                           "folder":  "agent-a59b7989711694684",
                           "branch":  "worktree-agent-a59b7989711694684",
-                          "dirty":  225
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -590,7 +590,7 @@
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
-                          "dirty":  32
+                          "dirty":  75
                       },
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
@@ -880,6 +880,30 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "e8529e5",
+                        "date":  "2026-09-26T20:52:59-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "CLAUDE.md: commit automatically after each change"
+                    },
+                    {
+                        "sha":  "8514ae1",
+                        "date":  "2026-09-26T20:52:59-07:00",
+                        "refs":  "",
+                        "subject":  "Merge Sub-agent 1: buildings lane notes"
+                    },
+                    {
+                        "sha":  "82cb90e",
+                        "date":  "2026-09-26T20:52:58-07:00",
+                        "refs":  "",
+                        "subject":  "Merge trial integration: Sub-agent 1 buildings + Sub-agent 2 street props (both build() hooks, building clearance check)"
+                    },
+                    {
+                        "sha":  "c8e859f",
+                        "date":  "2026-09-26T20:52:46-07:00",
+                        "refs":  "worktree-agent-a3509403be866a68e",
+                        "subject":  "Physics asset: build into an empty asset (fixes 17 vs 20 zombie bodies on re-import)"
+                    },
+                    {
                         "sha":  "8df5954",
                         "date":  "2026-09-26T20:50:43-07:00",
                         "refs":  "worktree-agent-a59b7989711694684",
@@ -888,7 +912,7 @@
                     {
                         "sha":  "f63843a",
                         "date":  "2026-09-26T20:49:52-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "CLAUDE.md: route structured decisions through Laya"
                     },
                     {
@@ -906,7 +930,7 @@
                     {
                         "sha":  "bb5f457",
                         "date":  "2026-09-26T20:41:10-07:00",
-                        "refs":  "worktree-agent-a3509403be866a68e",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 3: scarier infected (hunched clips + Idle, repainted skins, smoothed normals, face sculpt)"
                     },
                     {
@@ -1094,31 +1118,7 @@
                         "date":  "2026-09-26T18:38:01-07:00",
                         "refs":  "",
                         "subject":  "status 98af4ee 2026-09-26T18:38:01"
-                    },
-                    {
-                        "sha":  "57ad9a3",
-                        "date":  "2026-09-26T18:32:20-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T18:32:20"
-                    },
-                    {
-                        "sha":  "11fd46d",
-                        "date":  "2026-09-26T18:26:51-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T18:26:51"
-                    },
-                    {
-                        "sha":  "35a431e",
-                        "date":  "2026-09-26T18:21:11-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T18:21:11"
-                    },
-                    {
-                        "sha":  "99cbb69",
-                        "date":  "2026-09-26T18:15:27-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T18:15:26"
                     }
                 ],
-    "generatedAt":  "2026-09-26T20:51:07.1246629-07:00"
+    "generatedAt":  "2026-09-26T20:53:06.8597936-07:00"
 }
