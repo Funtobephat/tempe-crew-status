@@ -510,7 +510,7 @@
                          "sha":  "5a7b6e8",
                          "date":  "2026-09-26T22:27:10-07:00",
                          "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated",
-                         "ahead":  83,
+                         "ahead":  84,
                          "merged":  false
                      },
                      {
@@ -604,7 +604,7 @@
                       {
                           "folder":  "agent-a59b7989711694684",
                           "branch":  "worktree-agent-a59b7989711694684",
-                          "dirty":  9
+                          "dirty":  113
                       },
                       {
                           "folder":  "agent-a5e7ebff2912f47e0",
@@ -619,7 +619,7 @@
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
-                          "dirty":  0
+                          "dirty":  5
                       },
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
@@ -634,7 +634,7 @@
                       {
                           "folder":  "agent-a9ff6a1890f8fe5a4",
                           "branch":  "worktree-agent-a9ff6a1890f8fe5a4",
-                          "dirty":  83
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
@@ -659,7 +659,7 @@
                       {
                           "folder":  "agent-af6b0d6274a433e04",
                           "branch":  "worktree-agent-af6b0d6274a433e04",
-                          "dirty":  2
+                          "dirty":  48
                       },
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
@@ -919,9 +919,21 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "e11d50c",
+                        "date":  "2026-09-26T22:55:33-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 4: hub ceiling lamp shades placed before the Instancer flush"
+                    },
+                    {
+                        "sha":  "49fd186",
+                        "date":  "2026-09-26T22:55:18-07:00",
+                        "refs":  "worktree-agent-a9ff6a1890f8fe5a4",
+                        "subject":  "Hub: build the ceiling lamp shades (lights() before the Instancer flush; dress_interactables reset them)"
+                    },
+                    {
                         "sha":  "5a7b6e8",
                         "date":  "2026-09-26T22:27:10-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-afe2fce4a30bc7be4, worktree-agent-af6b0d6274a433e04, worktree-agent-a9ff6a1890f8fe5a4, worktree-agent-a8d3fe226b9f67a2c, worktree-agent-a5e7ebff2912f47e0, worktree-agent-a59b7989711694684, worktree-agent-a3509403be866a68e",
+                        "refs":  "worktree-agent-afe2fce4a30bc7be4, worktree-agent-af6b0d6274a433e04, worktree-agent-a8d3fe226b9f67a2c, worktree-agent-a5e7ebff2912f47e0, worktree-agent-a59b7989711694684, worktree-agent-a3509403be866a68e",
                         "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated"
                     },
                     {
@@ -1145,19 +1157,7 @@
                         "date":  "2026-09-26T19:56:21-07:00",
                         "refs":  "",
                         "subject":  "v0.63: hub shooting range integrated"
-                    },
-                    {
-                        "sha":  "dccf500",
-                        "date":  "2026-09-26T19:50:28-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 4: hub shooting range"
-                    },
-                    {
-                        "sha":  "0c45eb9",
-                        "date":  "2026-09-26T19:49:51-07:00",
-                        "refs":  "",
-                        "subject":  "Range notes: dedicated-server label gotcha"
                     }
                 ],
-    "generatedAt":  "2026-09-26T22:55:13.1343748-07:00"
+    "generatedAt":  "2026-09-26T22:55:58.1690197-07:00"
 }
