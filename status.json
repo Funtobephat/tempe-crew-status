@@ -1,5 +1,5 @@
 {
-    "master":  "63dab70",
+    "master":  "2ea648f",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "63dab70",
-                         "date":  "2026-09-27T11:01:35-07:00",
-                         "subject":  "Merge Sub-agent 1: pistol support hand grips the gun (G17/M9/1911); M9 and 1911 notch sights rebuilt",
+                         "sha":  "2ea648f",
+                         "date":  "2026-09-27T11:06:59-07:00",
+                         "subject":  "CLAUDE.md: crew board page freshness notes",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T11:01:35.4524358-07:00"
+                          "active":  "2026-09-27T11:06:59.7483108-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "2ea648f",
+                        "date":  "2026-09-27T11:06:59-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "CLAUDE.md: crew board page freshness notes"
+                    },
+                    {
                         "sha":  "63dab70",
                         "date":  "2026-09-27T11:01:35-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 1: pistol support hand grips the gun (G17/M9/1911); M9 and 1911 notch sights rebuilt"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T09:24:34-07:00",
                         "refs":  "",
                         "subject":  "v0.83: M4A1 ADS keeps stock-on eye relief (ads_clear) - no more near-plane clipping"
-                    },
-                    {
-                        "sha":  "f1a8ee7",
-                        "date":  "2026-09-27T09:20:09-07:00",
-                        "refs":  "",
-                        "subject":  "v0.82: fix debris chip crash (GC-freed static material pointer); hide hub squad panel when solo"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:06:23.7389869-07:00"
+    "generatedAt":  "2026-09-27T11:07:00.3726610-07:00"
 }
