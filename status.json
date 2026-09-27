@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "a371f41",
-                         "date":  "2026-09-26T16:54:14-07:00",
-                         "subject":  "Merge branch \u0027worktree-agent-a7f3968d337988089\u0027 into guns-procedural",
-                         "ahead":  25,
+                         "sha":  "7f7a8ad",
+                         "date":  "2026-09-26T19:20:14-07:00",
+                         "subject":  "v0.62: other shotguns\u0027 damage brought close to the 870",
+                         "ahead":  40,
                          "merged":  false
                      },
                      {
@@ -418,6 +418,30 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-a0366b80b65e236bf",
+                         "sha":  "1e69e42",
+                         "date":  "2026-09-26T17:39:28-07:00",
+                         "subject":  "G_DB: procedural double-barrel coach gun model from reference photo",
+                         "ahead":  28,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-a10bee3c4c922a711",
+                         "sha":  "2015eb7",
+                         "date":  "2026-09-26T17:34:54-07:00",
+                         "subject":  "P_DE50: procedural Desert Eagle model from reference photo",
+                         "ahead":  28,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-a3509403be866a68e",
+                         "sha":  "7f7a8ad",
+                         "date":  "2026-09-26T19:20:14-07:00",
+                         "subject":  "v0.62: other shotguns\u0027 damage brought close to the 870",
+                         "ahead":  40,
+                         "merged":  false
+                     },
+                     {
                          "name":  "worktree-agent-a4f5afbe80c6112a2",
                          "sha":  "a6a89b7",
                          "date":  "2026-09-26T16:46:31-07:00",
@@ -434,11 +458,51 @@
                          "merged":  false
                      },
                      {
+                         "name":  "worktree-agent-a59b7989711694684",
+                         "sha":  "7f7a8ad",
+                         "date":  "2026-09-26T19:20:14-07:00",
+                         "subject":  "v0.62: other shotguns\u0027 damage brought close to the 870",
+                         "ahead":  40,
+                         "merged":  false
+                     },
+                     {
                          "name":  "worktree-agent-a7f3968d337988089",
                          "sha":  "95cdbe4",
                          "date":  "2026-09-26T16:53:40-07:00",
                          "subject":  "G_M1014: procedural Benelli M4 model from reference photo",
                          "ahead":  16,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-a8d3fe226b9f67a2c",
+                         "sha":  "7f7a8ad",
+                         "date":  "2026-09-26T19:20:14-07:00",
+                         "subject":  "v0.62: other shotguns\u0027 damage brought close to the 870",
+                         "ahead":  40,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-a90ab0996d0a38bbf",
+                         "sha":  "2198c9c",
+                         "date":  "2026-09-26T17:26:45-07:00",
+                         "subject":  "S_VECTOR: procedural KRISS Vector model from reference photo",
+                         "ahead":  28,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-a9ff6a1890f8fe5a4",
+                         "sha":  "93af37c",
+                         "date":  "2026-09-26T19:49:43-07:00",
+                         "subject":  "Range target: guard the TextRender label on dedicated servers (not loaded there) - Test-Coop PASS",
+                         "ahead":  43,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-aab0ef3128d9d2764",
+                         "sha":  "f74f36c",
+                         "date":  "2026-09-26T17:33:52-07:00",
+                         "subject":  "A_G36: procedural H\u0026K G36C model from reference photo",
+                         "ahead":  28,
                          "merged":  false
                      },
                      {
@@ -451,10 +515,26 @@
                      },
                      {
                          "name":  "worktree-agent-acb72df481d7c8c3d",
-                         "sha":  "02d94db",
-                         "date":  "2026-09-26T16:54:54-07:00",
-                         "subject":  "status 98af4ee 2026-09-26T16:54:54",
-                         "ahead":  18,
+                         "sha":  "fc8d5e4",
+                         "date":  "2026-09-26T19:43:03-07:00",
+                         "subject":  "status 98af4ee 2026-09-26T19:43:03",
+                         "ahead":  46,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-adbcc631b9a256947",
+                         "sha":  "0839285",
+                         "date":  "2026-09-26T17:39:31-07:00",
+                         "subject":  "R_AWM: procedural AI AWM model from reference photo",
+                         "ahead":  28,
+                         "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-af6b0d6274a433e04",
+                         "sha":  "64d1ec1",
+                         "date":  "2026-09-26T19:42:15-07:00",
+                         "subject":  "Audio lane: retire the music score for a recorded night soundscape; recorded infected voices",
+                         "ahead":  41,
                          "merged":  false
                      },
                      {
@@ -470,7 +550,22 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  18
+                          "dirty":  1
+                      },
+                      {
+                          "folder":  "agent-a0366b80b65e236bf",
+                          "branch":  "worktree-agent-a0366b80b65e236bf",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-a10bee3c4c922a711",
+                          "branch":  "worktree-agent-a10bee3c4c922a711",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-a3509403be866a68e",
+                          "branch":  "worktree-agent-a3509403be866a68e",
+                          "dirty":  26
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -483,8 +578,33 @@
                           "dirty":  0
                       },
                       {
+                          "folder":  "agent-a59b7989711694684",
+                          "branch":  "worktree-agent-a59b7989711694684",
+                          "dirty":  44
+                      },
+                      {
                           "folder":  "agent-a7f3968d337988089",
                           "branch":  "worktree-agent-a7f3968d337988089",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-a8d3fe226b9f67a2c",
+                          "branch":  "worktree-agent-a8d3fe226b9f67a2c",
+                          "dirty":  73
+                      },
+                      {
+                          "folder":  "agent-a90ab0996d0a38bbf",
+                          "branch":  "worktree-agent-a90ab0996d0a38bbf",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-a9ff6a1890f8fe5a4",
+                          "branch":  "worktree-agent-a9ff6a1890f8fe5a4",
+                          "dirty":  88
+                      },
+                      {
+                          "folder":  "agent-aab0ef3128d9d2764",
+                          "branch":  "worktree-agent-aab0ef3128d9d2764",
                           "dirty":  0
                       },
                       {
@@ -496,6 +616,16 @@
                           "folder":  "agent-acb72df481d7c8c3d",
                           "branch":  "worktree-agent-acb72df481d7c8c3d",
                           "dirty":  1
+                      },
+                      {
+                          "folder":  "agent-adbcc631b9a256947",
+                          "branch":  "worktree-agent-adbcc631b9a256947",
+                          "dirty":  0
+                      },
+                      {
+                          "folder":  "agent-af6b0d6274a433e04",
+                          "branch":  "worktree-agent-af6b0d6274a433e04",
+                          "dirty":  601
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -750,245 +880,245 @@
                   ],
     "commits":  [
                     {
-                        "sha":  "02d94db",
-                        "date":  "2026-09-26T16:54:54-07:00",
-                        "refs":  "worktree-agent-acb72df481d7c8c3d",
-                        "subject":  "status 98af4ee 2026-09-26T16:54:54"
-                    },
-                    {
-                        "sha":  "a371f41",
-                        "date":  "2026-09-26T16:54:14-07:00",
+                        "sha":  "dccf500",
+                        "date":  "2026-09-26T19:50:28-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
-                        "subject":  "Merge branch \u0027worktree-agent-a7f3968d337988089\u0027 into guns-procedural"
+                        "subject":  "Merge Sub-agent 4: hub shooting range"
                     },
                     {
-                        "sha":  "55c03cb",
-                        "date":  "2026-09-26T16:54:13-07:00",
+                        "sha":  "0c45eb9",
+                        "date":  "2026-09-26T19:49:51-07:00",
+                        "refs":  "worktree-agent-a9ff6a1890f8fe5a4",
+                        "subject":  "Range notes: dedicated-server label gotcha"
+                    },
+                    {
+                        "sha":  "93af37c",
+                        "date":  "2026-09-26T19:49:43-07:00",
                         "refs":  "",
-                        "subject":  "Merge branch \u0027worktree-agent-a5117d9b03b482d74\u0027 into guns-procedural"
+                        "subject":  "Range target: guard the TextRender label on dedicated servers (not loaded there) - Test-Coop PASS"
                     },
                     {
-                        "sha":  "d549d1b",
-                        "date":  "2026-09-26T16:53:53-07:00",
+                        "sha":  "fc8d5e4",
+                        "date":  "2026-09-26T19:43:03-07:00",
+                        "refs":  "worktree-agent-acb72df481d7c8c3d",
+                        "subject":  "status 98af4ee 2026-09-26T19:43:03"
+                    },
+                    {
+                        "sha":  "64d1ec1",
+                        "date":  "2026-09-26T19:42:15-07:00",
+                        "refs":  "worktree-agent-af6b0d6274a433e04",
+                        "subject":  "Audio lane: retire the music score for a recorded night soundscape; recorded infected voices"
+                    },
+                    {
+                        "sha":  "378ef45",
+                        "date":  "2026-09-26T19:40:11-07:00",
                         "refs":  "",
-                        "subject":  "Import procedural P_M9, S_UMP45, R_SR25 into UE; M9/UMP45 hold poses"
+                        "subject":  "Hub shooting range: 4-lane annex behind the prep room, ATMRangeTarget knock-down plates, -TMRangeTest"
                     },
                     {
-                        "sha":  "95cdbe4",
-                        "date":  "2026-09-26T16:53:40-07:00",
-                        "refs":  "worktree-agent-a7f3968d337988089",
-                        "subject":  "G_M1014: procedural Benelli M4 model from reference photo"
-                    },
-                    {
-                        "sha":  "f21fe3a",
-                        "date":  "2026-09-26T16:50:31-07:00",
-                        "refs":  "worktree-agent-a5117d9b03b482d74",
-                        "subject":  "P_1911: procedural Colt M1911A1 model from reference photo"
-                    },
-                    {
-                        "sha":  "2b65795",
-                        "date":  "2026-09-26T16:50:02-07:00",
+                        "sha":  "1483e2f",
+                        "date":  "2026-09-26T19:34:57-07:00",
                         "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T16:50:02"
+                        "subject":  "status 98af4ee 2026-09-26T19:34:57"
                     },
                     {
-                        "sha":  "28f8aa6",
-                        "date":  "2026-09-26T16:49:56-07:00",
+                        "sha":  "cacf762",
+                        "date":  "2026-09-26T19:27:29-07:00",
                         "refs":  "",
-                        "subject":  "Merge branch \u0027worktree-agent-ac1eb0697f855df5c\u0027 into guns-procedural"
+                        "subject":  "status 98af4ee 2026-09-26T19:27:29"
                     },
                     {
-                        "sha":  "b6a7131",
-                        "date":  "2026-09-26T16:48:40-07:00",
-                        "refs":  "worktree-agent-ac1eb0697f855df5c",
-                        "subject":  "R_SR25: procedural KAC SR-25 model from reference photo"
-                    },
-                    {
-                        "sha":  "60d74ba",
-                        "date":  "2026-09-26T16:47:11-07:00",
+                        "sha":  "e31fb3a",
+                        "date":  "2026-09-26T19:22:37-07:00",
                         "refs":  "",
-                        "subject":  "Merge branch \u0027worktree-agent-a4f5afbe80c6112a2\u0027 into guns-procedural"
+                        "subject":  "status 98af4ee 2026-09-26T19:22:37"
                     },
                     {
-                        "sha":  "a6a89b7",
-                        "date":  "2026-09-26T16:46:31-07:00",
-                        "refs":  "worktree-agent-a4f5afbe80c6112a2",
-                        "subject":  "P_M9: procedural Beretta M9 model from reference photo"
+                        "sha":  "7f7a8ad",
+                        "date":  "2026-09-26T19:20:14-07:00",
+                        "refs":  "worktree-agent-a8d3fe226b9f67a2c, worktree-agent-a59b7989711694684, worktree-agent-a3509403be866a68e",
+                        "subject":  "v0.62: other shotguns\u0027 damage brought close to the 870"
                     },
                     {
-                        "sha":  "5c5906a",
-                        "date":  "2026-09-26T16:41:18-07:00",
+                        "sha":  "b395777",
+                        "date":  "2026-09-26T19:17:41-07:00",
                         "refs":  "",
-                        "subject":  "S_UMP45: procedural H\u0026K UMP45 model from reference photo"
+                        "subject":  "status 98af4ee 2026-09-26T19:17:41"
                     },
                     {
-                        "sha":  "480cd04",
-                        "date":  "2026-09-26T15:03:09-07:00",
-                        "refs":  "fp-hands-v2",
-                        "subject":  "v0.58: AK-47 playable - per-weapon hold, reload and view-model tables"
-                    },
-                    {
-                        "sha":  "fd3b02a",
-                        "date":  "2026-09-26T14:50:22-07:00",
+                        "sha":  "e65ee2d",
+                        "date":  "2026-09-26T19:17:41-07:00",
                         "refs":  "",
-                        "subject":  "v0.57: procedural AK-47 (A_AK47) built from a reference photo, imported as SM_A_AK47"
+                        "subject":  "Env materials resaved by the v0.61 hub rebuild"
                     },
                     {
-                        "sha":  "0cfcb48",
-                        "date":  "2026-09-23T22:14:44-07:00",
+                        "sha":  "e32f3ed",
+                        "date":  "2026-09-26T19:12:29-07:00",
                         "refs":  "",
-                        "subject":  "v0.56: fix two crashes - GC\u0027d weapon sound in delayed audio beats, and reload/death timers firing on destroyed actors"
+                        "subject":  "status 98af4ee 2026-09-26T19:12:29"
                     },
                     {
-                        "sha":  "30821d1",
-                        "date":  "2026-09-23T22:07:12-07:00",
+                        "sha":  "7c0e75b",
+                        "date":  "2026-09-26T19:06:36-07:00",
                         "refs":  "",
-                        "subject":  "v0.55: triple birdshot pellet hole size"
+                        "subject":  "status 98af4ee 2026-09-26T19:06:36"
                     },
                     {
-                        "sha":  "5817956",
-                        "date":  "2026-09-23T22:03:51-07:00",
+                        "sha":  "3be55db",
+                        "date":  "2026-09-26T19:00:53-07:00",
                         "refs":  "",
-                        "subject":  "v0.53 night lighting (sodium/LED/halide street lamps, lenses, shadow budget, volumetric haze, skyglow, dusk fix) + v0.54 shotgun ammo (birdshot 140 pellets default, buckshot)"
+                        "subject":  "status 98af4ee 2026-09-26T19:00:53"
                     },
                     {
-                        "sha":  "70e0a97",
-                        "date":  "2026-09-23T21:24:11-07:00",
+                        "sha":  "5a409d9",
+                        "date":  "2026-09-26T18:55:16-07:00",
                         "refs":  "",
-                        "subject":  "v0.52: gunfire breaks district props, 2.5x bullet destruction on walls/doors, 2x bullet hole size"
+                        "subject":  "status 98af4ee 2026-09-26T18:55:16"
                     },
                     {
-                        "sha":  "7f838cf",
-                        "date":  "2026-09-23T21:10:48-07:00",
+                        "sha":  "3511006",
+                        "date":  "2026-09-26T18:49:36-07:00",
                         "refs":  "",
-                        "subject":  "v0.51: bullet holes on every surface - per-pellet impacts multicast, surface-matched decals (concrete/metal/wood/glass/soft/flesh), bone-following holes on characters, caps; -TMHoleTest / Test-Holes.ps1"
+                        "subject":  "status 98af4ee 2026-09-26T18:49:36"
                     },
                     {
-                        "sha":  "6fec3aa",
-                        "date":  "2026-09-23T20:32:59-07:00",
+                        "sha":  "c79ec35",
+                        "date":  "2026-09-26T18:43:53-07:00",
                         "refs":  "",
-                        "subject":  "v0.50: Remington 870 damage doubled again (46 per pellet)"
+                        "subject":  "status 98af4ee 2026-09-26T18:43:53"
                     },
                     {
-                        "sha":  "78e2c9b",
-                        "date":  "2026-09-23T20:30:57-07:00",
+                        "sha":  "0ba287c",
+                        "date":  "2026-09-26T18:38:01-07:00",
                         "refs":  "",
-                        "subject":  "v0.49: 870 support hand remade from the reference photo (palm under the pump, fingers wrap its far side, thumb along the near side, forearm under the gun); contact test confirms \u0027inside\u0027 by ray parity"
+                        "subject":  "status 98af4ee 2026-09-26T18:38:01"
                     },
                     {
-                        "sha":  "ff0e1ad",
-                        "date":  "2026-09-23T20:23:18-07:00",
+                        "sha":  "57ad9a3",
+                        "date":  "2026-09-26T18:32:20-07:00",
                         "refs":  "",
-                        "subject":  "v0.48: 870 damage doubled (23 per pellet); 870 support thumb tucked under the pump"
+                        "subject":  "status 98af4ee 2026-09-26T18:32:20"
                     },
                     {
-                        "sha":  "b921b7d",
-                        "date":  "2026-09-23T20:17:49-07:00",
+                        "sha":  "11fd46d",
+                        "date":  "2026-09-26T18:26:51-07:00",
                         "refs":  "",
-                        "subject":  "v0.47: save prompt redesigned as a centred modal; 870 strong thumb wraps the stock wrist, support fingers all wrap the pump, index curled; 870 spread 5-\u003e7 deg, damage 10-\u003e11.5 per pellet"
+                        "subject":  "status 98af4ee 2026-09-26T18:26:51"
                     },
                     {
-                        "sha":  "0bf8f30",
-                        "date":  "2026-09-23T20:05:02-07:00",
+                        "sha":  "35a431e",
+                        "date":  "2026-09-26T18:21:11-07:00",
                         "refs":  "",
-                        "subject":  "v0.46: G17 customize preview opens 3 wheel-clicks zoomed out; control-hint text removed from Customize Weapons and the Main Menu"
+                        "subject":  "status 98af4ee 2026-09-26T18:21:11"
                     },
                     {
-                        "sha":  "f012cd3",
-                        "date":  "2026-09-23T19:58:52-07:00",
+                        "sha":  "99cbb69",
+                        "date":  "2026-09-26T18:15:27-07:00",
                         "refs":  "",
-                        "subject":  "v0.45: Customize Weapons redesign - category/weapon list on the left, large 3D preview with last-picked hover, \u003c Back top left, stats hidden (kept in code)"
+                        "subject":  "status 98af4ee 2026-09-26T18:15:26"
                     },
                     {
-                        "sha":  "b27e193",
-                        "date":  "2026-09-22T20:47:07-07:00",
+                        "sha":  "e1da591",
+                        "date":  "2026-09-26T18:09:39-07:00",
                         "refs":  "",
-                        "subject":  "v0.44: straighter wrists (auto out-of-view elbows), M4 support hand snug under the handguard, G17 strong thumb wraps the grip, bat grip redone (per-hand roll + diagonal grip, thumbs wrapped)"
+                        "subject":  "status 98af4ee 2026-09-26T18:09:39"
                     },
                     {
-                        "sha":  "f99d484",
-                        "date":  "2026-09-22T18:46:17-07:00",
+                        "sha":  "b61eb57",
+                        "date":  "2026-09-26T18:09:36-07:00",
                         "refs":  "",
-                        "subject":  "v0.43: articulated FP glove hands, jacket sleeves and contact-solved grips for all guns and the bat"
+                        "subject":  "v0.61: generic weapon names, no maker logos, unlicensed reference photos untracked"
                     },
                     {
-                        "sha":  "98af4ee",
-                        "date":  "2026-09-22T17:43:38-07:00",
-                        "refs":  "master",
-                        "subject":  "v0.42: quality pass (sight materials, M24 optic, glove density, wounds, ragdoll tuning) - checkpoint of uncommitted work"
-                    },
-                    {
-                        "sha":  "a24c961",
-                        "date":  "2026-09-20T11:32:10-07:00",
+                        "sha":  "2257cb2",
+                        "date":  "2026-09-26T18:03:21-07:00",
                         "refs":  "",
-                        "subject":  "v0.41d: MP5 support hand is a flat palm under the gun, with no fingers visible"
+                        "subject":  "status 98af4ee 2026-09-26T18:03:21"
                     },
                     {
-                        "sha":  "864e79b",
-                        "date":  "2026-09-20T11:21:04-07:00",
+                        "sha":  "fd23e29",
+                        "date":  "2026-09-26T17:59:54-07:00",
                         "refs":  "",
-                        "subject":  "v0.41c: MP5 support hand drops below the gun body so no fingers show through it"
+                        "subject":  "v0.60: procedural Desert Eagle, KRISS Vector, coach gun, AI AWM and G36C playable"
                     },
                     {
-                        "sha":  "5faa9bf",
-                        "date":  "2026-09-20T11:08:41-07:00",
+                        "sha":  "ad666d0",
+                        "date":  "2026-09-26T17:57:29-07:00",
                         "refs":  "",
-                        "subject":  "v0.41b: MP5 support hand wraps the handguard, as high as the sight line allows"
+                        "subject":  "status 98af4ee 2026-09-26T17:57:29"
                     },
                     {
-                        "sha":  "b8d2cd2",
-                        "date":  "2026-09-20T10:53:03-07:00",
+                        "sha":  "61ec945",
+                        "date":  "2026-09-26T17:51:52-07:00",
                         "refs":  "",
-                        "subject":  "Record what check_ads.py cannot judge, and correct the v0.41 verification claim"
+                        "subject":  "status 98af4ee 2026-09-26T17:51:52"
                     },
                     {
-                        "sha":  "6cff9ee",
-                        "date":  "2026-09-20T10:51:13-07:00",
+                        "sha":  "0024d19",
+                        "date":  "2026-09-26T17:46:15-07:00",
                         "refs":  "",
-                        "subject":  "v0.41: MP5 sights rebuilt, stock out of the ADS frame, support hand cups the handguard; weapon rig playbook"
+                        "subject":  "status 98af4ee 2026-09-26T17:46:15"
                     },
                     {
-                        "sha":  "24fea2f",
-                        "date":  "2026-09-20T10:25:56-07:00",
+                        "sha":  "3722ea0",
+                        "date":  "2026-09-26T17:40:38-07:00",
                         "refs":  "",
-                        "subject":  "v0.40: menu rows are measured from their label and scale with the font"
+                        "subject":  "status 98af4ee 2026-09-26T17:40:38"
                     },
                     {
-                        "sha":  "b769f47",
-                        "date":  "2026-09-19T17:47:42-07:00",
+                        "sha":  "5f5e265",
+                        "date":  "2026-09-26T17:40:20-07:00",
                         "refs":  "",
-                        "subject":  "v0.39: shelf items sit on the boards; the in-game menu highlights and clicks on mouse-over"
+                        "subject":  "Merge branch \u0027worktree-agent-adbcc631b9a256947\u0027 into guns-procedural"
                     },
                     {
-                        "sha":  "5ce2c9e",
-                        "date":  "2026-09-19T17:29:35-07:00",
+                        "sha":  "64a7ae5",
+                        "date":  "2026-09-26T17:40:04-07:00",
                         "refs":  "",
-                        "subject":  "v0.38: recoil rewrite - the sights climb with the group, smoothly, at 40% of the old size"
+                        "subject":  "Merge branch \u0027worktree-agent-a0366b80b65e236bf\u0027 into guns-procedural"
                     },
                     {
-                        "sha":  "f254eff",
-                        "date":  "2026-09-19T13:46:10-07:00",
-                        "refs":  "",
-                        "subject":  "v0.37: straight strong-side wrist and flipped support hand on the two-handed melee holds"
+                        "sha":  "0839285",
+                        "date":  "2026-09-26T17:39:31-07:00",
+                        "refs":  "worktree-agent-adbcc631b9a256947",
+                        "subject":  "R_AWM: procedural AI AWM model from reference photo"
                     },
                     {
-                        "sha":  "b42f4cf",
-                        "date":  "2026-09-19T12:57:34-07:00",
-                        "refs":  "",
-                        "subject":  "v0.36: authored iron sights (M4 ring + blade, G17 notch), grip-hand follow-ups, natural melee holds"
+                        "sha":  "1e69e42",
+                        "date":  "2026-09-26T17:39:28-07:00",
+                        "refs":  "worktree-agent-a0366b80b65e236bf",
+                        "subject":  "G_DB: procedural double-barrel coach gun model from reference photo"
                     },
                     {
-                        "sha":  "b52a01a",
-                        "date":  "2026-09-19T10:14:16-07:00",
+                        "sha":  "d6d4e07",
+                        "date":  "2026-09-26T17:37:15-07:00",
                         "refs":  "",
-                        "subject":  "v0.35: FP weapon lighting in the hub, floating prep-room props, M4A1 iron sights + ADS eye relief, M4A1 burst shot clip, closed grip hands"
+                        "subject":  "Merge branch \u0027worktree-agent-a10bee3c4c922a711\u0027 into guns-procedural"
                     },
                     {
-                        "sha":  "f01ca57",
-                        "date":  "2026-09-18T23:21:30-07:00",
+                        "sha":  "2015eb7",
+                        "date":  "2026-09-26T17:34:54-07:00",
+                        "refs":  "worktree-agent-a10bee3c4c922a711",
+                        "subject":  "P_DE50: procedural Desert Eagle model from reference photo"
+                    },
+                    {
+                        "sha":  "aefe795",
+                        "date":  "2026-09-26T17:34:35-07:00",
                         "refs":  "",
-                        "subject":  "Merge branch \u0027integration-qa\u0027"
+                        "subject":  "Merge branch \u0027worktree-agent-aab0ef3128d9d2764\u0027 into guns-procedural"
+                    },
+                    {
+                        "sha":  "f74f36c",
+                        "date":  "2026-09-26T17:33:52-07:00",
+                        "refs":  "worktree-agent-aab0ef3128d9d2764",
+                        "subject":  "A_G36: procedural H\u0026K G36C model from reference photo"
+                    },
+                    {
+                        "sha":  "5e7517e",
+                        "date":  "2026-09-26T17:28:41-07:00",
+                        "refs":  "",
+                        "subject":  "status 98af4ee 2026-09-26T17:28:41"
                     }
                 ],
-    "generatedAt":  "2026-09-26T16:55:44.7593653-07:00"
+    "generatedAt":  "2026-09-26T19:50:51.2895426-07:00"
 }
