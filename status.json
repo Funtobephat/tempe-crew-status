@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "f1a8ee7",
-                         "date":  "2026-09-27T09:20:09-07:00",
-                         "subject":  "v0.82: fix debris chip crash (GC-freed static material pointer); hide hub squad panel when solo",
-                         "ahead":  113,
+                         "sha":  "0ed487b",
+                         "date":  "2026-09-27T09:24:34-07:00",
+                         "subject":  "v0.83: M4A1 ADS keeps stock-on eye relief (ads_clear) - no more near-plane clipping",
+                         "ahead":  114,
                          "merged":  false
                      },
                      {
@@ -919,9 +919,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "0ed487b",
+                        "date":  "2026-09-27T09:24:34-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.83: M4A1 ADS keeps stock-on eye relief (ads_clear) - no more near-plane clipping"
+                    },
+                    {
                         "sha":  "f1a8ee7",
                         "date":  "2026-09-27T09:20:09-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.82: fix debris chip crash (GC-freed static material pointer); hide hub squad panel when solo"
                     },
                     {
@@ -1151,13 +1157,7 @@
                         "date":  "2026-09-26T22:16:56-07:00",
                         "refs":  "",
                         "subject":  "v0.72: no right-hand hint column on the main menu"
-                    },
-                    {
-                        "sha":  "8c5ca39",
-                        "date":  "2026-09-26T22:08:59-07:00",
-                        "refs":  "",
-                        "subject":  "v0.71: campaign map reads as a progression with only the live choices lit"
                     }
                 ],
-    "generatedAt":  "2026-09-27T09:20:28.7220988-07:00"
+    "generatedAt":  "2026-09-27T09:25:00.8571217-07:00"
 }
