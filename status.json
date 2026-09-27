@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T13:36:23.4812781-07:00"
+                          "active":  "2026-09-27T13:37:23.3807893-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1355,5 +1355,5 @@
                         "subject":  "CLAUDE.md: drop the superseded ADS checker bullet"
                     }
                 ],
-    "generatedAt":  "2026-09-27T13:36:23.7503558-07:00"
+    "generatedAt":  "2026-09-27T13:37:23.6098645-07:00"
 }
