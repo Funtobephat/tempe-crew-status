@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  2,
-                          "active":  "2026-09-27T16:31:18.3273314-07:00"
+                          "active":  "2026-09-27T16:32:06.3381914-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1355,5 +1355,5 @@
                         "subject":  "G_DB: parked shell no longer re-shown by the scope-hide propagation (ReapplyHidden), bead r 0.32 on the sight line"
                     }
                 ],
-    "generatedAt":  "2026-09-27T16:31:23.9106852-07:00"
+    "generatedAt":  "2026-09-27T16:32:23.9289633-07:00"
 }
