@@ -574,7 +574,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1
+                          "dirty":  3
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -664,7 +664,7 @@
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
                           "branch":  "worktree-agent-afe2fce4a30bc7be4",
-                          "dirty":  0
+                          "dirty":  3
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1159,5 +1159,5 @@
                         "subject":  "Roof relief: slope-aligned UV/normal frame, course shadows and per-tile tone on M_RoofTile/M_RoofShingle, boosted roof normals + cavity AO; content-hash (MD5 metadata) import check so later level builds reproduce the assets; rebuild_facade_materials.py for material-only updates"
                     }
                 ],
-    "generatedAt":  "2026-09-26T23:19:13.7352481-07:00"
+    "generatedAt":  "2026-09-26T23:19:48.5862982-07:00"
 }
