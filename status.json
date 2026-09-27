@@ -706,7 +706,7 @@
                       {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
-                          "dirty":  26
+                          "dirty":  27
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -1036,6 +1036,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "7c56de7",
+                        "date":  "2026-09-27T10:53:37-07:00",
+                        "refs":  "worktree-agent-a6f530223364c0a43",
+                        "subject":  "G_DB: parked shell no longer re-shown by the scope-hide propagation (ReapplyHidden), bead r 0.32 on the sight line"
+                    },
+                    {
                         "sha":  "e085ac5",
                         "date":  "2026-09-27T10:52:24-07:00",
                         "refs":  "worktree-agent-a08d89b2f8d1de0bf",
@@ -1128,7 +1134,7 @@
                     {
                         "sha":  "7b8ec01",
                         "date":  "2026-09-27T10:35:52-07:00",
-                        "refs":  "worktree-agent-a6f530223364c0a43",
+                        "refs":  "",
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a6f530223364c0a43"
                     },
                     {
@@ -1268,13 +1274,7 @@
                         "date":  "2026-09-26T23:27:25-07:00",
                         "refs":  "worktree-agent-a3509403be866a68e",
                         "subject":  "ADS stock hiding for all long guns (AK, G36, MP5, UMP45, Vector, 870, M1014, DB, SR25, M24, AWM)"
-                    },
-                    {
-                        "sha":  "fe81749",
-                        "date":  "2026-09-26T23:20:19-07:00",
-                        "refs":  "",
-                        "subject":  "v0.78: grenades 3x radius + procedural explosion FX integrated (Sub-agent 6)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:53:04.3573093-07:00"
+    "generatedAt":  "2026-09-27T10:53:46.8042720-07:00"
 }
