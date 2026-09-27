@@ -648,7 +648,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T11:15:18.6523392-07:00"
+                          "active":  "2026-09-27T11:15:22.5680447-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1355,5 +1355,5 @@
                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:15:19.2569397-07:00"
+    "generatedAt":  "2026-09-27T11:15:24.6856326-07:00"
 }
