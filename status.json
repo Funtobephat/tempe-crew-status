@@ -1,5 +1,5 @@
 {
-    "master":  "82507df",
+    "master":  "05ab42c",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "82507df",
-                         "date":  "2026-09-27T12:19:00-07:00",
-                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)",
+                         "sha":  "05ab42c",
+                         "date":  "2026-09-27T12:41:15-07:00",
+                         "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -460,9 +460,9 @@
                      },
                      {
                          "name":  "worktree-agent-a1e4d716b9b161880",
-                         "sha":  "eb946b0",
-                         "date":  "2026-09-27T10:35:12-07:00",
-                         "subject":  "District: seal hollow-shell doors, interiors behind the kept ATMDoors, door audit",
+                         "sha":  "82507df",
+                         "date":  "2026-09-27T12:19:00-07:00",
+                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -519,8 +519,8 @@
                          "sha":  "fc0de7c",
                          "date":  "2026-09-27T12:40:42-07:00",
                          "subject":  "M_Bat: batter\u0027s grip (aligned knuckles, palms facing, hands touching) + sign-continuous quaternion keys in melee clips",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a7f3968d337988089",
@@ -780,7 +780,7 @@
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
                           "dirty":  12,
-                          "active":  "2026-09-27T12:39:49.8305425-07:00"
+                          "active":  "2026-09-27T12:41:18.6770726-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1115,6 +1115,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "05ab42c",
+                        "date":  "2026-09-27T12:41:15-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix"
+                    },
+                    {
                         "sha":  "fc0de7c",
                         "date":  "2026-09-27T12:40:42-07:00",
                         "refs":  "worktree-agent-a7e1db2966d2992d3",
@@ -1123,7 +1129,7 @@
                     {
                         "sha":  "82507df",
                         "date":  "2026-09-27T12:19:00-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ac599cb6f090da687",
+                        "refs":  "worktree-agent-ac599cb6f090da687, worktree-agent-a1e4d716b9b161880",
                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:36:42-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 5: bolt rifles keep the stock (and the right fist\u0027s grip) until the scope overlay covers the view"
-                    },
-                    {
-                        "sha":  "9f565fd",
-                        "date":  "2026-09-27T10:36:00-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 8: seal hollow-shell doors, interiors behind kept doors, door audit (map rebuild pending)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:40:42.8290604-07:00"
+    "generatedAt":  "2026-09-27T12:41:16.0639558-07:00"
 }
