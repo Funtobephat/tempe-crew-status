@@ -555,10 +555,10 @@
                      },
                      {
                          "name":  "worktree-agent-afe2fce4a30bc7be4",
-                         "sha":  "edaedd3",
-                         "date":  "2026-09-26T23:18:05-07:00",
-                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-afe2fce4a30bc7be4",
-                         "ahead":  103,
+                         "sha":  "d8ad428",
+                         "date":  "2026-09-26T23:38:23-07:00",
+                         "subject":  "Gore: realistic exit spray/mist, landing wall splatter, arterial spurts, drips, spreading corpse pools; one merged blood RPC per infected per frame; gore sounds wired; -TMGoreShot/-TMGoreCrowd proofs",
+                         "ahead":  104,
                          "merged":  false
                      },
                      {
@@ -664,7 +664,7 @@
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
                           "branch":  "worktree-agent-afe2fce4a30bc7be4",
-                          "dirty":  15
+                          "dirty":  0
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -919,6 +919,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "d8ad428",
+                        "date":  "2026-09-26T23:38:23-07:00",
+                        "refs":  "worktree-agent-afe2fce4a30bc7be4",
+                        "subject":  "Gore: realistic exit spray/mist, landing wall splatter, arterial spurts, drips, spreading corpse pools; one merged blood RPC per infected per frame; gore sounds wired; -TMGoreShot/-TMGoreCrowd proofs"
+                    },
+                    {
                         "sha":  "b9be743",
                         "date":  "2026-09-26T23:28:32-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -969,7 +975,7 @@
                     {
                         "sha":  "edaedd3",
                         "date":  "2026-09-26T23:18:05-07:00",
-                        "refs":  "worktree-agent-afe2fce4a30bc7be4",
+                        "refs":  "",
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-afe2fce4a30bc7be4"
                     },
                     {
@@ -1151,13 +1157,7 @@
                         "date":  "2026-09-26T21:17:10-07:00",
                         "refs":  "",
                         "subject":  "v0.66: weapon customization key art (blurred list band, dark feathered border)"
-                    },
-                    {
-                        "sha":  "330ebbe",
-                        "date":  "2026-09-26T21:10:22-07:00",
-                        "refs":  "",
-                        "subject":  "v0.65: new main-menu key art (mirrored, blurred menu band, dark feathered border)"
                     }
                 ],
-    "generatedAt":  "2026-09-26T23:34:48.7005680-07:00"
+    "generatedAt":  "2026-09-26T23:38:45.0084900-07:00"
 }
