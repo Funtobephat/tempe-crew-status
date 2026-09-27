@@ -1,5 +1,6 @@
 {
-    "master":  "98af4ee",
+    "master":  "a16e07b",
+    "base":  "guns-procedural",
     "branches":  [
                      {
                          "name":  "audio-ambience",
@@ -78,8 +79,8 @@
                          "sha":  "480cd04",
                          "date":  "2026-09-26T15:03:09-07:00",
                          "subject":  "v0.58: AK-47 playable - per-weapon hold, reload and view-model tables",
-                         "ahead":  15,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "fp-motion",
@@ -118,8 +119,8 @@
                          "sha":  "a16e07b",
                          "date":  "2026-09-27T10:50:25-07:00",
                          "subject":  "CLAUDE.md: drop the superseded ADS checker bullet",
-                         "ahead":  131,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "guns-shotguns",
@@ -422,7 +423,7 @@
                          "sha":  "944bc6f",
                          "date":  "2026-09-27T10:41:37-07:00",
                          "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a00e40f662f518017",
-                         "ahead":  129,
+                         "ahead":  2,
                          "merged":  false
                      },
                      {
@@ -430,15 +431,15 @@
                          "sha":  "1e69e42",
                          "date":  "2026-09-26T17:39:28-07:00",
                          "subject":  "G_DB: procedural double-barrel coach gun model from reference photo",
-                         "ahead":  28,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a08d89b2f8d1de0bf",
                          "sha":  "e085ac5",
                          "date":  "2026-09-27T10:52:24-07:00",
                          "subject":  "Gore: realistic dark blood pools (no pink paint rim), rim-first drying, pools dry",
-                         "ahead":  119,
+                         "ahead":  1,
                          "merged":  false
                      },
                      {
@@ -446,71 +447,71 @@
                          "sha":  "2015eb7",
                          "date":  "2026-09-26T17:34:54-07:00",
                          "subject":  "P_DE50: procedural Desert Eagle model from reference photo",
-                         "ahead":  28,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a1bccf2e41869cb3f",
                          "sha":  "12541fa",
                          "date":  "2026-09-27T10:49:16-07:00",
                          "subject":  "A_AK47 sight picture: wide clean rear notch, post level with the shoulders, check_ads PASS",
-                         "ahead":  120,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a1e4d716b9b161880",
                          "sha":  "eb946b0",
                          "date":  "2026-09-27T10:35:12-07:00",
                          "subject":  "District: seal hollow-shell doors, interiors behind the kept ATMDoors, door audit",
-                         "ahead":  119,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a3509403be866a68e",
                          "sha":  "d999af4",
                          "date":  "2026-09-26T23:27:25-07:00",
                          "subject":  "ADS stock hiding for all long guns (AK, G36, MP5, UMP45, Vector, 870, M1014, DB, SR25, M24, AWM)",
-                         "ahead":  84,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a4f5afbe80c6112a2",
                          "sha":  "a6a89b7",
                          "date":  "2026-09-26T16:46:31-07:00",
                          "subject":  "P_M9: procedural Beretta M9 model from reference photo",
-                         "ahead":  16,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a5117d9b03b482d74",
                          "sha":  "f21fe3a",
                          "date":  "2026-09-26T16:50:31-07:00",
                          "subject":  "P_1911: procedural Colt M1911A1 model from reference photo",
-                         "ahead":  16,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a59b7989711694684",
                          "sha":  "5a77a7f",
                          "date":  "2026-09-26T23:11:57-07:00",
                          "subject":  "Street props: chain-link fence bays/posts, W-beam guard rails and truss sign gantries as meshes (guard_rail/sign_gantry helpers extracted from freeway()), gantry proof view",
-                         "ahead":  84,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a5e7ebff2912f47e0",
                          "sha":  "a0b5cf0",
                          "date":  "2026-09-26T23:05:31-07:00",
                          "subject":  "Gunfire destruction v0.76: softer walls/props, progressive prop damage, crushed wrecks, debris pool",
-                         "ahead":  84,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a6f530223364c0a43",
                          "sha":  "7c56de7",
                          "date":  "2026-09-27T10:53:37-07:00",
                          "subject":  "G_DB: parked shell no longer re-shown by the scope-hide propagation (ReapplyHidden), bead r 0.32 on the sight line",
-                         "ahead":  126,
+                         "ahead":  3,
                          "merged":  false
                      },
                      {
@@ -518,7 +519,7 @@
                          "sha":  "b148557",
                          "date":  "2026-09-27T10:50:24-07:00",
                          "subject":  "P_DE50 sights: front blade raised to the rear blade tops, aim points there, wider notch (check_ads PASS)",
-                         "ahead":  130,
+                         "ahead":  3,
                          "merged":  false
                      },
                      {
@@ -526,39 +527,39 @@
                          "sha":  "95cdbe4",
                          "date":  "2026-09-26T16:53:40-07:00",
                          "subject":  "G_M1014: procedural Benelli M4 model from reference photo",
-                         "ahead":  16,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a8d3fe226b9f67a2c",
                          "sha":  "c3527d8",
                          "date":  "2026-09-26T23:15:39-07:00",
                          "subject":  "Buildings: mobile homes and water tower remodelled with the building kit",
-                         "ahead":  84,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a90ab0996d0a38bbf",
                          "sha":  "2198c9c",
                          "date":  "2026-09-26T17:26:45-07:00",
                          "subject":  "S_VECTOR: procedural KRISS Vector model from reference photo",
-                         "ahead":  28,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a999b1ba7e103c415",
                          "sha":  "24cafd5",
                          "date":  "2026-09-26T23:16:25-07:00",
                          "subject":  "Grenades: squared structure falloff for the 3x blast, debris via TMDebris pool, -TMThrowKind",
-                         "ahead":  91,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a9ff6a1890f8fe5a4",
                          "sha":  "6a48316",
                          "date":  "2026-09-26T23:38:58-07:00",
                          "subject":  "Merge branch \u0027worktree-agent-afe2fce4a30bc7be4\u0027 into worktree-agent-a9ff6a1890f8fe5a4",
-                         "ahead":  111,
+                         "ahead":  5,
                          "merged":  false
                      },
                      {
@@ -566,39 +567,39 @@
                          "sha":  "f74f36c",
                          "date":  "2026-09-26T17:33:52-07:00",
                          "subject":  "A_G36: procedural H\u0026K G36C model from reference photo",
-                         "ahead":  28,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-ab11cc93b7268b66e",
                          "sha":  "d701f2b",
                          "date":  "2026-09-27T10:22:29-07:00",
                          "subject":  "M4 charging handle: rounded AR-15 T-handle with latch paddle in the dark sight-metal finish",
-                         "ahead":  119,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-ac1eb0697f855df5c",
                          "sha":  "b6a7131",
                          "date":  "2026-09-26T16:48:40-07:00",
                          "subject":  "R_SR25: procedural KAC SR-25 model from reference photo",
-                         "ahead":  16,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-ac599cb6f090da687",
                          "sha":  "daa5aa1",
                          "date":  "2026-09-27T10:35:57-07:00",
                          "subject":  "Sniper stock grip: R_M24/R_AWM stock hides with the scope overlay (ads_hide_at 0.9) so the right fist keeps the wrist mid-ADS",
-                         "ahead":  119,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-acb72df481d7c8c3d",
                          "sha":  "fc8d5e4",
                          "date":  "2026-09-26T19:43:03-07:00",
                          "subject":  "status 98af4ee 2026-09-26T19:43:03",
-                         "ahead":  46,
+                         "ahead":  30,
                          "merged":  false
                      },
                      {
@@ -606,15 +607,15 @@
                          "sha":  "0839285",
                          "date":  "2026-09-26T17:39:31-07:00",
                          "subject":  "R_AWM: procedural AI AWM model from reference photo",
-                         "ahead":  28,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-aebb56d563c8fd45f",
                          "sha":  "4f13cfd",
                          "date":  "2026-09-27T10:46:45-07:00",
                          "subject":  "Merge guns-procedural (doors, v0.86) into car sections",
-                         "ahead":  129,
+                         "ahead":  2,
                          "merged":  false
                      },
                      {
@@ -622,16 +623,16 @@
                          "sha":  "e2c7473",
                          "date":  "2026-09-26T23:15:10-07:00",
                          "subject":  "Audio lane: layered explosions, recorded gore and destruction sounds + UTMWeaponAudio entry points",
-                         "ahead":  84,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-afe2fce4a30bc7be4",
                          "sha":  "d8ad428",
                          "date":  "2026-09-26T23:38:23-07:00",
                          "subject":  "Gore: realistic exit spray/mist, landing wall splatter, arterial spurts, drips, spreading corpse pools; one merged blood RPC per infected per frame; gore sounds wired; -TMGoreShot/-TMGoreCrowd proofs",
-                         "ahead":  104,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "zombie-density",
@@ -1276,5 +1277,5 @@
                         "subject":  "ADS stock hiding for all long guns (AK, G36, MP5, UMP45, Vector, 870, M1014, DB, SR25, M24, AWM)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:54:10.4709257-07:00"
+    "generatedAt":  "2026-09-27T10:54:13.3723237-07:00"
 }
