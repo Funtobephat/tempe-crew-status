@@ -507,10 +507,10 @@
                      },
                      {
                          "name":  "worktree-agent-a6f530223364c0a43",
-                         "sha":  "7b8ec01",
-                         "date":  "2026-09-27T10:35:52-07:00",
-                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a6f530223364c0a43",
-                         "ahead":  125,
+                         "sha":  "7c56de7",
+                         "date":  "2026-09-27T10:53:37-07:00",
+                         "subject":  "G_DB: parked shell no longer re-shown by the scope-hide propagation (ReapplyHidden), bead r 0.32 on the sight line",
+                         "ahead":  126,
                          "merged":  false
                      },
                      {
@@ -706,7 +706,7 @@
                       {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
-                          "dirty":  27
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -1276,5 +1276,5 @@
                         "subject":  "ADS stock hiding for all long guns (AK, G36, MP5, UMP45, Vector, 870, M1014, DB, SR25, M24, AWM)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:53:46.8042720-07:00"
+    "generatedAt":  "2026-09-27T10:54:10.4709257-07:00"
 }
