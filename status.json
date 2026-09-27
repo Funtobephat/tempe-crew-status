@@ -572,11 +572,11 @@
                      },
                      {
                          "name":  "worktree-agent-ab11cc93b7268b66e",
-                         "sha":  "922ecf5",
-                         "date":  "2026-09-27T11:15:18-07:00",
-                         "subject":  "CLAUDE.md: crew board drops the bar for finished lanes",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "642df57",
+                         "date":  "2026-09-27T11:37:48-07:00",
+                         "subject":  "Escape menu pauses the world solo; Ready row removed from the in-game menu",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-ac1eb0697f855df5c",
@@ -767,8 +767,8 @@
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
                           "branch":  "worktree-agent-ab11cc93b7268b66e",
-                          "dirty":  6,
-                          "active":  "2026-09-27T11:30:58.0951569-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -797,8 +797,8 @@
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  241,
-                          "active":  "2026-09-27T11:36:13.2700099-07:00"
+                          "dirty":  242,
+                          "active":  "2026-09-27T11:37:44.0854258-07:00"
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1115,9 +1115,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "642df57",
+                        "date":  "2026-09-27T11:37:48-07:00",
+                        "refs":  "worktree-agent-ab11cc93b7268b66e",
+                        "subject":  "Escape menu pauses the world solo; Ready row removed from the in-game menu"
+                    },
+                    {
                         "sha":  "922ecf5",
                         "date":  "2026-09-27T11:15:18-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-aebb56d563c8fd45f, worktree-agent-ab11cc93b7268b66e, worktree-agent-a00e40f662f518017",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-aebb56d563c8fd45f, worktree-agent-a00e40f662f518017",
                         "subject":  "CLAUDE.md: crew board drops the bar for finished lanes"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T09:55:12-07:00",
                         "refs":  "",
                         "subject":  "v0.85: grenade blast radius -30% (frag 14.7 m, dynamite 20 m)"
-                    },
-                    {
-                        "sha":  "747a55c",
-                        "date":  "2026-09-27T09:52:15-07:00",
-                        "refs":  "",
-                        "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:37:23.8771164-07:00"
+    "generatedAt":  "2026-09-27T11:37:49.4668922-07:00"
 }
