@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "099f0f6",
-                         "date":  "2026-09-27T10:22:53-07:00",
-                         "subject":  "Merge Sub-agent 3: M4 charging handle rebuilt as a dark rounded AR T-handle",
-                         "ahead":  120,
+                         "sha":  "0030f85",
+                         "date":  "2026-09-27T10:35:12-07:00",
+                         "subject":  "Merge Sub-agent 7: ADS checker judges every sight style (ring, hooded, notch, bead, scope; SKIP instead of false FAIL)",
+                         "ahead":  123,
                          "merged":  false
                      },
                      {
@@ -451,18 +451,18 @@
                      },
                      {
                          "name":  "worktree-agent-a1bccf2e41869cb3f",
-                         "sha":  "17f44a1",
-                         "date":  "2026-09-27T10:10:11-07:00",
-                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post",
-                         "ahead":  118,
+                         "sha":  "a7e8f56",
+                         "date":  "2026-09-27T10:34:35-07:00",
+                         "subject":  "QA: check_ads.py judges every sight style (ring/hooded/notch/bead/scope), SKIP instead of false FAIL",
+                         "ahead":  119,
                          "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a1e4d716b9b161880",
-                         "sha":  "17f44a1",
-                         "date":  "2026-09-27T10:10:11-07:00",
-                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post",
-                         "ahead":  118,
+                         "sha":  "eb946b0",
+                         "date":  "2026-09-27T10:35:12-07:00",
+                         "subject":  "District: seal hollow-shell doors, interiors behind the kept ATMDoors, door audit",
+                         "ahead":  119,
                          "merged":  false
                      },
                      {
@@ -651,7 +651,7 @@
                       {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
-                          "dirty":  83
+                          "dirty":  16
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -671,12 +671,12 @@
                       {
                           "folder":  "agent-a1bccf2e41869cb3f",
                           "branch":  "worktree-agent-a1bccf2e41869cb3f",
-                          "dirty":  2
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a1e4d716b9b161880",
                           "branch":  "worktree-agent-a1e4d716b9b161880",
-                          "dirty":  118
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a3509403be866a68e",
@@ -1036,16 +1036,46 @@
                   ],
     "commits":  [
                     {
-                        "sha":  "0030f85",
-                        "date":  "2026-09-27T10:35:12-07:00",
+                        "sha":  "9f565fd",
+                        "date":  "2026-09-27T10:36:00-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
-                        "subject":  "Merge Sub-agent 7: ADS checker judges every sight style (ring, hooded, notch, bead, scope; SKIP instead of false FAIL)"
+                        "subject":  "Merge Sub-agent 8: seal hollow-shell doors, interiors behind kept doors, door audit (map rebuild pending)"
+                    },
+                    {
+                        "sha":  "daa5aa1",
+                        "date":  "2026-09-27T10:35:57-07:00",
+                        "refs":  "worktree-agent-ac599cb6f090da687",
+                        "subject":  "Sniper stock grip: R_M24/R_AWM stock hides with the scope overlay (ads_hide_at 0.9) so the right fist keeps the wrist mid-ADS"
+                    },
+                    {
+                        "sha":  "7b8ec01",
+                        "date":  "2026-09-27T10:35:52-07:00",
+                        "refs":  "worktree-agent-a6f530223364c0a43",
+                        "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a6f530223364c0a43"
+                    },
+                    {
+                        "sha":  "99961c2",
+                        "date":  "2026-09-27T10:35:52-07:00",
+                        "refs":  "",
+                        "subject":  "G_870/G_DB: stock cut moved behind the strong fist (butt only hides in ADS, wrist stays on the body)"
+                    },
+                    {
+                        "sha":  "778cf8b",
+                        "date":  "2026-09-27T10:35:23-07:00",
+                        "refs":  "",
+                        "subject":  "CLAUDE.md: remove leftover merge markers"
                     },
                     {
                         "sha":  "eb946b0",
                         "date":  "2026-09-27T10:35:12-07:00",
                         "refs":  "worktree-agent-a1e4d716b9b161880",
                         "subject":  "District: seal hollow-shell doors, interiors behind the kept ATMDoors, door audit"
+                    },
+                    {
+                        "sha":  "0030f85",
+                        "date":  "2026-09-27T10:35:12-07:00",
+                        "refs":  "",
+                        "subject":  "Merge Sub-agent 7: ADS checker judges every sight style (ring, hooded, notch, bead, scope; SKIP instead of false FAIL)"
                     },
                     {
                         "sha":  "a7e8f56",
@@ -1068,7 +1098,7 @@
                     {
                         "sha":  "17f44a1",
                         "date":  "2026-09-27T10:10:11-07:00",
-                        "refs":  "worktree-agent-ac599cb6f090da687, worktree-agent-a7e1db2966d2992d3, worktree-agent-a6f530223364c0a43, worktree-agent-a08d89b2f8d1de0bf, worktree-agent-a00e40f662f518017",
+                        "refs":  "worktree-agent-a7e1db2966d2992d3, worktree-agent-a08d89b2f8d1de0bf, worktree-agent-a00e40f662f518017",
                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post"
                     },
                     {
@@ -1244,37 +1274,7 @@
                         "date":  "2026-09-26T23:12:20-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 2: chain-link fences, W-beam guard rails and sign gantries as street-prop meshes"
-                    },
-                    {
-                        "sha":  "8b656bc",
-                        "date":  "2026-09-26T23:11:57-07:00",
-                        "refs":  "",
-                        "subject":  "Merge guns-procedural into grenades lane"
-                    },
-                    {
-                        "sha":  "5a77a7f",
-                        "date":  "2026-09-26T23:11:57-07:00",
-                        "refs":  "worktree-agent-a59b7989711694684",
-                        "subject":  "Street props: chain-link fence bays/posts, W-beam guard rails and truss sign gantries as meshes (guard_rail/sign_gantry helpers extracted from freeway()), gantry proof view"
-                    },
-                    {
-                        "sha":  "d100e32",
-                        "date":  "2026-09-26T23:11:53-07:00",
-                        "refs":  "",
-                        "subject":  "v0.76: heavier gunfire destruction integrated (Sub-agent 8)"
-                    },
-                    {
-                        "sha":  "9459d59",
-                        "date":  "2026-09-26T23:11:16-07:00",
-                        "refs":  "",
-                        "subject":  "Grenades: blast radius x3 and procedural explosion FX"
-                    },
-                    {
-                        "sha":  "b55be48",
-                        "date":  "2026-09-26T23:08:38-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 8: heavier gunfire destruction (softer walls/glass, breakable vehicles/containers with wrecks, progressive damage, debris pool)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:35:20.6230621-07:00"
+    "generatedAt":  "2026-09-27T10:36:20.4190887-07:00"
 }
