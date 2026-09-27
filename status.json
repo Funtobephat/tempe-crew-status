@@ -661,7 +661,7 @@
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
                           "branch":  "worktree-agent-a08d89b2f8d1de0bf",
-                          "dirty":  20
+                          "dirty":  19
                       },
                       {
                           "folder":  "agent-a10bee3c4c922a711",
@@ -671,7 +671,7 @@
                       {
                           "folder":  "agent-a1bccf2e41869cb3f",
                           "branch":  "worktree-agent-a1bccf2e41869cb3f",
-                          "dirty":  24
+                          "dirty":  25
                       },
                       {
                           "folder":  "agent-a1e4d716b9b161880",
@@ -706,12 +706,12 @@
                       {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
-                          "dirty":  17
+                          "dirty":  26
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
                           "branch":  "worktree-agent-a7e1db2966d2992d3",
-                          "dirty":  13
+                          "dirty":  22
                       },
                       {
                           "folder":  "agent-a7f3968d337988089",
@@ -771,7 +771,7 @@
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  265
+                          "dirty":  151
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1036,6 +1036,24 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "4f13cfd",
+                        "date":  "2026-09-27T10:46:45-07:00",
+                        "refs":  "worktree-agent-aebb56d563c8fd45f",
+                        "subject":  "Merge guns-procedural (doors, v0.86) into car sections"
+                    },
+                    {
+                        "sha":  "81a8087",
+                        "date":  "2026-09-27T10:45:56-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.87: integrate Sub-agents 3, 5, 7, 8 (M4 charging handle, rifle ADS grip, ADS checker, sealed doors)"
+                    },
+                    {
+                        "sha":  "bfc04bc",
+                        "date":  "2026-09-27T10:45:30-07:00",
+                        "refs":  "",
+                        "subject":  "Car sections: cars are shot apart panel by panel (13 sections + indestructible core) instead of crushed flat"
+                    },
+                    {
                         "sha":  "944bc6f",
                         "date":  "2026-09-27T10:41:37-07:00",
                         "refs":  "worktree-agent-a00e40f662f518017",
@@ -1062,7 +1080,7 @@
                     {
                         "sha":  "26eeec4",
                         "date":  "2026-09-27T10:36:42-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 5: bolt rifles keep the stock (and the right fist\u0027s grip) until the scope overlay covers the view"
                     },
                     {
@@ -1140,7 +1158,7 @@
                     {
                         "sha":  "747a55c",
                         "date":  "2026-09-27T09:52:15-07:00",
-                        "refs":  "worktree-agent-aebb56d563c8fd45f",
+                        "refs":  "",
                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild"
                     },
                     {
@@ -1256,25 +1274,7 @@
                         "date":  "2026-09-26T23:17:56-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 6: grenades 3x radius + procedural explosion FX (fireball, smoke column, shockwave, embers, flash, camera shake)"
-                    },
-                    {
-                        "sha":  "2f90746",
-                        "date":  "2026-09-26T23:17:56-07:00",
-                        "refs":  "",
-                        "subject":  "v0.77: destruction sounds wired (prop break/stage hit, wall + glass bursts); sounds, mobile homes, water tower merged"
-                    },
-                    {
-                        "sha":  "24cafd5",
-                        "date":  "2026-09-26T23:16:25-07:00",
-                        "refs":  "worktree-agent-a999b1ba7e103c415",
-                        "subject":  "Grenades: squared structure falloff for the 3x blast, debris via TMDebris pool, -TMThrowKind"
-                    },
-                    {
-                        "sha":  "b092915",
-                        "date":  "2026-09-26T23:16:09-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 1: mobile homes + water tower remodelled with the building kit"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:44:51.2612818-07:00"
+    "generatedAt":  "2026-09-27T10:47:48.1471322-07:00"
 }
