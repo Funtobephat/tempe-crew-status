@@ -435,10 +435,10 @@
                      },
                      {
                          "name":  "worktree-agent-a08d89b2f8d1de0bf",
-                         "sha":  "17f44a1",
-                         "date":  "2026-09-27T10:10:11-07:00",
-                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post",
-                         "ahead":  118,
+                         "sha":  "e085ac5",
+                         "date":  "2026-09-27T10:52:24-07:00",
+                         "subject":  "Gore: realistic dark blood pools (no pink paint rim), rim-first drying, pools dry",
+                         "ahead":  119,
                          "merged":  false
                      },
                      {
@@ -651,7 +651,7 @@
                       {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
-                          "dirty":  40
+                          "dirty":  42
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -661,7 +661,7 @@
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
                           "branch":  "worktree-agent-a08d89b2f8d1de0bf",
-                          "dirty":  13
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-a10bee3c4c922a711",
@@ -1276,5 +1276,5 @@
                         "subject":  "v0.78: grenades 3x radius + procedural explosion FX integrated (Sub-agent 6)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:52:34.3617018-07:00"
+    "generatedAt":  "2026-09-27T10:53:04.3573093-07:00"
 }
