@@ -460,11 +460,11 @@
                      },
                      {
                          "name":  "worktree-agent-a1e4d716b9b161880",
-                         "sha":  "82507df",
-                         "date":  "2026-09-27T12:19:00-07:00",
-                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "2766edf",
+                         "date":  "2026-09-27T13:06:05-07:00",
+                         "subject":  "Mission start at the safe house: fortified corner building, tagged starts, quiet zone",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a3509403be866a68e",
@@ -683,8 +683,8 @@
                       {
                           "folder":  "agent-a1e4d716b9b161880",
                           "branch":  "worktree-agent-a1e4d716b9b161880",
-                          "dirty":  129,
-                          "active":  "2026-09-27T12:49:15.0601919-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a3509403be866a68e",
@@ -767,8 +767,8 @@
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
                           "branch":  "worktree-agent-ab11cc93b7268b66e",
-                          "dirty":  2,
-                          "active":  "2026-09-27T12:49:05.1114536-07:00"
+                          "dirty":  101,
+                          "active":  "2026-09-27T13:06:04.2010276-07:00"
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -780,7 +780,7 @@
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
                           "dirty":  12,
-                          "active":  "2026-09-27T12:49:24.5042330-07:00"
+                          "active":  "2026-09-27T13:06:06.8607185-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1115,6 +1115,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "2766edf",
+                        "date":  "2026-09-27T13:06:05-07:00",
+                        "refs":  "worktree-agent-a1e4d716b9b161880",
+                        "subject":  "Mission start at the safe house: fortified corner building, tagged starts, quiet zone"
+                    },
+                    {
                         "sha":  "b4933c7",
                         "date":  "2026-09-27T12:46:56-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1141,7 +1147,7 @@
                     {
                         "sha":  "82507df",
                         "date":  "2026-09-27T12:19:00-07:00",
-                        "refs":  "worktree-agent-ac599cb6f090da687, worktree-agent-a1e4d716b9b161880",
+                        "refs":  "worktree-agent-ac599cb6f090da687",
                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)"
                     },
                     {
@@ -1347,13 +1353,7 @@
                         "date":  "2026-09-27T10:41:24-07:00",
                         "refs":  "",
                         "subject":  "Pistol support hand grips the gun (G17/M9/1911 shared hold)"
-                    },
-                    {
-                        "sha":  "71e8393",
-                        "date":  "2026-09-27T10:37:02-07:00",
-                        "refs":  "",
-                        "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a7e1db2966d2992d3"
                     }
                 ],
-    "generatedAt":  "2026-09-27T12:49:24.3939267-07:00"
+    "generatedAt":  "2026-09-27T13:06:06.2584822-07:00"
 }
