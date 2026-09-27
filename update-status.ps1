@@ -76,13 +76,13 @@ try {
       if ($hot -or -not $dc.ContainsKey($p)) {
         $st = @(git -C $p status --porcelain 2>$null); $w.dirty = $st.Count; $scanned++
         # latest edit among the uncommitted files = when the agent last actually worked in this lane (cards show it)
-        $latest = $touched
+        $latest = [datetime]::MinValue
         foreach ($line in ($st | Select-Object -First 400)) {
           $rel = $line.Substring(3).Trim('"'); if ($rel -match ' -> ') { $rel = $rel.Split(' -> ')[-1] }
           $fp = Join-Path $p ($rel -replace '/', '\')
           if (Test-Path -LiteralPath $fp -PathType Leaf) { $t = (Get-Item -LiteralPath $fp).LastWriteTime; if ($t -gt $latest) { $latest = $t } }
         }
-        if ($latest -gt [datetime]::MinValue) { $w.active = $latest.ToString("o") }
+        if ($st.Count -gt 0 -and $latest -gt [datetime]::MinValue) { $w.active = $latest.ToString("o") }   # only real uncommitted work counts as activity
       } else { $w.dirty = [int]$dc[$p] }
       $dcNew[$p] = $w.dirty
       $w.folder = Split-Path $p -Leaf; $w.Remove('path')
