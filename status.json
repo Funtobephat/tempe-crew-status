@@ -1,5 +1,5 @@
 {
-    "master":  "a16e07b",
+    "master":  "b10d1ce",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "a16e07b",
-                         "date":  "2026-09-27T10:50:25-07:00",
-                         "subject":  "CLAUDE.md: drop the superseded ADS checker bullet",
+                         "sha":  "b10d1ce",
+                         "date":  "2026-09-27T10:55:49-07:00",
+                         "subject":  "Merge worktree-agent-a7e1db2966d2992d3",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -439,8 +439,8 @@
                          "sha":  "e085ac5",
                          "date":  "2026-09-27T10:52:24-07:00",
                          "subject":  "Gore: realistic dark blood pools (no pink paint rim), rim-first drying, pools dry",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a10bee3c4c922a711",
@@ -511,16 +511,16 @@
                          "sha":  "7c56de7",
                          "date":  "2026-09-27T10:53:37-07:00",
                          "subject":  "G_DB: parked shell no longer re-shown by the scope-hide propagation (ReapplyHidden), bead r 0.32 on the sight line",
-                         "ahead":  3,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a7e1db2966d2992d3",
                          "sha":  "b148557",
                          "date":  "2026-09-27T10:50:24-07:00",
                          "subject":  "P_DE50 sights: front blade raised to the rear blade tops, aim points there, wider notch (check_ads PASS)",
-                         "ahead":  3,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a7f3968d337988089",
@@ -652,7 +652,7 @@
                       {
                           "folder":  "agent-a00e40f662f518017",
                           "branch":  "worktree-agent-a00e40f662f518017",
-                          "dirty":  42
+                          "dirty":  47
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1037,6 +1037,24 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "2632302",
+                        "date":  "2026-09-27T10:55:50-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge worktree-agent-a08d89b2f8d1de0bf"
+                    },
+                    {
+                        "sha":  "7b13326",
+                        "date":  "2026-09-27T10:55:50-07:00",
+                        "refs":  "",
+                        "subject":  "Merge worktree-agent-a6f530223364c0a43"
+                    },
+                    {
+                        "sha":  "b10d1ce",
+                        "date":  "2026-09-27T10:55:49-07:00",
+                        "refs":  "",
+                        "subject":  "Merge worktree-agent-a7e1db2966d2992d3"
+                    },
+                    {
                         "sha":  "7c56de7",
                         "date":  "2026-09-27T10:53:37-07:00",
                         "refs":  "worktree-agent-a6f530223364c0a43",
@@ -1051,7 +1069,7 @@
                     {
                         "sha":  "a16e07b",
                         "date":  "2026-09-27T10:50:25-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "CLAUDE.md: drop the superseded ADS checker bullet"
                     },
                     {
@@ -1257,25 +1275,7 @@
                         "date":  "2026-09-26T23:28:11-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 3: ADS stock hiding for all 11 remaining long guns (ads_clear rig flag keeps eye relief)"
-                    },
-                    {
-                        "sha":  "bb3be56",
-                        "date":  "2026-09-26T23:28:08-07:00",
-                        "refs":  "",
-                        "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a9ff6a1890f8fe5a4"
-                    },
-                    {
-                        "sha":  "59cbd5b",
-                        "date":  "2026-09-26T23:27:54-07:00",
-                        "refs":  "",
-                        "subject":  "Unreal MCP: load the plugins only for the MCP editor (-EnablePlugins), not from the .uproject"
-                    },
-                    {
-                        "sha":  "d999af4",
-                        "date":  "2026-09-26T23:27:25-07:00",
-                        "refs":  "worktree-agent-a3509403be866a68e",
-                        "subject":  "ADS stock hiding for all long guns (AK, G36, MP5, UMP45, Vector, 870, M1014, DB, SR25, M24, AWM)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:55:25.6613785-07:00"
+    "generatedAt":  "2026-09-27T10:55:50.1920491-07:00"
 }
