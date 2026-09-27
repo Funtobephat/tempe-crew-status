@@ -571,10 +571,10 @@
                      },
                      {
                          "name":  "worktree-agent-ab11cc93b7268b66e",
-                         "sha":  "17f44a1",
-                         "date":  "2026-09-27T10:10:11-07:00",
-                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post",
-                         "ahead":  118,
+                         "sha":  "d701f2b",
+                         "date":  "2026-09-27T10:22:29-07:00",
+                         "subject":  "M4 charging handle: rounded AR-15 T-handle with latch paddle in the dark sight-metal finish",
+                         "ahead":  119,
                          "merged":  false
                      },
                      {
@@ -746,7 +746,7 @@
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
                           "branch":  "worktree-agent-ab11cc93b7268b66e",
-                          "dirty":  11
+                          "dirty":  0
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -771,7 +771,7 @@
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
                           "branch":  "worktree-agent-aebb56d563c8fd45f",
-                          "dirty":  264
+                          "dirty":  265
                       },
                       {
                           "folder":  "agent-af6b0d6274a433e04",
@@ -1036,6 +1036,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "099f0f6",
+                        "date":  "2026-09-27T10:22:53-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 3: M4 charging handle rebuilt as a dark rounded AR T-handle"
+                    },
+                    {
                         "sha":  "d701f2b",
                         "date":  "2026-09-27T10:22:29-07:00",
                         "refs":  "worktree-agent-ab11cc93b7268b66e",
@@ -1044,7 +1050,7 @@
                     {
                         "sha":  "17f44a1",
                         "date":  "2026-09-27T10:10:11-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ac599cb6f090da687, worktree-agent-a7e1db2966d2992d3, worktree-agent-a6f530223364c0a43, worktree-agent-a1e4d716b9b161880, worktree-agent-a1bccf2e41869cb3f, worktree-agent-a08d89b2f8d1de0bf, worktree-agent-a00e40f662f518017",
+                        "refs":  "worktree-agent-ac599cb6f090da687, worktree-agent-a7e1db2966d2992d3, worktree-agent-a6f530223364c0a43, worktree-agent-a1e4d716b9b161880, worktree-agent-a1bccf2e41869cb3f, worktree-agent-a08d89b2f8d1de0bf, worktree-agent-a00e40f662f518017",
                         "subject":  "v0.86: M4 iron sights - aperture ring moved to the rear sight, front tower is a single post"
                     },
                     {
@@ -1268,13 +1274,7 @@
                         "date":  "2026-09-26T22:57:21-07:00",
                         "refs":  "",
                         "subject":  "CLAUDE.md: reply formatting preference (no red code spans for routine info)"
-                    },
-                    {
-                        "sha":  "e11d50c",
-                        "date":  "2026-09-26T22:55:33-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 4: hub ceiling lamp shades placed before the Instancer flush"
                     }
                 ],
-    "generatedAt":  "2026-09-27T10:22:43.5222051-07:00"
+    "generatedAt":  "2026-09-27T10:23:37.2174642-07:00"
 }
