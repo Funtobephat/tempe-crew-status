@@ -574,7 +574,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1
+                          "dirty":  5
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -1159,5 +1159,5 @@
                         "subject":  "v0.70: M4 stock hidden while aiming down sights"
                     }
                 ],
-    "generatedAt":  "2026-09-27T09:09:22.4029101-07:00"
+    "generatedAt":  "2026-09-27T09:17:48.6039525-07:00"
 }
