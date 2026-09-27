@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "1d7a87d",
-                         "date":  "2026-09-27T09:09:02-07:00",
-                         "subject":  "v0.81: first mission renamed Tempe Public Library -\u003e Gas Station",
-                         "ahead":  112,
+                         "sha":  "f1a8ee7",
+                         "date":  "2026-09-27T09:20:09-07:00",
+                         "subject":  "v0.82: fix debris chip crash (GC-freed static material pointer); hide hub squad panel when solo",
+                         "ahead":  113,
                          "merged":  false
                      },
                      {
@@ -574,7 +574,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  5
+                          "dirty":  1
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -919,9 +919,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "f1a8ee7",
+                        "date":  "2026-09-27T09:20:09-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.82: fix debris chip crash (GC-freed static material pointer); hide hub squad panel when solo"
+                    },
+                    {
                         "sha":  "1d7a87d",
                         "date":  "2026-09-27T09:09:02-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.81: first mission renamed Tempe Public Library -\u003e Gas Station"
                     },
                     {
@@ -1151,13 +1157,7 @@
                         "date":  "2026-09-26T22:08:59-07:00",
                         "refs":  "",
                         "subject":  "v0.71: campaign map reads as a progression with only the live choices lit"
-                    },
-                    {
-                        "sha":  "ac79831",
-                        "date":  "2026-09-26T22:05:31-07:00",
-                        "refs":  "",
-                        "subject":  "v0.70: M4 stock hidden while aiming down sights"
                     }
                 ],
-    "generatedAt":  "2026-09-27T09:17:48.6039525-07:00"
+    "generatedAt":  "2026-09-27T09:20:28.7220988-07:00"
 }
