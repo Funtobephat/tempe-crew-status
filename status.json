@@ -499,10 +499,10 @@
                      },
                      {
                          "name":  "worktree-agent-a999b1ba7e103c415",
-                         "sha":  "76daeff",
-                         "date":  "2026-09-26T22:24:57-07:00",
-                         "subject":  "v0.74: hide the top-left info line in game (-TMDebugHud shows it)",
-                         "ahead":  82,
+                         "sha":  "9459d59",
+                         "date":  "2026-09-26T23:11:16-07:00",
+                         "subject":  "Grenades: blast radius x3 and procedural explosion FX",
+                         "ahead":  83,
                          "merged":  false
                      },
                      {
@@ -574,7 +574,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1
+                          "dirty":  3
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -589,7 +589,7 @@
                       {
                           "folder":  "agent-a3509403be866a68e",
                           "branch":  "worktree-agent-a3509403be866a68e",
-                          "dirty":  37
+                          "dirty":  95
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -629,7 +629,7 @@
                       {
                           "folder":  "agent-a999b1ba7e103c415",
                           "branch":  "worktree-agent-a999b1ba7e103c415",
-                          "dirty":  8
+                          "dirty":  23
                       },
                       {
                           "folder":  "agent-a9ff6a1890f8fe5a4",
@@ -659,7 +659,7 @@
                       {
                           "folder":  "agent-af6b0d6274a433e04",
                           "branch":  "worktree-agent-af6b0d6274a433e04",
-                          "dirty":  507
+                          "dirty":  101
                       },
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
@@ -919,15 +919,39 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "cc0dc4c",
+                        "date":  "2026-09-26T23:12:20-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 2: chain-link fences, W-beam guard rails and sign gantries as street-prop meshes"
+                    },
+                    {
+                        "sha":  "8b656bc",
+                        "date":  "2026-09-26T23:11:57-07:00",
+                        "refs":  "worktree-agent-a999b1ba7e103c415",
+                        "subject":  "Merge guns-procedural into grenades lane"
+                    },
+                    {
+                        "sha":  "5a77a7f",
+                        "date":  "2026-09-26T23:11:57-07:00",
+                        "refs":  "worktree-agent-a59b7989711694684",
+                        "subject":  "Street props: chain-link fence bays/posts, W-beam guard rails and truss sign gantries as meshes (guard_rail/sign_gantry helpers extracted from freeway()), gantry proof view"
+                    },
+                    {
+                        "sha":  "d100e32",
+                        "date":  "2026-09-26T23:11:53-07:00",
+                        "refs":  "",
+                        "subject":  "v0.76: heavier gunfire destruction integrated (Sub-agent 8)"
+                    },
+                    {
                         "sha":  "9459d59",
                         "date":  "2026-09-26T23:11:16-07:00",
-                        "refs":  "worktree-agent-a999b1ba7e103c415",
+                        "refs":  "",
                         "subject":  "Grenades: blast radius x3 and procedural explosion FX"
                     },
                     {
                         "sha":  "b55be48",
                         "date":  "2026-09-26T23:08:38-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 8: heavier gunfire destruction (softer walls/glass, breakable vehicles/containers with wrecks, progressive damage, debris pool)"
                     },
                     {
@@ -963,7 +987,7 @@
                     {
                         "sha":  "5a7b6e8",
                         "date":  "2026-09-26T22:27:10-07:00",
-                        "refs":  "worktree-agent-afe2fce4a30bc7be4, worktree-agent-af6b0d6274a433e04, worktree-agent-a8d3fe226b9f67a2c, worktree-agent-a59b7989711694684, worktree-agent-a3509403be866a68e",
+                        "refs":  "worktree-agent-afe2fce4a30bc7be4, worktree-agent-af6b0d6274a433e04, worktree-agent-a8d3fe226b9f67a2c, worktree-agent-a3509403be866a68e",
                         "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated"
                     },
                     {
@@ -1133,31 +1157,7 @@
                         "date":  "2026-09-26T20:25:06-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 2: procedural street-prop mesh library (cars, wrecks, barriers, lights, signals, furniture, desert)"
-                    },
-                    {
-                        "sha":  "6b0f9eb",
-                        "date":  "2026-09-26T20:19:41-07:00",
-                        "refs":  "",
-                        "subject":  "Street props: billboard + cot meshes, TM_NO_STREETPROPS A/B switch, lane notes with test/perf results"
-                    },
-                    {
-                        "sha":  "413babd",
-                        "date":  "2026-09-26T20:16:20-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 5: night soundscape replaces music, recorded infected voices/gore, space reverb, level-matched sets"
-                    },
-                    {
-                        "sha":  "71c450f",
-                        "date":  "2026-09-26T20:15:51-07:00",
-                        "refs":  "",
-                        "subject":  "Audio lane: faster night-bed fade-in, quieter log; Docs/Lanes/Audio.md"
-                    },
-                    {
-                        "sha":  "f8d9756",
-                        "date":  "2026-09-26T20:14:59-07:00",
-                        "refs":  "",
-                        "subject":  "Buildings: textured facade materials, window/door/cornice/awning detail, signs, pitched roofs, motel walkways"
                     }
                 ],
-    "generatedAt":  "2026-09-26T23:11:26.9521123-07:00"
+    "generatedAt":  "2026-09-26T23:13:27.8817837-07:00"
 }
