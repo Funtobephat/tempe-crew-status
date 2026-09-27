@@ -647,8 +647,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1,
-                          "active":  "2026-09-27T11:01:08.8173873-07:00"
+                          "dirty":  60,
+                          "active":  "2026-09-27T11:01:22.3626068-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1355,5 +1355,5 @@
                         "subject":  "v0.81: first mission renamed Tempe Public Library -\u003e Gas Station"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:01:09.5127130-07:00"
+    "generatedAt":  "2026-09-27T11:01:23.5296688-07:00"
 }
