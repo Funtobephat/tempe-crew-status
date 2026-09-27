@@ -604,7 +604,7 @@
                       {
                           "folder":  "agent-a59b7989711694684",
                           "branch":  "worktree-agent-a59b7989711694684",
-                          "dirty":  4
+                          "dirty":  9
                       },
                       {
                           "folder":  "agent-a5e7ebff2912f47e0",
@@ -634,7 +634,7 @@
                       {
                           "folder":  "agent-a9ff6a1890f8fe5a4",
                           "branch":  "worktree-agent-a9ff6a1890f8fe5a4",
-                          "dirty":  1
+                          "dirty":  83
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
@@ -659,7 +659,7 @@
                       {
                           "folder":  "agent-af6b0d6274a433e04",
                           "branch":  "worktree-agent-af6b0d6274a433e04",
-                          "dirty":  1
+                          "dirty":  2
                       },
                       {
                           "folder":  "agent-afe2fce4a30bc7be4",
@@ -1159,5 +1159,5 @@
                         "subject":  "Range notes: dedicated-server label gotcha"
                     }
                 ],
-    "generatedAt":  "2026-09-26T22:54:02.5981939-07:00"
+    "generatedAt":  "2026-09-26T22:55:13.1343748-07:00"
 }
