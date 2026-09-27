@@ -921,7 +921,7 @@
                     {
                         "sha":  "5a7b6e8",
                         "date":  "2026-09-26T22:27:10-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-afe2fce4a30bc7be4, worktree-agent-a5e7ebff2912f47e0",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-afe2fce4a30bc7be4, worktree-agent-af6b0d6274a433e04, worktree-agent-a9ff6a1890f8fe5a4, worktree-agent-a8d3fe226b9f67a2c, worktree-agent-a5e7ebff2912f47e0, worktree-agent-a59b7989711694684, worktree-agent-a3509403be866a68e",
                         "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated"
                     },
                     {
@@ -1011,13 +1011,13 @@
                     {
                         "sha":  "4d2756a",
                         "date":  "2026-09-26T20:55:37-07:00",
-                        "refs":  "worktree-agent-a3509403be866a68e",
+                        "refs":  "",
                         "subject":  "AutoTest deterministic again: body-centre aim, no random anim phase/jitter in bone tests, stricter evidence"
                     },
                     {
                         "sha":  "f1f2dec",
                         "date":  "2026-09-26T20:54:33-07:00",
-                        "refs":  "worktree-agent-a8d3fe226b9f67a2c",
+                        "refs":  "",
                         "subject":  "Roof relief: slope-aligned UV/normal frame, course shadows and per-tile tone on M_RoofTile/M_RoofShingle, boosted roof normals + cavity AO; content-hash (MD5 metadata) import check so later level builds reproduce the assets; rebuild_facade_materials.py for material-only updates"
                     },
                     {
@@ -1047,7 +1047,7 @@
                     {
                         "sha":  "8df5954",
                         "date":  "2026-09-26T20:50:43-07:00",
-                        "refs":  "worktree-agent-a59b7989711694684",
+                        "refs":  "",
                         "subject":  "Street props x buildings: facade clearance guards (sidewalk furniture skipped where a building sits, parked cars nudged off walls, truck-stop tractor dropped when its nose would enter the diner) + clearance report"
                     },
                     {
@@ -1107,7 +1107,7 @@
                     {
                         "sha":  "71c450f",
                         "date":  "2026-09-26T20:15:51-07:00",
-                        "refs":  "worktree-agent-af6b0d6274a433e04",
+                        "refs":  "",
                         "subject":  "Audio lane: faster night-bed fade-in, quieter log; Docs/Lanes/Audio.md"
                     },
                     {
@@ -1155,9 +1155,9 @@
                     {
                         "sha":  "0c45eb9",
                         "date":  "2026-09-26T19:49:51-07:00",
-                        "refs":  "worktree-agent-a9ff6a1890f8fe5a4",
+                        "refs":  "",
                         "subject":  "Range notes: dedicated-server label gotcha"
                     }
                 ],
-    "generatedAt":  "2026-09-26T22:49:40.2574144-07:00"
+    "generatedAt":  "2026-09-26T22:50:33.0592299-07:00"
 }
