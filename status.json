@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "dccf500",
-                         "date":  "2026-09-26T19:50:28-07:00",
-                         "subject":  "Merge Sub-agent 4: hub shooting range",
-                         "ahead":  44,
+                         "sha":  "6927d88",
+                         "date":  "2026-09-26T19:56:21-07:00",
+                         "subject":  "v0.63: hub shooting range integrated",
+                         "ahead":  45,
                          "merged":  false
                      },
                      {
@@ -550,7 +550,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1
+                          "dirty":  2
                       },
                       {
                           "folder":  "agent-a0366b80b65e236bf",
@@ -590,7 +590,7 @@
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
-                          "dirty":  73
+                          "dirty":  82
                       },
                       {
                           "folder":  "agent-a90ab0996d0a38bbf",
@@ -625,7 +625,7 @@
                       {
                           "folder":  "agent-af6b0d6274a433e04",
                           "branch":  "worktree-agent-af6b0d6274a433e04",
-                          "dirty":  601
+                          "dirty":  819
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -880,9 +880,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "6927d88",
+                        "date":  "2026-09-26T19:56:21-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.63: hub shooting range integrated"
+                    },
+                    {
                         "sha":  "dccf500",
                         "date":  "2026-09-26T19:50:28-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 4: hub shooting range"
                     },
                     {
@@ -1112,13 +1118,7 @@
                         "date":  "2026-09-26T17:33:52-07:00",
                         "refs":  "worktree-agent-aab0ef3128d9d2764",
                         "subject":  "A_G36: procedural H\u0026K G36C model from reference photo"
-                    },
-                    {
-                        "sha":  "5e7517e",
-                        "date":  "2026-09-26T17:28:41-07:00",
-                        "refs":  "",
-                        "subject":  "status 98af4ee 2026-09-26T17:28:41"
                     }
                 ],
-    "generatedAt":  "2026-09-26T19:51:20.2023437-07:00"
+    "generatedAt":  "2026-09-26T19:56:53.7737324-07:00"
 }
