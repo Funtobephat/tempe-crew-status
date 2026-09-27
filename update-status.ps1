@@ -15,6 +15,9 @@
 #   - each run logs its duration and warns above 45 s.
 param([string]$Repo = "C:\Users\Joe\Downloads\PoE2-Joe\TempeMassacre", [double]$HotHours = 3)
 $ErrorActionPreference = "Continue"
+# Runs every minute in the background: low CPU priority (inherited by the git child processes) so it never competes
+# with the game, the editor or the sub-agents' Unreal runs.
+try { (Get-Process -Id $PID).PriorityClass = 'BelowNormal' } catch {}
 # Hooks run with GIT_DIR/GIT_INDEX_FILE/... set to the committing repo (a worktree's .git/worktrees/<name> for agent
 # lanes). Inherited, they point every git call below - including the add/commit/push of THIS repo - at that one, which
 # committed status.json into a game branch, broke the push ("'origin' does not appear to be a git repository") and hung
