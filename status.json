@@ -420,9 +420,9 @@
                      },
                      {
                          "name":  "worktree-agent-a00e40f662f518017",
-                         "sha":  "a1867a2",
-                         "date":  "2026-09-27T11:00:53-07:00",
-                         "subject":  "Pistol sight pictures: rebuild the M9 and 1911 notch sights (check_ads PASS)",
+                         "sha":  "922ecf5",
+                         "date":  "2026-09-27T11:15:18-07:00",
+                         "subject":  "CLAUDE.md: crew board drops the bar for finished lanes",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -1117,7 +1117,7 @@
                     {
                         "sha":  "922ecf5",
                         "date":  "2026-09-27T11:15:18-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ab11cc93b7268b66e",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ab11cc93b7268b66e, worktree-agent-a00e40f662f518017",
                         "subject":  "CLAUDE.md: crew board drops the bar for finished lanes"
                     },
                     {
@@ -1147,7 +1147,7 @@
                     {
                         "sha":  "a1867a2",
                         "date":  "2026-09-27T11:00:53-07:00",
-                        "refs":  "worktree-agent-a00e40f662f518017",
+                        "refs":  "",
                         "subject":  "Pistol sight pictures: rebuild the M9 and 1911 notch sights (check_ads PASS)"
                     },
                     {
@@ -1355,5 +1355,5 @@
                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild"
                     }
                 ],
-    "generatedAt":  "2026-09-27T11:25:23.7531202-07:00"
+    "generatedAt":  "2026-09-27T11:25:26.3420154-07:00"
 }
