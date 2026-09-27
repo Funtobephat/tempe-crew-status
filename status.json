@@ -115,10 +115,10 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "747a55c",
-                         "date":  "2026-09-27T09:52:15-07:00",
-                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild",
-                         "ahead":  116,
+                         "sha":  "20783e0",
+                         "date":  "2026-09-27T09:55:12-07:00",
+                         "subject":  "v0.85: grenade blast radius -30% (frag 14.7 m, dynamite 20 m)",
+                         "ahead":  117,
                          "merged":  false
                      },
                      {
@@ -932,9 +932,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "20783e0",
+                        "date":  "2026-09-27T09:55:12-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.85: grenade blast radius -30% (frag 14.7 m, dynamite 20 m)"
+                    },
+                    {
                         "sha":  "747a55c",
                         "date":  "2026-09-27T09:52:15-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-aebb56d563c8fd45f",
+                        "refs":  "worktree-agent-aebb56d563c8fd45f",
                         "subject":  "v0.84: M4 source FBX + weapons.json from the sight rebuild"
                     },
                     {
@@ -1164,13 +1170,7 @@
                         "date":  "2026-09-26T22:27:10-07:00",
                         "refs":  "",
                         "subject":  "v0.75: Shift sprints, Caps Lock is the quiet walk (swapped); controls page + GDD updated"
-                    },
-                    {
-                        "sha":  "76daeff",
-                        "date":  "2026-09-26T22:24:57-07:00",
-                        "refs":  "",
-                        "subject":  "v0.74: hide the top-left info line in game (-TMDebugHud shows it)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T09:53:50.4226875-07:00"
+    "generatedAt":  "2026-09-27T09:55:31.2239279-07:00"
 }
