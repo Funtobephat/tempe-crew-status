@@ -1,5 +1,5 @@
 {
-    "master":  "68634ad",
+    "master":  "c692c6d",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "68634ad",
-                         "date":  "2026-09-27T19:31:21-07:00",
-                         "subject":  "v0.983: billboards use mirrored-UV poster materials (M_PosterFlip_*) instead of a negative scale (HISM keeps winding, the poster was culled); generator view moved inside the room",
+                         "sha":  "c692c6d",
+                         "date":  "2026-09-27T19:36:27-07:00",
+                         "subject":  "Billboards: flip the poster vertically (M_PosterV_*), not left-right - the mesh\u0027s poster V is upside down",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  275,
-                          "active":  "2026-09-27T19:35:30.7234467-07:00"
+                          "dirty":  271,
+                          "active":  "2026-09-27T19:36:34.5555579-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "c692c6d",
+                        "date":  "2026-09-27T19:36:27-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Billboards: flip the poster vertically (M_PosterV_*), not left-right - the mesh\u0027s poster V is upside down"
+                    },
+                    {
                         "sha":  "68634ad",
                         "date":  "2026-09-27T19:31:21-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.983: billboards use mirrored-UV poster materials (M_PosterFlip_*) instead of a negative scale (HISM keeps winding, the poster was culled); generator view moved inside the room"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-27T17:14:03-07:00",
                         "refs":  "worktree-agent-a7570fc3f1ade6260",
                         "subject":  "Police Station lighting lane: interior exposure volume, dead/working/flickering troffers, emergency units, EXIT signs, POI key lights, exterior wall packs/poles/uplights, helipad lights + beacon, light-function flicker, Perf-Police.ps1"
-                    },
-                    {
-                        "sha":  "05947d1",
-                        "date":  "2026-09-27T17:09:23-07:00",
-                        "refs":  "",
-                        "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-ad1a4775f60f3a736"
                     }
                 ],
-    "generatedAt":  "2026-09-27T19:36:24.4362741-07:00"
+    "generatedAt":  "2026-09-27T19:36:27.9647060-07:00"
 }
