@@ -814,7 +814,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:40:11.3951129-07:00"
+                          "active":  "2026-09-28T12:41:03.5839502-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -988,7 +988,7 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:39:15.3832777-07:00"
+                          "active":  "2026-09-28T12:40:44.3325623-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
@@ -1023,8 +1023,8 @@
                       {
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
-                          "dirty":  125,
-                          "active":  "2026-09-28T12:40:40.9927563-07:00"
+                          "dirty":  41,
+                          "active":  "2026-09-28T12:40:42.6646574-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1593,5 +1593,5 @@
                         "subject":  "Merge Sub-agent 1: police station structure (shell, facade, finishes, ceilings, real stairs, roof helipad, site)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:40:36.2878922-07:00"
+    "generatedAt":  "2026-09-28T12:41:23.8337053-07:00"
 }
