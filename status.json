@@ -1,5 +1,5 @@
 {
-    "master":  "94de03f",
+    "master":  "2ca141b",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "94de03f",
-                         "date":  "2026-09-27T17:18:33-07:00",
-                         "subject":  "Merge Sub-agent 1 follow-up: lot poles kept clear, sally port resized, flagpole hook",
+                         "sha":  "2ca141b",
+                         "date":  "2026-09-27T17:18:43-07:00",
+                         "subject":  "Police structure: drop the duplicate flagpole hook line",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -696,13 +696,13 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  70,
-                          "active":  "2026-09-27T17:18:37.8487386-07:00"
+                          "active":  "2026-09-27T17:18:47.9373267-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  225,
-                          "active":  "2026-09-27T17:18:36.7921888-07:00"
+                          "active":  "2026-09-27T17:18:51.3361771-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  270,
-                          "active":  "2026-09-27T17:18:24.0703205-07:00"
+                          "active":  "2026-09-27T17:18:51.5481942-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1199,9 +1199,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "2ca141b",
+                        "date":  "2026-09-27T17:18:43-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Police structure: drop the duplicate flagpole hook line"
+                    },
+                    {
                         "sha":  "94de03f",
                         "date":  "2026-09-27T17:18:33-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 1 follow-up: lot poles kept clear, sally port resized, flagpole hook"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T12:40:42-07:00",
                         "refs":  "",
                         "subject":  "M_Bat: batter\u0027s grip (aligned knuckles, palms facing, hands touching) + sign-continuous quaternion keys in melee clips"
-                    },
-                    {
-                        "sha":  "82507df",
-                        "date":  "2026-09-27T12:19:00-07:00",
-                        "refs":  "",
-                        "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:18:34.1690244-07:00"
+    "generatedAt":  "2026-09-27T17:18:44.9795003-07:00"
 }
