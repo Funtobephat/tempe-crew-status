@@ -508,10 +508,10 @@
                      },
                      {
                          "name":  "worktree-agent-a561616921da725b6",
-                         "sha":  "80c1d46",
-                         "date":  "2026-09-27T17:07:45-07:00",
-                         "subject":  "Merge branch \u0027worktree-agent-a04751b701c49f7e1\u0027 into worktree-agent-a561616921da725b6",
-                         "ahead":  2,
+                         "sha":  "c75fa27",
+                         "date":  "2026-09-27T17:16:31-07:00",
+                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6",
+                         "ahead":  3,
                          "merged":  false
                      },
                      {
@@ -702,7 +702,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  225,
-                          "active":  "2026-09-27T17:16:24.6433466-07:00"
+                          "active":  "2026-09-27T17:16:26.8812365-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -767,7 +767,7 @@
                       {
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
-                          "dirty":  215,
+                          "dirty":  99,
                           "active":  "2026-09-27T17:15:57.3939532-07:00"
                       },
                       {
@@ -864,7 +864,7 @@
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
                           "dirty":  250,
-                          "active":  "2026-09-27T17:16:25.6138308-07:00"
+                          "active":  "2026-09-27T17:16:32.0296717-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -1199,6 +1199,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "c75fa27",
+                        "date":  "2026-09-27T17:16:31-07:00",
+                        "refs":  "worktree-agent-a561616921da725b6",
+                        "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6"
+                    },
+                    {
                         "sha":  "0c65202",
                         "date":  "2026-09-27T17:15:57-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1279,7 +1285,7 @@
                     {
                         "sha":  "80c1d46",
                         "date":  "2026-09-27T17:07:45-07:00",
-                        "refs":  "worktree-agent-a561616921da725b6",
+                        "refs":  "",
                         "subject":  "Merge branch \u0027worktree-agent-a04751b701c49f7e1\u0027 into worktree-agent-a561616921da725b6"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T12:01:01-07:00",
                         "refs":  "",
                         "subject":  "v0.91: district rebuilt with car glass panes and tyres"
-                    },
-                    {
-                        "sha":  "cf22ace",
-                        "date":  "2026-09-27T11:55:09-07:00",
-                        "refs":  "",
-                        "subject":  "v0.91: car glass/tyres/launched panels integrated (Sub-agent 9); notes tidy"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:16:24.4502200-07:00"
+    "generatedAt":  "2026-09-27T17:16:33.0144273-07:00"
 }
