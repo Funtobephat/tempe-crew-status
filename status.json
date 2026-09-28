@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T19:10:22.4800557-07:00"
+                          "active":  "2026-09-27T19:11:16.2231073-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "Police route/POI lane WIP: ordered objectives, body armour + weapon display pickups, security-door buzzer, walking mission test"
                     }
                 ],
-    "generatedAt":  "2026-09-27T19:10:24.2398846-07:00"
+    "generatedAt":  "2026-09-27T19:11:24.3668657-07:00"
 }
