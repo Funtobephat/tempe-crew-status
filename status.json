@@ -776,7 +776,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  273,
-                          "active":  "2026-09-28T12:38:13.4018182-07:00"
+                          "active":  "2026-09-28T12:38:35.0960544-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -806,7 +806,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:38:24.5192385-07:00"
+                          "active":  "2026-09-28T12:39:24.7584146-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -884,7 +884,7 @@
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
                           "dirty":  44,
-                          "active":  "2026-09-28T12:38:23.8308171-07:00"
+                          "active":  "2026-09-28T12:38:51.7947947-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -913,8 +913,8 @@
                       {
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
-                          "dirty":  36,
-                          "active":  "2026-09-28T12:38:24.6745248-07:00"
+                          "dirty":  38,
+                          "active":  "2026-09-28T12:38:28.3855642-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -950,7 +950,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:38:08.1929214-07:00"
+                          "active":  "2026-09-28T12:39:25.4020188-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -974,13 +974,13 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:38:24.8155301-07:00"
+                          "active":  "2026-09-28T12:39:15.3832777-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
-                          "dirty":  36,
-                          "active":  "2026-09-28T12:37:15.2267268-07:00"
+                          "dirty":  38,
+                          "active":  "2026-09-28T12:39:25.8167409-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -992,7 +992,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:38:21.6087459-07:00"
+                          "active":  "2026-09-28T12:39:25.8167409-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1010,7 +1010,7 @@
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
                           "dirty":  124,
-                          "active":  "2026-09-28T12:38:25.4872060-07:00"
+                          "active":  "2026-09-28T12:39:05.5278297-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1339,9 +1339,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "2e8061d",
+                        "date":  "2026-09-28T12:39:26-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise"
+                    },
+                    {
                         "sha":  "21a4598",
                         "date":  "2026-09-28T12:37:13-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge SA1: P_FN57 (PS57 5.7mm) procedural model - IoU 0.985, notch sights PASS, slide/trigger/mag rig PASS, hold + one-handed downed clips"
                     },
                     {
@@ -1571,13 +1577,7 @@
                         "date":  "2026-09-27T17:15:14-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 1: police station structure (shell, facade, finishes, ceilings, real stairs, roof helipad, site)"
-                    },
-                    {
-                        "sha":  "57ddb76",
-                        "date":  "2026-09-27T17:15:06-07:00",
-                        "refs":  "",
-                        "subject":  "Merge lighting lane into furniture lane"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:38:24.0016756-07:00"
+    "generatedAt":  "2026-09-28T12:39:24.1330311-07:00"
 }
