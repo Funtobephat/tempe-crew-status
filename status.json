@@ -540,11 +540,11 @@
                      },
                      {
                          "name":  "worktree-agent-a7570fc3f1ade6260",
-                         "sha":  "8b3160a",
-                         "date":  "2026-09-27T16:37:29-07:00",
-                         "subject":  "Police layout: POI display spots + keep-clear zones",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "1e75892",
+                         "date":  "2026-09-27T17:14:03-07:00",
+                         "subject":  "Police Station lighting lane: interior exposure volume, dead/working/flickering troffers, emergency units, EXIT signs, POI key lights, exterior wall packs/poles/uplights, helipad lights + beacon, light-function flicker, Perf-Police.ps1",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a7e1db2966d2992d3",
@@ -702,7 +702,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  1,
-                          "active":  "2026-09-27T17:12:47.3795360-07:00"
+                          "active":  "2026-09-27T17:13:29.3598959-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:13:24.8702403-07:00"
+                          "active":  "2026-09-27T17:14:05.1296135-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -791,8 +791,8 @@
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
-                          "dirty":  119,
-                          "active":  "2026-09-27T17:13:23.7351945-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -863,8 +863,8 @@
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
-                          "dirty":  201,
-                          "active":  "2026-09-27T17:13:25.2956204-07:00"
+                          "dirty":  2,
+                          "active":  "2026-09-27T17:13:39.6854386-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -893,8 +893,8 @@
                       {
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
-                          "dirty":  180,
-                          "active":  "2026-09-27T17:13:25.4249698-07:00"
+                          "dirty":  64,
+                          "active":  "2026-09-27T17:13:48.2251480-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1199,6 +1199,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "1e75892",
+                        "date":  "2026-09-27T17:14:03-07:00",
+                        "refs":  "worktree-agent-a7570fc3f1ade6260",
+                        "subject":  "Police Station lighting lane: interior exposure volume, dead/working/flickering troffers, emergency units, EXIT signs, POI key lights, exterior wall packs/poles/uplights, helipad lights + beacon, light-function flicker, Perf-Police.ps1"
+                    },
+                    {
                         "sha":  "05947d1",
                         "date":  "2026-09-27T17:09:23-07:00",
                         "refs":  "worktree-agent-ad1a4775f60f3a736",
@@ -1243,7 +1249,7 @@
                     {
                         "sha":  "8b3160a",
                         "date":  "2026-09-27T16:37:29-07:00",
-                        "refs":  "worktree-agent-aff4cd4695d4ce12e, worktree-agent-a7570fc3f1ade6260",
+                        "refs":  "worktree-agent-aff4cd4695d4ce12e",
                         "subject":  "Police layout: POI display spots + keep-clear zones"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T11:01:35-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 1: pistol support hand grips the gun (G17/M9/1911); M9 and 1911 notch sights rebuilt"
-                    },
-                    {
-                        "sha":  "dced18f",
-                        "date":  "2026-09-27T11:01:08-07:00",
-                        "refs":  "",
-                        "subject":  "v0.88: generated Env/Hub assets as re-saved by the district rebuild"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:13:24.5619760-07:00"
+    "generatedAt":  "2026-09-27T17:14:04.1413041-07:00"
 }
