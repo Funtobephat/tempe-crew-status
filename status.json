@@ -564,11 +564,11 @@
                      },
                      {
                          "name":  "worktree-agent-a7448c06ac6e0c953",
-                         "sha":  "043df07",
-                         "date":  "2026-09-27T19:58:38-07:00",
-                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "e2f0006",
+                         "date":  "2026-09-28T12:54:57-07:00",
+                         "subject":  "R_M82: procedural M82A1-pattern .50 (M107) model from a CC BY 4.0 photo trace",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a7570fc3f1ade6260",
@@ -905,8 +905,8 @@
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
-                          "dirty":  45,
-                          "active":  "2026-09-28T12:54:40.4955294-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -1367,6 +1367,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "e2f0006",
+                        "date":  "2026-09-28T12:54:57-07:00",
+                        "refs":  "worktree-agent-a7448c06ac6e0c953",
+                        "subject":  "R_M82: procedural M82A1-pattern .50 (M107) model from a CC BY 4.0 photo trace"
+                    },
+                    {
                         "sha":  "267a0d5",
                         "date":  "2026-09-28T12:45:24-07:00",
                         "refs":  "worktree-agent-ac8a5743650d4c16f",
@@ -1417,7 +1423,7 @@
                     {
                         "sha":  "043df07",
                         "date":  "2026-09-27T19:58:38-07:00",
-                        "refs":  "worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d, worktree-agent-a7448c06ac6e0c953",
+                        "refs":  "worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d",
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     },
                     {
@@ -1599,13 +1605,7 @@
                         "date":  "2026-09-27T17:16:31-07:00",
                         "refs":  "",
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6"
-                    },
-                    {
-                        "sha":  "0c65202",
-                        "date":  "2026-09-27T17:15:57-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 6: police-uniform and riot-gear infected (armour absorbs + breaks), station placement"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:54:52.2260792-07:00"
+    "generatedAt":  "2026-09-28T12:54:58.4799473-07:00"
 }
