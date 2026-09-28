@@ -636,10 +636,10 @@
                      },
                      {
                          "name":  "worktree-agent-ad1a4775f60f3a736",
-                         "sha":  "89a3791",
-                         "date":  "2026-09-27T17:14:15-07:00",
-                         "subject":  "Police Station structure lane: brick/precast shell, per-room finishes + ceilings, real switchback stairs, dead elevator shaft, roof with penthouse + helipad, full site (street, lot, plaza, fences, secure lot, sally port)",
-                         "ahead":  3,
+                         "sha":  "9c7ada7",
+                         "date":  "2026-09-27T17:14:23-07:00",
+                         "subject":  "CLAUDE.md: police structure material count",
+                         "ahead":  4,
                          "merged":  false
                      },
                      {
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:14:17.7492166-07:00"
+                          "active":  "2026-09-27T17:14:25.2374312-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1199,9 +1199,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "9c7ada7",
+                        "date":  "2026-09-27T17:14:23-07:00",
+                        "refs":  "worktree-agent-ad1a4775f60f3a736",
+                        "subject":  "CLAUDE.md: police structure material count"
+                    },
+                    {
                         "sha":  "89a3791",
                         "date":  "2026-09-27T17:14:15-07:00",
-                        "refs":  "worktree-agent-ad1a4775f60f3a736",
+                        "refs":  "",
                         "subject":  "Police Station structure lane: brick/precast shell, per-room finishes + ceilings, real switchback stairs, dead elevator shaft, roof with penthouse + helipad, full site (street, lot, plaza, fences, secure lot, sally port)"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T11:11:21-07:00",
                         "refs":  "",
                         "subject":  "v0.89: Sub-agent 1 pistol support hand + M9/1911 sights integrated; crew board progress notes"
-                    },
-                    {
-                        "sha":  "2ea648f",
-                        "date":  "2026-09-27T11:06:59-07:00",
-                        "refs":  "",
-                        "subject":  "CLAUDE.md: crew board page freshness notes"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:14:17.1394950-07:00"
+    "generatedAt":  "2026-09-27T17:14:24.6183247-07:00"
 }
