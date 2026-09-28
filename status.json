@@ -776,7 +776,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  12,
-                          "active":  "2026-09-28T12:01:30.3394349-07:00"
+                          "active":  "2026-09-28T12:24:22.7007501-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -842,7 +842,7 @@
                           "folder":  "agent-a3d9dcc4fe34204db",
                           "branch":  "worktree-agent-a3d9dcc4fe34204db",
                           "dirty":  30,
-                          "active":  "2026-09-28T12:23:31.7015785-07:00"
+                          "active":  "2026-09-28T12:24:24.7674469-07:00"
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -950,7 +950,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  23,
-                          "active":  "2026-09-28T12:24:00.5717339-07:00"
+                          "active":  "2026-09-28T12:24:24.8957029-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1579,5 +1579,5 @@
                         "subject":  "Merge Sub-agent 4: police station lighting (emergency-mode interior, exterior, roof, interior exposure)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:21:41.0264294-07:00"
+    "generatedAt":  "2026-09-28T12:24:24.4513996-07:00"
 }
