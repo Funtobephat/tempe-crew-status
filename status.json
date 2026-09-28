@@ -588,11 +588,11 @@
                      },
                      {
                          "name":  "worktree-agent-a872374ca5f5a7a5d",
-                         "sha":  "043df07",
-                         "date":  "2026-09-27T19:58:38-07:00",
-                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "a58a84c",
+                         "date":  "2026-09-28T13:03:02-07:00",
+                         "subject":  "S_P90: procedural PDW-57 model (IoU 0.974), ring sights in the optic tunnel, top-mag rig, hold + reload clips",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a8d3fe226b9f67a2c",
@@ -744,7 +744,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  311,
-                          "active":  "2026-09-28T13:02:14.2622152-07:00"
+                          "active":  "2026-09-28T13:02:40.9358195-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -875,8 +875,8 @@
                       {
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
-                          "dirty":  40,
-                          "active":  "2026-09-28T13:02:05.2230800-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -911,8 +911,8 @@
                       {
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
-                          "dirty":  40,
-                          "active":  "2026-09-28T13:02:24.7584246-07:00"
+                          "dirty":  39,
+                          "active":  "2026-09-28T13:02:50.8356442-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1283,6 +1283,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "a58a84c",
+                        "date":  "2026-09-28T13:03:02-07:00",
+                        "refs":  "worktree-agent-a872374ca5f5a7a5d",
+                        "subject":  "S_P90: procedural PDW-57 model (IoU 0.974), ring sights in the optic tunnel, top-mag rig, hold + reload clips"
+                    },
+                    {
                         "sha":  "81b04dc",
                         "date":  "2026-09-28T13:02:12-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1417,7 +1423,7 @@
                     {
                         "sha":  "043df07",
                         "date":  "2026-09-27T19:58:38-07:00",
-                        "refs":  "worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d",
+                        "refs":  "worktree-agent-aaf055af3b87db083",
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     },
                     {
@@ -1515,13 +1521,7 @@
                         "date":  "2026-09-27T18:05:18-07:00",
                         "refs":  "worktree-agent-a81b51e9d464c878c",
                         "subject":  "Level 1 map lane: quarantine fence ring with road closures, GATE 1 frame by the safe house, armored rescue truck outside it, Reyes\u0027 last stand at the gas station; POI_Keys/Gate/Vehicle spots"
-                    },
-                    {
-                        "sha":  "770364d",
-                        "date":  "2026-09-27T18:03:58-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 3: police station furniture and dressing (905 pieces, every room, 6 barricade props)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:02:24.1768064-07:00"
+    "generatedAt":  "2026-09-28T13:03:03.1569805-07:00"
 }
