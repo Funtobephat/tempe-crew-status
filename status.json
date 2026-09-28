@@ -636,10 +636,10 @@
                      },
                      {
                          "name":  "worktree-agent-ad1a4775f60f3a736",
-                         "sha":  "0d14a2b",
-                         "date":  "2026-09-27T17:17:27-07:00",
-                         "subject":  "Police structure: lot islands around the lighting lane\u0027s pole spots, sally port clear of the rear pole, publish ctx.flagpoles, drop own pole piers",
-                         "ahead":  2,
+                         "sha":  "7eab1d5",
+                         "date":  "2026-09-27T17:17:34-07:00",
+                         "subject":  "CLAUDE.md: structure lane hooks",
+                         "ahead":  3,
                          "merged":  false
                      },
                      {
@@ -696,13 +696,13 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  250,
-                          "active":  "2026-09-27T17:17:27.8149984-07:00"
+                          "active":  "2026-09-27T17:17:33.8065988-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  225,
-                          "active":  "2026-09-27T17:17:13.6826245-07:00"
+                          "active":  "2026-09-27T17:17:35.4491508-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  21,
-                          "active":  "2026-09-27T17:17:02.2974644-07:00"
+                          "active":  "2026-09-27T17:17:35.0684620-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1199,9 +1199,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "7eab1d5",
+                        "date":  "2026-09-27T17:17:34-07:00",
+                        "refs":  "worktree-agent-ad1a4775f60f3a736",
+                        "subject":  "CLAUDE.md: structure lane hooks"
+                    },
+                    {
                         "sha":  "0d14a2b",
                         "date":  "2026-09-27T17:17:27-07:00",
-                        "refs":  "worktree-agent-ad1a4775f60f3a736",
+                        "refs":  "",
                         "subject":  "Police structure: lot islands around the lighting lane\u0027s pole spots, sally port clear of the rear pole, publish ctx.flagpoles, drop own pole piers"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T12:18:09-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 1: downed state - fall to the ground, one-handed pistol; co-op clients get their weapons (WeaponId replicated), teammates no longer float"
-                    },
-                    {
-                        "sha":  "e47be40",
-                        "date":  "2026-09-27T12:17:18-07:00",
-                        "refs":  "worktree-agent-a00e40f662f518017",
-                        "subject":  "Downed state: fall to the ground, one-handed pistol only (+ co-op weapon replication fix)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:17:28.4515351-07:00"
+    "generatedAt":  "2026-09-27T17:17:35.1664366-07:00"
 }
