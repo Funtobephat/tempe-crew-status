@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1,
-                          "active":  "2026-09-28T15:16:56.5435081-07:00"
+                          "dirty":  13,
+                          "active":  "2026-09-28T15:22:07.6550232-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "Merge SA1: P_FN57 (PS57 5.7mm) procedural model - IoU 0.985, notch sights PASS, slide/trigger/mag rig PASS, hold + one-handed downed clips"
                     }
                 ],
-    "generatedAt":  "2026-09-28T15:21:24.0955493-07:00"
+    "generatedAt":  "2026-09-28T15:22:24.0750874-07:00"
 }
