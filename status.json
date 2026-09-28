@@ -791,8 +791,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  269,
-                          "active":  "2026-09-28T12:57:27.0877017-07:00"
+                          "dirty":  312,
+                          "active":  "2026-09-28T12:59:19.1789083-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -822,7 +822,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:58:50.6515621-07:00"
+                          "active":  "2026-09-28T12:59:11.7933749-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -900,7 +900,7 @@
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
                           "dirty":  4,
-                          "active":  "2026-09-28T12:58:44.9739383-07:00"
+                          "active":  "2026-09-28T12:59:26.3775634-07:00"
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
@@ -936,7 +936,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:58:51.7492935-07:00"
+                          "active":  "2026-09-28T12:59:02.8280602-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:58:51.9428580-07:00"
+                          "active":  "2026-09-28T12:59:25.8755083-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1008,7 +1008,7 @@
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:58:52.0174373-07:00"
+                          "active":  "2026-09-28T12:59:26.4613374-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1607,5 +1607,5 @@
                         "subject":  "Police Station integration build: map rebuilt with structure, openings, lighting and police-infected lanes; editor re-saves of Env/Police materials"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:58:50.6174182-07:00"
+    "generatedAt":  "2026-09-28T12:59:24.3689893-07:00"
 }
