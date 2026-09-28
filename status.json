@@ -1,5 +1,5 @@
 {
-    "master":  "f688b79",
+    "master":  "f5f9248",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "f688b79",
-                         "date":  "2026-09-27T17:25:04-07:00",
-                         "subject":  "Level 1 POI chain scaffold: level1_map / level1_gameplay hooks in build_district.build()",
+                         "sha":  "f5f9248",
+                         "date":  "2026-09-27T17:27:29-07:00",
+                         "subject":  "Level POIs: approved goal chains for levels 3-10 (fire station .. forest lookout finale)",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -710,7 +710,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  250,
-                          "active":  "2026-09-27T17:27:23.8791781-07:00"
+                          "active":  "2026-09-27T17:27:34.2767606-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "f5f9248",
+                        "date":  "2026-09-27T17:27:29-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Level POIs: approved goal chains for levels 3-10 (fire station .. forest lookout finale)"
+                    },
+                    {
                         "sha":  "f688b79",
                         "date":  "2026-09-27T17:25:04-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-a81b51e9d464c878c, worktree-agent-a561616921da725b6",
+                        "refs":  "worktree-agent-a81b51e9d464c878c, worktree-agent-a561616921da725b6",
                         "subject":  "Level 1 POI chain scaffold: level1_map / level1_gameplay hooks in build_district.build()"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-27T13:21:25-07:00",
                         "refs":  "",
                         "subject":  "v0.93: safe-house start - rebuilt Proto_Tempe (safe house, tagged starts, quiet zone)"
-                    },
-                    {
-                        "sha":  "9f066c0",
-                        "date":  "2026-09-27T13:11:14-07:00",
-                        "refs":  "worktree-agent-ab11cc93b7268b66e",
-                        "subject":  "Campaign starts in the Safe House; mission board is a framed campaign map that opens the level selection"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:27:23.5339131-07:00"
+    "generatedAt":  "2026-09-27T17:27:30.6921971-07:00"
 }
