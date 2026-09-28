@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  126,
-                          "active":  "2026-09-27T18:37:06.0097886-07:00"
+                          "dirty":  274,
+                          "active":  "2026-09-27T18:38:23.8494427-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "Police Station: doors and windows lane (ATMDoor leaves + hinge hardware, locked SecurityDoor, storefront entry, jammed elevators, front-desk BR glass, one-way mirror, closed armory issue window, holding cells, destructible exterior panes, blinds, grilles, plaques)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:37:24.0723428-07:00"
+    "generatedAt":  "2026-09-27T18:38:24.1024319-07:00"
 }
