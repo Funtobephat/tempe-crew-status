@@ -991,8 +991,8 @@
                       {
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
-                          "dirty":  1,
-                          "active":  "2026-09-28T11:43:14.7471712-07:00"
+                          "dirty":  4,
+                          "active":  "2026-09-28T11:46:19.3316462-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1579,5 +1579,5 @@
                         "subject":  "CLAUDE.md: police structure material count"
                     }
                 ],
-    "generatedAt":  "2026-09-28T11:45:24.3219112-07:00"
+    "generatedAt":  "2026-09-28T11:46:24.1919807-07:00"
 }
