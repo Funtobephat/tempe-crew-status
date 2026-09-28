@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  271,
-                          "active":  "2026-09-27T19:31:23.8714906-07:00"
+                          "active":  "2026-09-27T19:31:28.5983459-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-ad1a4775f60f3a736"
                     }
                 ],
-    "generatedAt":  "2026-09-27T19:31:21.8692153-07:00"
+    "generatedAt":  "2026-09-27T19:31:28.6341924-07:00"
 }
