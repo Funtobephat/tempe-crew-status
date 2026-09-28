@@ -1453,5 +1453,5 @@
                         "subject":  "v0.983: billboards use mirrored-UV poster materials (M_PosterFlip_*) instead of a negative scale (HISM keeps winding, the poster was culled); generator view moved inside the room"
                     }
                 ],
-    "generatedAt":  "2026-09-28T14:13:23.4832260-07:00"
+    "generatedAt":  "2026-09-28T14:14:23.4952216-07:00"
 }
