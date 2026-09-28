@@ -1,5 +1,5 @@
 {
-    "master":  "aa2a40f",
+    "master":  "544a132",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "aa2a40f",
-                         "date":  "2026-09-28T15:57:13-07:00",
-                         "subject":  "v0.9895: no display guns on the Safe House benches; MP5 gunshots from ElevenLabs (composite with the recorded crack) at the G17\u0027s loudness",
+                         "sha":  "544a132",
+                         "date":  "2026-09-28T15:59:24-07:00",
+                         "subject":  "Asset re-saves from the v0.9895 Safe House rebuild (shared Env/Hub materials, signs, hub assets)",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -703,7 +703,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  83,
+                          "dirty":  1,
                           "active":  "2026-09-28T15:56:52.9619026-07:00"
                       },
                       {
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "544a132",
+                        "date":  "2026-09-28T15:59:24-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Asset re-saves from the v0.9895 Safe House rebuild (shared Env/Hub materials, signs, hub assets)"
+                    },
+                    {
                         "sha":  "aa2a40f",
                         "date":  "2026-09-28T15:57:13-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.9895: no display guns on the Safe House benches; MP5 gunshots from ElevenLabs (composite with the recorded crack) at the G17\u0027s loudness"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-28T12:55:20-07:00",
                         "refs":  "",
                         "subject":  "Merge SA7: G_AA12 (Auto-12) procedural model - IoU 0.973, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeId QA switch"
-                    },
-                    {
-                        "sha":  "e2f0006",
-                        "date":  "2026-09-28T12:54:57-07:00",
-                        "refs":  "",
-                        "subject":  "R_M82: procedural M82A1-pattern .50 (M107) model from a CC BY 4.0 photo trace"
                     }
                 ],
-    "generatedAt":  "2026-09-28T15:58:24.3137408-07:00"
+    "generatedAt":  "2026-09-28T15:59:24.3375289-07:00"
 }
