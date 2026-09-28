@@ -1,5 +1,5 @@
 {
-    "master":  "b4aee55",
+    "master":  "203cb06",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "b4aee55",
-                         "date":  "2026-09-28T13:36:51-07:00",
-                         "subject":  "Merge Sub-agent 1: smoke grenade model (SM_Item_Smoke, 15.5k tris, capsule collision, 2k PBR); smoke cloud swaps back to the sphere before scaling; -TMThrowKind=2 throws smoke, -TMThrowDist QA switch",
+                         "sha":  "203cb06",
+                         "date":  "2026-09-28T13:38:49-07:00",
+                         "subject":  "Merge Sub-agent 2: ammo can pickup model (SM_Item_Ammo, 6.1k tris, box collision, 2k PBR with chipped paint + stencil); Test-Police \u0027ammo\u0027 view",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -655,7 +655,7 @@
                          "sha":  "53c17ab",
                          "date":  "2026-09-28T13:38:23-07:00",
                          "subject":  "Ammo can pickup model: procedural SM_Item_Ammo (19.7x9.4x11.6 cm, 6.1k tris, baked 2k PBR, stencil block, chipped paint), build_items Ammo row, Test-Police ammo view",
-                         "ahead":  1,
+                         "ahead":  0,
                          "merged":  false
                      },
                      {
@@ -894,12 +894,6 @@
                           "folder":  "agent-acb72df481d7c8c3d",
                           "branch":  "worktree-agent-acb72df481d7c8c3d",
                           "dirty":  1,
-                          "active":  null
-                      },
-                      {
-                          "folder":  "agent-acfc9bcb1120bcaa7",
-                          "branch":  "worktree-agent-acfc9bcb1120bcaa7",
-                          "dirty":  0,
                           "active":  null
                       },
                       {
@@ -1241,6 +1235,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "203cb06",
+                        "date":  "2026-09-28T13:38:49-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 2: ammo can pickup model (SM_Item_Ammo, 6.1k tris, box collision, 2k PBR with chipped paint + stencil); Test-Police \u0027ammo\u0027 view"
+                    },
+                    {
                         "sha":  "2bc1886",
                         "date":  "2026-09-28T13:38:35-07:00",
                         "refs":  "worktree-agent-abcaff63a3149d50a",
@@ -1249,13 +1249,13 @@
                     {
                         "sha":  "53c17ab",
                         "date":  "2026-09-28T13:38:23-07:00",
-                        "refs":  "worktree-agent-acfc9bcb1120bcaa7",
+                        "refs":  "",
                         "subject":  "Ammo can pickup model: procedural SM_Item_Ammo (19.7x9.4x11.6 cm, 6.1k tris, baked 2k PBR, stencil block, chipped paint), build_items Ammo row, Test-Police ammo view"
                     },
                     {
                         "sha":  "b4aee55",
                         "date":  "2026-09-28T13:36:51-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 1: smoke grenade model (SM_Item_Smoke, 15.5k tris, capsule collision, 2k PBR); smoke cloud swaps back to the sphere before scaling; -TMThrowKind=2 throws smoke, -TMThrowDist QA switch"
                     },
                     {
@@ -1473,13 +1473,7 @@
                         "date":  "2026-09-27T19:26:40-07:00",
                         "refs":  "",
                         "subject":  "v0.983: generator room emergency light; billboard poster flipped AND turned so it faces the viewer reading correctly"
-                    },
-                    {
-                        "sha":  "78497cd",
-                        "date":  "2026-09-27T19:13:30-07:00",
-                        "refs":  "",
-                        "subject":  "v0.982: billboard posters read the right way round (SM_SP_Billboard poster UVs were mirrored on every billboard)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:38:36.4060151-07:00"
+    "generatedAt":  "2026-09-28T13:38:50.2609355-07:00"
 }
