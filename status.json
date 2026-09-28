@@ -1,5 +1,5 @@
 {
-    "master":  "5810313",
+    "master":  "3d0a9a2",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "5810313",
-                         "date":  "2026-09-27T17:06:45-07:00",
-                         "subject":  "Police: broken doors hide attached hardware; armory issue window moved onto the vestibule/armory wall",
+                         "sha":  "3d0a9a2",
+                         "date":  "2026-09-27T17:14:35-07:00",
+                         "subject":  "Merge Sub-agent 4: police station lighting (emergency-mode interior, exterior, roof, interior exposure)",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -543,8 +543,8 @@
                          "sha":  "1e75892",
                          "date":  "2026-09-27T17:14:03-07:00",
                          "subject":  "Police Station lighting lane: interior exposure volume, dead/working/flickering troffers, emergency units, EXIT signs, POI key lights, exterior wall packs/poles/uplights, helipad lights + beacon, light-function flicker, Perf-Police.ps1",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a7e1db2966d2992d3",
@@ -701,8 +701,8 @@
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
-                          "dirty":  1,
-                          "active":  "2026-09-27T17:14:28.7485838-07:00"
+                          "dirty":  201,
+                          "active":  "2026-09-27T17:14:48.0712108-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:14:29.0576050-07:00"
+                          "active":  "2026-09-27T17:14:48.7327719-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1199,6 +1199,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "3d0a9a2",
+                        "date":  "2026-09-27T17:14:35-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 4: police station lighting (emergency-mode interior, exterior, roof, interior exposure)"
+                    },
+                    {
                         "sha":  "9c7ada7",
                         "date":  "2026-09-27T17:14:23-07:00",
                         "refs":  "worktree-agent-ad1a4775f60f3a736",
@@ -1243,7 +1249,7 @@
                     {
                         "sha":  "5810313",
                         "date":  "2026-09-27T17:06:45-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Police: broken doors hide attached hardware; armory issue window moved onto the vestibule/armory wall"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T11:15:18-07:00",
                         "refs":  "",
                         "subject":  "CLAUDE.md: crew board drops the bar for finished lanes"
-                    },
-                    {
-                        "sha":  "a850155",
-                        "date":  "2026-09-27T11:11:21-07:00",
-                        "refs":  "",
-                        "subject":  "v0.89: Sub-agent 1 pistol support hand + M9/1911 sights integrated; crew board progress notes"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:14:28.6455203-07:00"
+    "generatedAt":  "2026-09-27T17:14:37.3580168-07:00"
 }
