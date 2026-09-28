@@ -564,11 +564,11 @@
                      },
                      {
                          "name":  "worktree-agent-a81b51e9d464c878c",
-                         "sha":  "f688b79",
-                         "date":  "2026-09-27T17:25:04-07:00",
-                         "subject":  "Level 1 POI chain scaffold: level1_map / level1_gameplay hooks in build_district.build()",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "0fd2207",
+                         "date":  "2026-09-27T18:05:18-07:00",
+                         "subject":  "Level 1 map lane: quarantine fence ring with road closures, GATE 1 frame by the safe house, armored rescue truck outside it, Reyes\u0027 last stand at the gas station; POI_Keys/Gate/Vehicle spots",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a8d3fe226b9f67a2c",
@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1,
-                          "active":  "2026-09-27T17:23:36.9623936-07:00"
+                          "dirty":  311,
+                          "active":  "2026-09-27T18:05:19.6254401-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -776,7 +776,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  286,
-                          "active":  "2026-09-27T18:04:16.2084499-07:00"
+                          "active":  "2026-09-27T18:05:19.5759361-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -817,8 +817,8 @@
                       {
                           "folder":  "agent-a81b51e9d464c878c",
                           "branch":  "worktree-agent-a81b51e9d464c878c",
-                          "dirty":  138,
-                          "active":  "2026-09-27T18:04:24.5116311-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -1213,6 +1213,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "0fd2207",
+                        "date":  "2026-09-27T18:05:18-07:00",
+                        "refs":  "worktree-agent-a81b51e9d464c878c",
+                        "subject":  "Level 1 map lane: quarantine fence ring with road closures, GATE 1 frame by the safe house, armored rescue truck outside it, Reyes\u0027 last stand at the gas station; POI_Keys/Gate/Vehicle spots"
+                    },
+                    {
                         "sha":  "770364d",
                         "date":  "2026-09-27T18:03:58-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1233,7 +1239,7 @@
                     {
                         "sha":  "f688b79",
                         "date":  "2026-09-27T17:25:04-07:00",
-                        "refs":  "worktree-agent-a81b51e9d464c878c, worktree-agent-a561616921da725b6",
+                        "refs":  "worktree-agent-a561616921da725b6",
                         "subject":  "Level 1 POI chain scaffold: level1_map / level1_gameplay hooks in build_district.build()"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-27T13:28:09-07:00",
                         "refs":  "",
                         "subject":  "v0.94: campaign starts inside the Safe House; rebuilt Hub with the wall map board"
-                    },
-                    {
-                        "sha":  "cbe4eb5",
-                        "date":  "2026-09-27T13:25:29-07:00",
-                        "refs":  "worktree-agent-ac599cb6f090da687",
-                        "subject":  "Bat hits: car windows shatter, more bat damage, physical hit reaction + natural knockback on infected"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:04:24.3469509-07:00"
+    "generatedAt":  "2026-09-27T18:05:19.5256536-07:00"
 }
