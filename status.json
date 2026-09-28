@@ -696,13 +696,13 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  70,
-                          "active":  "2026-09-27T17:18:47.9373267-07:00"
+                          "active":  "2026-09-27T17:19:23.9564691-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  225,
-                          "active":  "2026-09-27T17:18:51.3361771-07:00"
+                          "active":  "2026-09-27T17:19:25.2360198-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  270,
-                          "active":  "2026-09-27T17:18:51.5481942-07:00"
+                          "active":  "2026-09-27T17:19:18.1351851-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1439,5 +1439,5 @@
                         "subject":  "M_Bat: batter\u0027s grip (aligned knuckles, palms facing, hands touching) + sign-continuous quaternion keys in melee clips"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:18:44.9795003-07:00"
+    "generatedAt":  "2026-09-27T17:19:24.6378283-07:00"
 }
