@@ -716,11 +716,11 @@
                      },
                      {
                          "name":  "worktree-agent-acdbf19db5d85b64e",
-                         "sha":  "043df07",
-                         "date":  "2026-09-27T19:58:38-07:00",
-                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "dd884f3",
+                         "date":  "2026-09-28T12:58:28-07:00",
+                         "subject":  "A_SCARL (Mk 16): procedural high-detail model from a CC BY-SA Commons photo (IoU 0.972), baked 2k FDE textures, ring sights, Mag/Bolt/Trigger/Stock rig, M4-family hold + reload clips, C++ twins; check_ads ring PASS, Test-Rig PASS",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-ad1a4775f60f3a736",
@@ -822,7 +822,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:58:24.0000000-07:00"
+                          "active":  "2026-09-28T12:58:31.7398043-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -900,7 +900,7 @@
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
                           "dirty":  4,
-                          "active":  "2026-09-28T12:58:21.8132706-07:00"
+                          "active":  "2026-09-28T12:58:31.8600048-07:00"
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
@@ -936,7 +936,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:57:35.3173725-07:00"
+                          "active":  "2026-09-28T12:58:31.8633045-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -1008,7 +1008,7 @@
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:58:24.9281578-07:00"
+                          "active":  "2026-09-28T12:58:33.6616110-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1019,8 +1019,8 @@
                       {
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
-                          "dirty":  43,
-                          "active":  "2026-09-28T12:58:08.5916296-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1367,6 +1367,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "dd884f3",
+                        "date":  "2026-09-28T12:58:28-07:00",
+                        "refs":  "worktree-agent-acdbf19db5d85b64e",
+                        "subject":  "A_SCARL (Mk 16): procedural high-detail model from a CC BY-SA Commons photo (IoU 0.972), baked 2k FDE textures, ring sights, Mag/Bolt/Trigger/Stock rig, M4-family hold + reload clips, C++ twins; check_ads ring PASS, Test-Rig PASS"
+                    },
+                    {
                         "sha":  "5ea28a1",
                         "date":  "2026-09-28T12:56:44-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1441,7 +1447,7 @@
                     {
                         "sha":  "043df07",
                         "date":  "2026-09-27T19:58:38-07:00",
-                        "refs":  "worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d",
+                        "refs":  "worktree-agent-aca24d1e97bd5f47e, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d",
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     },
                     {
@@ -1599,13 +1605,7 @@
                         "date":  "2026-09-27T17:18:43-07:00",
                         "refs":  "",
                         "subject":  "Police structure: drop the duplicate flagpole hook line"
-                    },
-                    {
-                        "sha":  "94de03f",
-                        "date":  "2026-09-27T17:18:33-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 1 follow-up: lot poles kept clear, sally port resized, flagpole hook"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:58:24.1432701-07:00"
+    "generatedAt":  "2026-09-28T12:58:31.1899523-07:00"
 }
