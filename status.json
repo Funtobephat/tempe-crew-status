@@ -1,5 +1,5 @@
 {
-    "master":  "043df07",
+    "master":  "13ce384",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "043df07",
-                         "date":  "2026-09-27T19:58:38-07:00",
-                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
+                         "sha":  "13ce384",
+                         "date":  "2026-09-28T12:32:04-07:00",
+                         "subject":  "v0.985: Gas Station on the mission summary; campaign map = click a level, then DEPLOY; SMG-5 grabbable (display pickup focus box); detailed US + Arizona indoor flag stands in the police station",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -775,7 +775,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  303,
+                          "dirty":  269,
                           "active":  "2026-09-28T12:31:06.1344394-07:00"
                       },
                       {
@@ -806,7 +806,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  19,
-                          "active":  "2026-09-28T12:31:40.1956936-07:00"
+                          "active":  "2026-09-28T12:31:56.7358042-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -842,7 +842,7 @@
                           "folder":  "agent-a3d9dcc4fe34204db",
                           "branch":  "worktree-agent-a3d9dcc4fe34204db",
                           "dirty":  43,
-                          "active":  "2026-09-28T12:31:17.8581995-07:00"
+                          "active":  "2026-09-28T12:32:09.2969027-07:00"
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -914,7 +914,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  30,
-                          "active":  "2026-09-28T12:31:04.0597148-07:00"
+                          "active":  "2026-09-28T12:31:53.1810299-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -974,13 +974,13 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:31:40.1651552-07:00"
+                          "active":  "2026-09-28T12:31:54.3605055-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  31,
-                          "active":  "2026-09-28T12:29:55.9349811-07:00"
+                          "active":  "2026-09-28T12:31:50.2129610-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -992,7 +992,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:31:12.0581380-07:00"
+                          "active":  "2026-09-28T12:32:10.9185879-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1009,8 +1009,8 @@
                       {
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
-                          "dirty":  39,
-                          "active":  "2026-09-28T12:31:41.2569802-07:00"
+                          "dirty":  124,
+                          "active":  "2026-09-28T12:31:50.5908764-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1339,6 +1339,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "13ce384",
+                        "date":  "2026-09-28T12:32:04-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.985: Gas Station on the mission summary; campaign map = click a level, then DEPLOY; SMG-5 grabbable (display pickup focus box); detailed US + Arizona indoor flag stands in the police station"
+                    },
+                    {
                         "sha":  "8294e8e",
                         "date":  "2026-09-28T12:21:45-07:00",
                         "refs":  "worktree-agent-a0677851e43cc7e46",
@@ -1347,7 +1353,7 @@
                     {
                         "sha":  "043df07",
                         "date":  "2026-09-27T19:58:38-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ae43e0523d7cd0e16, worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-ac8a5743650d4c16f, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d, worktree-agent-a7448c06ac6e0c953, worktree-agent-a3d9dcc4fe34204db",
+                        "refs":  "worktree-agent-ae43e0523d7cd0e16, worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-ac8a5743650d4c16f, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d, worktree-agent-a7448c06ac6e0c953, worktree-agent-a3d9dcc4fe34204db",
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     },
                     {
@@ -1571,13 +1577,7 @@
                         "date":  "2026-09-27T17:14:51-07:00",
                         "refs":  "worktree-agent-aff4cd4695d4ce12e",
                         "subject":  "Police infected: uniform skins, riot armour absorber, outfit per spawn point, Police Station placement"
-                    },
-                    {
-                        "sha":  "3d0a9a2",
-                        "date":  "2026-09-27T17:14:35-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 4: police station lighting (emergency-mode interior, exterior, roof, interior exposure)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:31:39.0685766-07:00"
+    "generatedAt":  "2026-09-28T12:32:05.7749699-07:00"
 }
