@@ -1,5 +1,5 @@
 {
-    "master":  "7e94f10",
+    "master":  "7e94077",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "7e94f10",
-                         "date":  "2026-09-28T13:03:04-07:00",
-                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch",
+                         "sha":  "7e94077",
+                         "date":  "2026-09-28T13:05:22-07:00",
+                         "subject":  "Merge SA2: S_P90 (PDW-57) procedural model - IoU 0.974, optic-tunnel ring sights PASS, bolt/trigger/top-mag rig PASS, hold + reload; -TMCustomizeId QA switch",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -599,8 +599,8 @@
                          "sha":  "a58a84c",
                          "date":  "2026-09-28T13:03:02-07:00",
                          "subject":  "S_P90: procedural PDW-57 model (IoU 0.974), ring sights in the optic tunnel, top-mag rig, hold + reload clips",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a8d3fe226b9f67a2c",
@@ -759,8 +759,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  310,
-                          "active":  "2026-09-28T13:04:13.5050213-07:00"
+                          "dirty":  309,
+                          "active":  "2026-09-28T13:05:23.7273499-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1311,6 +1311,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "7e94077",
+                        "date":  "2026-09-28T13:05:22-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge SA2: S_P90 (PDW-57) procedural model - IoU 0.974, optic-tunnel ring sights PASS, bolt/trigger/top-mag rig PASS, hold + reload; -TMCustomizeId QA switch"
+                    },
+                    {
                         "sha":  "8d6075d",
                         "date":  "2026-09-28T13:03:17-07:00",
                         "refs":  "worktree-agent-aaf055af3b87db083",
@@ -1319,7 +1325,7 @@
                     {
                         "sha":  "7e94f10",
                         "date":  "2026-09-28T13:03:04-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-acfc9bcb1120bcaa7, worktree-agent-abcaff63a3149d50a, worktree-agent-a780d08c2d42bb930, worktree-agent-a5fc0087efe0ce48c",
+                        "refs":  "worktree-agent-acfc9bcb1120bcaa7, worktree-agent-abcaff63a3149d50a, worktree-agent-a780d08c2d42bb930, worktree-agent-a5fc0087efe0ce48c",
                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch"
                     },
                     {
@@ -1543,13 +1549,7 @@
                         "date":  "2026-09-27T18:08:02-07:00",
                         "refs":  "",
                         "subject":  "Level POI system (level_pois.json), level 1 keys/gate/truck + intro radio, police POI rework, police nav fix (WIP)"
-                    },
-                    {
-                        "sha":  "85813bc",
-                        "date":  "2026-09-27T18:06:31-07:00",
-                        "refs":  "",
-                        "subject":  "Level 1: move the NE billboard off the new fence line, facing the Safe House (its mirrored back faced the courtyard)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:04:24.6223309-07:00"
+    "generatedAt":  "2026-09-28T13:05:22.7255753-07:00"
 }
