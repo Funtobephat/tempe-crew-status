@@ -702,7 +702,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  1,
-                          "active":  "2026-09-27T17:14:15.6123226-07:00"
+                          "active":  "2026-09-27T17:14:28.7485838-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:14:25.2374312-07:00"
+                          "active":  "2026-09-27T17:14:29.0576050-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -893,8 +893,8 @@
                       {
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
-                          "dirty":  64,
-                          "active":  "2026-09-27T17:13:48.2251480-07:00"
+                          "dirty":  65,
+                          "active":  "2026-09-27T17:14:27.4142919-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1439,5 +1439,5 @@
                         "subject":  "v0.89: Sub-agent 1 pistol support hand + M9/1911 sights integrated; crew board progress notes"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:14:24.6183247-07:00"
+    "generatedAt":  "2026-09-27T17:14:28.6455203-07:00"
 }
