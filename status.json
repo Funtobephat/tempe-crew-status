@@ -420,11 +420,11 @@
                      },
                      {
                          "name":  "worktree-agent-a0009bf327f4e898b",
-                         "sha":  "5bd2412",
-                         "date":  "2026-09-27T17:05:44-07:00",
-                         "subject":  "Police Station: doors and windows lane (ATMDoor leaves + hinge hardware, locked SecurityDoor, storefront entry, jammed elevators, front-desk BR glass, one-way mirror, closed armory issue window, holding cells, destructible exterior panes, blinds, grilles, plaques)",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "c466485",
+                         "date":  "2026-09-27T17:14:55-07:00",
+                         "subject":  "Police furniture lane WIP (pre-merge)",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a00e40f662f518017",
@@ -701,8 +701,8 @@
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
-                          "dirty":  201,
-                          "active":  "2026-09-27T17:14:48.0712108-07:00"
+                          "dirty":  228,
+                          "active":  "2026-09-27T17:14:56.0802750-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:14:52.5238373-07:00"
+                          "active":  "2026-09-27T17:14:56.4329050-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1199,6 +1199,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "c466485",
+                        "date":  "2026-09-27T17:14:55-07:00",
+                        "refs":  "worktree-agent-a0009bf327f4e898b",
+                        "subject":  "Police furniture lane WIP (pre-merge)"
+                    },
+                    {
                         "sha":  "822eb59",
                         "date":  "2026-09-27T17:14:51-07:00",
                         "refs":  "worktree-agent-aff4cd4695d4ce12e",
@@ -1267,7 +1273,7 @@
                     {
                         "sha":  "5bd2412",
                         "date":  "2026-09-27T17:05:44-07:00",
-                        "refs":  "worktree-agent-a04751b701c49f7e1, worktree-agent-a0009bf327f4e898b",
+                        "refs":  "worktree-agent-a04751b701c49f7e1",
                         "subject":  "Police Station: doors and windows lane (ATMDoor leaves + hinge hardware, locked SecurityDoor, storefront entry, jammed elevators, front-desk BR glass, one-way mirror, closed armory issue window, holding cells, destructible exterior panes, blinds, grilles, plaques)"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T11:38:13-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 3: ESC pauses the game in solo (co-op stays live with a note); Ready row removed from the escape menu"
-                    },
-                    {
-                        "sha":  "642df57",
-                        "date":  "2026-09-27T11:37:48-07:00",
-                        "refs":  "",
-                        "subject":  "Escape menu pauses the world solo; Ready row removed from the in-game menu"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:14:52.4677761-07:00"
+    "generatedAt":  "2026-09-27T17:14:56.1703372-07:00"
 }
