@@ -696,13 +696,13 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T17:19:42.6276706-07:00"
+                          "active":  "2026-09-27T17:20:24.6752414-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  225,
-                          "active":  "2026-09-27T17:19:42.7118882-07:00"
+                          "active":  "2026-09-27T17:20:24.9268555-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  270,
-                          "active":  "2026-09-27T17:19:18.1351851-07:00"
+                          "active":  "2026-09-27T17:20:23.3828039-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1439,5 +1439,5 @@
                         "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:19:37.5502721-07:00"
+    "generatedAt":  "2026-09-27T17:20:24.5002246-07:00"
 }
