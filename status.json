@@ -695,14 +695,14 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  250,
-                          "active":  "2026-09-27T17:17:33.8065988-07:00"
+                          "dirty":  248,
+                          "active":  "2026-09-27T17:18:25.6687909-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  225,
-                          "active":  "2026-09-27T17:17:35.4491508-07:00"
+                          "active":  "2026-09-27T17:18:25.3946568-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -767,8 +767,8 @@
                       {
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
-                          "dirty":  21,
-                          "active":  "2026-09-27T17:17:35.0684620-07:00"
+                          "dirty":  270,
+                          "active":  "2026-09-27T17:18:24.0703205-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1439,5 +1439,5 @@
                         "subject":  "Merge Sub-agent 1: downed state - fall to the ground, one-handed pistol; co-op clients get their weapons (WeaponId replicated), teammates no longer float"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:17:35.1664366-07:00"
+    "generatedAt":  "2026-09-27T17:18:25.7288743-07:00"
 }
