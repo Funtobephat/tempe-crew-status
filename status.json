@@ -822,7 +822,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:52:19.4687118-07:00"
+                          "active":  "2026-09-28T12:53:33.0875519-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -899,14 +899,14 @@
                       {
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
-                          "dirty":  2,
-                          "active":  "2026-09-28T12:49:04.4098824-07:00"
+                          "dirty":  4,
+                          "active":  "2026-09-28T12:53:34.3489453-07:00"
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
-                          "dirty":  45,
-                          "active":  "2026-09-28T12:49:36.6235182-07:00"
+                          "dirty":  44,
+                          "active":  "2026-09-28T12:53:52.6024597-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -936,7 +936,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:47:31.3323071-07:00"
+                          "active":  "2026-09-28T12:53:24.9414436-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -965,8 +965,8 @@
                       {
                           "folder":  "agent-aa08ee8e693b5a274",
                           "branch":  "worktree-agent-aa08ee8e693b5a274",
-                          "dirty":  1,
-                          "active":  "2026-09-28T12:51:53.3116981-07:00"
+                          "dirty":  2,
+                          "active":  "2026-09-28T12:53:16.8321967-07:00"
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:48:55.1006151-07:00"
+                          "active":  "2026-09-28T12:53:50.4750563-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1008,7 +1008,7 @@
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:45:55.2287993-07:00"
+                          "active":  "2026-09-28T12:53:45.7990709-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1020,7 +1020,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:45:59.1929123-07:00"
+                          "active":  "2026-09-28T12:54:06.9216081-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1607,5 +1607,5 @@
                         "subject":  "Merge Sub-agent 6: police-uniform and riot-gear infected (armour absorbs + breaks), station placement"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:52:24.1041760-07:00"
+    "generatedAt":  "2026-09-28T12:53:33.3660506-07:00"
 }
