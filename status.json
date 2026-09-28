@@ -912,7 +912,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  40,
-                          "active":  "2026-09-28T13:02:19.7738019-07:00"
+                          "active":  "2026-09-28T13:02:24.7584246-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1523,5 +1523,5 @@
                         "subject":  "Merge Sub-agent 3: police station furniture and dressing (905 pieces, every room, 6 barricade props)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:02:13.3987134-07:00"
+    "generatedAt":  "2026-09-28T13:02:24.1768064-07:00"
 }
