@@ -792,7 +792,7 @@
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
                           "dirty":  119,
-                          "active":  "2026-09-27T17:07:47.6214370-07:00"
+                          "active":  "2026-09-27T17:08:23.4779793-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -864,7 +864,7 @@
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
                           "dirty":  118,
-                          "active":  "2026-09-27T17:07:46.9689479-07:00"
+                          "active":  "2026-09-27T17:08:25.2913018-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -894,7 +894,7 @@
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
                           "dirty":  180,
-                          "active":  "2026-09-27T17:07:47.5048650-07:00"
+                          "active":  "2026-09-27T17:08:25.5013753-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1439,5 +1439,5 @@
                         "subject":  "v0.88: district rebuilt with sealed hollow-shell doors (Sub-agent 8) and sectioned cars (Sub-agent 9); integrates lanes 2, 4, 6, 7, 9"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:07:47.0362215-07:00"
+    "generatedAt":  "2026-09-27T17:08:24.4733451-07:00"
 }
