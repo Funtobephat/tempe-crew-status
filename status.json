@@ -643,6 +643,14 @@
                          "merged":  false
                      },
                      {
+                         "name":  "worktree-agent-aa08ee8e693b5a274",
+                         "sha":  "228fb7f",
+                         "date":  "2026-09-28T12:44:49-07:00",
+                         "subject":  "Merge SA3: S_MPX (SMG-9X) procedural model - IoU 0.978, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeGun QA switch",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-aab0ef3128d9d2764",
                          "sha":  "f74f36c",
                          "date":  "2026-09-26T17:33:52-07:00",
@@ -684,11 +692,11 @@
                      },
                      {
                          "name":  "worktree-agent-ac8a5743650d4c16f",
-                         "sha":  "043df07",
-                         "date":  "2026-09-27T19:58:38-07:00",
-                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "267a0d5",
+                         "date":  "2026-09-28T12:45:24-07:00",
+                         "subject":  "G_AA12 (Auto-12): procedural model from the Commons photo, ring sights, part rig, hold + reload",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-aca24d1e97bd5f47e",
@@ -784,7 +792,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  269,
-                          "active":  "2026-09-28T12:45:23.2165514-07:00"
+                          "active":  "2026-09-28T12:45:28.1779457-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -814,7 +822,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:45:23.1404104-07:00"
+                          "active":  "2026-09-28T12:45:27.2196017-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -957,8 +965,8 @@
                       {
                           "folder":  "agent-aa08ee8e693b5a274",
                           "branch":  "worktree-agent-aa08ee8e693b5a274",
-                          "dirty":  4444,
-                          "active":  "2026-09-28T12:45:19.2596743-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
@@ -993,14 +1001,14 @@
                       {
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
-                          "dirty":  43,
-                          "active":  "2026-09-28T12:44:47.4285900-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:45:18.1603215-07:00"
+                          "active":  "2026-09-28T12:45:30.0000000-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1012,7 +1020,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:45:22.7877014-07:00"
+                          "active":  "2026-09-28T12:45:30.2394938-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1599,5 +1607,5 @@
                         "subject":  "Merge Sub-agent 6: police-uniform and riot-gear infected (armour absorbs + breaks), station placement"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:44:51.0066413-07:00"
+    "generatedAt":  "2026-09-28T12:45:28.0929119-07:00"
 }
