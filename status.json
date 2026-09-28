@@ -620,11 +620,11 @@
                      },
                      {
                          "name":  "worktree-agent-abcaff63a3149d50a",
-                         "sha":  "7e94f10",
-                         "date":  "2026-09-28T13:03:04-07:00",
-                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "2bc1886",
+                         "date":  "2026-09-28T13:38:35-07:00",
+                         "subject":  "Bandage pickup model: procedural sealed field-dressing pouch + gauze roll + tape (SM_Item_Bandage, 11.7k tris, 2k baked PBR), build_items.py Bandage row",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-ac1eb0697f855df5c",
@@ -875,8 +875,8 @@
                       {
                           "folder":  "agent-abcaff63a3149d50a",
                           "branch":  "worktree-agent-abcaff63a3149d50a",
-                          "dirty":  11,
-                          "active":  "2026-09-28T13:38:01.6547426-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -1241,6 +1241,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "2bc1886",
+                        "date":  "2026-09-28T13:38:35-07:00",
+                        "refs":  "worktree-agent-abcaff63a3149d50a",
+                        "subject":  "Bandage pickup model: procedural sealed field-dressing pouch + gauze roll + tape (SM_Item_Bandage, 11.7k tris, 2k baked PBR), build_items.py Bandage row"
+                    },
+                    {
                         "sha":  "53c17ab",
                         "date":  "2026-09-28T13:38:23-07:00",
                         "refs":  "worktree-agent-acfc9bcb1120bcaa7",
@@ -1297,7 +1303,7 @@
                     {
                         "sha":  "7e94f10",
                         "date":  "2026-09-28T13:03:04-07:00",
-                        "refs":  "worktree-agent-abcaff63a3149d50a",
+                        "refs":  "",
                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch"
                     },
                     {
@@ -1473,13 +1479,7 @@
                         "date":  "2026-09-27T19:13:30-07:00",
                         "refs":  "",
                         "subject":  "v0.982: billboard posters read the right way round (SM_SP_Billboard poster UVs were mirrored on every billboard)"
-                    },
-                    {
-                        "sha":  "7ee0636",
-                        "date":  "2026-09-27T19:04:40-07:00",
-                        "refs":  "",
-                        "subject":  "v0.981: police helipad stays on the roof (it followed the exit onto the front plaza), softer red EXIT glow at the entry, a flickering light in the generator room, lobby view moved off a cabinet"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:38:26.6746261-07:00"
+    "generatedAt":  "2026-09-28T13:38:36.4060151-07:00"
 }
