@@ -1,5 +1,5 @@
 {
-    "master":  "b23b53f",
+    "master":  "d3e469c",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "b23b53f",
-                         "date":  "2026-09-27T17:15:14-07:00",
-                         "subject":  "Merge Sub-agent 1: police station structure (shell, facade, finishes, ceilings, real stairs, roof helipad, site)",
+                         "sha":  "d3e469c",
+                         "date":  "2026-09-27T17:15:48-07:00",
+                         "subject":  "Police layout: drop exterior windows that overlap exterior doors or straddle partitions (94 -\u003e 78); document the as-built stair landings; flagpole handed to lighting",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -679,8 +679,8 @@
                          "sha":  "822eb59",
                          "date":  "2026-09-27T17:14:51-07:00",
                          "subject":  "Police infected: uniform skins, riot armour absorber, outfit per spawn point, Police Station placement",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "zombie-density",
@@ -702,7 +702,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  225,
-                          "active":  "2026-09-27T17:15:33.9212945-07:00"
+                          "active":  "2026-09-27T17:16:02.5559230-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:15:34.4197985-07:00"
+                          "active":  "2026-09-27T17:15:57.3939532-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -863,8 +863,8 @@
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
-                          "dirty":  0,
-                          "active":  null
+                          "dirty":  1,
+                          "active":  "2026-09-27T17:16:02.8470491-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -1199,6 +1199,18 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "0c65202",
+                        "date":  "2026-09-27T17:15:57-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 6: police-uniform and riot-gear infected (armour absorbs + breaks), station placement"
+                    },
+                    {
+                        "sha":  "d3e469c",
+                        "date":  "2026-09-27T17:15:48-07:00",
+                        "refs":  "",
+                        "subject":  "Police layout: drop exterior windows that overlap exterior doors or straddle partitions (94 -\u003e 78); document the as-built stair landings; flagpole handed to lighting"
+                    },
+                    {
                         "sha":  "c5b8772",
                         "date":  "2026-09-27T17:15:20-07:00",
                         "refs":  "worktree-agent-ad1a4775f60f3a736",
@@ -1207,7 +1219,7 @@
                     {
                         "sha":  "b23b53f",
                         "date":  "2026-09-27T17:15:14-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 1: police station structure (shell, facade, finishes, ceilings, real stairs, roof helipad, site)"
                     },
                     {
@@ -1425,19 +1437,7 @@
                         "date":  "2026-09-27T11:55:09-07:00",
                         "refs":  "",
                         "subject":  "v0.91: car glass/tyres/launched panels integrated (Sub-agent 9); notes tidy"
-                    },
-                    {
-                        "sha":  "d2b76a8",
-                        "date":  "2026-09-27T11:54:50-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 9: car windows shatter, tyres deflate with a lean, panels fly off; late joiners replay car damage"
-                    },
-                    {
-                        "sha":  "08a7a7f",
-                        "date":  "2026-09-27T11:54:24-07:00",
-                        "refs":  "worktree-agent-aebb56d563c8fd45f",
-                        "subject":  "Car glass shatters, tyres deflate and the car leans, shot-off panels are launched; car events replicated for late joiners"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:15:33.6046835-07:00"
+    "generatedAt":  "2026-09-27T17:15:52.5233046-07:00"
 }
