@@ -1,5 +1,5 @@
 {
-    "master":  "34db928",
+    "master":  "7ee0636",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "34db928",
-                         "date":  "2026-09-27T18:52:02-07:00",
-                         "subject":  "Version rule: stay under 1.00 (beta) until the user calls the full release; bump 0.98 -\u003e 0.981 -\u003e 0.982",
+                         "sha":  "7ee0636",
+                         "date":  "2026-09-27T19:04:40-07:00",
+                         "subject":  "v0.981: police helipad stays on the roof (it followed the exit onto the front plaza), softer red EXIT glow at the entry, a flickering light in the generator room, lobby view moved off a cabinet",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  4,
-                          "active":  "2026-09-27T19:04:22.2734990-07:00"
+                          "dirty":  1,
+                          "active":  "2026-09-27T19:04:45.0709518-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "7ee0636",
+                        "date":  "2026-09-27T19:04:40-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.981: police helipad stays on the roof (it followed the exit onto the front plaza), softer red EXIT glow at the entry, a flickering light in the generator room, lobby view moved off a cabinet"
+                    },
+                    {
                         "sha":  "34db928",
                         "date":  "2026-09-27T18:52:02-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Version rule: stay under 1.00 (beta) until the user calls the full release; bump 0.98 -\u003e 0.981 -\u003e 0.982"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-27T17:07:36-07:00",
                         "refs":  "",
                         "subject":  "Police route/POI lane WIP: ordered objectives, body armour + weapon display pickups, security-door buzzer, walking mission test"
-                    },
-                    {
-                        "sha":  "5810313",
-                        "date":  "2026-09-27T17:06:45-07:00",
-                        "refs":  "",
-                        "subject":  "Police: broken doors hide attached hardware; armory issue window moved onto the vestibule/armory wall"
                     }
                 ],
-    "generatedAt":  "2026-09-27T19:04:24.2489064-07:00"
+    "generatedAt":  "2026-09-27T19:04:41.2746855-07:00"
 }
