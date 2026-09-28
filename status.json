@@ -1,5 +1,5 @@
 {
-    "master":  "bc15dd3",
+    "master":  "dcedf50",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "bc15dd3",
-                         "date":  "2026-09-28T16:12:38-07:00",
-                         "subject":  "v0.9896: MP5 shots rebuilt from real single-round recordings (old cut held bursts); 870 and MP5 2x louder; master limiter on the audio output",
+                         "sha":  "dcedf50",
+                         "date":  "2026-09-28T16:22:59-07:00",
+                         "subject":  "v0.9897: grenades never drop on the first throw of a type (item mesh finished + late-body fallback); weapons carried back to the Safe House after the Police Station",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  4,
-                          "active":  "2026-09-28T16:22:23.6579490-07:00"
+                          "dirty":  1,
+                          "active":  "2026-09-28T16:22:44.8114081-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "dcedf50",
+                        "date":  "2026-09-28T16:22:59-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.9897: grenades never drop on the first throw of a type (item mesh finished + late-body fallback); weapons carried back to the Safe House after the Police Station"
+                    },
+                    {
                         "sha":  "bc15dd3",
                         "date":  "2026-09-28T16:12:38-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.9896: MP5 shots rebuilt from real single-round recordings (old cut held bursts); 870 and MP5 2x louder; master limiter on the audio output"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-28T12:56:44-07:00",
                         "refs":  "",
                         "subject":  "Merge SA9: R_M82 (M107) procedural model - IoU 0.975, scope sight PASS, bolt/barrel/trigger/mag/stock rig PASS, hold + reload clips"
-                    },
-                    {
-                        "sha":  "fb00ae2",
-                        "date":  "2026-09-28T12:55:28-07:00",
-                        "refs":  "",
-                        "subject":  "CLAUDE.md: crew size cap - at most 5 sub-agents plus the Lead"
                     }
                 ],
-    "generatedAt":  "2026-09-28T16:22:23.5648937-07:00"
+    "generatedAt":  "2026-09-28T16:23:00.0671937-07:00"
 }
