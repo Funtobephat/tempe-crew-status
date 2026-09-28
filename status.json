@@ -508,10 +508,10 @@
                      },
                      {
                          "name":  "worktree-agent-a561616921da725b6",
-                         "sha":  "c75fa27",
-                         "date":  "2026-09-27T17:16:31-07:00",
-                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6",
-                         "ahead":  3,
+                         "sha":  "29a230b",
+                         "date":  "2026-09-27T17:23:27-07:00",
+                         "subject":  "Police route/POI lane: BodyArmour rename, buzzer on the openings call box, remote-locked SecurityDoor, hidden roof disc, walking route test with nav probes, CLAUDE.md",
+                         "ahead":  4,
                          "merged":  false
                      },
                      {
@@ -696,7 +696,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T17:23:24.3538274-07:00"
+                          "active":  "2026-09-27T17:23:27.4512517-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -767,8 +767,8 @@
                       {
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
-                          "dirty":  271,
-                          "active":  "2026-09-27T17:23:20.7039008-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1199,6 +1199,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "29a230b",
+                        "date":  "2026-09-27T17:23:27-07:00",
+                        "refs":  "worktree-agent-a561616921da725b6",
+                        "subject":  "Police route/POI lane: BodyArmour rename, buzzer on the openings call box, remote-locked SecurityDoor, hidden roof disc, walking route test with nav probes, CLAUDE.md"
+                    },
+                    {
                         "sha":  "fe4fe15",
                         "date":  "2026-09-27T17:22:04-07:00",
                         "refs":  "worktree-agent-a0009bf327f4e898b",
@@ -1237,7 +1243,7 @@
                     {
                         "sha":  "c75fa27",
                         "date":  "2026-09-27T17:16:31-07:00",
-                        "refs":  "worktree-agent-a561616921da725b6",
+                        "refs":  "",
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T12:46:56-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 2: all melee swings re-exported with the quaternion-sign fix; reach clamps removed"
-                    },
-                    {
-                        "sha":  "8e49220",
-                        "date":  "2026-09-27T12:46:35-07:00",
-                        "refs":  "worktree-agent-a7e1db2966d2992d3",
-                        "subject":  "Melee: re-export all five weapons with sign-continuous keys; fix reach-clamp message and the crowbar/machete/axe/sledge heavy-swing clamps"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:23:24.4557417-07:00"
+    "generatedAt":  "2026-09-27T17:23:28.5147046-07:00"
 }
