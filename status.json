@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-28T15:02:19.8372715-07:00"
+                          "active":  "2026-09-28T15:06:23.2883927-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "P_FN57: procedural PS57 5.7mm model (IoU 0.985, 2k PBR bake, authored notch sights, Slide/Trigger/Mag rig), G17-family hold + one-handed clips, C++ table rows"
                     }
                 ],
-    "generatedAt":  "2026-09-28T15:05:23.9270427-07:00"
+    "generatedAt":  "2026-09-28T15:06:24.0390001-07:00"
 }
