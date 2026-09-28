@@ -1,5 +1,5 @@
 {
-    "master":  "fb00ae2",
+    "master":  "5ea28a1",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "fb00ae2",
-                         "date":  "2026-09-28T12:55:28-07:00",
-                         "subject":  "CLAUDE.md: crew size cap - at most 5 sub-agents plus the Lead",
+                         "sha":  "5ea28a1",
+                         "date":  "2026-09-28T12:56:44-07:00",
+                         "subject":  "Merge SA9: R_M82 (M107) procedural model - IoU 0.975, scope sight PASS, bolt/barrel/trigger/mag/stock rig PASS, hold + reload clips",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -567,8 +567,8 @@
                          "sha":  "e2f0006",
                          "date":  "2026-09-28T12:54:57-07:00",
                          "subject":  "R_M82: procedural M82A1-pattern .50 (M107) model from a CC BY 4.0 photo trace",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a7570fc3f1ade6260",
@@ -791,8 +791,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  314,
-                          "active":  "2026-09-28T12:56:11.8864638-07:00"
+                          "dirty":  269,
+                          "active":  "2026-09-28T12:56:50.4804645-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -822,7 +822,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:56:24.7100318-07:00"
+                          "active":  "2026-09-28T12:56:50.8819161-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -900,7 +900,7 @@
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
                           "dirty":  4,
-                          "active":  "2026-09-28T12:56:14.1104895-07:00"
+                          "active":  "2026-09-28T12:56:49.9516492-07:00"
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
@@ -936,7 +936,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:56:26.9045328-07:00"
+                          "active":  "2026-09-28T12:56:30.7555435-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -966,7 +966,7 @@
                           "folder":  "agent-aa08ee8e693b5a274",
                           "branch":  "worktree-agent-aa08ee8e693b5a274",
                           "dirty":  4,
-                          "active":  "2026-09-28T12:56:25.9821416-07:00"
+                          "active":  "2026-09-28T12:56:38.2964731-07:00"
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:56:09.6092079-07:00"
+                          "active":  "2026-09-28T12:56:41.7083380-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1008,7 +1008,7 @@
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  40,
-                          "active":  "2026-09-28T12:56:10.5360366-07:00"
+                          "active":  "2026-09-28T12:56:55.4641955-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1019,8 +1019,8 @@
                       {
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
-                          "dirty":  41,
-                          "active":  "2026-09-28T12:55:47.2687286-07:00"
+                          "dirty":  42,
+                          "active":  "2026-09-28T12:56:34.9570267-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1367,9 +1367,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "5ea28a1",
+                        "date":  "2026-09-28T12:56:44-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge SA9: R_M82 (M107) procedural model - IoU 0.975, scope sight PASS, bolt/barrel/trigger/mag/stock rig PASS, hold + reload clips"
+                    },
+                    {
                         "sha":  "fb00ae2",
                         "date":  "2026-09-28T12:55:28-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "CLAUDE.md: crew size cap - at most 5 sub-agents plus the Lead"
                     },
                     {
@@ -1599,13 +1605,7 @@
                         "date":  "2026-09-27T17:18:33-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 1 follow-up: lot poles kept clear, sally port resized, flagpole hook"
-                    },
-                    {
-                        "sha":  "7eab1d5",
-                        "date":  "2026-09-27T17:17:34-07:00",
-                        "refs":  "worktree-agent-ad1a4775f60f3a736",
-                        "subject":  "CLAUDE.md: structure lane hooks"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:56:25.8804344-07:00"
+    "generatedAt":  "2026-09-28T12:56:45.8876277-07:00"
 }
