@@ -1,5 +1,5 @@
 {
-    "master":  "f604866",
+    "master":  "34db928",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "f604866",
-                         "date":  "2026-09-27T18:41:21-07:00",
-                         "subject":  "v0.98 integration build: Proto_Tempe (Level 1 fence, gate, truck, Reyes, POI chain) and Police_Station (all six lanes + new goals) rebuilt; radio audio + editor re-saves",
+                         "sha":  "34db928",
+                         "date":  "2026-09-27T18:52:02-07:00",
+                         "subject":  "Version rule: stay under 1.00 (beta) until the user calls the full release; bump 0.98 -\u003e 0.981 -\u003e 0.982",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T18:51:23.7162544-07:00"
+                          "active":  "2026-09-27T18:52:07.2828448-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "34db928",
+                        "date":  "2026-09-27T18:52:02-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Version rule: stay under 1.00 (beta) until the user calls the full release; bump 0.98 -\u003e 0.981 -\u003e 0.982"
+                    },
+                    {
                         "sha":  "f604866",
                         "date":  "2026-09-27T18:41:21-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.98 integration build: Proto_Tempe (Level 1 fence, gate, truck, Reyes, POI chain) and Police_Station (all six lanes + new goals) rebuilt; radio audio + editor re-saves"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-27T17:06:45-07:00",
                         "refs":  "",
                         "subject":  "Police: broken doors hide attached hardware; armory issue window moved onto the vestibule/armory wall"
-                    },
-                    {
-                        "sha":  "3c15a53",
-                        "date":  "2026-09-27T17:06:32-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 2: police station doors, windows, cells, security door, signage"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:51:24.2431442-07:00"
+    "generatedAt":  "2026-09-27T18:52:04.2096564-07:00"
 }
