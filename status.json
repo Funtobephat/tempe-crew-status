@@ -1,5 +1,5 @@
 {
-    "master":  "231fa2a",
+    "master":  "25aec14",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -551,8 +551,8 @@
                          "sha":  "f913c4e",
                          "date":  "2026-09-28T13:29:12-07:00",
                          "subject":  "Smoke grenade model (SM_Item_Smoke): procedural 6.4 x 14.4 cm canister + fuze, 15.5k tris, baked 2k PBR, UCP_ capsule; BecomeSmoke swaps back to the sphere cloud; -TMThrowKind=2 / -TMThrowDist test switches",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a7e1db2966d2992d3",
@@ -727,8 +727,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  283,
-                          "active":  "2026-09-28T13:29:54.7786708-07:00"
+                          "dirty":  269,
+                          "active":  "2026-09-28T13:07:49.7952177-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -890,7 +890,7 @@
                           "folder":  "agent-abcaff63a3149d50a",
                           "branch":  "worktree-agent-abcaff63a3149d50a",
                           "dirty":  11,
-                          "active":  "2026-09-28T13:31:43.2042061-07:00"
+                          "active":  "2026-09-28T13:36:57.9055784-07:00"
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -914,7 +914,7 @@
                           "folder":  "agent-acfc9bcb1120bcaa7",
                           "branch":  "worktree-agent-acfc9bcb1120bcaa7",
                           "dirty":  7,
-                          "active":  "2026-09-28T13:28:05.7640177-07:00"
+                          "active":  "2026-09-28T13:36:18.4259313-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1255,9 +1255,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "b4aee55",
+                        "date":  "2026-09-28T13:36:51-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 1: smoke grenade model (SM_Item_Smoke, 15.5k tris, capsule collision, 2k PBR); smoke cloud swaps back to the sphere before scaling; -TMThrowKind=2 throws smoke, -TMThrowDist QA switch"
+                    },
+                    {
                         "sha":  "25aec14",
                         "date":  "2026-09-28T13:29:28-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 4: first-aid kit model (SM_Item_FirstAidKit, 14.7k tris, hard-shell case, 2k PBR) - sits on its crate in the police station"
                     },
                     {
@@ -1487,13 +1493,7 @@
                         "date":  "2026-09-27T18:52:02-07:00",
                         "refs":  "",
                         "subject":  "Version rule: stay under 1.00 (beta) until the user calls the full release; bump 0.98 -\u003e 0.981 -\u003e 0.982"
-                    },
-                    {
-                        "sha":  "f604866",
-                        "date":  "2026-09-27T18:41:21-07:00",
-                        "refs":  "",
-                        "subject":  "v0.98 integration build: Proto_Tempe (Level 1 fence, gate, truck, Reyes, POI chain) and Police_Station (all six lanes + new goals) rebuilt; radio audio + editor re-saves"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:29:56.6681103-07:00"
+    "generatedAt":  "2026-09-28T13:36:26.7566259-07:00"
 }
