@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T19:57:50.3346041-07:00"
+                          "active":  "2026-09-28T11:27:24.3374055-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "CLAUDE.md: police structure material count"
                     }
                 ],
-    "generatedAt":  "2026-09-28T11:26:23.9738576-07:00"
+    "generatedAt":  "2026-09-28T11:27:24.0881533-07:00"
 }
