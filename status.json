@@ -695,14 +695,14 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1,
-                          "active":  "2026-09-27T16:36:28.2950774-07:00"
+                          "dirty":  250,
+                          "active":  "2026-09-27T17:17:24.5077766-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  225,
-                          "active":  "2026-09-27T17:16:26.8812365-07:00"
+                          "active":  "2026-09-27T17:17:13.6826245-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -767,8 +767,8 @@
                       {
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
-                          "dirty":  99,
-                          "active":  "2026-09-27T17:15:57.3939532-07:00"
+                          "dirty":  21,
+                          "active":  "2026-09-27T17:17:02.2974644-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -863,8 +863,8 @@
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
-                          "dirty":  250,
-                          "active":  "2026-09-27T17:16:32.0296717-07:00"
+                          "dirty":  51,
+                          "active":  "2026-09-27T17:17:12.6377122-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -1439,5 +1439,5 @@
                         "subject":  "v0.91: district rebuilt with car glass panes and tyres"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:16:33.0144273-07:00"
+    "generatedAt":  "2026-09-27T17:17:24.9088523-07:00"
 }
