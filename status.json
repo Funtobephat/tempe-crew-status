@@ -1,5 +1,5 @@
 {
-    "master":  "25aec14",
+    "master":  "b4aee55",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "25aec14",
-                         "date":  "2026-09-28T13:29:28-07:00",
-                         "subject":  "Merge Sub-agent 4: first-aid kit model (SM_Item_FirstAidKit, 14.7k tris, hard-shell case, 2k PBR) - sits on its crate in the police station",
+                         "sha":  "b4aee55",
+                         "date":  "2026-09-28T13:36:51-07:00",
+                         "subject":  "Merge Sub-agent 1: smoke grenade model (SM_Item_Smoke, 15.5k tris, capsule collision, 2k PBR); smoke cloud swaps back to the sphere before scaling; -TMThrowKind=2 throws smoke, -TMThrowDist QA switch",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -547,14 +547,6 @@
                          "merged":  true
                      },
                      {
-                         "name":  "worktree-agent-a780d08c2d42bb930",
-                         "sha":  "f913c4e",
-                         "date":  "2026-09-28T13:29:12-07:00",
-                         "subject":  "Smoke grenade model (SM_Item_Smoke): procedural 6.4 x 14.4 cm canister + fuze, 15.5k tris, baked 2k PBR, UCP_ capsule; BecomeSmoke swaps back to the sphere cloud; -TMThrowKind=2 / -TMThrowDist test switches",
-                         "ahead":  0,
-                         "merged":  true
-                     },
-                     {
                          "name":  "worktree-agent-a7e1db2966d2992d3",
                          "sha":  "8e49220",
                          "date":  "2026-09-27T12:46:35-07:00",
@@ -728,7 +720,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  269,
-                          "active":  "2026-09-28T13:07:49.7952177-07:00"
+                          "active":  "2026-09-28T13:37:34.0596571-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -827,12 +819,6 @@
                           "active":  null
                       },
                       {
-                          "folder":  "agent-a780d08c2d42bb930",
-                          "branch":  "worktree-agent-a780d08c2d42bb930",
-                          "dirty":  0,
-                          "active":  null
-                      },
-                      {
                           "folder":  "agent-a7e1db2966d2992d3",
                           "branch":  "worktree-agent-a7e1db2966d2992d3",
                           "dirty":  0,
@@ -890,7 +876,7 @@
                           "folder":  "agent-abcaff63a3149d50a",
                           "branch":  "worktree-agent-abcaff63a3149d50a",
                           "dirty":  11,
-                          "active":  "2026-09-28T13:36:57.9055784-07:00"
+                          "active":  "2026-09-28T13:37:35.0357281-07:00"
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -913,8 +899,8 @@
                       {
                           "folder":  "agent-acfc9bcb1120bcaa7",
                           "branch":  "worktree-agent-acfc9bcb1120bcaa7",
-                          "dirty":  7,
-                          "active":  "2026-09-28T13:36:18.4259313-07:00"
+                          "dirty":  12,
+                          "active":  "2026-09-28T13:37:35.1074132-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1269,7 +1255,7 @@
                     {
                         "sha":  "f913c4e",
                         "date":  "2026-09-28T13:29:12-07:00",
-                        "refs":  "worktree-agent-a780d08c2d42bb930",
+                        "refs":  "",
                         "subject":  "Smoke grenade model (SM_Item_Smoke): procedural 6.4 x 14.4 cm canister + fuze, 15.5k tris, baked 2k PBR, UCP_ capsule; BecomeSmoke swaps back to the sphere cloud; -TMThrowKind=2 / -TMThrowDist test switches"
                     },
                     {
@@ -1495,5 +1481,5 @@
                         "subject":  "Version rule: stay under 1.00 (beta) until the user calls the full release; bump 0.98 -\u003e 0.981 -\u003e 0.982"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:36:26.7566259-07:00"
+    "generatedAt":  "2026-09-28T13:37:24.0029553-07:00"
 }
