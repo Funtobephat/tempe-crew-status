@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  2,
-                          "active":  "2026-09-28T16:19:23.7519961-07:00"
+                          "dirty":  4,
+                          "active":  "2026-09-28T16:20:24.6921911-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "CLAUDE.md: crew size cap - at most 5 sub-agents plus the Lead"
                     }
                 ],
-    "generatedAt":  "2026-09-28T16:19:23.5217581-07:00"
+    "generatedAt":  "2026-09-28T16:20:23.5080124-07:00"
 }
