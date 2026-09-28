@@ -1,5 +1,5 @@
 {
-    "master":  "544a132",
+    "master":  "bc15dd3",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "544a132",
-                         "date":  "2026-09-28T15:59:24-07:00",
-                         "subject":  "Asset re-saves from the v0.9895 Safe House rebuild (shared Env/Hub materials, signs, hub assets)",
+                         "sha":  "bc15dd3",
+                         "date":  "2026-09-28T16:12:38-07:00",
+                         "subject":  "v0.9896: MP5 shots rebuilt from real single-round recordings (old cut held bursts); 870 and MP5 2x louder; master limiter on the audio output",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -703,7 +703,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  21,
+                          "dirty":  1,
                           "active":  "2026-09-28T16:12:19.2035882-07:00"
                       },
                       {
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "bc15dd3",
+                        "date":  "2026-09-28T16:12:38-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.9896: MP5 shots rebuilt from real single-round recordings (old cut held bursts); 870 and MP5 2x louder; master limiter on the audio output"
+                    },
+                    {
                         "sha":  "544a132",
                         "date":  "2026-09-28T15:59:24-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Asset re-saves from the v0.9895 Safe House rebuild (shared Env/Hub materials, signs, hub assets)"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-28T12:55:28-07:00",
                         "refs":  "",
                         "subject":  "CLAUDE.md: crew size cap - at most 5 sub-agents plus the Lead"
-                    },
-                    {
-                        "sha":  "4497f3a",
-                        "date":  "2026-09-28T12:55:20-07:00",
-                        "refs":  "",
-                        "subject":  "Merge SA7: G_AA12 (Auto-12) procedural model - IoU 0.973, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeId QA switch"
                     }
                 ],
-    "generatedAt":  "2026-09-28T16:12:23.4365668-07:00"
+    "generatedAt":  "2026-09-28T16:12:39.3487627-07:00"
 }
