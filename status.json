@@ -652,11 +652,11 @@
                      },
                      {
                          "name":  "worktree-agent-acfc9bcb1120bcaa7",
-                         "sha":  "7e94f10",
-                         "date":  "2026-09-28T13:03:04-07:00",
-                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "53c17ab",
+                         "date":  "2026-09-28T13:38:23-07:00",
+                         "subject":  "Ammo can pickup model: procedural SM_Item_Ammo (19.7x9.4x11.6 cm, 6.1k tris, baked 2k PBR, stencil block, chipped paint), build_items Ammo row, Test-Police ammo view",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-ad1a4775f60f3a736",
@@ -720,7 +720,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  269,
-                          "active":  "2026-09-28T13:37:34.0596571-07:00"
+                          "active":  "2026-09-28T13:38:10.8085667-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -876,7 +876,7 @@
                           "folder":  "agent-abcaff63a3149d50a",
                           "branch":  "worktree-agent-abcaff63a3149d50a",
                           "dirty":  11,
-                          "active":  "2026-09-28T13:37:35.0357281-07:00"
+                          "active":  "2026-09-28T13:38:01.6547426-07:00"
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -899,8 +899,8 @@
                       {
                           "folder":  "agent-acfc9bcb1120bcaa7",
                           "branch":  "worktree-agent-acfc9bcb1120bcaa7",
-                          "dirty":  12,
-                          "active":  "2026-09-28T13:37:35.1074132-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1241,6 +1241,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "53c17ab",
+                        "date":  "2026-09-28T13:38:23-07:00",
+                        "refs":  "worktree-agent-acfc9bcb1120bcaa7",
+                        "subject":  "Ammo can pickup model: procedural SM_Item_Ammo (19.7x9.4x11.6 cm, 6.1k tris, baked 2k PBR, stencil block, chipped paint), build_items Ammo row, Test-Police ammo view"
+                    },
+                    {
                         "sha":  "b4aee55",
                         "date":  "2026-09-28T13:36:51-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1291,7 +1297,7 @@
                     {
                         "sha":  "7e94f10",
                         "date":  "2026-09-28T13:03:04-07:00",
-                        "refs":  "worktree-agent-acfc9bcb1120bcaa7, worktree-agent-abcaff63a3149d50a",
+                        "refs":  "worktree-agent-abcaff63a3149d50a",
                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch"
                     },
                     {
@@ -1473,13 +1479,7 @@
                         "date":  "2026-09-27T19:04:40-07:00",
                         "refs":  "",
                         "subject":  "v0.981: police helipad stays on the roof (it followed the exit onto the front plaza), softer red EXIT glow at the entry, a flickering light in the generator room, lobby view moved off a cabinet"
-                    },
-                    {
-                        "sha":  "34db928",
-                        "date":  "2026-09-27T18:52:02-07:00",
-                        "refs":  "",
-                        "subject":  "Version rule: stay under 1.00 (beta) until the user calls the full release; bump 0.98 -\u003e 0.981 -\u003e 0.982"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:37:24.0029553-07:00"
+    "generatedAt":  "2026-09-28T13:38:23.8299549-07:00"
 }
