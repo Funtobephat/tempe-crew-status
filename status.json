@@ -500,11 +500,11 @@
                      },
                      {
                          "name":  "worktree-agent-a3d9dcc4fe34204db",
-                         "sha":  "043df07",
-                         "date":  "2026-09-27T19:58:38-07:00",
-                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "a29d304",
+                         "date":  "2026-09-28T12:35:14-07:00",
+                         "subject":  "P_FN57: procedural PS57 5.7mm model (IoU 0.985, 2k PBR bake, authored notch sights, Slide/Trigger/Mag rig), G17-family hold + one-handed clips, C++ table rows",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a4f5afbe80c6112a2",
@@ -776,7 +776,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  269,
-                          "active":  "2026-09-28T12:34:15.4863258-07:00"
+                          "active":  "2026-09-28T12:35:17.2291685-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -805,8 +805,8 @@
                       {
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
-                          "dirty":  19,
-                          "active":  "2026-09-28T12:34:11.2033529-07:00"
+                          "dirty":  20,
+                          "active":  "2026-09-28T12:34:57.3823301-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -841,8 +841,8 @@
                       {
                           "folder":  "agent-a3d9dcc4fe34204db",
                           "branch":  "worktree-agent-a3d9dcc4fe34204db",
-                          "dirty":  42,
-                          "active":  "2026-09-28T12:33:19.1435359-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -914,7 +914,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  30,
-                          "active":  "2026-09-28T12:31:53.1810299-07:00"
+                          "active":  "2026-09-28T12:34:48.2323149-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -974,7 +974,7 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:34:30.2686622-07:00"
+                          "active":  "2026-09-28T12:34:53.5497581-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
@@ -1339,6 +1339,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "a29d304",
+                        "date":  "2026-09-28T12:35:14-07:00",
+                        "refs":  "worktree-agent-a3d9dcc4fe34204db",
+                        "subject":  "P_FN57: procedural PS57 5.7mm model (IoU 0.985, 2k PBR bake, authored notch sights, Slide/Trigger/Mag rig), G17-family hold + one-handed clips, C++ table rows"
+                    },
+                    {
                         "sha":  "13ce384",
                         "date":  "2026-09-28T12:32:04-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1353,7 +1359,7 @@
                     {
                         "sha":  "043df07",
                         "date":  "2026-09-27T19:58:38-07:00",
-                        "refs":  "worktree-agent-ae43e0523d7cd0e16, worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-ac8a5743650d4c16f, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d, worktree-agent-a7448c06ac6e0c953, worktree-agent-a3d9dcc4fe34204db",
+                        "refs":  "worktree-agent-ae43e0523d7cd0e16, worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-ac8a5743650d4c16f, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d, worktree-agent-a7448c06ac6e0c953",
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     },
                     {
@@ -1571,13 +1577,7 @@
                         "date":  "2026-09-27T17:14:55-07:00",
                         "refs":  "",
                         "subject":  "Police furniture lane WIP (pre-merge)"
-                    },
-                    {
-                        "sha":  "822eb59",
-                        "date":  "2026-09-27T17:14:51-07:00",
-                        "refs":  "worktree-agent-aff4cd4695d4ce12e",
-                        "subject":  "Police infected: uniform skins, riot armour absorber, outfit per spawn point, Police Station placement"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:34:33.2063958-07:00"
+    "generatedAt":  "2026-09-28T12:35:15.6501776-07:00"
 }
