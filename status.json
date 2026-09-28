@@ -531,6 +531,14 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-a5fc0087efe0ce48c",
+                         "sha":  "7e94f10",
+                         "date":  "2026-09-28T13:03:04-07:00",
+                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-a6f530223364c0a43",
                          "sha":  "7c56de7",
                          "date":  "2026-09-27T10:53:37-07:00",
@@ -551,6 +559,14 @@
                          "sha":  "1e75892",
                          "date":  "2026-09-27T17:14:03-07:00",
                          "subject":  "Police Station lighting lane: interior exposure volume, dead/working/flickering troffers, emergency units, EXIT signs, POI key lights, exterior wall packs/poles/uplights, helipad lights + beacon, light-function flicker, Perf-Police.ps1",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "worktree-agent-a780d08c2d42bb930",
+                         "sha":  "7e94f10",
+                         "date":  "2026-09-28T13:03:04-07:00",
+                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -643,6 +659,14 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-abcaff63a3149d50a",
+                         "sha":  "7e94f10",
+                         "date":  "2026-09-28T13:03:04-07:00",
+                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-ac1eb0697f855df5c",
                          "sha":  "b6a7131",
                          "date":  "2026-09-26T16:48:40-07:00",
@@ -665,6 +689,14 @@
                          "subject":  "status 98af4ee 2026-09-26T19:43:03",
                          "ahead":  30,
                          "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-acfc9bcb1120bcaa7",
+                         "sha":  "7e94f10",
+                         "date":  "2026-09-28T13:03:04-07:00",
+                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch",
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-ad1a4775f60f3a736",
@@ -727,8 +759,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  269,
-                          "active":  "2026-09-28T13:03:24.4136611-07:00"
+                          "dirty":  310,
+                          "active":  "2026-09-28T13:04:13.5050213-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -815,6 +847,12 @@
                           "active":  null
                       },
                       {
+                          "folder":  "agent-a5fc0087efe0ce48c",
+                          "branch":  "worktree-agent-a5fc0087efe0ce48c",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
                           "dirty":  0,
@@ -829,6 +867,12 @@
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-a780d08c2d42bb930",
+                          "branch":  "worktree-agent-a780d08c2d42bb930",
                           "dirty":  0,
                           "active":  null
                       },
@@ -899,6 +943,12 @@
                           "active":  null
                       },
                       {
+                          "folder":  "agent-abcaff63a3149d50a",
+                          "branch":  "worktree-agent-abcaff63a3149d50a",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
                           "folder":  "agent-ac1eb0697f855df5c",
                           "branch":  "worktree-agent-ac1eb0697f855df5c",
                           "dirty":  0,
@@ -914,6 +964,12 @@
                           "folder":  "agent-acb72df481d7c8c3d",
                           "branch":  "worktree-agent-acb72df481d7c8c3d",
                           "dirty":  1,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-acfc9bcb1120bcaa7",
+                          "branch":  "worktree-agent-acfc9bcb1120bcaa7",
+                          "dirty":  0,
                           "active":  null
                       },
                       {
@@ -1263,7 +1319,7 @@
                     {
                         "sha":  "7e94f10",
                         "date":  "2026-09-28T13:03:04-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-acfc9bcb1120bcaa7, worktree-agent-abcaff63a3149d50a, worktree-agent-a780d08c2d42bb930, worktree-agent-a5fc0087efe0ce48c",
                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch"
                     },
                     {
@@ -1495,5 +1551,5 @@
                         "subject":  "Level 1: move the NE billboard off the new fence line, facing the Safe House (its mirrored back faced the courtyard)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:03:24.1160326-07:00"
+    "generatedAt":  "2026-09-28T13:04:24.6223309-07:00"
 }
