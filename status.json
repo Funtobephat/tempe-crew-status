@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-28T14:39:15.0968034-07:00"
+                          "active":  "2026-09-28T14:41:23.0677626-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     }
                 ],
-    "generatedAt":  "2026-09-28T14:40:23.7025954-07:00"
+    "generatedAt":  "2026-09-28T14:41:23.7276368-07:00"
 }
