@@ -1,5 +1,5 @@
 {
-    "master":  "85813bc",
+    "master":  "a42863c",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "85813bc",
-                         "date":  "2026-09-27T18:06:31-07:00",
-                         "subject":  "Level 1: move the NE billboard off the new fence line, facing the Safe House (its mirrored back faced the courtyard)",
+                         "sha":  "a42863c",
+                         "date":  "2026-09-27T18:34:12-07:00",
+                         "subject":  "Merge Sub-agent 5: data-driven level POIs, Level 1 radio/keys/gate/truck, Level 2 armour+SMG-5 -\u003e front doors, police doorway nav fix",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -511,8 +511,8 @@
                          "sha":  "d5573ad",
                          "date":  "2026-09-27T18:33:33-07:00",
                          "subject":  "v0.98 level POIs: data-driven HUD/compass/markers from level_pois.json, level 1 keys/gate/truck + Reyes intro radio, police armour+SMG-5 -\u003e front-door exit, police nav fix (frame liners off nav + TMNavConfig 32/8), walking mission tests",
-                         "ahead":  3,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a59b7989711694684",
@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  311,
-                          "active":  "2026-09-27T18:33:34.9863905-07:00"
+                          "active":  "2026-09-27T18:34:19.0418675-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1213,6 +1213,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "a42863c",
+                        "date":  "2026-09-27T18:34:12-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 5: data-driven level POIs, Level 1 radio/keys/gate/truck, Level 2 armour+SMG-5 -\u003e front doors, police doorway nav fix"
+                    },
+                    {
                         "sha":  "d5573ad",
                         "date":  "2026-09-27T18:33:33-07:00",
                         "refs":  "worktree-agent-a561616921da725b6",
@@ -1233,7 +1239,7 @@
                     {
                         "sha":  "85813bc",
                         "date":  "2026-09-27T18:06:31-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Level 1: move the NE billboard off the new fence line, facing the Safe House (its mirrored back faced the courtyard)"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-27T16:37:29-07:00",
                         "refs":  "",
                         "subject":  "Police layout: POI display spots + keep-clear zones"
-                    },
-                    {
-                        "sha":  "aa03af5",
-                        "date":  "2026-09-27T16:36:46-07:00",
-                        "refs":  "",
-                        "subject":  "v0.97: Level 2 Police Station scaffold - shared floor plan, build orchestrator, lane modules, baseline map, campaign wiring"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:33:34.6092194-07:00"
+    "generatedAt":  "2026-09-27T18:34:13.8636319-07:00"
 }
