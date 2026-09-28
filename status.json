@@ -792,7 +792,7 @@
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
                           "dirty":  119,
-                          "active":  "2026-09-27T17:07:38.0242220-07:00"
+                          "active":  "2026-09-27T17:07:40.8041912-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -864,7 +864,7 @@
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
                           "dirty":  118,
-                          "active":  "2026-09-27T17:07:38.1753151-07:00"
+                          "active":  "2026-09-27T17:07:41.0889126-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -894,7 +894,7 @@
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
                           "dirty":  180,
-                          "active":  "2026-09-27T17:07:37.5685811-07:00"
+                          "active":  "2026-09-27T17:07:41.0929116-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1439,5 +1439,5 @@
                         "subject":  "CLAUDE.md: crew board updater v2 notes"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:07:37.0029824-07:00"
+    "generatedAt":  "2026-09-27T17:07:40.3449417-07:00"
 }
