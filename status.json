@@ -1,5 +1,5 @@
 {
-    "master":  "bd71fd2",
+    "master":  "85813bc",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "bd71fd2",
-                         "date":  "2026-09-27T18:06:03-07:00",
-                         "subject":  "Merge Sub-agent 7: Level 1 quarantine fence ring, Gate 1, armored truck, Reyes\u0027 last stand",
+                         "sha":  "85813bc",
+                         "date":  "2026-09-27T18:06:31-07:00",
+                         "subject":  "Level 1: move the NE billboard off the new fence line, facing the Safe House (its mirrored back faced the courtyard)",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  311,
-                          "active":  "2026-09-27T18:06:12.3045679-07:00"
+                          "active":  "2026-09-27T18:06:39.3537356-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -776,7 +776,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  286,
-                          "active":  "2026-09-27T18:06:12.7791068-07:00"
+                          "active":  "2026-09-27T18:06:23.6340513-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "85813bc",
+                        "date":  "2026-09-27T18:06:31-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Level 1: move the NE billboard off the new fence line, facing the Safe House (its mirrored back faced the courtyard)"
+                    },
+                    {
                         "sha":  "bd71fd2",
                         "date":  "2026-09-27T18:06:03-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 7: Level 1 quarantine fence ring, Gate 1, armored truck, Reyes\u0027 last stand"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-27T13:32:52-07:00",
                         "refs":  "",
                         "subject":  "v0.95: bump version for the bat combat merge (car windows, harder hits, hit reactions, knockback)"
-                    },
-                    {
-                        "sha":  "bd05471",
-                        "date":  "2026-09-27T13:28:21-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 5: bat breaks car windows, harder hits, hit reactions + natural knockback"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:06:04.2972726-07:00"
+    "generatedAt":  "2026-09-27T18:06:32.4336633-07:00"
 }
