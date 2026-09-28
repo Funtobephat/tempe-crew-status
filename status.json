@@ -700,11 +700,11 @@
                      },
                      {
                          "name":  "worktree-agent-aca24d1e97bd5f47e",
-                         "sha":  "043df07",
-                         "date":  "2026-09-27T19:58:38-07:00",
-                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "a85fd2b",
+                         "date":  "2026-09-28T13:01:11-07:00",
+                         "subject":  "R_SVD: procedural SVD-type DMR model (no Meshy) - trace/build/eval/preview scripts, PSO-type hollow scope, baked 2k textures, Mag/Bolt/Trigger/Stock rig, hold + reload clips, C++ table rows",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-acb72df481d7c8c3d",
@@ -936,7 +936,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  39,
-                          "active":  "2026-09-28T13:00:57.5311235-07:00"
+                          "active":  "2026-09-28T13:01:12.2269930-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -1007,8 +1007,8 @@
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
-                          "dirty":  42,
-                          "active":  "2026-09-28T13:00:47.8209451-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1367,6 +1367,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "a85fd2b",
+                        "date":  "2026-09-28T13:01:11-07:00",
+                        "refs":  "worktree-agent-aca24d1e97bd5f47e",
+                        "subject":  "R_SVD: procedural SVD-type DMR model (no Meshy) - trace/build/eval/preview scripts, PSO-type hollow scope, baked 2k textures, Mag/Bolt/Trigger/Stock rig, hold + reload clips, C++ table rows"
+                    },
+                    {
                         "sha":  "1e4e758",
                         "date":  "2026-09-28T13:00:55-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1489,7 +1495,7 @@
                     {
                         "sha":  "043df07",
                         "date":  "2026-09-27T19:58:38-07:00",
-                        "refs":  "worktree-agent-aca24d1e97bd5f47e, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d",
+                        "refs":  "worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d",
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     },
                     {
@@ -1599,13 +1605,7 @@
                         "date":  "2026-09-27T18:03:10-07:00",
                         "refs":  "worktree-agent-a0009bf327f4e898b",
                         "subject":  "Police Station furniture lane: every room furnished + dressed (Sub-agent 3)"
-                    },
-                    {
-                        "sha":  "f5f9248",
-                        "date":  "2026-09-27T17:27:29-07:00",
-                        "refs":  "",
-                        "subject":  "Level POIs: approved goal chains for levels 3-10 (fire station .. forest lookout finale)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:00:56.8852347-07:00"
+    "generatedAt":  "2026-09-28T13:01:12.5184351-07:00"
 }
