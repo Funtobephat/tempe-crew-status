@@ -710,7 +710,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  251,
-                          "active":  "2026-09-27T17:31:23.7733857-07:00"
+                          "active":  "2026-09-27T17:33:24.1447379-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -775,8 +775,8 @@
                       {
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
-                          "dirty":  9,
-                          "active":  "2026-09-27T17:30:50.2445264-07:00"
+                          "dirty":  11,
+                          "active":  "2026-09-27T17:33:21.8845242-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1453,5 +1453,5 @@
                         "subject":  "v0.93: safe-house start - rebuilt Proto_Tempe (safe house, tagged starts, quiet zone)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:31:23.5498748-07:00"
+    "generatedAt":  "2026-09-27T17:33:23.9364760-07:00"
 }
