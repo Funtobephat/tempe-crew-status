@@ -1,5 +1,5 @@
 {
-    "master":  "7e9bcea",
+    "master":  "64eb4a7",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "7e9bcea",
-                         "date":  "2026-09-28T15:04:02-07:00",
-                         "subject":  "Asset re-saves from the v0.989 Level 1 rebuild (shared Env materials, signs, Hub assets)",
+                         "sha":  "64eb4a7",
+                         "date":  "2026-09-28T15:17:11-07:00",
+                         "subject":  "v0.9891: no M4 at the start of a campaign (G17 only); Level 1 complete -\u003e straight to the Police Station carrying your guns; summary says \u0027Heading to the Police Station...\u0027",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  7,
-                          "active":  "2026-09-28T15:16:23.3607472-07:00"
+                          "dirty":  1,
+                          "active":  "2026-09-28T15:16:56.5435081-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "64eb4a7",
+                        "date":  "2026-09-28T15:17:11-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.9891: no M4 at the start of a campaign (G17 only); Level 1 complete -\u003e straight to the Police Station carrying your guns; summary says \u0027Heading to the Police Station...\u0027"
+                    },
+                    {
                         "sha":  "7e9bcea",
                         "date":  "2026-09-28T15:04:02-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Asset re-saves from the v0.989 Level 1 rebuild (shared Env materials, signs, Hub assets)"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-28T12:37:13-07:00",
                         "refs":  "",
                         "subject":  "Merge SA1: P_FN57 (PS57 5.7mm) procedural model - IoU 0.985, notch sights PASS, slide/trigger/mag rig PASS, hold + one-handed downed clips"
-                    },
-                    {
-                        "sha":  "a29d304",
-                        "date":  "2026-09-28T12:35:14-07:00",
-                        "refs":  "",
-                        "subject":  "P_FN57: procedural PS57 5.7mm model (IoU 0.985, 2k PBR bake, authored notch sights, Slide/Trigger/Mag rig), G17-family hold + one-handed clips, C++ table rows"
                     }
                 ],
-    "generatedAt":  "2026-09-28T15:16:24.0741344-07:00"
+    "generatedAt":  "2026-09-28T15:17:11.6376159-07:00"
 }
