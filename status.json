@@ -1,5 +1,5 @@
 {
-    "master":  "8b3160a",
+    "master":  "3c15a53",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "8b3160a",
-                         "date":  "2026-09-27T16:37:29-07:00",
-                         "subject":  "Police layout: POI display spots + keep-clear zones",
+                         "sha":  "3c15a53",
+                         "date":  "2026-09-27T17:06:32-07:00",
+                         "subject":  "Merge Sub-agent 2: police station doors, windows, cells, security door, signage",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -447,8 +447,8 @@
                          "sha":  "5bd2412",
                          "date":  "2026-09-27T17:05:44-07:00",
                          "subject":  "Police Station: doors and windows lane (ATMDoor leaves + hinge hardware, locked SecurityDoor, storefront entry, jammed elevators, front-desk BR glass, one-way mirror, closed armory issue window, holding cells, destructible exterior panes, blinds, grilles, plaques)",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a08d89b2f8d1de0bf",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  132,
-                          "active":  "2026-09-27T17:06:25.5296572-07:00"
+                          "active":  "2026-09-27T17:06:41.3987393-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -792,7 +792,7 @@
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
                           "dirty":  119,
-                          "active":  "2026-09-27T17:06:28.0614415-07:00"
+                          "active":  "2026-09-27T17:06:43.0572312-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -864,7 +864,7 @@
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
                           "dirty":  118,
-                          "active":  "2026-09-27T17:06:28.1775972-07:00"
+                          "active":  "2026-09-27T17:06:44.3921897-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -894,7 +894,7 @@
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
                           "dirty":  180,
-                          "active":  "2026-09-27T17:06:28.0000000-07:00"
+                          "active":  "2026-09-27T17:06:45.2300010-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1199,6 +1199,18 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "5810313",
+                        "date":  "2026-09-27T17:06:45-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Police: broken doors hide attached hardware; armory issue window moved onto the vestibule/armory wall"
+                    },
+                    {
+                        "sha":  "3c15a53",
+                        "date":  "2026-09-27T17:06:32-07:00",
+                        "refs":  "",
+                        "subject":  "Merge Sub-agent 2: police station doors, windows, cells, security door, signage"
+                    },
+                    {
                         "sha":  "5bd2412",
                         "date":  "2026-09-27T17:05:44-07:00",
                         "refs":  "worktree-agent-a04751b701c49f7e1",
@@ -1207,7 +1219,7 @@
                     {
                         "sha":  "8b3160a",
                         "date":  "2026-09-27T16:37:29-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-aff4cd4695d4ce12e, worktree-agent-ad1a4775f60f3a736, worktree-agent-a7570fc3f1ade6260, worktree-agent-a561616921da725b6, worktree-agent-a0009bf327f4e898b",
+                        "refs":  "worktree-agent-aff4cd4695d4ce12e, worktree-agent-ad1a4775f60f3a736, worktree-agent-a7570fc3f1ade6260, worktree-agent-a561616921da725b6, worktree-agent-a0009bf327f4e898b",
                         "subject":  "Police layout: POI display spots + keep-clear zones"
                     },
                     {
@@ -1425,19 +1437,7 @@
                         "date":  "2026-09-27T10:56:25-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 9: cars shot apart panel by panel"
-                    },
-                    {
-                        "sha":  "6f70a05",
-                        "date":  "2026-09-27T10:56:25-07:00",
-                        "refs":  "",
-                        "subject":  "Fix merge of Sub-agents 4+5: keep SetAdsAlpha and ReapplyHidden (stocks handled per tick by SetAdsAlpha)"
-                    },
-                    {
-                        "sha":  "2632302",
-                        "date":  "2026-09-27T10:55:50-07:00",
-                        "refs":  "",
-                        "subject":  "Merge worktree-agent-a08d89b2f8d1de0bf"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:06:24.6691235-07:00"
+    "generatedAt":  "2026-09-27T17:06:34.6849093-07:00"
 }
