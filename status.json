@@ -1,5 +1,5 @@
 {
-    "master":  "81b04dc",
+    "master":  "7e94f10",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "81b04dc",
-                         "date":  "2026-09-28T13:02:12-07:00",
-                         "subject":  "Merge SA6: G_SPAS (SAS-12) procedural model - IoU 0.977, ghost-ring sights PASS, pump/trigger/shell/stock rig PASS, hold + shell-push reload",
+                         "sha":  "7e94f10",
+                         "date":  "2026-09-28T13:03:04-07:00",
+                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -451,14 +451,6 @@
                          "merged":  true
                      },
                      {
-                         "name":  "worktree-agent-a0677851e43cc7e46",
-                         "sha":  "5e9cca1",
-                         "date":  "2026-09-28T13:00:41-07:00",
-                         "subject":  "G_SPAS: ring sight at the receiver rear (check_ads PASS), shell parked out of the port, hold + reload clips, C++ hold/tilt/mag rows, UE import",
-                         "ahead":  0,
-                         "merged":  true
-                     },
-                     {
                          "name":  "worktree-agent-a08d89b2f8d1de0bf",
                          "sha":  "e085ac5",
                          "date":  "2026-09-27T10:52:24-07:00",
@@ -667,14 +659,6 @@
                          "merged":  true
                      },
                      {
-                         "name":  "worktree-agent-aca24d1e97bd5f47e",
-                         "sha":  "a85fd2b",
-                         "date":  "2026-09-28T13:01:11-07:00",
-                         "subject":  "R_SVD: procedural SVD-type DMR model (no Meshy) - trace/build/eval/preview scripts, PSO-type hollow scope, baked 2k textures, Mag/Bolt/Trigger/Stock rig, hold + reload clips, C++ table rows",
-                         "ahead":  1,
-                         "merged":  false
-                     },
-                     {
                          "name":  "worktree-agent-acb72df481d7c8c3d",
                          "sha":  "fc8d5e4",
                          "date":  "2026-09-26T19:43:03-07:00",
@@ -743,8 +727,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  311,
-                          "active":  "2026-09-28T13:02:40.9358195-07:00"
+                          "dirty":  269,
+                          "active":  "2026-09-28T13:00:45.0304344-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -767,12 +751,6 @@
                       {
                           "folder":  "agent-a04751b701c49f7e1",
                           "branch":  "worktree-agent-a04751b701c49f7e1",
-                          "dirty":  0,
-                          "active":  null
-                      },
-                      {
-                          "folder":  "agent-a0677851e43cc7e46",
-                          "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  0,
                           "active":  null
                       },
@@ -911,8 +889,8 @@
                       {
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
-                          "dirty":  39,
-                          "active":  "2026-09-28T13:02:50.8356442-07:00"
+                          "dirty":  40,
+                          "active":  "2026-09-28T13:03:10.6453795-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -929,12 +907,6 @@
                       {
                           "folder":  "agent-ac599cb6f090da687",
                           "branch":  "worktree-agent-ac599cb6f090da687",
-                          "dirty":  0,
-                          "active":  null
-                      },
-                      {
-                          "folder":  "agent-aca24d1e97bd5f47e",
-                          "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  0,
                           "active":  null
                       },
@@ -1283,6 +1255,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "7e94f10",
+                        "date":  "2026-09-28T13:03:04-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch"
+                    },
+                    {
                         "sha":  "a58a84c",
                         "date":  "2026-09-28T13:03:02-07:00",
                         "refs":  "worktree-agent-a872374ca5f5a7a5d",
@@ -1291,13 +1269,13 @@
                     {
                         "sha":  "81b04dc",
                         "date":  "2026-09-28T13:02:12-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge SA6: G_SPAS (SAS-12) procedural model - IoU 0.977, ghost-ring sights PASS, pump/trigger/shell/stock rig PASS, hold + shell-push reload"
                     },
                     {
                         "sha":  "a85fd2b",
                         "date":  "2026-09-28T13:01:11-07:00",
-                        "refs":  "worktree-agent-aca24d1e97bd5f47e",
+                        "refs":  "",
                         "subject":  "R_SVD: procedural SVD-type DMR model (no Meshy) - trace/build/eval/preview scripts, PSO-type hollow scope, baked 2k textures, Mag/Bolt/Trigger/Stock rig, hold + reload clips, C++ table rows"
                     },
                     {
@@ -1309,7 +1287,7 @@
                     {
                         "sha":  "5e9cca1",
                         "date":  "2026-09-28T13:00:41-07:00",
-                        "refs":  "worktree-agent-a0677851e43cc7e46",
+                        "refs":  "",
                         "subject":  "G_SPAS: ring sight at the receiver rear (check_ads PASS), shell parked out of the port, hold + reload clips, C++ hold/tilt/mag rows, UE import"
                     },
                     {
@@ -1515,13 +1493,7 @@
                         "date":  "2026-09-27T18:06:03-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 7: Level 1 quarantine fence ring, Gate 1, armored truck, Reyes\u0027 last stand"
-                    },
-                    {
-                        "sha":  "0fd2207",
-                        "date":  "2026-09-27T18:05:18-07:00",
-                        "refs":  "worktree-agent-a81b51e9d464c878c",
-                        "subject":  "Level 1 map lane: quarantine fence ring with road closures, GATE 1 frame by the safe house, armored rescue truck outside it, Reyes\u0027 last stand at the gas station; POI_Keys/Gate/Vehicle spots"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:03:03.1569805-07:00"
+    "generatedAt":  "2026-09-28T13:03:06.5754198-07:00"
 }
