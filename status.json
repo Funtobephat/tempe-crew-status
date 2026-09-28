@@ -1,5 +1,5 @@
 {
-    "master":  "7858f78",
+    "master":  "e7cd130",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "7858f78",
-                         "date":  "2026-09-28T13:39:13-07:00",
-                         "subject":  "Merge Sub-agent 3: bandage pickup model (SM_Item_Bandage, 11.7k tris, sealed pouch + gauze roll + tape, 2k PBR) - last of the 15 missing models",
+                         "sha":  "e7cd130",
+                         "date":  "2026-09-28T14:17:03-07:00",
+                         "subject":  "Asset re-saves from the v0.985 police map rebuild and item/weapon imports (Police Openings/Structure/Lighting/POI, Env materials and signs)",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -703,7 +703,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  269,
+                          "dirty":  1,
                           "active":  "2026-09-28T13:41:35.5472934-07:00"
                       },
                       {
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "e7cd130",
+                        "date":  "2026-09-28T14:17:03-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Asset re-saves from the v0.985 police map rebuild and item/weapon imports (Police Openings/Structure/Lighting/POI, Env materials and signs)"
+                    },
+                    {
                         "sha":  "7858f78",
                         "date":  "2026-09-28T13:39:13-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 3: bandage pickup model (SM_Item_Bandage, 11.7k tris, sealed pouch + gauze roll + tape, 2k PBR) - last of the 15 missing models"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-27T19:36:27-07:00",
                         "refs":  "",
                         "subject":  "Billboards: flip the poster vertically (M_PosterV_*), not left-right - the mesh\u0027s poster V is upside down"
-                    },
-                    {
-                        "sha":  "68634ad",
-                        "date":  "2026-09-27T19:31:21-07:00",
-                        "refs":  "",
-                        "subject":  "v0.983: billboards use mirrored-UV poster materials (M_PosterFlip_*) instead of a negative scale (HISM keeps winding, the poster was culled); generator view moved inside the room"
                     }
                 ],
-    "generatedAt":  "2026-09-28T14:16:23.5329440-07:00"
+    "generatedAt":  "2026-09-28T14:17:04.6170972-07:00"
 }
