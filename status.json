@@ -1,5 +1,5 @@
 {
-    "master":  "0e2f2ba",
+    "master":  "1e4e758",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "0e2f2ba",
-                         "date":  "2026-09-28T12:59:47-07:00",
-                         "subject":  "Merge SA3: dynamite bundle model (SM_Item_Dynamite, 10.7k tris, 2k PBR) + shared Tools/UE/build_items.py importer; headless dynamite blast still PASS",
+                         "sha":  "1e4e758",
+                         "date":  "2026-09-28T13:00:55-07:00",
+                         "subject":  "Merge SA1: frag grenade model (SM_Item_Frag, 14.6k tris, sphere collision, 2k PBR); build_items.py combines the Frag and Dynamite rows (dynamite keeps its DirectX normal map)",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -559,8 +559,8 @@
                          "sha":  "061e525",
                          "date":  "2026-09-28T12:59:59-07:00",
                          "subject":  "Frag export: path_mode STRIP (no .fbm texture copies next to the FBX)",
-                         "ahead":  2,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a7448c06ac6e0c953",
@@ -791,8 +791,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  281,
-                          "active":  "2026-09-28T13:00:41.9189174-07:00"
+                          "dirty":  269,
+                          "active":  "2026-09-28T13:00:45.0304344-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -936,7 +936,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  39,
-                          "active":  "2026-09-28T13:00:42.8938741-07:00"
+                          "active":  "2026-09-28T13:00:57.5311235-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T13:00:42.9058914-07:00"
+                          "active":  "2026-09-28T13:01:00.4644810-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1008,7 +1008,7 @@
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  42,
-                          "active":  "2026-09-28T13:00:43.4979133-07:00"
+                          "active":  "2026-09-28T13:00:47.8209451-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1367,6 +1367,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "1e4e758",
+                        "date":  "2026-09-28T13:00:55-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge SA1: frag grenade model (SM_Item_Frag, 14.6k tris, sphere collision, 2k PBR); build_items.py combines the Frag and Dynamite rows (dynamite keeps its DirectX normal map)"
+                    },
+                    {
                         "sha":  "5e9cca1",
                         "date":  "2026-09-28T13:00:41-07:00",
                         "refs":  "worktree-agent-a0677851e43cc7e46",
@@ -1387,7 +1393,7 @@
                     {
                         "sha":  "0e2f2ba",
                         "date":  "2026-09-28T12:59:47-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge SA3: dynamite bundle model (SM_Item_Dynamite, 10.7k tris, 2k PBR) + shared Tools/UE/build_items.py importer; headless dynamite blast still PASS"
                     },
                     {
@@ -1599,13 +1605,7 @@
                         "date":  "2026-09-27T17:27:29-07:00",
                         "refs":  "",
                         "subject":  "Level POIs: approved goal chains for levels 3-10 (fire station .. forest lookout finale)"
-                    },
-                    {
-                        "sha":  "f688b79",
-                        "date":  "2026-09-27T17:25:04-07:00",
-                        "refs":  "",
-                        "subject":  "Level 1 POI chain scaffold: level1_map / level1_gameplay hooks in build_district.build()"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:00:41.9609878-07:00"
+    "generatedAt":  "2026-09-28T13:00:56.8852347-07:00"
 }
