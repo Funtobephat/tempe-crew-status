@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  14,
-                          "active":  "2026-09-27T19:50:04.4693976-07:00"
+                          "dirty":  136,
+                          "active":  "2026-09-27T19:51:23.4846881-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "Police Station structure lane: brick/precast shell, per-room finishes + ceilings, real switchback stairs, dead elevator shaft, roof with penthouse + helipad, full site (street, lot, plaza, fences, secure lot, sally port)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T19:50:23.5437923-07:00"
+    "generatedAt":  "2026-09-27T19:51:23.5813176-07:00"
 }
