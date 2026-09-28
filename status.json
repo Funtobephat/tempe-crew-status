@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:09:29.9984875-07:00"
+                          "active":  "2026-09-27T17:10:17.6638171-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -792,7 +792,7 @@
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
                           "dirty":  119,
-                          "active":  "2026-09-27T17:09:26.3598521-07:00"
+                          "active":  "2026-09-27T17:10:21.4980519-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -863,8 +863,8 @@
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
-                          "dirty":  2,
-                          "active":  "2026-09-27T17:08:39.0049920-07:00"
+                          "dirty":  3,
+                          "active":  "2026-09-27T17:10:25.8614053-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -894,7 +894,7 @@
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
                           "dirty":  180,
-                          "active":  "2026-09-27T17:09:30.2116186-07:00"
+                          "active":  "2026-09-27T17:10:25.3134313-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1439,5 +1439,5 @@
                         "subject":  "v0.88: generated Env/Hub assets as re-saved by the district rebuild"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:09:29.8731353-07:00"
+    "generatedAt":  "2026-09-27T17:10:24.9190139-07:00"
 }
