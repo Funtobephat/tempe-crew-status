@@ -1,5 +1,5 @@
 {
-    "master":  "91af276",
+    "master":  "0e2f2ba",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "91af276",
-                         "date":  "2026-09-28T12:59:40-07:00",
-                         "subject":  "Merge SA4: A_SCARL (Mk 16) procedural model - IoU 0.972, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips",
+                         "sha":  "0e2f2ba",
+                         "date":  "2026-09-28T12:59:47-07:00",
+                         "subject":  "Merge SA3: dynamite bundle model (SM_Item_Dynamite, 10.7k tris, 2k PBR) + shared Tools/UE/build_items.py importer; headless dynamite blast still PASS",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -556,11 +556,11 @@
                      },
                      {
                          "name":  "worktree-agent-a726a968c0bd78573",
-                         "sha":  "2e8061d",
-                         "date":  "2026-09-28T12:39:26-07:00",
-                         "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "483e661",
+                         "date":  "2026-09-28T12:59:49-07:00",
+                         "subject":  "Frag grenade model: procedural SM_Item_Frag (6.35 cm body, fuze, lever, pin + ring, safety clip; 14.6k tris), baked 2k T_Item_Frag_{BaseColor,Normal,ORM}, USP sphere collision; shared Tools/UE/build_items.py importer",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a7448c06ac6e0c953",
@@ -647,8 +647,8 @@
                          "sha":  "21a33ad",
                          "date":  "2026-09-28T12:58:49-07:00",
                          "subject":  "Dynamite item model: procedural 3-stick taped bundle with blasting cap + safety fuse (10.7k tris, 2k baked PBR, COM origin, UCX box), shared Tools/UE/build_items.py importer",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-aab0ef3128d9d2764",
@@ -792,7 +792,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  269,
-                          "active":  "2026-09-28T12:57:27.0877017-07:00"
+                          "active":  "2026-09-28T12:59:55.7799506-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -821,8 +821,8 @@
                       {
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
-                          "dirty":  34,
-                          "active":  "2026-09-28T12:59:11.7933749-07:00"
+                          "dirty":  39,
+                          "active":  "2026-09-28T12:59:50.4292092-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -899,8 +899,8 @@
                       {
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
-                          "dirty":  5,
-                          "active":  "2026-09-28T12:59:42.5574718-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:59:48.3304999-07:00"
+                          "active":  "2026-09-28T12:59:58.2162406-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1367,6 +1367,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "483e661",
+                        "date":  "2026-09-28T12:59:49-07:00",
+                        "refs":  "worktree-agent-a726a968c0bd78573",
+                        "subject":  "Frag grenade model: procedural SM_Item_Frag (6.35 cm body, fuze, lever, pin + ring, safety clip; 14.6k tris), baked 2k T_Item_Frag_{BaseColor,Normal,ORM}, USP sphere collision; shared Tools/UE/build_items.py importer"
+                    },
+                    {
                         "sha":  "0e2f2ba",
                         "date":  "2026-09-28T12:59:47-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1435,7 +1441,7 @@
                     {
                         "sha":  "2e8061d",
                         "date":  "2026-09-28T12:39:26-07:00",
-                        "refs":  "worktree-agent-a726a968c0bd78573",
+                        "refs":  "",
                         "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise"
                     },
                     {
@@ -1599,13 +1605,7 @@
                         "date":  "2026-09-27T17:24:22-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 5: police route - ordered objectives, body armour + MP5 display pickups, caches, walking mission test"
-                    },
-                    {
-                        "sha":  "29a230b",
-                        "date":  "2026-09-27T17:23:27-07:00",
-                        "refs":  "",
-                        "subject":  "Police route/POI lane: BodyArmour rename, buzzer on the openings call box, remote-locked SecurityDoor, hidden roof disc, walking route test with nav probes, CLAUDE.md"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:59:41.1079951-07:00"
+    "generatedAt":  "2026-09-28T12:59:51.3466499-07:00"
 }
