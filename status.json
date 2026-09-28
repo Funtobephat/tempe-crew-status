@@ -636,10 +636,10 @@
                      },
                      {
                          "name":  "worktree-agent-ad1a4775f60f3a736",
-                         "sha":  "05947d1",
-                         "date":  "2026-09-27T17:09:23-07:00",
-                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-ad1a4775f60f3a736",
-                         "ahead":  2,
+                         "sha":  "89a3791",
+                         "date":  "2026-09-27T17:14:15-07:00",
+                         "subject":  "Police Station structure lane: brick/precast shell, per-room finishes + ceilings, real switchback stairs, dead elevator shaft, roof with penthouse + helipad, full site (street, lot, plaza, fences, secure lot, sally port)",
+                         "ahead":  3,
                          "merged":  false
                      },
                      {
@@ -702,7 +702,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  1,
-                          "active":  "2026-09-27T17:13:29.3598959-07:00"
+                          "active":  "2026-09-27T17:14:15.6123226-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:14:05.1296135-07:00"
+                          "active":  "2026-09-27T17:14:17.7492166-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -863,8 +863,8 @@
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
-                          "dirty":  2,
-                          "active":  "2026-09-27T17:13:39.6854386-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -1199,6 +1199,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "89a3791",
+                        "date":  "2026-09-27T17:14:15-07:00",
+                        "refs":  "worktree-agent-ad1a4775f60f3a736",
+                        "subject":  "Police Station structure lane: brick/precast shell, per-room finishes + ceilings, real switchback stairs, dead elevator shaft, roof with penthouse + helipad, full site (street, lot, plaza, fences, secure lot, sally port)"
+                    },
+                    {
                         "sha":  "1e75892",
                         "date":  "2026-09-27T17:14:03-07:00",
                         "refs":  "worktree-agent-a7570fc3f1ade6260",
@@ -1207,7 +1213,7 @@
                     {
                         "sha":  "05947d1",
                         "date":  "2026-09-27T17:09:23-07:00",
-                        "refs":  "worktree-agent-ad1a4775f60f3a736",
+                        "refs":  "",
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-ad1a4775f60f3a736"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T11:06:59-07:00",
                         "refs":  "",
                         "subject":  "CLAUDE.md: crew board page freshness notes"
-                    },
-                    {
-                        "sha":  "63dab70",
-                        "date":  "2026-09-27T11:01:35-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 1: pistol support hand grips the gun (G17/M9/1911); M9 and 1911 notch sights rebuilt"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:14:04.1413041-07:00"
+    "generatedAt":  "2026-09-27T17:14:17.1394950-07:00"
 }
