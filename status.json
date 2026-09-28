@@ -776,7 +776,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  286,
-                          "active":  "2026-09-27T18:04:01.7005010-07:00"
+                          "active":  "2026-09-27T18:04:16.2084499-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -818,7 +818,7 @@
                           "folder":  "agent-a81b51e9d464c878c",
                           "branch":  "worktree-agent-a81b51e9d464c878c",
                           "dirty":  138,
-                          "active":  "2026-09-27T18:03:59.4747078-07:00"
+                          "active":  "2026-09-27T18:04:24.5116311-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -1453,5 +1453,5 @@
                         "subject":  "Bat hits: car windows shatter, more bat damage, physical hit reaction + natural knockback on infected"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:03:59.2067095-07:00"
+    "generatedAt":  "2026-09-27T18:04:24.3469509-07:00"
 }
