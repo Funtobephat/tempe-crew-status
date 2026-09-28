@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "231fa2a",
-                         "date":  "2026-09-28T13:08:50-07:00",
-                         "subject":  "CLAUDE.md: crew cap is now 4 sub-agents (named 1-4) plus the Lead",
+                         "sha":  "25aec14",
+                         "date":  "2026-09-28T13:29:28-07:00",
+                         "subject":  "Merge Sub-agent 4: first-aid kit model (SM_Item_FirstAidKit, 14.7k tris, hard-shell case, 2k PBR) - sits on its crate in the police station",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -531,14 +531,6 @@
                          "merged":  true
                      },
                      {
-                         "name":  "worktree-agent-a5fc0087efe0ce48c",
-                         "sha":  "7e94f10",
-                         "date":  "2026-09-28T13:03:04-07:00",
-                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch",
-                         "ahead":  0,
-                         "merged":  true
-                     },
-                     {
                          "name":  "worktree-agent-a6f530223364c0a43",
                          "sha":  "7c56de7",
                          "date":  "2026-09-27T10:53:37-07:00",
@@ -556,11 +548,11 @@
                      },
                      {
                          "name":  "worktree-agent-a780d08c2d42bb930",
-                         "sha":  "7e94f10",
-                         "date":  "2026-09-28T13:03:04-07:00",
-                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "f913c4e",
+                         "date":  "2026-09-28T13:29:12-07:00",
+                         "subject":  "Smoke grenade model (SM_Item_Smoke): procedural 6.4 x 14.4 cm canister + fuze, 15.5k tris, baked 2k PBR, UCP_ capsule; BecomeSmoke swaps back to the sphere cloud; -TMThrowKind=2 / -TMThrowDist test switches",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a7e1db2966d2992d3",
@@ -735,8 +727,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  269,
-                          "active":  "2026-09-28T13:07:49.7952177-07:00"
+                          "dirty":  283,
+                          "active":  "2026-09-28T13:29:54.7786708-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -823,12 +815,6 @@
                           "active":  null
                       },
                       {
-                          "folder":  "agent-a5fc0087efe0ce48c",
-                          "branch":  "worktree-agent-a5fc0087efe0ce48c",
-                          "dirty":  11,
-                          "active":  "2026-09-28T13:27:34.8766464-07:00"
-                      },
-                      {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
                           "dirty":  0,
@@ -843,8 +829,8 @@
                       {
                           "folder":  "agent-a780d08c2d42bb930",
                           "branch":  "worktree-agent-a780d08c2d42bb930",
-                          "dirty":  14,
-                          "active":  "2026-09-28T13:27:10.6188350-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -904,7 +890,7 @@
                           "folder":  "agent-abcaff63a3149d50a",
                           "branch":  "worktree-agent-abcaff63a3149d50a",
                           "dirty":  11,
-                          "active":  "2026-09-28T13:26:31.3321889-07:00"
+                          "active":  "2026-09-28T13:31:43.2042061-07:00"
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -927,8 +913,8 @@
                       {
                           "folder":  "agent-acfc9bcb1120bcaa7",
                           "branch":  "worktree-agent-acfc9bcb1120bcaa7",
-                          "dirty":  6,
-                          "active":  "2026-09-28T13:27:13.5019896-07:00"
+                          "dirty":  7,
+                          "active":  "2026-09-28T13:28:05.7640177-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1269,9 +1255,27 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "25aec14",
+                        "date":  "2026-09-28T13:29:28-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 4: first-aid kit model (SM_Item_FirstAidKit, 14.7k tris, hard-shell case, 2k PBR) - sits on its crate in the police station"
+                    },
+                    {
+                        "sha":  "f913c4e",
+                        "date":  "2026-09-28T13:29:12-07:00",
+                        "refs":  "worktree-agent-a780d08c2d42bb930",
+                        "subject":  "Smoke grenade model (SM_Item_Smoke): procedural 6.4 x 14.4 cm canister + fuze, 15.5k tris, baked 2k PBR, UCP_ capsule; BecomeSmoke swaps back to the sphere cloud; -TMThrowKind=2 / -TMThrowDist test switches"
+                    },
+                    {
+                        "sha":  "308ab8b",
+                        "date":  "2026-09-28T13:28:27-07:00",
+                        "refs":  "",
+                        "subject":  "First-aid kit item model: procedural SM_Item_FirstAidKit (red hard case, latches, handle, hinge, white cross panel; 14.7k tris, 26.4 x 20.6 x 9.4 cm, bounds-centre origin, UCX box), baked 2k T_Item_FirstAidKit_{BaseColor,Normal,ORM}, build_items.py FirstAidKit row"
+                    },
+                    {
                         "sha":  "231fa2a",
                         "date":  "2026-09-28T13:08:50-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "CLAUDE.md: crew cap is now 4 sub-agents (named 1-4) plus the Lead"
                     },
                     {
@@ -1295,7 +1299,7 @@
                     {
                         "sha":  "7e94f10",
                         "date":  "2026-09-28T13:03:04-07:00",
-                        "refs":  "worktree-agent-acfc9bcb1120bcaa7, worktree-agent-abcaff63a3149d50a, worktree-agent-a780d08c2d42bb930, worktree-agent-a5fc0087efe0ce48c",
+                        "refs":  "worktree-agent-acfc9bcb1120bcaa7, worktree-agent-abcaff63a3149d50a",
                         "subject":  "Merge SA8: R_SVD procedural DMR - IoU 0.976, PSO-type scope PASS, bolt/trigger/mag/thumbhole-stock rig, hold + reload; -TMCustomizePick QA switch"
                     },
                     {
@@ -1489,25 +1493,7 @@
                         "date":  "2026-09-27T18:41:21-07:00",
                         "refs":  "",
                         "subject":  "v0.98 integration build: Proto_Tempe (Level 1 fence, gate, truck, Reyes, POI chain) and Police_Station (all six lanes + new goals) rebuilt; radio audio + editor re-saves"
-                    },
-                    {
-                        "sha":  "3f155c8",
-                        "date":  "2026-09-27T18:34:43-07:00",
-                        "refs":  "",
-                        "subject":  "v0.98: fold route-lane keep-clear zones into the police layout; shorter POI \u0027where\u0027 lines for the HUD"
-                    },
-                    {
-                        "sha":  "a42863c",
-                        "date":  "2026-09-27T18:34:12-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 5: data-driven level POIs, Level 1 radio/keys/gate/truck, Level 2 armour+SMG-5 -\u003e front doors, police doorway nav fix"
-                    },
-                    {
-                        "sha":  "d5573ad",
-                        "date":  "2026-09-27T18:33:33-07:00",
-                        "refs":  "worktree-agent-a561616921da725b6",
-                        "subject":  "v0.98 level POIs: data-driven HUD/compass/markers from level_pois.json, level 1 keys/gate/truck + Reyes intro radio, police armour+SMG-5 -\u003e front-door exit, police nav fix (frame liners off nav + TMNavConfig 32/8), walking mission tests"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:27:33.9652994-07:00"
+    "generatedAt":  "2026-09-28T13:29:56.6681103-07:00"
 }
