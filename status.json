@@ -1,5 +1,5 @@
 {
-    "master":  "1e4e758",
+    "master":  "81b04dc",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "1e4e758",
-                         "date":  "2026-09-28T13:00:55-07:00",
-                         "subject":  "Merge SA1: frag grenade model (SM_Item_Frag, 14.6k tris, sphere collision, 2k PBR); build_items.py combines the Frag and Dynamite rows (dynamite keeps its DirectX normal map)",
+                         "sha":  "81b04dc",
+                         "date":  "2026-09-28T13:02:12-07:00",
+                         "subject":  "Merge SA6: G_SPAS (SAS-12) procedural model - IoU 0.977, ghost-ring sights PASS, pump/trigger/shell/stock rig PASS, hold + shell-push reload",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -455,8 +455,8 @@
                          "sha":  "5e9cca1",
                          "date":  "2026-09-28T13:00:41-07:00",
                          "subject":  "G_SPAS: ring sight at the receiver rear (check_ads PASS), shell parked out of the port, hold + reload clips, C++ hold/tilt/mag rows, UE import",
-                         "ahead":  2,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a08d89b2f8d1de0bf",
@@ -547,14 +547,6 @@
                          "merged":  true
                      },
                      {
-                         "name":  "worktree-agent-a726a968c0bd78573",
-                         "sha":  "061e525",
-                         "date":  "2026-09-28T12:59:59-07:00",
-                         "subject":  "Frag export: path_mode STRIP (no .fbm texture copies next to the FBX)",
-                         "ahead":  0,
-                         "merged":  true
-                     },
-                     {
                          "name":  "worktree-agent-a7448c06ac6e0c953",
                          "sha":  "e2f0006",
                          "date":  "2026-09-28T12:54:57-07:00",
@@ -635,14 +627,6 @@
                          "merged":  false
                      },
                      {
-                         "name":  "worktree-agent-aa08ee8e693b5a274",
-                         "sha":  "21a33ad",
-                         "date":  "2026-09-28T12:58:49-07:00",
-                         "subject":  "Dynamite item model: procedural 3-stick taped bundle with blasting cap + safety fuse (10.7k tris, 2k baked PBR, COM origin, UCX box), shared Tools/UE/build_items.py importer",
-                         "ahead":  0,
-                         "merged":  true
-                     },
-                     {
                          "name":  "worktree-agent-aab0ef3128d9d2764",
                          "sha":  "f74f36c",
                          "date":  "2026-09-26T17:33:52-07:00",
@@ -683,14 +667,6 @@
                          "merged":  true
                      },
                      {
-                         "name":  "worktree-agent-ac8a5743650d4c16f",
-                         "sha":  "267a0d5",
-                         "date":  "2026-09-28T12:45:24-07:00",
-                         "subject":  "G_AA12 (Auto-12): procedural model from the Commons photo, ring sights, part rig, hold + reload",
-                         "ahead":  0,
-                         "merged":  true
-                     },
-                     {
                          "name":  "worktree-agent-aca24d1e97bd5f47e",
                          "sha":  "a85fd2b",
                          "date":  "2026-09-28T13:01:11-07:00",
@@ -707,14 +683,6 @@
                          "merged":  false
                      },
                      {
-                         "name":  "worktree-agent-acdbf19db5d85b64e",
-                         "sha":  "dd884f3",
-                         "date":  "2026-09-28T12:58:28-07:00",
-                         "subject":  "A_SCARL (Mk 16): procedural high-detail model from a CC BY-SA Commons photo (IoU 0.972), baked 2k FDE textures, ring sights, Mag/Bolt/Trigger/Stock rig, M4-family hold + reload clips, C++ twins; check_ads ring PASS, Test-Rig PASS",
-                         "ahead":  0,
-                         "merged":  true
-                     },
-                     {
                          "name":  "worktree-agent-ad1a4775f60f3a736",
                          "sha":  "7eab1d5",
                          "date":  "2026-09-27T17:17:34-07:00",
@@ -727,14 +695,6 @@
                          "sha":  "0839285",
                          "date":  "2026-09-26T17:39:31-07:00",
                          "subject":  "R_AWM: procedural AI AWM model from reference photo",
-                         "ahead":  0,
-                         "merged":  true
-                     },
-                     {
-                         "name":  "worktree-agent-ae43e0523d7cd0e16",
-                         "sha":  "d22febc",
-                         "date":  "2026-09-28T12:41:57-07:00",
-                         "subject":  "S_MPX (SMG-9X): procedural high-detail model, sights, rig parts incl. Stock, hold + reload clips, C++ rows",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -783,8 +743,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  269,
-                          "active":  "2026-09-28T13:00:45.0304344-07:00"
+                          "dirty":  311,
+                          "active":  "2026-09-28T13:02:14.2622152-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -883,12 +843,6 @@
                           "active":  null
                       },
                       {
-                          "folder":  "agent-a726a968c0bd78573",
-                          "branch":  "worktree-agent-a726a968c0bd78573",
-                          "dirty":  0,
-                          "active":  null
-                      },
-                      {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
                           "dirty":  0,
@@ -921,8 +875,8 @@
                       {
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
-                          "dirty":  39,
-                          "active":  "2026-09-28T13:01:25.3570675-07:00"
+                          "dirty":  40,
+                          "active":  "2026-09-28T13:02:05.2230800-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -949,12 +903,6 @@
                           "active":  null
                       },
                       {
-                          "folder":  "agent-aa08ee8e693b5a274",
-                          "branch":  "worktree-agent-aa08ee8e693b5a274",
-                          "dirty":  0,
-                          "active":  null
-                      },
-                      {
                           "folder":  "agent-aab0ef3128d9d2764",
                           "branch":  "worktree-agent-aab0ef3128d9d2764",
                           "dirty":  0,
@@ -963,8 +911,8 @@
                       {
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
-                          "dirty":  39,
-                          "active":  "2026-09-28T13:01:00.4644810-07:00"
+                          "dirty":  40,
+                          "active":  "2026-09-28T13:02:19.7738019-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -985,12 +933,6 @@
                           "active":  null
                       },
                       {
-                          "folder":  "agent-ac8a5743650d4c16f",
-                          "branch":  "worktree-agent-ac8a5743650d4c16f",
-                          "dirty":  269,
-                          "active":  "2026-09-28T12:43:59.9097914-07:00"
-                      },
-                      {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  0,
@@ -1003,12 +945,6 @@
                           "active":  null
                       },
                       {
-                          "folder":  "agent-acdbf19db5d85b64e",
-                          "branch":  "worktree-agent-acdbf19db5d85b64e",
-                          "dirty":  0,
-                          "active":  null
-                      },
-                      {
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
                           "dirty":  0,
@@ -1017,12 +953,6 @@
                       {
                           "folder":  "agent-adbcc631b9a256947",
                           "branch":  "worktree-agent-adbcc631b9a256947",
-                          "dirty":  0,
-                          "active":  null
-                      },
-                      {
-                          "folder":  "agent-ae43e0523d7cd0e16",
-                          "branch":  "worktree-agent-ae43e0523d7cd0e16",
                           "dirty":  0,
                           "active":  null
                       },
@@ -1353,6 +1283,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "81b04dc",
+                        "date":  "2026-09-28T13:02:12-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge SA6: G_SPAS (SAS-12) procedural model - IoU 0.977, ghost-ring sights PASS, pump/trigger/shell/stock rig PASS, hold + shell-push reload"
+                    },
+                    {
                         "sha":  "a85fd2b",
                         "date":  "2026-09-28T13:01:11-07:00",
                         "refs":  "worktree-agent-aca24d1e97bd5f47e",
@@ -1361,7 +1297,7 @@
                     {
                         "sha":  "1e4e758",
                         "date":  "2026-09-28T13:00:55-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge SA1: frag grenade model (SM_Item_Frag, 14.6k tris, sphere collision, 2k PBR); build_items.py combines the Frag and Dynamite rows (dynamite keeps its DirectX normal map)"
                     },
                     {
@@ -1373,7 +1309,7 @@
                     {
                         "sha":  "061e525",
                         "date":  "2026-09-28T12:59:59-07:00",
-                        "refs":  "worktree-agent-a726a968c0bd78573",
+                        "refs":  "",
                         "subject":  "Frag export: path_mode STRIP (no .fbm texture copies next to the FBX)"
                     },
                     {
@@ -1397,13 +1333,13 @@
                     {
                         "sha":  "21a33ad",
                         "date":  "2026-09-28T12:58:49-07:00",
-                        "refs":  "worktree-agent-aa08ee8e693b5a274",
+                        "refs":  "",
                         "subject":  "Dynamite item model: procedural 3-stick taped bundle with blasting cap + safety fuse (10.7k tris, 2k baked PBR, COM origin, UCX box), shared Tools/UE/build_items.py importer"
                     },
                     {
                         "sha":  "dd884f3",
                         "date":  "2026-09-28T12:58:28-07:00",
-                        "refs":  "worktree-agent-acdbf19db5d85b64e",
+                        "refs":  "",
                         "subject":  "A_SCARL (Mk 16): procedural high-detail model from a CC BY-SA Commons photo (IoU 0.972), baked 2k FDE textures, ring sights, Mag/Bolt/Trigger/Stock rig, M4-family hold + reload clips, C++ twins; check_ads ring PASS, Test-Rig PASS"
                     },
                     {
@@ -1433,7 +1369,7 @@
                     {
                         "sha":  "267a0d5",
                         "date":  "2026-09-28T12:45:24-07:00",
-                        "refs":  "worktree-agent-ac8a5743650d4c16f",
+                        "refs":  "",
                         "subject":  "G_AA12 (Auto-12): procedural model from the Commons photo, ring sights, part rig, hold + reload"
                     },
                     {
@@ -1585,13 +1521,7 @@
                         "date":  "2026-09-27T18:03:58-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 3: police station furniture and dressing (905 pieces, every room, 6 barricade props)"
-                    },
-                    {
-                        "sha":  "d6f319c",
-                        "date":  "2026-09-27T18:03:10-07:00",
-                        "refs":  "worktree-agent-a0009bf327f4e898b",
-                        "subject":  "Police Station furniture lane: every room furnished + dressed (Sub-agent 3)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:01:24.4978701-07:00"
+    "generatedAt":  "2026-09-28T13:02:13.3987134-07:00"
 }
