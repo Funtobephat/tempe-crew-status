@@ -628,11 +628,11 @@
                      },
                      {
                          "name":  "worktree-agent-aaf055af3b87db083",
-                         "sha":  "043df07",
-                         "date":  "2026-09-27T19:58:38-07:00",
-                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "8d6075d",
+                         "date":  "2026-09-28T13:03:17-07:00",
+                         "subject":  "A_AUG: procedural Bullpup A3 model (IoU 0.982, 2k baked PBR), ring backup irons, rig parts, bullpup hold + reload, C++ table rows",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-ab11cc93b7268b66e",
@@ -728,7 +728,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  269,
-                          "active":  "2026-09-28T13:00:45.0304344-07:00"
+                          "active":  "2026-09-28T13:03:18.2469411-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -889,8 +889,8 @@
                       {
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
-                          "dirty":  40,
-                          "active":  "2026-09-28T13:03:10.6453795-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1255,6 +1255,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "8d6075d",
+                        "date":  "2026-09-28T13:03:17-07:00",
+                        "refs":  "worktree-agent-aaf055af3b87db083",
+                        "subject":  "A_AUG: procedural Bullpup A3 model (IoU 0.982, 2k baked PBR), ring backup irons, rig parts, bullpup hold + reload, C++ table rows"
+                    },
+                    {
                         "sha":  "7e94f10",
                         "date":  "2026-09-28T13:03:04-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1401,7 +1407,7 @@
                     {
                         "sha":  "043df07",
                         "date":  "2026-09-27T19:58:38-07:00",
-                        "refs":  "worktree-agent-aaf055af3b87db083",
+                        "refs":  "",
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     },
                     {
@@ -1487,13 +1493,7 @@
                         "date":  "2026-09-27T18:06:31-07:00",
                         "refs":  "",
                         "subject":  "Level 1: move the NE billboard off the new fence line, facing the Safe House (its mirrored back faced the courtyard)"
-                    },
-                    {
-                        "sha":  "bd71fd2",
-                        "date":  "2026-09-27T18:06:03-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 7: Level 1 quarantine fence ring, Gate 1, armored truck, Reyes\u0027 last stand"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:03:06.5754198-07:00"
+    "generatedAt":  "2026-09-28T13:03:17.9658382-07:00"
 }
