@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  3,
-                          "active":  "2026-09-28T14:34:22.9613505-07:00"
+                          "active":  "2026-09-28T14:35:23.6282218-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "v0.983 verified build: both maps rebuilt - police helipad on the roof, softer entry glow, generator room light, billboards reading correctly (M_PosterV_*)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T14:34:23.6519987-07:00"
+    "generatedAt":  "2026-09-28T14:35:23.6922240-07:00"
 }
