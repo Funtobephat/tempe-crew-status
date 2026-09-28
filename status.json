@@ -776,7 +776,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  269,
-                          "active":  "2026-09-28T12:37:34.0489207-07:00"
+                          "active":  "2026-09-28T12:37:39.3285443-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -884,7 +884,7 @@
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
                           "dirty":  44,
-                          "active":  "2026-09-28T12:37:34.0304365-07:00"
+                          "active":  "2026-09-28T12:37:40.0680349-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -950,7 +950,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:37:23.3980905-07:00"
+                          "active":  "2026-09-28T12:37:37.6954308-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -974,7 +974,7 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:37:35.0034585-07:00"
+                          "active":  "2026-09-28T12:37:37.2964150-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
@@ -1010,7 +1010,7 @@
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
                           "dirty":  124,
-                          "active":  "2026-09-28T12:37:35.8468173-07:00"
+                          "active":  "2026-09-28T12:37:40.9518348-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1579,5 +1579,5 @@
                         "subject":  "Merge lighting lane into furniture lane"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:37:14.1933485-07:00"
+    "generatedAt":  "2026-09-28T12:37:39.0243763-07:00"
 }
