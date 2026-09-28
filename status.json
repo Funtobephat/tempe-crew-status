@@ -776,7 +776,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  269,
-                          "active":  "2026-09-28T12:33:54.7365671-07:00"
+                          "active":  "2026-09-28T12:34:15.4863258-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -806,7 +806,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  19,
-                          "active":  "2026-09-28T12:34:06.6345458-07:00"
+                          "active":  "2026-09-28T12:34:11.2033529-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -883,8 +883,8 @@
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
-                          "dirty":  37,
-                          "active":  "2026-09-28T12:33:58.2072233-07:00"
+                          "dirty":  39,
+                          "active":  "2026-09-28T12:34:24.5784415-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -950,7 +950,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:34:13.7034408-07:00"
+                          "active":  "2026-09-28T12:34:14.3285660-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -974,7 +974,7 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:34:15.8273507-07:00"
+                          "active":  "2026-09-28T12:34:30.2686622-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
@@ -1579,5 +1579,5 @@
                         "subject":  "Police infected: uniform skins, riot armour absorber, outfit per spawn point, Police Station placement"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:33:41.2180061-07:00"
+    "generatedAt":  "2026-09-28T12:34:33.2063958-07:00"
 }
