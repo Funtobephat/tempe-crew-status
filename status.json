@@ -547,14 +547,6 @@
                          "merged":  true
                      },
                      {
-                         "name":  "worktree-agent-a7448c06ac6e0c953",
-                         "sha":  "e2f0006",
-                         "date":  "2026-09-28T12:54:57-07:00",
-                         "subject":  "R_M82: procedural M82A1-pattern .50 (M107) model from a CC BY 4.0 photo trace",
-                         "ahead":  0,
-                         "merged":  true
-                     },
-                     {
                          "name":  "worktree-agent-a7570fc3f1ade6260",
                          "sha":  "1e75892",
                          "date":  "2026-09-27T17:14:03-07:00",
@@ -744,7 +736,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  269,
-                          "active":  "2026-09-28T13:03:51.2779668-07:00"
+                          "active":  "2026-09-28T13:07:15.1267340-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -839,12 +831,6 @@
                       {
                           "folder":  "agent-a6f530223364c0a43",
                           "branch":  "worktree-agent-a6f530223364c0a43",
-                          "dirty":  0,
-                          "active":  null
-                      },
-                      {
-                          "folder":  "agent-a7448c06ac6e0c953",
-                          "branch":  "worktree-agent-a7448c06ac6e0c953",
                           "dirty":  0,
                           "active":  null
                       },
@@ -1393,7 +1379,7 @@
                     {
                         "sha":  "e2f0006",
                         "date":  "2026-09-28T12:54:57-07:00",
-                        "refs":  "worktree-agent-a7448c06ac6e0c953",
+                        "refs":  "",
                         "subject":  "R_M82: procedural M82A1-pattern .50 (M107) model from a CC BY 4.0 photo trace"
                     },
                     {
@@ -1523,5 +1509,5 @@
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:06:24.4765875-07:00"
+    "generatedAt":  "2026-09-28T13:07:24.2203684-07:00"
 }
