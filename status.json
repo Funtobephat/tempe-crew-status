@@ -420,10 +420,10 @@
                      },
                      {
                          "name":  "worktree-agent-a0009bf327f4e898b",
-                         "sha":  "57ddb76",
-                         "date":  "2026-09-27T17:15:06-07:00",
-                         "subject":  "Merge lighting lane into furniture lane",
-                         "ahead":  2,
+                         "sha":  "fe4fe15",
+                         "date":  "2026-09-27T17:22:04-07:00",
+                         "subject":  "Merge guns-procedural (structure/lighting/infected lanes) into furniture lane",
+                         "ahead":  3,
                          "merged":  false
                      },
                      {
@@ -696,13 +696,13 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T17:21:24.7728069-07:00"
+                          "active":  "2026-09-27T17:22:05.1001382-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
-                          "dirty":  225,
-                          "active":  "2026-09-27T17:21:24.2648781-07:00"
+                          "dirty":  1,
+                          "active":  "2026-09-27T17:21:48.4301980-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  270,
-                          "active":  "2026-09-27T17:21:25.7241157-07:00"
+                          "active":  "2026-09-27T17:21:57.2923428-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1199,6 +1199,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "fe4fe15",
+                        "date":  "2026-09-27T17:22:04-07:00",
+                        "refs":  "worktree-agent-a0009bf327f4e898b",
+                        "subject":  "Merge guns-procedural (structure/lighting/infected lanes) into furniture lane"
+                    },
+                    {
                         "sha":  "00330d6",
                         "date":  "2026-09-27T17:19:36-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1261,7 +1267,7 @@
                     {
                         "sha":  "57ddb76",
                         "date":  "2026-09-27T17:15:06-07:00",
-                        "refs":  "worktree-agent-a0009bf327f4e898b",
+                        "refs":  "",
                         "subject":  "Merge lighting lane into furniture lane"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T12:46:35-07:00",
                         "refs":  "worktree-agent-a7e1db2966d2992d3",
                         "subject":  "Melee: re-export all five weapons with sign-continuous keys; fix reach-clamp message and the crowbar/machete/axe/sledge heavy-swing clamps"
-                    },
-                    {
-                        "sha":  "05ab42c",
-                        "date":  "2026-09-27T12:41:15-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 2: realistic batter\u0027s grip on the bat (matching knuckle lines, palms facing); swing clip quaternion-sign fix"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:21:24.5150375-07:00"
+    "generatedAt":  "2026-09-27T17:22:04.9319549-07:00"
 }
