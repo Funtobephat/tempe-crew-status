@@ -420,10 +420,10 @@
                      },
                      {
                          "name":  "worktree-agent-a0009bf327f4e898b",
-                         "sha":  "c466485",
-                         "date":  "2026-09-27T17:14:55-07:00",
-                         "subject":  "Police furniture lane WIP (pre-merge)",
-                         "ahead":  1,
+                         "sha":  "57ddb76",
+                         "date":  "2026-09-27T17:15:06-07:00",
+                         "subject":  "Merge lighting lane into furniture lane",
+                         "ahead":  2,
                          "merged":  false
                      },
                      {
@@ -701,8 +701,8 @@
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
-                          "dirty":  228,
-                          "active":  "2026-09-27T17:14:56.0802750-07:00"
+                          "dirty":  200,
+                          "active":  "2026-09-27T17:14:48.0712108-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:14:56.4329050-07:00"
+                          "active":  "2026-09-27T17:15:07.6236518-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1199,9 +1199,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "57ddb76",
+                        "date":  "2026-09-27T17:15:06-07:00",
+                        "refs":  "worktree-agent-a0009bf327f4e898b",
+                        "subject":  "Merge lighting lane into furniture lane"
+                    },
+                    {
                         "sha":  "c466485",
                         "date":  "2026-09-27T17:14:55-07:00",
-                        "refs":  "worktree-agent-a0009bf327f4e898b",
+                        "refs":  "",
                         "subject":  "Police furniture lane WIP (pre-merge)"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T11:39:56-07:00",
                         "refs":  "",
                         "subject":  "v0.90: ESC pause in solo + Ready row removed (Sub-agent 3)"
-                    },
-                    {
-                        "sha":  "3fcc6ff",
-                        "date":  "2026-09-27T11:38:13-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 3: ESC pauses the game in solo (co-op stays live with a note); Ready row removed from the escape menu"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:14:56.1703372-07:00"
+    "generatedAt":  "2026-09-27T17:15:06.9374847-07:00"
 }
