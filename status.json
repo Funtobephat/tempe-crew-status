@@ -451,6 +451,14 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-a0677851e43cc7e46",
+                         "sha":  "043df07",
+                         "date":  "2026-09-27T19:58:38-07:00",
+                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-a08d89b2f8d1de0bf",
                          "sha":  "e085ac5",
                          "date":  "2026-09-27T10:52:24-07:00",
@@ -487,6 +495,14 @@
                          "sha":  "d999af4",
                          "date":  "2026-09-26T23:27:25-07:00",
                          "subject":  "ADS stock hiding for all long guns (AK, G36, MP5, UMP45, Vector, 870, M1014, DB, SR25, M24, AWM)",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "worktree-agent-a3d9dcc4fe34204db",
+                         "sha":  "043df07",
+                         "date":  "2026-09-27T19:58:38-07:00",
+                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -539,6 +555,14 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-a7448c06ac6e0c953",
+                         "sha":  "043df07",
+                         "date":  "2026-09-27T19:58:38-07:00",
+                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-a7570fc3f1ade6260",
                          "sha":  "1e75892",
                          "date":  "2026-09-27T17:14:03-07:00",
@@ -567,6 +591,14 @@
                          "sha":  "0fd2207",
                          "date":  "2026-09-27T18:05:18-07:00",
                          "subject":  "Level 1 map lane: quarantine fence ring with road closures, GATE 1 frame by the safe house, armored rescue truck outside it, Reyes\u0027 last stand at the gas station; POI_Keys/Gate/Vehicle spots",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "worktree-agent-a872374ca5f5a7a5d",
+                         "sha":  "043df07",
+                         "date":  "2026-09-27T19:58:38-07:00",
+                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -611,6 +643,14 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-aaf055af3b87db083",
+                         "sha":  "043df07",
+                         "date":  "2026-09-27T19:58:38-07:00",
+                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-ab11cc93b7268b66e",
                          "sha":  "9f066c0",
                          "date":  "2026-09-27T13:11:14-07:00",
@@ -635,12 +675,36 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-ac8a5743650d4c16f",
+                         "sha":  "043df07",
+                         "date":  "2026-09-27T19:58:38-07:00",
+                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "worktree-agent-aca24d1e97bd5f47e",
+                         "sha":  "043df07",
+                         "date":  "2026-09-27T19:58:38-07:00",
+                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-acb72df481d7c8c3d",
                          "sha":  "fc8d5e4",
                          "date":  "2026-09-26T19:43:03-07:00",
                          "subject":  "status 98af4ee 2026-09-26T19:43:03",
                          "ahead":  30,
                          "merged":  false
+                     },
+                     {
+                         "name":  "worktree-agent-acdbf19db5d85b64e",
+                         "sha":  "043df07",
+                         "date":  "2026-09-27T19:58:38-07:00",
+                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-ad1a4775f60f3a736",
@@ -655,6 +719,14 @@
                          "sha":  "0839285",
                          "date":  "2026-09-26T17:39:31-07:00",
                          "subject":  "R_AWM: procedural AI AWM model from reference photo",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "worktree-agent-ae43e0523d7cd0e16",
+                         "sha":  "043df07",
+                         "date":  "2026-09-27T19:58:38-07:00",
+                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -731,6 +803,12 @@
                           "active":  null
                       },
                       {
+                          "folder":  "agent-a0677851e43cc7e46",
+                          "branch":  "worktree-agent-a0677851e43cc7e46",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
                           "folder":  "agent-a08d89b2f8d1de0bf",
                           "branch":  "worktree-agent-a08d89b2f8d1de0bf",
                           "dirty":  0,
@@ -757,6 +835,12 @@
                       {
                           "folder":  "agent-a3509403be866a68e",
                           "branch":  "worktree-agent-a3509403be866a68e",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-a3d9dcc4fe34204db",
+                          "branch":  "worktree-agent-a3d9dcc4fe34204db",
                           "dirty":  0,
                           "active":  null
                       },
@@ -797,6 +881,12 @@
                           "active":  null
                       },
                       {
+                          "folder":  "agent-a7448c06ac6e0c953",
+                          "branch":  "worktree-agent-a7448c06ac6e0c953",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
                           "dirty":  0,
@@ -817,6 +907,12 @@
                       {
                           "folder":  "agent-a81b51e9d464c878c",
                           "branch":  "worktree-agent-a81b51e9d464c878c",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-a872374ca5f5a7a5d",
+                          "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  0,
                           "active":  null
                       },
@@ -851,6 +947,12 @@
                           "active":  null
                       },
                       {
+                          "folder":  "agent-aaf055af3b87db083",
+                          "branch":  "worktree-agent-aaf055af3b87db083",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
                           "folder":  "agent-ab11cc93b7268b66e",
                           "branch":  "worktree-agent-ab11cc93b7268b66e",
                           "dirty":  0,
@@ -869,9 +971,27 @@
                           "active":  null
                       },
                       {
+                          "folder":  "agent-ac8a5743650d4c16f",
+                          "branch":  "worktree-agent-ac8a5743650d4c16f",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-aca24d1e97bd5f47e",
+                          "branch":  "worktree-agent-aca24d1e97bd5f47e",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
                           "folder":  "agent-acb72df481d7c8c3d",
                           "branch":  "worktree-agent-acb72df481d7c8c3d",
                           "dirty":  1,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-acdbf19db5d85b64e",
+                          "branch":  "worktree-agent-acdbf19db5d85b64e",
+                          "dirty":  0,
                           "active":  null
                       },
                       {
@@ -883,6 +1003,12 @@
                       {
                           "folder":  "agent-adbcc631b9a256947",
                           "branch":  "worktree-agent-adbcc631b9a256947",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-ae43e0523d7cd0e16",
+                          "branch":  "worktree-agent-ae43e0523d7cd0e16",
                           "dirty":  0,
                           "active":  null
                       },
@@ -1215,7 +1341,7 @@
                     {
                         "sha":  "043df07",
                         "date":  "2026-09-27T19:58:38-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-ae43e0523d7cd0e16, worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-ac8a5743650d4c16f, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d, worktree-agent-a7448c06ac6e0c953, worktree-agent-a3d9dcc4fe34204db, worktree-agent-a0677851e43cc7e46",
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     },
                     {
@@ -1453,5 +1579,5 @@
                         "subject":  "CLAUDE.md: police structure material count"
                     }
                 ],
-    "generatedAt":  "2026-09-28T11:40:24.0514521-07:00"
+    "generatedAt":  "2026-09-28T11:41:52.1092911-07:00"
 }
