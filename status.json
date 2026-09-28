@@ -732,11 +732,11 @@
                      },
                      {
                          "name":  "worktree-agent-ae43e0523d7cd0e16",
-                         "sha":  "043df07",
-                         "date":  "2026-09-27T19:58:38-07:00",
-                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "d22febc",
+                         "date":  "2026-09-28T12:41:57-07:00",
+                         "subject":  "S_MPX (SMG-9X): procedural high-detail model, sights, rig parts incl. Stock, hold + reload clips, C++ rows",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-aebb56d563c8fd45f",
@@ -814,7 +814,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:41:03.5839502-07:00"
+                          "active":  "2026-09-28T12:42:12.4718413-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -898,7 +898,7 @@
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
                           "dirty":  44,
-                          "active":  "2026-09-28T12:38:51.7947947-07:00"
+                          "active":  "2026-09-28T12:42:10.3075488-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -928,7 +928,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:40:34.6296725-07:00"
+                          "active":  "2026-09-28T12:42:13.1683202-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -964,7 +964,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:40:34.1020755-07:00"
+                          "active":  "2026-09-28T12:42:14.2768553-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -988,13 +988,13 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:40:44.3325623-07:00"
+                          "active":  "2026-09-28T12:42:14.3774389-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:40:37.4639354-07:00"
+                          "active":  "2026-09-28T12:42:14.6930723-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1006,7 +1006,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:39:26.0175295-07:00"
+                          "active":  "2026-09-28T12:42:14.7035853-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1023,8 +1023,8 @@
                       {
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
-                          "dirty":  41,
-                          "active":  "2026-09-28T12:40:42.6646574-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1353,6 +1353,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "d22febc",
+                        "date":  "2026-09-28T12:41:57-07:00",
+                        "refs":  "worktree-agent-ae43e0523d7cd0e16",
+                        "subject":  "S_MPX (SMG-9X): procedural high-detail model, sights, rig parts incl. Stock, hold + reload clips, C++ rows"
+                    },
+                    {
                         "sha":  "2e8061d",
                         "date":  "2026-09-28T12:39:26-07:00",
                         "refs":  "HEAD -\u003e guns-procedural, worktree-agent-a726a968c0bd78573",
@@ -1385,7 +1391,7 @@
                     {
                         "sha":  "043df07",
                         "date":  "2026-09-27T19:58:38-07:00",
-                        "refs":  "worktree-agent-ae43e0523d7cd0e16, worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-ac8a5743650d4c16f, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d, worktree-agent-a7448c06ac6e0c953",
+                        "refs":  "worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-ac8a5743650d4c16f, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d, worktree-agent-a7448c06ac6e0c953",
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     },
                     {
@@ -1585,13 +1591,7 @@
                         "date":  "2026-09-27T17:15:20-07:00",
                         "refs":  "",
                         "subject":  "Merge guns-procedural (lighting lane) into structure lane"
-                    },
-                    {
-                        "sha":  "b23b53f",
-                        "date":  "2026-09-27T17:15:14-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 1: police station structure (shell, facade, finishes, ceilings, real stairs, roof helipad, site)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:41:23.8337053-07:00"
+    "generatedAt":  "2026-09-28T12:42:03.1392001-07:00"
 }
