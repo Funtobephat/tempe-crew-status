@@ -1,5 +1,5 @@
 {
-    "master":  "770364d",
+    "master":  "bd71fd2",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "770364d",
-                         "date":  "2026-09-27T18:03:58-07:00",
-                         "subject":  "Merge Sub-agent 3: police station furniture and dressing (905 pieces, every room, 6 barricade props)",
+                         "sha":  "bd71fd2",
+                         "date":  "2026-09-27T18:06:03-07:00",
+                         "subject":  "Merge Sub-agent 7: Level 1 quarantine fence ring, Gate 1, armored truck, Reyes\u0027 last stand",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -567,8 +567,8 @@
                          "sha":  "0fd2207",
                          "date":  "2026-09-27T18:05:18-07:00",
                          "subject":  "Level 1 map lane: quarantine fence ring with road closures, GATE 1 frame by the safe house, armored rescue truck outside it, Reyes\u0027 last stand at the gas station; POI_Keys/Gate/Vehicle spots",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a8d3fe226b9f67a2c",
@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  311,
-                          "active":  "2026-09-27T18:05:19.6254401-07:00"
+                          "active":  "2026-09-27T18:06:12.3045679-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -776,7 +776,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  286,
-                          "active":  "2026-09-27T18:05:19.5759361-07:00"
+                          "active":  "2026-09-27T18:06:12.7791068-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1213,6 +1213,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "bd71fd2",
+                        "date":  "2026-09-27T18:06:03-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 7: Level 1 quarantine fence ring, Gate 1, armored truck, Reyes\u0027 last stand"
+                    },
+                    {
                         "sha":  "0fd2207",
                         "date":  "2026-09-27T18:05:18-07:00",
                         "refs":  "worktree-agent-a81b51e9d464c878c",
@@ -1221,7 +1227,7 @@
                     {
                         "sha":  "770364d",
                         "date":  "2026-09-27T18:03:58-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 3: police station furniture and dressing (905 pieces, every room, 6 barricade props)"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-27T13:28:21-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 5: bat breaks car windows, harder hits, hit reactions + natural knockback"
-                    },
-                    {
-                        "sha":  "9ab1ed1",
-                        "date":  "2026-09-27T13:28:09-07:00",
-                        "refs":  "",
-                        "subject":  "v0.94: campaign starts inside the Safe House; rebuilt Hub with the wall map board"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:05:19.5256536-07:00"
+    "generatedAt":  "2026-09-27T18:06:04.2972726-07:00"
 }
