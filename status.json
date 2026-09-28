@@ -696,13 +696,13 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T17:22:24.6069001-07:00"
+                          "active":  "2026-09-27T17:23:24.3538274-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
-                          "dirty":  1,
-                          "active":  "2026-09-27T17:21:48.4301980-07:00"
+                          "dirty":  2,
+                          "active":  "2026-09-27T17:23:17.8292692-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -767,8 +767,8 @@
                       {
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
-                          "dirty":  270,
-                          "active":  "2026-09-27T17:22:24.5068048-07:00"
+                          "dirty":  271,
+                          "active":  "2026-09-27T17:23:20.7039008-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1439,5 +1439,5 @@
                         "subject":  "Melee: re-export all five weapons with sign-continuous keys; fix reach-clamp message and the crowbar/machete/axe/sledge heavy-swing clamps"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:22:24.3952319-07:00"
+    "generatedAt":  "2026-09-27T17:23:24.4557417-07:00"
 }
