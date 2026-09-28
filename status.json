@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  134,
-                          "active":  "2026-09-28T14:59:23.7811961-07:00"
+                          "active":  "2026-09-28T15:00:23.8302459-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "G_SPAS: procedural SPAS-12 pattern shotgun from a Commons reference photo (IoU 0.977, folding stock, pump/trigger/shell/stock parts)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T14:59:23.9021861-07:00"
+    "generatedAt":  "2026-09-28T15:00:23.9486268-07:00"
 }
