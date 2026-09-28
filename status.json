@@ -822,7 +822,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:53:33.0875519-07:00"
+                          "active":  "2026-09-28T12:54:13.1756518-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -905,8 +905,8 @@
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
-                          "dirty":  44,
-                          "active":  "2026-09-28T12:53:52.6024597-07:00"
+                          "dirty":  45,
+                          "active":  "2026-09-28T12:54:40.4955294-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:53:50.4750563-07:00"
+                          "active":  "2026-09-28T12:54:20.7687007-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1607,5 +1607,5 @@
                         "subject":  "Merge Sub-agent 6: police-uniform and riot-gear infected (armour absorbs + breaks), station placement"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:53:33.3660506-07:00"
+    "generatedAt":  "2026-09-28T12:54:52.2260792-07:00"
 }
