@@ -636,11 +636,11 @@
                      },
                      {
                          "name":  "worktree-agent-ad1a4775f60f3a736",
-                         "sha":  "8b3160a",
-                         "date":  "2026-09-27T16:37:29-07:00",
-                         "subject":  "Police layout: POI display spots + keep-clear zones",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "05947d1",
+                         "date":  "2026-09-27T17:09:23-07:00",
+                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-ad1a4775f60f3a736",
+                         "ahead":  2,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-adbcc631b9a256947",
@@ -702,7 +702,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  1,
-                          "active":  "2026-09-27T17:07:33.8840389-07:00"
+                          "active":  "2026-09-27T17:09:19.0614726-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -767,8 +767,8 @@
                       {
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
-                          "dirty":  0,
-                          "active":  null
+                          "dirty":  215,
+                          "active":  "2026-09-27T17:09:25.4118913-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -792,7 +792,7 @@
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
                           "dirty":  119,
-                          "active":  "2026-09-27T17:08:23.4779793-07:00"
+                          "active":  "2026-09-27T17:09:23.4332295-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -863,8 +863,8 @@
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
-                          "dirty":  118,
-                          "active":  "2026-09-27T17:08:25.2913018-07:00"
+                          "dirty":  117,
+                          "active":  "2026-09-27T17:08:39.0049920-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -894,7 +894,7 @@
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
                           "dirty":  180,
-                          "active":  "2026-09-27T17:08:25.5013753-07:00"
+                          "active":  "2026-09-27T17:09:26.4073643-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1199,6 +1199,18 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "05947d1",
+                        "date":  "2026-09-27T17:09:23-07:00",
+                        "refs":  "worktree-agent-ad1a4775f60f3a736",
+                        "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-ad1a4775f60f3a736"
+                    },
+                    {
+                        "sha":  "0fdb33d",
+                        "date":  "2026-09-27T17:09:23-07:00",
+                        "refs":  "",
+                        "subject":  "Police structure: WIP shell, interiors, stairs, roof, site"
+                    },
+                    {
                         "sha":  "80c1d46",
                         "date":  "2026-09-27T17:07:45-07:00",
                         "refs":  "worktree-agent-a561616921da725b6",
@@ -1231,7 +1243,7 @@
                     {
                         "sha":  "8b3160a",
                         "date":  "2026-09-27T16:37:29-07:00",
-                        "refs":  "worktree-agent-aff4cd4695d4ce12e, worktree-agent-ad1a4775f60f3a736, worktree-agent-a7570fc3f1ade6260",
+                        "refs":  "worktree-agent-aff4cd4695d4ce12e, worktree-agent-a7570fc3f1ade6260",
                         "subject":  "Police layout: POI display spots + keep-clear zones"
                     },
                     {
@@ -1425,19 +1437,7 @@
                         "date":  "2026-09-27T11:01:08-07:00",
                         "refs":  "",
                         "subject":  "v0.88: generated Env/Hub assets as re-saved by the district rebuild"
-                    },
-                    {
-                        "sha":  "a1867a2",
-                        "date":  "2026-09-27T11:00:53-07:00",
-                        "refs":  "",
-                        "subject":  "Pistol sight pictures: rebuild the M9 and 1911 notch sights (check_ads PASS)"
-                    },
-                    {
-                        "sha":  "df4cc12",
-                        "date":  "2026-09-27T10:59:02-07:00",
-                        "refs":  "",
-                        "subject":  "v0.88: district rebuilt with sealed hollow-shell doors (Sub-agent 8) and sectioned cars (Sub-agent 9); integrates lanes 2, 4, 6, 7, 9"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:08:24.4733451-07:00"
+    "generatedAt":  "2026-09-27T17:09:24.4104186-07:00"
 }
