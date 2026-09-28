@@ -950,7 +950,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  35,
-                          "active":  "2026-09-28T12:25:33.0546449-07:00"
+                          "active":  "2026-09-28T12:26:16.7439696-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1579,5 +1579,5 @@
                         "subject":  "Merge Sub-agent 4: police station lighting (emergency-mode interior, exterior, roof, interior exposure)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:26:11.2662054-07:00"
+    "generatedAt":  "2026-09-28T12:26:24.4737999-07:00"
 }
