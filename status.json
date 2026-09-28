@@ -825,8 +825,8 @@
                       {
                           "folder":  "agent-a5fc0087efe0ce48c",
                           "branch":  "worktree-agent-a5fc0087efe0ce48c",
-                          "dirty":  6,
-                          "active":  "2026-09-28T13:26:24.2720415-07:00"
+                          "dirty":  11,
+                          "active":  "2026-09-28T13:27:34.8766464-07:00"
                       },
                       {
                           "folder":  "agent-a6f530223364c0a43",
@@ -843,8 +843,8 @@
                       {
                           "folder":  "agent-a780d08c2d42bb930",
                           "branch":  "worktree-agent-a780d08c2d42bb930",
-                          "dirty":  13,
-                          "active":  "2026-09-28T13:26:16.9241500-07:00"
+                          "dirty":  14,
+                          "active":  "2026-09-28T13:27:10.6188350-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -904,7 +904,7 @@
                           "folder":  "agent-abcaff63a3149d50a",
                           "branch":  "worktree-agent-abcaff63a3149d50a",
                           "dirty":  11,
-                          "active":  "2026-09-28T13:26:24.4365421-07:00"
+                          "active":  "2026-09-28T13:26:31.3321889-07:00"
                       },
                       {
                           "folder":  "agent-ac1eb0697f855df5c",
@@ -928,7 +928,7 @@
                           "folder":  "agent-acfc9bcb1120bcaa7",
                           "branch":  "worktree-agent-acfc9bcb1120bcaa7",
                           "dirty":  6,
-                          "active":  "2026-09-28T13:25:26.4226347-07:00"
+                          "active":  "2026-09-28T13:27:13.5019896-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1509,5 +1509,5 @@
                         "subject":  "v0.98 level POIs: data-driven HUD/compass/markers from level_pois.json, level 1 keys/gate/truck + Reyes intro radio, police armour+SMG-5 -\u003e front-door exit, police nav fix (frame liners off nav + TMNavConfig 32/8), walking mission tests"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:26:23.8037370-07:00"
+    "generatedAt":  "2026-09-28T13:27:33.9652994-07:00"
 }
