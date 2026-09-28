@@ -791,8 +791,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  279,
-                          "active":  "2026-09-28T12:55:35.4946261-07:00"
+                          "dirty":  314,
+                          "active":  "2026-09-28T12:56:11.8864638-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -822,7 +822,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:54:13.1756518-07:00"
+                          "active":  "2026-09-28T12:56:24.7100318-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -900,7 +900,7 @@
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
                           "dirty":  4,
-                          "active":  "2026-09-28T12:53:34.3489453-07:00"
+                          "active":  "2026-09-28T12:56:14.1104895-07:00"
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
@@ -936,7 +936,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:53:24.9414436-07:00"
+                          "active":  "2026-09-28T12:56:26.9045328-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -965,8 +965,8 @@
                       {
                           "folder":  "agent-aa08ee8e693b5a274",
                           "branch":  "worktree-agent-aa08ee8e693b5a274",
-                          "dirty":  3,
-                          "active":  "2026-09-28T12:55:36.1551114-07:00"
+                          "dirty":  4,
+                          "active":  "2026-09-28T12:56:25.9821416-07:00"
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:54:20.7687007-07:00"
+                          "active":  "2026-09-28T12:56:09.6092079-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1007,8 +1007,8 @@
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
-                          "dirty":  38,
-                          "active":  "2026-09-28T12:53:45.7990709-07:00"
+                          "dirty":  40,
+                          "active":  "2026-09-28T12:56:10.5360366-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1020,7 +1020,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:55:36.5306351-07:00"
+                          "active":  "2026-09-28T12:55:47.2687286-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1607,5 +1607,5 @@
                         "subject":  "CLAUDE.md: structure lane hooks"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:55:29.3820700-07:00"
+    "generatedAt":  "2026-09-28T12:56:25.8804344-07:00"
 }
