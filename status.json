@@ -1,5 +1,5 @@
 {
-    "master":  "00330d6",
+    "master":  "e29fcd5",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "00330d6",
-                         "date":  "2026-09-27T17:19:36-07:00",
-                         "subject":  "Police Station integration build: map rebuilt with structure, openings, lighting and police-infected lanes; editor re-saves of Env/Police materials",
+                         "sha":  "e29fcd5",
+                         "date":  "2026-09-27T17:24:22-07:00",
+                         "subject":  "Merge Sub-agent 5: police route - ordered objectives, body armour + MP5 display pickups, caches, walking mission test",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -511,8 +511,8 @@
                          "sha":  "29a230b",
                          "date":  "2026-09-27T17:23:27-07:00",
                          "subject":  "Police route/POI lane: BodyArmour rename, buzzer on the openings call box, remote-locked SecurityDoor, hidden roof disc, walking route test with nav probes, CLAUDE.md",
-                         "ahead":  4,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a59b7989711694684",
@@ -695,14 +695,14 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1,
-                          "active":  "2026-09-27T17:23:27.4512517-07:00"
+                          "dirty":  4,
+                          "active":  "2026-09-27T17:24:28.0259678-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
-                          "dirty":  2,
-                          "active":  "2026-09-27T17:23:17.8292692-07:00"
+                          "dirty":  250,
+                          "active":  "2026-09-27T17:24:28.6405627-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1199,6 +1199,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "e29fcd5",
+                        "date":  "2026-09-27T17:24:22-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 5: police route - ordered objectives, body armour + MP5 display pickups, caches, walking mission test"
+                    },
+                    {
                         "sha":  "29a230b",
                         "date":  "2026-09-27T17:23:27-07:00",
                         "refs":  "worktree-agent-a561616921da725b6",
@@ -1213,7 +1219,7 @@
                     {
                         "sha":  "00330d6",
                         "date":  "2026-09-27T17:19:36-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Police Station integration build: map rebuilt with structure, openings, lighting and police-infected lanes; editor re-saves of Env/Police materials"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T13:06:05-07:00",
                         "refs":  "worktree-agent-a1e4d716b9b161880",
                         "subject":  "Mission start at the safe house: fortified corner building, tagged starts, quiet zone"
-                    },
-                    {
-                        "sha":  "b4933c7",
-                        "date":  "2026-09-27T12:46:56-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 2: all melee swings re-exported with the quaternion-sign fix; reach clamps removed"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:23:28.5147046-07:00"
+    "generatedAt":  "2026-09-27T17:24:23.4366099-07:00"
 }
