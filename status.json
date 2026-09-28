@@ -822,7 +822,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:57:34.4519980-07:00"
+                          "active":  "2026-09-28T12:58:24.0000000-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -900,7 +900,7 @@
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
                           "dirty":  4,
-                          "active":  "2026-09-28T12:57:16.2416957-07:00"
+                          "active":  "2026-09-28T12:58:21.8132706-07:00"
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
@@ -966,7 +966,7 @@
                           "folder":  "agent-aa08ee8e693b5a274",
                           "branch":  "worktree-agent-aa08ee8e693b5a274",
                           "dirty":  4,
-                          "active":  "2026-09-28T12:57:35.0592201-07:00"
+                          "active":  "2026-09-28T12:57:40.7040753-07:00"
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:57:36.3333673-07:00"
+                          "active":  "2026-09-28T12:58:12.1899462-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1007,8 +1007,8 @@
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
-                          "dirty":  41,
-                          "active":  "2026-09-28T12:57:35.6639784-07:00"
+                          "dirty":  42,
+                          "active":  "2026-09-28T12:58:24.9281578-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1019,8 +1019,8 @@
                       {
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
-                          "dirty":  42,
-                          "active":  "2026-09-28T12:57:36.9750102-07:00"
+                          "dirty":  43,
+                          "active":  "2026-09-28T12:58:08.5916296-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1607,5 +1607,5 @@
                         "subject":  "Merge Sub-agent 1 follow-up: lot poles kept clear, sally port resized, flagpole hook"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:57:33.7396821-07:00"
+    "generatedAt":  "2026-09-28T12:58:24.1432701-07:00"
 }
