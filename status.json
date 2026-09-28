@@ -776,7 +776,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  286,
-                          "active":  "2026-09-27T18:03:10.9952672-07:00"
+                          "active":  "2026-09-27T18:03:15.2445658-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -818,7 +818,7 @@
                           "folder":  "agent-a81b51e9d464c878c",
                           "branch":  "worktree-agent-a81b51e9d464c878c",
                           "dirty":  138,
-                          "active":  "2026-09-27T18:03:12.0514061-07:00"
+                          "active":  "2026-09-27T18:03:24.0762720-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -1453,5 +1453,5 @@
                         "subject":  "Merge Sub-agent 3: campaign starts inside the Safe House; wall board is a map that opens the level select"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:03:11.1496733-07:00"
+    "generatedAt":  "2026-09-27T18:03:24.1898833-07:00"
 }
