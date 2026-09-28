@@ -805,8 +805,8 @@
                       {
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
-                          "dirty":  0,
-                          "active":  null
+                          "dirty":  2,
+                          "active":  "2026-09-28T11:44:51.3123055-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -1009,8 +1009,8 @@
                       {
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
-                          "dirty":  0,
-                          "active":  null
+                          "dirty":  1,
+                          "active":  "2026-09-28T11:45:19.2738361-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1579,5 +1579,5 @@
                         "subject":  "CLAUDE.md: police structure material count"
                     }
                 ],
-    "generatedAt":  "2026-09-28T11:44:24.4183955-07:00"
+    "generatedAt":  "2026-09-28T11:45:24.3219112-07:00"
 }
