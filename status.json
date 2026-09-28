@@ -1,5 +1,5 @@
 {
-    "master":  "0c65202",
+    "master":  "94de03f",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "0c65202",
-                         "date":  "2026-09-27T17:15:57-07:00",
-                         "subject":  "Merge Sub-agent 6: police-uniform and riot-gear infected (armour absorbs + breaks), station placement",
+                         "sha":  "94de03f",
+                         "date":  "2026-09-27T17:18:33-07:00",
+                         "subject":  "Merge Sub-agent 1 follow-up: lot poles kept clear, sally port resized, flagpole hook",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -639,8 +639,8 @@
                          "sha":  "7eab1d5",
                          "date":  "2026-09-27T17:17:34-07:00",
                          "subject":  "CLAUDE.md: structure lane hooks",
-                         "ahead":  3,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-adbcc631b9a256947",
@@ -695,14 +695,14 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  248,
-                          "active":  "2026-09-27T17:18:25.6687909-07:00"
+                          "dirty":  70,
+                          "active":  "2026-09-27T17:18:37.8487386-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  225,
-                          "active":  "2026-09-27T17:18:25.3946568-07:00"
+                          "active":  "2026-09-27T17:18:36.7921888-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1199,6 +1199,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "94de03f",
+                        "date":  "2026-09-27T17:18:33-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 1 follow-up: lot poles kept clear, sally port resized, flagpole hook"
+                    },
+                    {
                         "sha":  "7eab1d5",
                         "date":  "2026-09-27T17:17:34-07:00",
                         "refs":  "worktree-agent-ad1a4775f60f3a736",
@@ -1219,7 +1225,7 @@
                     {
                         "sha":  "0c65202",
                         "date":  "2026-09-27T17:15:57-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 6: police-uniform and riot-gear infected (armour absorbs + breaks), station placement"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T12:19:00-07:00",
                         "refs":  "",
                         "subject":  "v0.92: downed state with one-handed pistol + co-op weapon replication fixes (Sub-agent 1)"
-                    },
-                    {
-                        "sha":  "78f4c22",
-                        "date":  "2026-09-27T12:18:09-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 1: downed state - fall to the ground, one-handed pistol; co-op clients get their weapons (WeaponId replicated), teammates no longer float"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:18:25.7288743-07:00"
+    "generatedAt":  "2026-09-27T17:18:34.1690244-07:00"
 }
