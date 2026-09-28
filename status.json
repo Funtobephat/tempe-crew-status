@@ -775,8 +775,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  269,
-                          "active":  "2026-09-28T12:35:23.5589716-07:00"
+                          "dirty":  312,
+                          "active":  "2026-09-28T12:35:49.5172573-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -805,8 +805,8 @@
                       {
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
-                          "dirty":  20,
-                          "active":  "2026-09-28T12:34:57.3823301-07:00"
+                          "dirty":  34,
+                          "active":  "2026-09-28T12:36:36.8923724-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -883,8 +883,8 @@
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
-                          "dirty":  39,
-                          "active":  "2026-09-28T12:34:24.5784415-07:00"
+                          "dirty":  128,
+                          "active":  "2026-09-28T12:36:39.6314168-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -913,8 +913,8 @@
                       {
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
-                          "dirty":  30,
-                          "active":  "2026-09-28T12:34:48.2323149-07:00"
+                          "dirty":  34,
+                          "active":  "2026-09-28T12:36:39.0549133-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -950,7 +950,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:34:14.3285660-07:00"
+                          "active":  "2026-09-28T12:36:41.0075368-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -974,7 +974,7 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:34:53.5497581-07:00"
+                          "active":  "2026-09-28T12:36:40.6183099-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
@@ -992,7 +992,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:34:12.6592780-07:00"
+                          "active":  "2026-09-28T12:36:40.0175788-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1010,7 +1010,7 @@
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
                           "dirty":  124,
-                          "active":  "2026-09-28T12:34:23.3728939-07:00"
+                          "active":  "2026-09-28T12:36:41.2645717-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1579,5 +1579,5 @@
                         "subject":  "Police furniture lane WIP (pre-merge)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:35:23.7591101-07:00"
+    "generatedAt":  "2026-09-28T12:36:39.1565481-07:00"
 }
