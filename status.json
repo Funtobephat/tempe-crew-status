@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  85,
-                          "active":  "2026-09-28T15:53:24.4326971-07:00"
+                          "dirty":  86,
+                          "active":  "2026-09-28T15:54:17.7454962-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "G_AA12 (Auto-12): procedural model from the Commons photo, ring sights, part rig, hold + reload"
                     }
                 ],
-    "generatedAt":  "2026-09-28T15:53:24.3030757-07:00"
+    "generatedAt":  "2026-09-28T15:54:24.3112685-07:00"
 }
