@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  311,
-                          "active":  "2026-09-27T18:08:02.7236972-07:00"
+                          "active":  "2026-09-27T18:08:06.5762948-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "v0.96: rebuilt Proto_Tempe with the mounted Safe House floodlights"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:08:03.5701728-07:00"
+    "generatedAt":  "2026-09-27T18:08:06.6672546-07:00"
 }
