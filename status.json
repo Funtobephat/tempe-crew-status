@@ -1,5 +1,5 @@
 {
-    "master":  "64eb4a7",
+    "master":  "f65d9bf",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "64eb4a7",
-                         "date":  "2026-09-28T15:17:11-07:00",
-                         "subject":  "v0.9891: no M4 at the start of a campaign (G17 only); Level 1 complete -\u003e straight to the Police Station carrying your guns; summary says \u0027Heading to the Police Station...\u0027",
+                         "sha":  "f65d9bf",
+                         "date":  "2026-09-28T15:25:10-07:00",
+                         "subject":  "v0.9892: ElevenLabs test-run gunshots for the G17 and 870 (close x3 + far x2 each), loudness-matched; recorded originals kept for A/B / --restore",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  26,
-                          "active":  "2026-09-28T15:24:24.4759937-07:00"
+                          "dirty":  1,
+                          "active":  "2026-09-28T15:24:48.6387375-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "f65d9bf",
+                        "date":  "2026-09-28T15:25:10-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.9892: ElevenLabs test-run gunshots for the G17 and 870 (close x3 + far x2 each), loudness-matched; recorded originals kept for A/B / --restore"
+                    },
+                    {
                         "sha":  "64eb4a7",
                         "date":  "2026-09-28T15:17:11-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.9891: no M4 at the start of a campaign (G17 only); Level 1 complete -\u003e straight to the Police Station carrying your guns; summary says \u0027Heading to the Police Station...\u0027"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-28T12:39:26-07:00",
                         "refs":  "",
                         "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise"
-                    },
-                    {
-                        "sha":  "21a4598",
-                        "date":  "2026-09-28T12:37:13-07:00",
-                        "refs":  "",
-                        "subject":  "Merge SA1: P_FN57 (PS57 5.7mm) procedural model - IoU 0.985, notch sights PASS, slide/trigger/mag rig PASS, hold + one-handed downed clips"
                     }
                 ],
-    "generatedAt":  "2026-09-28T15:24:24.3172991-07:00"
+    "generatedAt":  "2026-09-28T15:25:11.5531807-07:00"
 }
