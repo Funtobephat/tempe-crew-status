@@ -555,6 +555,14 @@
                          "merged":  true
                      },
                      {
+                         "name":  "worktree-agent-a726a968c0bd78573",
+                         "sha":  "2e8061d",
+                         "date":  "2026-09-28T12:39:26-07:00",
+                         "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
                          "name":  "worktree-agent-a7448c06ac6e0c953",
                          "sha":  "043df07",
                          "date":  "2026-09-27T19:58:38-07:00",
@@ -806,7 +814,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:39:41.8153364-07:00"
+                          "active":  "2026-09-28T12:40:11.3951129-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -881,6 +889,12 @@
                           "active":  null
                       },
                       {
+                          "folder":  "agent-a726a968c0bd78573",
+                          "branch":  "worktree-agent-a726a968c0bd78573",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
                           "dirty":  44,
@@ -914,7 +928,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:38:28.3855642-07:00"
+                          "active":  "2026-09-28T12:40:34.6296725-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -950,7 +964,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:39:27.1997310-07:00"
+                          "active":  "2026-09-28T12:40:34.1020755-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -980,7 +994,7 @@
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:39:44.0935217-07:00"
+                          "active":  "2026-09-28T12:40:37.4639354-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1010,7 +1024,7 @@
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
                           "dirty":  125,
-                          "active":  "2026-09-28T12:39:36.0595546-07:00"
+                          "active":  "2026-09-28T12:40:40.9927563-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1341,7 +1355,7 @@
                     {
                         "sha":  "2e8061d",
                         "date":  "2026-09-28T12:39:26-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-a726a968c0bd78573",
                         "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise"
                     },
                     {
@@ -1579,5 +1593,5 @@
                         "subject":  "Merge Sub-agent 1: police station structure (shell, facade, finishes, ceilings, real stairs, roof helipad, site)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:39:34.4330442-07:00"
+    "generatedAt":  "2026-09-28T12:40:36.2878922-07:00"
 }
