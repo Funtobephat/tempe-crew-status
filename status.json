@@ -1,5 +1,5 @@
 {
-    "master":  "2e8061d",
+    "master":  "228fb7f",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "2e8061d",
-                         "date":  "2026-09-28T12:39:26-07:00",
-                         "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise",
+                         "sha":  "228fb7f",
+                         "date":  "2026-09-28T12:44:49-07:00",
+                         "subject":  "Merge SA3: S_MPX (SMG-9X) procedural model - IoU 0.978, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeGun QA switch",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -735,8 +735,8 @@
                          "sha":  "d22febc",
                          "date":  "2026-09-28T12:41:57-07:00",
                          "subject":  "S_MPX (SMG-9X): procedural high-detail model, sights, rig parts incl. Stock, hold + reload clips, C++ rows",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-aebb56d563c8fd45f",
@@ -783,8 +783,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  311,
-                          "active":  "2026-09-28T12:42:50.3415317-07:00"
+                          "dirty":  269,
+                          "active":  "2026-09-28T12:45:23.2165514-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -814,7 +814,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:44:23.8770018-07:00"
+                          "active":  "2026-09-28T12:45:23.1404104-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -891,14 +891,14 @@
                       {
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
-                          "dirty":  0,
-                          "active":  null
+                          "dirty":  1,
+                          "active":  "2026-09-28T12:45:01.4037089-07:00"
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
                           "dirty":  44,
-                          "active":  "2026-09-28T12:44:21.0135509-07:00"
+                          "active":  "2026-09-28T12:45:15.6844530-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -928,7 +928,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:44:15.5665294-07:00"
+                          "active":  "2026-09-28T12:44:42.5048570-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -955,6 +955,12 @@
                           "active":  null
                       },
                       {
+                          "folder":  "agent-aa08ee8e693b5a274",
+                          "branch":  "worktree-agent-aa08ee8e693b5a274",
+                          "dirty":  4444,
+                          "active":  "2026-09-28T12:45:19.2596743-07:00"
+                      },
+                      {
                           "folder":  "agent-aab0ef3128d9d2764",
                           "branch":  "worktree-agent-aab0ef3128d9d2764",
                           "dirty":  0,
@@ -964,7 +970,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:43:25.2215290-07:00"
+                          "active":  "2026-09-28T12:45:18.1057942-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -987,14 +993,14 @@
                       {
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
-                          "dirty":  42,
-                          "active":  "2026-09-28T12:43:59.9097914-07:00"
+                          "dirty":  43,
+                          "active":  "2026-09-28T12:44:47.4285900-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:43:23.5299574-07:00"
+                          "active":  "2026-09-28T12:45:18.1603215-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1006,7 +1012,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:44:17.7356073-07:00"
+                          "active":  "2026-09-28T12:45:22.7877014-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1353,6 +1359,18 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "267a0d5",
+                        "date":  "2026-09-28T12:45:24-07:00",
+                        "refs":  "worktree-agent-ac8a5743650d4c16f",
+                        "subject":  "G_AA12 (Auto-12): procedural model from the Commons photo, ring sights, part rig, hold + reload"
+                    },
+                    {
+                        "sha":  "228fb7f",
+                        "date":  "2026-09-28T12:44:49-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-aa08ee8e693b5a274",
+                        "subject":  "Merge SA3: S_MPX (SMG-9X) procedural model - IoU 0.978, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeGun QA switch"
+                    },
+                    {
                         "sha":  "d22febc",
                         "date":  "2026-09-28T12:41:57-07:00",
                         "refs":  "worktree-agent-ae43e0523d7cd0e16",
@@ -1361,7 +1379,7 @@
                     {
                         "sha":  "2e8061d",
                         "date":  "2026-09-28T12:39:26-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-a726a968c0bd78573",
+                        "refs":  "worktree-agent-a726a968c0bd78573",
                         "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise"
                     },
                     {
@@ -1391,7 +1409,7 @@
                     {
                         "sha":  "043df07",
                         "date":  "2026-09-27T19:58:38-07:00",
-                        "refs":  "worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-ac8a5743650d4c16f, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d, worktree-agent-a7448c06ac6e0c953",
+                        "refs":  "worktree-agent-acdbf19db5d85b64e, worktree-agent-aca24d1e97bd5f47e, worktree-agent-aaf055af3b87db083, worktree-agent-a872374ca5f5a7a5d, worktree-agent-a7448c06ac6e0c953",
                         "subject":  "v0.984: no extraction alarm; armored truck door = safe at once (no zone timer); 30 s nightfall warning; infected respawn only at night"
                     },
                     {
@@ -1579,19 +1597,7 @@
                         "date":  "2026-09-27T17:15:57-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 6: police-uniform and riot-gear infected (armour absorbs + breaks), station placement"
-                    },
-                    {
-                        "sha":  "d3e469c",
-                        "date":  "2026-09-27T17:15:48-07:00",
-                        "refs":  "",
-                        "subject":  "Police layout: drop exterior windows that overlap exterior doors or straddle partitions (94 -\u003e 78); document the as-built stair landings; flagpole handed to lighting"
-                    },
-                    {
-                        "sha":  "c5b8772",
-                        "date":  "2026-09-27T17:15:20-07:00",
-                        "refs":  "",
-                        "subject":  "Merge guns-procedural (lighting lane) into structure lane"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:44:24.0679202-07:00"
+    "generatedAt":  "2026-09-28T12:44:51.0066413-07:00"
 }
