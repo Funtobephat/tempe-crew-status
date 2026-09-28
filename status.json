@@ -508,9 +508,9 @@
                      },
                      {
                          "name":  "worktree-agent-a561616921da725b6",
-                         "sha":  "29a230b",
-                         "date":  "2026-09-27T17:23:27-07:00",
-                         "subject":  "Police route/POI lane: BodyArmour rename, buzzer on the openings call box, remote-locked SecurityDoor, hidden roof disc, walking route test with nav probes, CLAUDE.md",
+                         "sha":  "f688b79",
+                         "date":  "2026-09-27T17:25:04-07:00",
+                         "subject":  "Level 1 POI chain scaffold: level1_map / level1_gameplay hooks in build_district.build()",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -559,6 +559,14 @@
                          "sha":  "95cdbe4",
                          "date":  "2026-09-26T16:53:40-07:00",
                          "subject":  "G_M1014: procedural Benelli M4 model from reference photo",
+                         "ahead":  0,
+                         "merged":  true
+                     },
+                     {
+                         "name":  "worktree-agent-a81b51e9d464c878c",
+                         "sha":  "f688b79",
+                         "date":  "2026-09-27T17:25:04-07:00",
+                         "subject":  "Level 1 POI chain scaffold: level1_map / level1_gameplay hooks in build_district.build()",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -702,7 +710,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  250,
-                          "active":  "2026-09-27T17:25:22.6675012-07:00"
+                          "active":  "2026-09-27T17:26:09.1306769-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -803,6 +811,12 @@
                       {
                           "folder":  "agent-a7f3968d337988089",
                           "branch":  "worktree-agent-a7f3968d337988089",
+                          "dirty":  0,
+                          "active":  null
+                      },
+                      {
+                          "folder":  "agent-a81b51e9d464c878c",
+                          "branch":  "worktree-agent-a81b51e9d464c878c",
                           "dirty":  0,
                           "active":  null
                       },
@@ -1201,7 +1215,7 @@
                     {
                         "sha":  "f688b79",
                         "date":  "2026-09-27T17:25:04-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-a81b51e9d464c878c, worktree-agent-a561616921da725b6",
                         "subject":  "Level 1 POI chain scaffold: level1_map / level1_gameplay hooks in build_district.build()"
                     },
                     {
@@ -1219,7 +1233,7 @@
                     {
                         "sha":  "29a230b",
                         "date":  "2026-09-27T17:23:27-07:00",
-                        "refs":  "worktree-agent-a561616921da725b6",
+                        "refs":  "",
                         "subject":  "Police route/POI lane: BodyArmour rename, buzzer on the openings call box, remote-locked SecurityDoor, hidden roof disc, walking route test with nav probes, CLAUDE.md"
                     },
                     {
@@ -1439,5 +1453,5 @@
                         "subject":  "Campaign starts in the Safe House; mission board is a framed campaign map that opens the level selection"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:25:23.4681165-07:00"
+    "generatedAt":  "2026-09-27T17:26:09.6776944-07:00"
 }
