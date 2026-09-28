@@ -702,7 +702,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  250,
-                          "active":  "2026-09-27T17:24:28.6405627-07:00"
+                          "active":  "2026-09-27T17:24:30.1848780-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1439,5 +1439,5 @@
                         "subject":  "Mission start at the safe house: fortified corner building, tagged starts, quiet zone"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:24:23.4366099-07:00"
+    "generatedAt":  "2026-09-27T17:24:30.6571206-07:00"
 }
