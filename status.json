@@ -775,8 +775,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  282,
-                          "active":  "2026-09-28T12:28:23.1926868-07:00"
+                          "dirty":  283,
+                          "active":  "2026-09-28T12:29:30.4165080-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -805,8 +805,8 @@
                       {
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
-                          "dirty":  16,
-                          "active":  "2026-09-28T12:28:20.3541115-07:00"
+                          "dirty":  17,
+                          "active":  "2026-09-28T12:29:30.6158350-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -842,7 +842,7 @@
                           "folder":  "agent-a3d9dcc4fe34204db",
                           "branch":  "worktree-agent-a3d9dcc4fe34204db",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:28:24.0448061-07:00"
+                          "active":  "2026-09-28T12:29:30.7063126-07:00"
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -914,7 +914,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  30,
-                          "active":  "2026-09-28T12:28:00.4636814-07:00"
+                          "active":  "2026-09-28T12:29:12.9694978-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -949,8 +949,8 @@
                       {
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
-                          "dirty":  35,
-                          "active":  "2026-09-28T12:28:10.6584422-07:00"
+                          "dirty":  37,
+                          "active":  "2026-09-28T12:28:59.8659092-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -974,13 +974,13 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:28:16.3101518-07:00"
+                          "active":  "2026-09-28T12:29:31.1562907-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
-                          "dirty":  28,
-                          "active":  "2026-09-28T12:28:24.0718392-07:00"
+                          "dirty":  31,
+                          "active":  "2026-09-28T12:29:08.6824250-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -991,8 +991,8 @@
                       {
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
-                          "dirty":  37,
-                          "active":  "2026-09-28T12:27:36.4725309-07:00"
+                          "dirty":  41,
+                          "active":  "2026-09-28T12:29:31.3574883-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1010,7 +1010,7 @@
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
                           "dirty":  35,
-                          "active":  "2026-09-28T12:28:00.9634856-07:00"
+                          "active":  "2026-09-28T12:28:42.1411831-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1579,5 +1579,5 @@
                         "subject":  "Merge Sub-agent 4: police station lighting (emergency-mode interior, exterior, roof, interior exposure)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:28:23.5489626-07:00"
+    "generatedAt":  "2026-09-28T12:29:27.9319712-07:00"
 }
