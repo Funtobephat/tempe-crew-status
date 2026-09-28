@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1,
-                          "active":  "2026-09-28T16:06:40.9930299-07:00"
+                          "dirty":  5,
+                          "active":  "2026-09-28T16:09:55.8556433-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "Merge SA7: G_AA12 (Auto-12) procedural model - IoU 0.973, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeId QA switch"
                     }
                 ],
-    "generatedAt":  "2026-09-28T16:09:24.3959912-07:00"
+    "generatedAt":  "2026-09-28T16:10:24.4239930-07:00"
 }
