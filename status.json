@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  18,
-                          "active":  "2026-09-28T15:36:23.5193902-07:00"
+                          "dirty":  31,
+                          "active":  "2026-09-28T15:37:24.0000000-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise"
                     }
                 ],
-    "generatedAt":  "2026-09-28T15:36:24.2151691-07:00"
+    "generatedAt":  "2026-09-28T15:37:24.2129689-07:00"
 }
