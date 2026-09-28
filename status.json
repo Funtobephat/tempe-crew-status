@@ -1,5 +1,5 @@
 {
-    "master":  "4497f3a",
+    "master":  "fb00ae2",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "4497f3a",
-                         "date":  "2026-09-28T12:55:20-07:00",
-                         "subject":  "Merge SA7: G_AA12 (Auto-12) procedural model - IoU 0.973, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeId QA switch",
+                         "sha":  "fb00ae2",
+                         "date":  "2026-09-28T12:55:28-07:00",
+                         "subject":  "CLAUDE.md: crew size cap - at most 5 sub-agents plus the Lead",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -791,8 +791,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  269,
-                          "active":  "2026-09-28T12:45:45.8543322-07:00"
+                          "dirty":  279,
+                          "active":  "2026-09-28T12:55:35.4946261-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -966,7 +966,7 @@
                           "folder":  "agent-aa08ee8e693b5a274",
                           "branch":  "worktree-agent-aa08ee8e693b5a274",
                           "dirty":  3,
-                          "active":  "2026-09-28T12:55:25.5730781-07:00"
+                          "active":  "2026-09-28T12:55:36.1551114-07:00"
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
@@ -1020,7 +1020,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:54:06.9216081-07:00"
+                          "active":  "2026-09-28T12:55:36.5306351-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1367,9 +1367,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "fb00ae2",
+                        "date":  "2026-09-28T12:55:28-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "CLAUDE.md: crew size cap - at most 5 sub-agents plus the Lead"
+                    },
+                    {
                         "sha":  "4497f3a",
                         "date":  "2026-09-28T12:55:20-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge SA7: G_AA12 (Auto-12) procedural model - IoU 0.973, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeId QA switch"
                     },
                     {
@@ -1599,13 +1605,7 @@
                         "date":  "2026-09-27T17:17:34-07:00",
                         "refs":  "worktree-agent-ad1a4775f60f3a736",
                         "subject":  "CLAUDE.md: structure lane hooks"
-                    },
-                    {
-                        "sha":  "0d14a2b",
-                        "date":  "2026-09-27T17:17:27-07:00",
-                        "refs":  "",
-                        "subject":  "Police structure: lot islands around the lighting lane\u0027s pole spots, sally port clear of the rear pole, publish ctx.flagpoles, drop own pole piers"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:55:20.9265685-07:00"
+    "generatedAt":  "2026-09-28T12:55:29.3820700-07:00"
 }
