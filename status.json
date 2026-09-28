@@ -760,7 +760,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  309,
-                          "active":  "2026-09-28T13:05:23.7273499-07:00"
+                          "active":  "2026-09-28T13:05:30.0546248-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1551,5 +1551,5 @@
                         "subject":  "Level POI system (level_pois.json), level 1 keys/gate/truck + intro radio, police POI rework, police nav fix (WIP)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:05:22.7255753-07:00"
+    "generatedAt":  "2026-09-28T13:05:30.8673654-07:00"
 }
