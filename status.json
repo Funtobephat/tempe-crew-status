@@ -508,11 +508,11 @@
                      },
                      {
                          "name":  "worktree-agent-a561616921da725b6",
-                         "sha":  "f688b79",
-                         "date":  "2026-09-27T17:25:04-07:00",
-                         "subject":  "Level 1 POI chain scaffold: level1_map / level1_gameplay hooks in build_district.build()",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "5816704",
+                         "date":  "2026-09-27T18:08:02-07:00",
+                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6",
+                         "ahead":  2,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a59b7989711694684",
@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  311,
-                          "active":  "2026-09-27T18:06:39.3537356-07:00"
+                          "active":  "2026-09-27T18:08:02.7236972-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -775,8 +775,8 @@
                       {
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
-                          "dirty":  286,
-                          "active":  "2026-09-27T18:06:23.6340513-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1213,6 +1213,18 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "5816704",
+                        "date":  "2026-09-27T18:08:02-07:00",
+                        "refs":  "worktree-agent-a561616921da725b6",
+                        "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6"
+                    },
+                    {
+                        "sha":  "2872e18",
+                        "date":  "2026-09-27T18:08:02-07:00",
+                        "refs":  "",
+                        "subject":  "Level POI system (level_pois.json), level 1 keys/gate/truck + intro radio, police POI rework, police nav fix (WIP)"
+                    },
+                    {
                         "sha":  "85813bc",
                         "date":  "2026-09-27T18:06:31-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1251,7 +1263,7 @@
                     {
                         "sha":  "f688b79",
                         "date":  "2026-09-27T17:25:04-07:00",
-                        "refs":  "worktree-agent-a561616921da725b6",
+                        "refs":  "",
                         "subject":  "Level 1 POI chain scaffold: level1_map / level1_gameplay hooks in build_district.build()"
                     },
                     {
@@ -1439,19 +1451,7 @@
                         "date":  "2026-09-27T13:42:51-07:00",
                         "refs":  "",
                         "subject":  "v0.96: rebuilt Proto_Tempe with the mounted Safe House floodlights"
-                    },
-                    {
-                        "sha":  "d81c839",
-                        "date":  "2026-09-27T13:40:20-07:00",
-                        "refs":  "",
-                        "subject":  "v0.96: mount the Safe House floodlights (wall brackets + lamp housings, corner mast)"
-                    },
-                    {
-                        "sha":  "3672755",
-                        "date":  "2026-09-27T13:32:52-07:00",
-                        "refs":  "",
-                        "subject":  "v0.95: bump version for the bat combat merge (car windows, harder hits, hit reactions, knockback)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:06:32.4336633-07:00"
+    "generatedAt":  "2026-09-27T18:08:03.5701728-07:00"
 }
