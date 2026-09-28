@@ -702,7 +702,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  1,
-                          "active":  "2026-09-27T17:09:19.0614726-07:00"
+                          "active":  "2026-09-27T17:09:25.7278038-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:09:25.4118913-07:00"
+                          "active":  "2026-09-27T17:09:29.9984875-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -792,7 +792,7 @@
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
                           "dirty":  119,
-                          "active":  "2026-09-27T17:09:23.4332295-07:00"
+                          "active":  "2026-09-27T17:09:26.3598521-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -863,7 +863,7 @@
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
-                          "dirty":  117,
+                          "dirty":  2,
                           "active":  "2026-09-27T17:08:39.0049920-07:00"
                       },
                       {
@@ -894,7 +894,7 @@
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
                           "dirty":  180,
-                          "active":  "2026-09-27T17:09:26.4073643-07:00"
+                          "active":  "2026-09-27T17:09:30.2116186-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1439,5 +1439,5 @@
                         "subject":  "v0.88: generated Env/Hub assets as re-saved by the district rebuild"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:09:24.4104186-07:00"
+    "generatedAt":  "2026-09-27T17:09:29.8731353-07:00"
 }
