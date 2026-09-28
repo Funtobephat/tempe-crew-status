@@ -1,5 +1,5 @@
 {
-    "master":  "e29fcd5",
+    "master":  "ebad2ad",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "e29fcd5",
-                         "date":  "2026-09-27T17:24:22-07:00",
-                         "subject":  "Merge Sub-agent 5: police route - ordered objectives, body armour + MP5 display pickups, caches, walking mission test",
+                         "sha":  "ebad2ad",
+                         "date":  "2026-09-27T17:24:38-07:00",
+                         "subject":  "Level POI lists: Content/Data/level_pois.json + Docs/LevelPOIs.md; Level 1 = keys on Reyes\u0027 body at the gas station -\u003e fence gate -\u003e armored truck; Level 2 = body armor + SMG-5 (any order) -\u003e leave through the front doors",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -695,14 +695,14 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  4,
-                          "active":  "2026-09-27T17:24:28.0259678-07:00"
+                          "dirty":  1,
+                          "active":  "2026-09-27T17:23:36.9623936-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  250,
-                          "active":  "2026-09-27T17:24:30.1848780-07:00"
+                          "active":  "2026-09-27T17:24:44.0420574-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1199,9 +1199,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "ebad2ad",
+                        "date":  "2026-09-27T17:24:38-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Level POI lists: Content/Data/level_pois.json + Docs/LevelPOIs.md; Level 1 = keys on Reyes\u0027 body at the gas station -\u003e fence gate -\u003e armored truck; Level 2 = body armor + SMG-5 (any order) -\u003e leave through the front doors"
+                    },
+                    {
                         "sha":  "e29fcd5",
                         "date":  "2026-09-27T17:24:22-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 5: police route - ordered objectives, body armour + MP5 display pickups, caches, walking mission test"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T13:08:32-07:00",
                         "refs":  "",
                         "subject":  "Merge Sub-agent 8: mission start at the safe house (corner building, tagged starts, quiet zone)"
-                    },
-                    {
-                        "sha":  "2766edf",
-                        "date":  "2026-09-27T13:06:05-07:00",
-                        "refs":  "worktree-agent-a1e4d716b9b161880",
-                        "subject":  "Mission start at the safe house: fortified corner building, tagged starts, quiet zone"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:24:30.6571206-07:00"
+    "generatedAt":  "2026-09-27T17:24:39.5786181-07:00"
 }
