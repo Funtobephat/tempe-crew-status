@@ -1,5 +1,5 @@
 {
-    "master":  "3c15a53",
+    "master":  "5810313",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "3c15a53",
-                         "date":  "2026-09-27T17:06:32-07:00",
-                         "subject":  "Merge Sub-agent 2: police station doors, windows, cells, security door, signage",
+                         "sha":  "5810313",
+                         "date":  "2026-09-27T17:06:45-07:00",
+                         "subject":  "Police: broken doors hide attached hardware; armory issue window moved onto the vestibule/armory wall",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -702,7 +702,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  1,
-                          "active":  "2026-09-27T17:06:14.1543088-07:00"
+                          "active":  "2026-09-27T17:06:45.6781382-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  132,
-                          "active":  "2026-09-27T17:06:41.3987393-07:00"
+                          "active":  "2026-09-27T17:06:55.1600886-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -792,7 +792,7 @@
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
                           "dirty":  119,
-                          "active":  "2026-09-27T17:06:43.0572312-07:00"
+                          "active":  "2026-09-27T17:06:55.2479134-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -864,7 +864,7 @@
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
                           "dirty":  118,
-                          "active":  "2026-09-27T17:06:44.3921897-07:00"
+                          "active":  "2026-09-27T17:06:54.7937742-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -894,7 +894,7 @@
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
                           "dirty":  180,
-                          "active":  "2026-09-27T17:06:45.2300010-07:00"
+                          "active":  "2026-09-27T17:06:54.9719400-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1439,5 +1439,5 @@
                         "subject":  "Merge Sub-agent 9: cars shot apart panel by panel"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:06:34.6849093-07:00"
+    "generatedAt":  "2026-09-27T17:06:49.4722172-07:00"
 }
