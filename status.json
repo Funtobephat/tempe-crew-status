@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  1,
-                          "active":  "2026-09-27T18:41:25.0057586-07:00"
+                          "active":  "2026-09-27T18:41:28.0570995-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "Merge Sub-agent 2: police station doors, windows, cells, security door, signage"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:41:22.5190903-07:00"
+    "generatedAt":  "2026-09-27T18:41:28.7482570-07:00"
 }
