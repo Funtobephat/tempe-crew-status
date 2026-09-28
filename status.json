@@ -508,10 +508,10 @@
                      },
                      {
                          "name":  "worktree-agent-a561616921da725b6",
-                         "sha":  "5816704",
-                         "date":  "2026-09-27T18:08:02-07:00",
-                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6",
-                         "ahead":  2,
+                         "sha":  "d5573ad",
+                         "date":  "2026-09-27T18:33:33-07:00",
+                         "subject":  "v0.98 level POIs: data-driven HUD/compass/markers from level_pois.json, level 1 keys/gate/truck + Reyes intro radio, police armour+SMG-5 -\u003e front-door exit, police nav fix (frame liners off nav + TMNavConfig 32/8), walking mission tests",
+                         "ahead":  3,
                          "merged":  false
                      },
                      {
@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  311,
-                          "active":  "2026-09-27T18:33:24.3985793-07:00"
+                          "active":  "2026-09-27T18:33:34.9863905-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -775,8 +775,8 @@
                       {
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
-                          "dirty":  7,
-                          "active":  "2026-09-27T18:33:14.3956793-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "d5573ad",
+                        "date":  "2026-09-27T18:33:33-07:00",
+                        "refs":  "worktree-agent-a561616921da725b6",
+                        "subject":  "v0.98 level POIs: data-driven HUD/compass/markers from level_pois.json, level 1 keys/gate/truck + Reyes intro radio, police armour+SMG-5 -\u003e front-door exit, police nav fix (frame liners off nav + TMNavConfig 32/8), walking mission tests"
+                    },
+                    {
                         "sha":  "5816704",
                         "date":  "2026-09-27T18:08:02-07:00",
-                        "refs":  "worktree-agent-a561616921da725b6",
+                        "refs":  "",
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-27T16:36:46-07:00",
                         "refs":  "",
                         "subject":  "v0.97: Level 2 Police Station scaffold - shared floor plan, build orchestrator, lane modules, baseline map, campaign wiring"
-                    },
-                    {
-                        "sha":  "d82a7b9",
-                        "date":  "2026-09-27T13:42:51-07:00",
-                        "refs":  "",
-                        "subject":  "v0.96: rebuilt Proto_Tempe with the mounted Safe House floodlights"
                     }
                 ],
-    "generatedAt":  "2026-09-27T18:33:24.1921575-07:00"
+    "generatedAt":  "2026-09-27T18:33:34.6092194-07:00"
 }
