@@ -1,5 +1,5 @@
 {
-    "master":  "d33bdbe",
+    "master":  "78d6084",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "d33bdbe",
-                         "date":  "2026-09-28T15:37:55-07:00",
-                         "subject":  "v0.9893: fix look/move locked after Customize Weapons (ignore-input counters); G17 remade without the buzzing ring (new takes + de-ring notches) and +4 dB louder",
+                         "sha":  "78d6084",
+                         "date":  "2026-09-28T15:42:47-07:00",
+                         "subject":  "v0.9894: G17 shot = one composite (recorded crack + ElevenLabs body) with 3 subtle variations, compressed/limited ~+5 dB louder",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  21,
-                          "active":  "2026-09-28T15:42:22.3405768-07:00"
+                          "dirty":  6,
+                          "active":  "2026-09-28T15:42:35.9998753-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "78d6084",
+                        "date":  "2026-09-28T15:42:47-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.9894: G17 shot = one composite (recorded crack + ElevenLabs body) with 3 subtle variations, compressed/limited ~+5 dB louder"
+                    },
+                    {
                         "sha":  "d33bdbe",
                         "date":  "2026-09-28T15:37:55-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.9893: fix look/move locked after Customize Weapons (ignore-input counters); G17 remade without the buzzing ring (new takes + de-ring notches) and +4 dB louder"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-28T12:44:49-07:00",
                         "refs":  "",
                         "subject":  "Merge SA3: S_MPX (SMG-9X) procedural model - IoU 0.978, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeGun QA switch"
-                    },
-                    {
-                        "sha":  "d22febc",
-                        "date":  "2026-09-28T12:41:57-07:00",
-                        "refs":  "",
-                        "subject":  "S_MPX (SMG-9X): procedural high-detail model, sights, rig parts incl. Stock, hold + reload clips, C++ rows"
                     }
                 ],
-    "generatedAt":  "2026-09-28T15:42:24.2562727-07:00"
+    "generatedAt":  "2026-09-28T15:42:48.3120560-07:00"
 }
