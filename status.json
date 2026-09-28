@@ -1,5 +1,5 @@
 {
-    "master":  "3d0a9a2",
+    "master":  "b23b53f",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "3d0a9a2",
-                         "date":  "2026-09-27T17:14:35-07:00",
-                         "subject":  "Merge Sub-agent 4: police station lighting (emergency-mode interior, exterior, roof, interior exposure)",
+                         "sha":  "b23b53f",
+                         "date":  "2026-09-27T17:15:14-07:00",
+                         "subject":  "Merge Sub-agent 1: police station structure (shell, facade, finishes, ceilings, real stairs, roof helipad, site)",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -639,7 +639,7 @@
                          "sha":  "9c7ada7",
                          "date":  "2026-09-27T17:14:23-07:00",
                          "subject":  "CLAUDE.md: police structure material count",
-                         "ahead":  4,
+                         "ahead":  1,
                          "merged":  false
                      },
                      {
@@ -701,8 +701,8 @@
                       {
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
-                          "dirty":  200,
-                          "active":  "2026-09-27T17:14:48.0712108-07:00"
+                          "dirty":  225,
+                          "active":  "2026-09-27T17:15:30.5686253-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:15:07.6236518-07:00"
+                          "active":  "2026-09-27T17:15:30.2921373-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -1199,6 +1199,18 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "c5b8772",
+                        "date":  "2026-09-27T17:15:20-07:00",
+                        "refs":  "worktree-agent-ad1a4775f60f3a736",
+                        "subject":  "Merge guns-procedural (lighting lane) into structure lane"
+                    },
+                    {
+                        "sha":  "b23b53f",
+                        "date":  "2026-09-27T17:15:14-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge Sub-agent 1: police station structure (shell, facade, finishes, ceilings, real stairs, roof helipad, site)"
+                    },
+                    {
                         "sha":  "57ddb76",
                         "date":  "2026-09-27T17:15:06-07:00",
                         "refs":  "worktree-agent-a0009bf327f4e898b",
@@ -1219,13 +1231,13 @@
                     {
                         "sha":  "3d0a9a2",
                         "date":  "2026-09-27T17:14:35-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge Sub-agent 4: police station lighting (emergency-mode interior, exterior, roof, interior exposure)"
                     },
                     {
                         "sha":  "9c7ada7",
                         "date":  "2026-09-27T17:14:23-07:00",
-                        "refs":  "worktree-agent-ad1a4775f60f3a736",
+                        "refs":  "",
                         "subject":  "CLAUDE.md: police structure material count"
                     },
                     {
@@ -1425,19 +1437,7 @@
                         "date":  "2026-09-27T11:54:24-07:00",
                         "refs":  "worktree-agent-aebb56d563c8fd45f",
                         "subject":  "Car glass shatters, tyres deflate and the car leans, shot-off panels are launched; car events replicated for late joiners"
-                    },
-                    {
-                        "sha":  "1cbb0c9",
-                        "date":  "2026-09-27T11:52:00-07:00",
-                        "refs":  "",
-                        "subject":  "CLAUDE.md: crew board activity includes test logs"
-                    },
-                    {
-                        "sha":  "c335bbd",
-                        "date":  "2026-09-27T11:39:56-07:00",
-                        "refs":  "",
-                        "subject":  "v0.90: ESC pause in solo + Ready row removed (Sub-agent 3)"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:15:06.9374847-07:00"
+    "generatedAt":  "2026-09-27T17:15:15.7182081-07:00"
 }
