@@ -791,8 +791,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  269,
-                          "active":  "2026-09-28T12:45:28.1779457-07:00"
+                          "dirty":  312,
+                          "active":  "2026-09-28T12:46:27.0566489-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -821,8 +821,8 @@
                       {
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
-                          "dirty":  34,
-                          "active":  "2026-09-28T12:45:27.2196017-07:00"
+                          "dirty":  35,
+                          "active":  "2026-09-28T12:45:35.0970833-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -900,13 +900,13 @@
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
                           "dirty":  1,
-                          "active":  "2026-09-28T12:45:01.4037089-07:00"
+                          "active":  "2026-09-28T12:46:10.3395863-07:00"
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
-                          "dirty":  44,
-                          "active":  "2026-09-28T12:45:15.6844530-07:00"
+                          "dirty":  45,
+                          "active":  "2026-09-28T12:46:25.0395235-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -936,7 +936,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:44:42.5048570-07:00"
+                          "active":  "2026-09-28T12:47:02.8095099-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:45:18.1057942-07:00"
+                          "active":  "2026-09-28T12:45:37.7359939-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1008,7 +1008,7 @@
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:45:30.0000000-07:00"
+                          "active":  "2026-09-28T12:45:55.2287993-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1020,7 +1020,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:45:30.2394938-07:00"
+                          "active":  "2026-09-28T12:45:59.1929123-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1607,5 +1607,5 @@
                         "subject":  "Merge Sub-agent 6: police-uniform and riot-gear infected (armour absorbs + breaks), station placement"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:45:28.0929119-07:00"
+    "generatedAt":  "2026-09-28T12:46:30.9798563-07:00"
 }
