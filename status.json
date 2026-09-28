@@ -1,5 +1,5 @@
 {
-    "master":  "7e94077",
+    "master":  "98f802a",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "7e94077",
-                         "date":  "2026-09-28T13:05:22-07:00",
-                         "subject":  "Merge SA2: S_P90 (PDW-57) procedural model - IoU 0.974, optic-tunnel ring sights PASS, bolt/trigger/top-mag rig PASS, hold + reload; -TMCustomizeId QA switch",
+                         "sha":  "98f802a",
+                         "date":  "2026-09-28T13:06:15-07:00",
+                         "subject":  "Merge SA5: A_AUG (Bullpup A3) procedural model - IoU 0.982, ring sights PASS, charging-handle/trigger/mag rig PASS, foregrip hold + reload; all 9 placeholder guns now have real models",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -600,7 +600,7 @@
                          "date":  "2026-09-28T13:03:02-07:00",
                          "subject":  "S_P90: procedural PDW-57 model (IoU 0.974), ring sights in the optic tunnel, top-mag rig, hold + reload clips",
                          "ahead":  0,
-                         "merged":  true
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-a8d3fe226b9f67a2c",
@@ -647,7 +647,7 @@
                          "sha":  "8d6075d",
                          "date":  "2026-09-28T13:03:17-07:00",
                          "subject":  "A_AUG: procedural Bullpup A3 model (IoU 0.982, 2k baked PBR), ring backup irons, rig parts, bullpup hold + reload, C++ table rows",
-                         "ahead":  1,
+                         "ahead":  0,
                          "merged":  false
                      },
                      {
@@ -759,8 +759,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  309,
-                          "active":  "2026-09-28T13:05:30.0546248-07:00"
+                          "dirty":  269,
+                          "active":  "2026-09-28T13:03:51.2779668-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -895,12 +895,6 @@
                           "active":  null
                       },
                       {
-                          "folder":  "agent-a872374ca5f5a7a5d",
-                          "branch":  "worktree-agent-a872374ca5f5a7a5d",
-                          "dirty":  0,
-                          "active":  null
-                      },
-                      {
                           "folder":  "agent-a8d3fe226b9f67a2c",
                           "branch":  "worktree-agent-a8d3fe226b9f67a2c",
                           "dirty":  0,
@@ -927,12 +921,6 @@
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
                           "branch":  "worktree-agent-aab0ef3128d9d2764",
-                          "dirty":  0,
-                          "active":  null
-                      },
-                      {
-                          "folder":  "agent-aaf055af3b87db083",
-                          "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  0,
                           "active":  null
                       },
@@ -1311,15 +1299,21 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "98f802a",
+                        "date":  "2026-09-28T13:06:15-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge SA5: A_AUG (Bullpup A3) procedural model - IoU 0.982, ring sights PASS, charging-handle/trigger/mag rig PASS, foregrip hold + reload; all 9 placeholder guns now have real models"
+                    },
+                    {
                         "sha":  "7e94077",
                         "date":  "2026-09-28T13:05:22-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge SA2: S_P90 (PDW-57) procedural model - IoU 0.974, optic-tunnel ring sights PASS, bolt/trigger/top-mag rig PASS, hold + reload; -TMCustomizeId QA switch"
                     },
                     {
                         "sha":  "8d6075d",
                         "date":  "2026-09-28T13:03:17-07:00",
-                        "refs":  "worktree-agent-aaf055af3b87db083",
+                        "refs":  "",
                         "subject":  "A_AUG: procedural Bullpup A3 model (IoU 0.982, 2k baked PBR), ring backup irons, rig parts, bullpup hold + reload, C++ table rows"
                     },
                     {
@@ -1331,7 +1325,7 @@
                     {
                         "sha":  "a58a84c",
                         "date":  "2026-09-28T13:03:02-07:00",
-                        "refs":  "worktree-agent-a872374ca5f5a7a5d",
+                        "refs":  "",
                         "subject":  "S_P90: procedural PDW-57 model (IoU 0.974), ring sights in the optic tunnel, top-mag rig, hold + reload clips"
                     },
                     {
@@ -1543,13 +1537,7 @@
                         "date":  "2026-09-27T18:08:02-07:00",
                         "refs":  "",
                         "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6"
-                    },
-                    {
-                        "sha":  "2872e18",
-                        "date":  "2026-09-27T18:08:02-07:00",
-                        "refs":  "",
-                        "subject":  "Level POI system (level_pois.json), level 1 keys/gate/truck + intro radio, police POI rework, police nav fix (WIP)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:05:30.8673654-07:00"
+    "generatedAt":  "2026-09-28T13:06:16.6160268-07:00"
 }
