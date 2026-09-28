@@ -814,7 +814,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:43:09.5169369-07:00"
+                          "active":  "2026-09-28T12:44:23.8770018-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -898,7 +898,7 @@
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
                           "dirty":  44,
-                          "active":  "2026-09-28T12:43:24.7542043-07:00"
+                          "active":  "2026-09-28T12:44:21.0135509-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -928,7 +928,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:43:14.3421236-07:00"
+                          "active":  "2026-09-28T12:44:15.5665294-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -964,7 +964,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:43:25.0200046-07:00"
+                          "active":  "2026-09-28T12:43:25.2215290-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -988,7 +988,7 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:43:24.6319381-07:00"
+                          "active":  "2026-09-28T12:43:59.9097914-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
@@ -1006,7 +1006,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:43:09.7925462-07:00"
+                          "active":  "2026-09-28T12:44:17.7356073-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1593,5 +1593,5 @@
                         "subject":  "Merge guns-procedural (lighting lane) into structure lane"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:43:23.9984182-07:00"
+    "generatedAt":  "2026-09-28T12:44:24.0679202-07:00"
 }
