@@ -1,5 +1,5 @@
 {
-    "master":  "228fb7f",
+    "master":  "4497f3a",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "228fb7f",
-                         "date":  "2026-09-28T12:44:49-07:00",
-                         "subject":  "Merge SA3: S_MPX (SMG-9X) procedural model - IoU 0.978, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeGun QA switch",
+                         "sha":  "4497f3a",
+                         "date":  "2026-09-28T12:55:20-07:00",
+                         "subject":  "Merge SA7: G_AA12 (Auto-12) procedural model - IoU 0.973, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeId QA switch",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -695,8 +695,8 @@
                          "sha":  "267a0d5",
                          "date":  "2026-09-28T12:45:24-07:00",
                          "subject":  "G_AA12 (Auto-12): procedural model from the Commons photo, ring sights, part rig, hold + reload",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-aca24d1e97bd5f47e",
@@ -791,8 +791,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  312,
-                          "active":  "2026-09-28T12:46:27.0566489-07:00"
+                          "dirty":  269,
+                          "active":  "2026-09-28T12:45:45.8543322-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -965,8 +965,8 @@
                       {
                           "folder":  "agent-aa08ee8e693b5a274",
                           "branch":  "worktree-agent-aa08ee8e693b5a274",
-                          "dirty":  2,
-                          "active":  "2026-09-28T12:53:16.8321967-07:00"
+                          "dirty":  3,
+                          "active":  "2026-09-28T12:55:25.5730781-07:00"
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
@@ -1367,6 +1367,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "4497f3a",
+                        "date":  "2026-09-28T12:55:20-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge SA7: G_AA12 (Auto-12) procedural model - IoU 0.973, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeId QA switch"
+                    },
+                    {
                         "sha":  "e2f0006",
                         "date":  "2026-09-28T12:54:57-07:00",
                         "refs":  "worktree-agent-a7448c06ac6e0c953",
@@ -1381,7 +1387,7 @@
                     {
                         "sha":  "228fb7f",
                         "date":  "2026-09-28T12:44:49-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural, worktree-agent-aa08ee8e693b5a274",
+                        "refs":  "worktree-agent-aa08ee8e693b5a274",
                         "subject":  "Merge SA3: S_MPX (SMG-9X) procedural model - IoU 0.978, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeGun QA switch"
                     },
                     {
@@ -1599,13 +1605,7 @@
                         "date":  "2026-09-27T17:17:27-07:00",
                         "refs":  "",
                         "subject":  "Police structure: lot islands around the lighting lane\u0027s pole spots, sally port clear of the rear pole, publish ctx.flagpoles, drop own pole piers"
-                    },
-                    {
-                        "sha":  "c75fa27",
-                        "date":  "2026-09-27T17:16:31-07:00",
-                        "refs":  "",
-                        "subject":  "Merge branch \u0027guns-procedural\u0027 into worktree-agent-a561616921da725b6"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:54:58.4799473-07:00"
+    "generatedAt":  "2026-09-28T12:55:20.9265685-07:00"
 }
