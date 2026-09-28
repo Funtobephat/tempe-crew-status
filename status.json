@@ -805,8 +805,8 @@
                       {
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
-                          "dirty":  4,
-                          "active":  "2026-09-28T11:51:14.6790138-07:00"
+                          "dirty":  5,
+                          "active":  "2026-09-28T11:53:37.1657414-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -842,7 +842,7 @@
                           "folder":  "agent-a3d9dcc4fe34204db",
                           "branch":  "worktree-agent-a3d9dcc4fe34204db",
                           "dirty":  7,
-                          "active":  "2026-09-28T11:50:50.0056591-07:00"
+                          "active":  "2026-09-28T11:52:46.3016393-07:00"
                       },
                       {
                           "folder":  "agent-a4f5afbe80c6112a2",
@@ -883,8 +883,8 @@
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
-                          "dirty":  3,
-                          "active":  "2026-09-28T11:48:39.8412005-07:00"
+                          "dirty":  4,
+                          "active":  "2026-09-28T11:53:41.0964925-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -949,8 +949,8 @@
                       {
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
-                          "dirty":  6,
-                          "active":  "2026-09-28T11:50:50.1535256-07:00"
+                          "dirty":  7,
+                          "active":  "2026-09-28T11:53:41.5759478-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -973,14 +973,14 @@
                       {
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
-                          "dirty":  4,
-                          "active":  "2026-09-28T11:51:49.0125811-07:00"
+                          "dirty":  5,
+                          "active":  "2026-09-28T11:52:07.9523924-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  3,
-                          "active":  "2026-09-28T11:51:59.6760909-07:00"
+                          "active":  "2026-09-28T11:53:46.6794282-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -991,8 +991,8 @@
                       {
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
-                          "dirty":  5,
-                          "active":  "2026-09-28T11:50:24.0999104-07:00"
+                          "dirty":  6,
+                          "active":  "2026-09-28T11:52:20.5221768-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1009,8 +1009,8 @@
                       {
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
-                          "dirty":  4,
-                          "active":  "2026-09-28T11:50:34.6296476-07:00"
+                          "dirty":  6,
+                          "active":  "2026-09-28T11:53:44.4330960-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1579,5 +1579,5 @@
                         "subject":  "CLAUDE.md: police structure material count"
                     }
                 ],
-    "generatedAt":  "2026-09-28T11:52:06.7905106-07:00"
+    "generatedAt":  "2026-09-28T11:53:35.0934607-07:00"
 }
