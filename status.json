@@ -1,5 +1,5 @@
 {
-    "master":  "5ea28a1",
+    "master":  "91af276",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "5ea28a1",
-                         "date":  "2026-09-28T12:56:44-07:00",
-                         "subject":  "Merge SA9: R_M82 (M107) procedural model - IoU 0.975, scope sight PASS, bolt/barrel/trigger/mag/stock rig PASS, hold + reload clips",
+                         "sha":  "91af276",
+                         "date":  "2026-09-28T12:59:40-07:00",
+                         "subject":  "Merge SA4: A_SCARL (Mk 16) procedural model - IoU 0.972, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -719,8 +719,8 @@
                          "sha":  "dd884f3",
                          "date":  "2026-09-28T12:58:28-07:00",
                          "subject":  "A_SCARL (Mk 16): procedural high-detail model from a CC BY-SA Commons photo (IoU 0.972), baked 2k FDE textures, ring sights, Mag/Bolt/Trigger/Stock rig, M4-family hold + reload clips, C++ twins; check_ads ring PASS, Test-Rig PASS",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-ad1a4775f60f3a736",
@@ -791,8 +791,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  312,
-                          "active":  "2026-09-28T12:59:19.1789083-07:00"
+                          "dirty":  269,
+                          "active":  "2026-09-28T12:57:27.0877017-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -899,8 +899,8 @@
                       {
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
-                          "dirty":  4,
-                          "active":  "2026-09-28T12:59:26.3775634-07:00"
+                          "dirty":  5,
+                          "active":  "2026-09-28T12:59:42.5574718-07:00"
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
@@ -935,8 +935,8 @@
                       {
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
-                          "dirty":  38,
-                          "active":  "2026-09-28T12:59:02.8280602-07:00"
+                          "dirty":  39,
+                          "active":  "2026-09-28T12:59:44.2976924-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:59:25.8755083-07:00"
+                          "active":  "2026-09-28T12:59:48.3304999-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1008,7 +1008,7 @@
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:59:26.4613374-07:00"
+                          "active":  "2026-09-28T12:59:30.8471404-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1367,6 +1367,18 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "0e2f2ba",
+                        "date":  "2026-09-28T12:59:47-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge SA3: dynamite bundle model (SM_Item_Dynamite, 10.7k tris, 2k PBR) + shared Tools/UE/build_items.py importer; headless dynamite blast still PASS"
+                    },
+                    {
+                        "sha":  "91af276",
+                        "date":  "2026-09-28T12:59:40-07:00",
+                        "refs":  "",
+                        "subject":  "Merge SA4: A_SCARL (Mk 16) procedural model - IoU 0.972, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips"
+                    },
+                    {
                         "sha":  "21a33ad",
                         "date":  "2026-09-28T12:58:49-07:00",
                         "refs":  "worktree-agent-aa08ee8e693b5a274",
@@ -1381,7 +1393,7 @@
                     {
                         "sha":  "5ea28a1",
                         "date":  "2026-09-28T12:56:44-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "Merge SA9: R_M82 (M107) procedural model - IoU 0.975, scope sight PASS, bolt/barrel/trigger/mag/stock rig PASS, hold + reload clips"
                     },
                     {
@@ -1593,19 +1605,7 @@
                         "date":  "2026-09-27T17:23:27-07:00",
                         "refs":  "",
                         "subject":  "Police route/POI lane: BodyArmour rename, buzzer on the openings call box, remote-locked SecurityDoor, hidden roof disc, walking route test with nav probes, CLAUDE.md"
-                    },
-                    {
-                        "sha":  "fe4fe15",
-                        "date":  "2026-09-27T17:22:04-07:00",
-                        "refs":  "",
-                        "subject":  "Merge guns-procedural (structure/lighting/infected lanes) into furniture lane"
-                    },
-                    {
-                        "sha":  "00330d6",
-                        "date":  "2026-09-27T17:19:36-07:00",
-                        "refs":  "",
-                        "subject":  "Police Station integration build: map rebuilt with structure, openings, lighting and police-infected lanes; editor re-saves of Env/Police materials"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:59:24.3689893-07:00"
+    "generatedAt":  "2026-09-28T12:59:41.1079951-07:00"
 }
