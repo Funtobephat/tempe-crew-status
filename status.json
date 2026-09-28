@@ -1,5 +1,5 @@
 {
-    "master":  "13ce384",
+    "master":  "21a4598",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "13ce384",
-                         "date":  "2026-09-28T12:32:04-07:00",
-                         "subject":  "v0.985: Gas Station on the mission summary; campaign map = click a level, then DEPLOY; SMG-5 grabbable (display pickup focus box); detailed US + Arizona indoor flag stands in the police station",
+                         "sha":  "21a4598",
+                         "date":  "2026-09-28T12:37:13-07:00",
+                         "subject":  "Merge SA1: P_FN57 (PS57 5.7mm) procedural model - IoU 0.985, notch sights PASS, slide/trigger/mag rig PASS, hold + one-handed downed clips",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -503,8 +503,8 @@
                          "sha":  "a29d304",
                          "date":  "2026-09-28T12:35:14-07:00",
                          "subject":  "P_FN57: procedural PS57 5.7mm model (IoU 0.985, 2k PBR bake, authored notch sights, Slide/Trigger/Mag rig), G17-family hold + one-handed clips, C++ table rows",
-                         "ahead":  1,
-                         "merged":  false
+                         "ahead":  0,
+                         "merged":  true
                      },
                      {
                          "name":  "worktree-agent-a4f5afbe80c6112a2",
@@ -775,8 +775,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  312,
-                          "active":  "2026-09-28T12:35:49.5172573-07:00"
+                          "dirty":  269,
+                          "active":  "2026-09-28T12:37:34.0489207-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -806,7 +806,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:36:36.8923724-07:00"
+                          "active":  "2026-09-28T12:37:26.2330814-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -883,8 +883,8 @@
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
-                          "dirty":  128,
-                          "active":  "2026-09-28T12:36:39.6314168-07:00"
+                          "dirty":  44,
+                          "active":  "2026-09-28T12:37:34.0304365-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -913,8 +913,8 @@
                       {
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
-                          "dirty":  34,
-                          "active":  "2026-09-28T12:36:39.0549133-07:00"
+                          "dirty":  36,
+                          "active":  "2026-09-28T12:37:31.3969086-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -950,7 +950,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:36:41.0075368-07:00"
+                          "active":  "2026-09-28T12:37:23.3980905-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -974,13 +974,13 @@
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:36:40.6183099-07:00"
+                          "active":  "2026-09-28T12:37:35.0034585-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
-                          "dirty":  31,
-                          "active":  "2026-09-28T12:32:30.7928421-07:00"
+                          "dirty":  36,
+                          "active":  "2026-09-28T12:37:15.2267268-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -992,7 +992,7 @@
                           "folder":  "agent-acdbf19db5d85b64e",
                           "branch":  "worktree-agent-acdbf19db5d85b64e",
                           "dirty":  41,
-                          "active":  "2026-09-28T12:36:40.0175788-07:00"
+                          "active":  "2026-09-28T12:37:33.7321941-07:00"
                       },
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
@@ -1010,7 +1010,7 @@
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
                           "dirty":  124,
-                          "active":  "2026-09-28T12:36:41.2645717-07:00"
+                          "active":  "2026-09-28T12:37:35.8468173-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1339,6 +1339,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "21a4598",
+                        "date":  "2026-09-28T12:37:13-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "Merge SA1: P_FN57 (PS57 5.7mm) procedural model - IoU 0.985, notch sights PASS, slide/trigger/mag rig PASS, hold + one-handed downed clips"
+                    },
+                    {
                         "sha":  "a29d304",
                         "date":  "2026-09-28T12:35:14-07:00",
                         "refs":  "worktree-agent-a3d9dcc4fe34204db",
@@ -1347,7 +1353,7 @@
                     {
                         "sha":  "13ce384",
                         "date":  "2026-09-28T12:32:04-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.985: Gas Station on the mission summary; campaign map = click a level, then DEPLOY; SMG-5 grabbable (display pickup focus box); detailed US + Arizona indoor flag stands in the police station"
                     },
                     {
@@ -1571,13 +1577,7 @@
                         "date":  "2026-09-27T17:15:06-07:00",
                         "refs":  "",
                         "subject":  "Merge lighting lane into furniture lane"
-                    },
-                    {
-                        "sha":  "c466485",
-                        "date":  "2026-09-27T17:14:55-07:00",
-                        "refs":  "",
-                        "subject":  "Police furniture lane WIP (pre-merge)"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:36:39.1565481-07:00"
+    "generatedAt":  "2026-09-28T12:37:14.1933485-07:00"
 }
