@@ -719,8 +719,8 @@
                       {
                           "folder":  "agent-a04751b701c49f7e1",
                           "branch":  "worktree-agent-a04751b701c49f7e1",
-                          "dirty":  121,
-                          "active":  "2026-09-27T17:02:23.8808935-07:00"
+                          "dirty":  122,
+                          "active":  "2026-09-27T17:03:26.0915780-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  132,
-                          "active":  "2026-09-27T17:02:24.3023786-07:00"
+                          "active":  "2026-09-27T17:03:29.6147520-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -792,7 +792,7 @@
                           "folder":  "agent-a7570fc3f1ade6260",
                           "branch":  "worktree-agent-a7570fc3f1ade6260",
                           "dirty":  119,
-                          "active":  "2026-09-27T17:02:22.9096385-07:00"
+                          "active":  "2026-09-27T17:03:30.3013446-07:00"
                       },
                       {
                           "folder":  "agent-a7e1db2966d2992d3",
@@ -863,8 +863,8 @@
                       {
                           "folder":  "agent-ad1a4775f60f3a736",
                           "branch":  "worktree-agent-ad1a4775f60f3a736",
-                          "dirty":  0,
-                          "active":  null
+                          "dirty":  1,
+                          "active":  "2026-09-27T17:03:27.6452576-07:00"
                       },
                       {
                           "folder":  "agent-adbcc631b9a256947",
@@ -894,7 +894,7 @@
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
                           "dirty":  63,
-                          "active":  "2026-09-27T17:01:00.7105765-07:00"
+                          "active":  "2026-09-27T17:03:30.5597062-07:00"
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1439,5 +1439,5 @@
                         "subject":  "Merge worktree-agent-a6f530223364c0a43"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:02:24.1525939-07:00"
+    "generatedAt":  "2026-09-27T17:03:25.1290657-07:00"
 }
