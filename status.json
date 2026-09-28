@@ -775,8 +775,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  7,
-                          "active":  "2026-09-28T11:46:46.9191089-07:00"
+                          "dirty":  8,
+                          "active":  "2026-09-28T11:48:34.3704865-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -805,8 +805,8 @@
                       {
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
-                          "dirty":  2,
-                          "active":  "2026-09-28T11:44:51.3123055-07:00"
+                          "dirty":  3,
+                          "active":  "2026-09-28T11:49:24.2197734-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -884,7 +884,7 @@
                           "folder":  "agent-a7448c06ac6e0c953",
                           "branch":  "worktree-agent-a7448c06ac6e0c953",
                           "dirty":  3,
-                          "active":  "2026-09-28T11:48:22.1991582-07:00"
+                          "active":  "2026-09-28T11:48:39.8412005-07:00"
                       },
                       {
                           "folder":  "agent-a7570fc3f1ade6260",
@@ -973,8 +973,8 @@
                       {
                           "folder":  "agent-ac8a5743650d4c16f",
                           "branch":  "worktree-agent-ac8a5743650d4c16f",
-                          "dirty":  1,
-                          "active":  "2026-09-28T11:48:06.7606819-07:00"
+                          "dirty":  3,
+                          "active":  "2026-09-28T11:49:22.3030159-07:00"
                       },
                       {
                           "folder":  "agent-aca24d1e97bd5f47e",
@@ -1009,8 +1009,8 @@
                       {
                           "folder":  "agent-ae43e0523d7cd0e16",
                           "branch":  "worktree-agent-ae43e0523d7cd0e16",
-                          "dirty":  1,
-                          "active":  "2026-09-28T11:45:19.2738361-07:00"
+                          "dirty":  4,
+                          "active":  "2026-09-28T11:48:49.8039165-07:00"
                       },
                       {
                           "folder":  "agent-aebb56d563c8fd45f",
@@ -1579,5 +1579,5 @@
                         "subject":  "CLAUDE.md: police structure material count"
                     }
                 ],
-    "generatedAt":  "2026-09-28T11:48:24.1778419-07:00"
+    "generatedAt":  "2026-09-28T11:49:24.1808714-07:00"
 }
