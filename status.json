@@ -619,14 +619,6 @@
                          "merged":  true
                      },
                      {
-                         "name":  "worktree-agent-abcaff63a3149d50a",
-                         "sha":  "2bc1886",
-                         "date":  "2026-09-28T13:38:35-07:00",
-                         "subject":  "Bandage pickup model: procedural sealed field-dressing pouch + gauze roll + tape (SM_Item_Bandage, 11.7k tris, 2k baked PBR), build_items.py Bandage row",
-                         "ahead":  0,
-                         "merged":  false
-                     },
-                     {
                          "name":  "worktree-agent-ac1eb0697f855df5c",
                          "sha":  "b6a7131",
                          "date":  "2026-09-26T16:48:40-07:00",
@@ -1461,5 +1453,5 @@
                         "subject":  "v0.983: billboards use mirrored-UV poster materials (M_PosterFlip_*) instead of a negative scale (HISM keeps winding, the poster was culled); generator view moved inside the room"
                     }
                 ],
-    "generatedAt":  "2026-09-28T13:39:13.8986029-07:00"
+    "generatedAt":  "2026-09-28T13:39:23.8742885-07:00"
 }
