@@ -556,10 +556,10 @@
                      },
                      {
                          "name":  "worktree-agent-a726a968c0bd78573",
-                         "sha":  "483e661",
-                         "date":  "2026-09-28T12:59:49-07:00",
-                         "subject":  "Frag grenade model: procedural SM_Item_Frag (6.35 cm body, fuze, lever, pin + ring, safety clip; 14.6k tris), baked 2k T_Item_Frag_{BaseColor,Normal,ORM}, USP sphere collision; shared Tools/UE/build_items.py importer",
-                         "ahead":  1,
+                         "sha":  "061e525",
+                         "date":  "2026-09-28T12:59:59-07:00",
+                         "subject":  "Frag export: path_mode STRIP (no .fbm texture copies next to the FBX)",
+                         "ahead":  2,
                          "merged":  false
                      },
                      {
@@ -791,8 +791,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  269,
-                          "active":  "2026-09-28T12:59:55.7799506-07:00"
+                          "dirty":  281,
+                          "active":  "2026-09-28T13:00:27.3693184-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -821,8 +821,8 @@
                       {
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
-                          "dirty":  39,
-                          "active":  "2026-09-28T12:59:50.4292092-07:00"
+                          "dirty":  41,
+                          "active":  "2026-09-28T13:00:23.5046809-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -936,7 +936,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:59:44.2976924-07:00"
+                          "active":  "2026-09-28T13:00:25.9678130-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:59:58.2162406-07:00"
+                          "active":  "2026-09-28T13:00:28.8393008-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1008,7 +1008,7 @@
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:59:30.8471404-07:00"
+                          "active":  "2026-09-28T13:00:27.3913535-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1367,9 +1367,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "061e525",
+                        "date":  "2026-09-28T12:59:59-07:00",
+                        "refs":  "worktree-agent-a726a968c0bd78573",
+                        "subject":  "Frag export: path_mode STRIP (no .fbm texture copies next to the FBX)"
+                    },
+                    {
                         "sha":  "483e661",
                         "date":  "2026-09-28T12:59:49-07:00",
-                        "refs":  "worktree-agent-a726a968c0bd78573",
+                        "refs":  "",
                         "subject":  "Frag grenade model: procedural SM_Item_Frag (6.35 cm body, fuze, lever, pin + ring, safety clip; 14.6k tris), baked 2k T_Item_Frag_{BaseColor,Normal,ORM}, USP sphere collision; shared Tools/UE/build_items.py importer"
                     },
                     {
@@ -1599,13 +1605,7 @@
                         "date":  "2026-09-27T17:24:38-07:00",
                         "refs":  "",
                         "subject":  "Level POI lists: Content/Data/level_pois.json + Docs/LevelPOIs.md; Level 1 = keys on Reyes\u0027 body at the gas station -\u003e fence gate -\u003e armored truck; Level 2 = body armor + SMG-5 (any order) -\u003e leave through the front doors"
-                    },
-                    {
-                        "sha":  "e29fcd5",
-                        "date":  "2026-09-27T17:24:22-07:00",
-                        "refs":  "",
-                        "subject":  "Merge Sub-agent 5: police route - ordered objectives, body armour + MP5 display pickups, caches, walking mission test"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:59:51.3466499-07:00"
+    "generatedAt":  "2026-09-28T13:00:25.2693579-07:00"
 }
