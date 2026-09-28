@@ -1,5 +1,5 @@
 {
-    "master":  "f65d9bf",
+    "master":  "d33bdbe",
     "base":  "guns-procedural",
     "branches":  [
                      {
@@ -116,9 +116,9 @@
                      },
                      {
                          "name":  "guns-procedural",
-                         "sha":  "f65d9bf",
-                         "date":  "2026-09-28T15:25:10-07:00",
-                         "subject":  "v0.9892: ElevenLabs test-run gunshots for the G17 and 870 (close x3 + far x2 each), loudness-matched; recorded originals kept for A/B / --restore",
+                         "sha":  "d33bdbe",
+                         "date":  "2026-09-28T15:37:55-07:00",
+                         "subject":  "v0.9893: fix look/move locked after Customize Weapons (ignore-input counters); G17 remade without the buzzing ring (new takes + de-ring notches) and +4 dB louder",
                          "ahead":  0,
                          "merged":  true
                      },
@@ -703,8 +703,8 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  31,
-                          "active":  "2026-09-28T15:37:24.0000000-07:00"
+                          "dirty":  1,
+                          "active":  "2026-09-28T15:37:41.0648053-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1213,9 +1213,15 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "d33bdbe",
+                        "date":  "2026-09-28T15:37:55-07:00",
+                        "refs":  "HEAD -\u003e guns-procedural",
+                        "subject":  "v0.9893: fix look/move locked after Customize Weapons (ignore-input counters); G17 remade without the buzzing ring (new takes + de-ring notches) and +4 dB louder"
+                    },
+                    {
                         "sha":  "f65d9bf",
                         "date":  "2026-09-28T15:25:10-07:00",
-                        "refs":  "HEAD -\u003e guns-procedural",
+                        "refs":  "",
                         "subject":  "v0.9892: ElevenLabs test-run gunshots for the G17 and 870 (close x3 + far x2 each), loudness-matched; recorded originals kept for A/B / --restore"
                     },
                     {
@@ -1445,13 +1451,7 @@
                         "date":  "2026-09-28T12:41:57-07:00",
                         "refs":  "",
                         "subject":  "S_MPX (SMG-9X): procedural high-detail model, sights, rig parts incl. Stock, hold + reload clips, C++ rows"
-                    },
-                    {
-                        "sha":  "2e8061d",
-                        "date":  "2026-09-28T12:39:26-07:00",
-                        "refs":  "",
-                        "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise"
                     }
                 ],
-    "generatedAt":  "2026-09-28T15:37:24.2129689-07:00"
+    "generatedAt":  "2026-09-28T15:37:55.9983633-07:00"
 }
