@@ -676,11 +676,11 @@
                      },
                      {
                          "name":  "worktree-agent-aff4cd4695d4ce12e",
-                         "sha":  "8b3160a",
-                         "date":  "2026-09-27T16:37:29-07:00",
-                         "subject":  "Police layout: POI display spots + keep-clear zones",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "822eb59",
+                         "date":  "2026-09-27T17:14:51-07:00",
+                         "subject":  "Police infected: uniform skins, riot armour absorber, outfit per spawn point, Police Station placement",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "zombie-density",
@@ -768,7 +768,7 @@
                           "folder":  "agent-a561616921da725b6",
                           "branch":  "worktree-agent-a561616921da725b6",
                           "dirty":  215,
-                          "active":  "2026-09-27T17:14:48.7327719-07:00"
+                          "active":  "2026-09-27T17:14:52.5238373-07:00"
                       },
                       {
                           "folder":  "agent-a59b7989711694684",
@@ -893,8 +893,8 @@
                       {
                           "folder":  "agent-aff4cd4695d4ce12e",
                           "branch":  "worktree-agent-aff4cd4695d4ce12e",
-                          "dirty":  65,
-                          "active":  "2026-09-27T17:14:27.4142919-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "TempeMassacre-ars",
@@ -1199,6 +1199,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "822eb59",
+                        "date":  "2026-09-27T17:14:51-07:00",
+                        "refs":  "worktree-agent-aff4cd4695d4ce12e",
+                        "subject":  "Police infected: uniform skins, riot armour absorber, outfit per spawn point, Police Station placement"
+                    },
+                    {
                         "sha":  "3d0a9a2",
                         "date":  "2026-09-27T17:14:35-07:00",
                         "refs":  "HEAD -\u003e guns-procedural",
@@ -1267,7 +1273,7 @@
                     {
                         "sha":  "8b3160a",
                         "date":  "2026-09-27T16:37:29-07:00",
-                        "refs":  "worktree-agent-aff4cd4695d4ce12e",
+                        "refs":  "",
                         "subject":  "Police layout: POI display spots + keep-clear zones"
                     },
                     {
@@ -1431,13 +1437,7 @@
                         "date":  "2026-09-27T11:37:48-07:00",
                         "refs":  "",
                         "subject":  "Escape menu pauses the world solo; Ready row removed from the in-game menu"
-                    },
-                    {
-                        "sha":  "922ecf5",
-                        "date":  "2026-09-27T11:15:18-07:00",
-                        "refs":  "",
-                        "subject":  "CLAUDE.md: crew board drops the bar for finished lanes"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:14:37.3580168-07:00"
+    "generatedAt":  "2026-09-27T17:14:52.4677761-07:00"
 }
