@@ -644,11 +644,11 @@
                      },
                      {
                          "name":  "worktree-agent-aa08ee8e693b5a274",
-                         "sha":  "228fb7f",
-                         "date":  "2026-09-28T12:44:49-07:00",
-                         "subject":  "Merge SA3: S_MPX (SMG-9X) procedural model - IoU 0.978, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeGun QA switch",
-                         "ahead":  0,
-                         "merged":  true
+                         "sha":  "21a33ad",
+                         "date":  "2026-09-28T12:58:49-07:00",
+                         "subject":  "Dynamite item model: procedural 3-stick taped bundle with blasting cap + safety fuse (10.7k tris, 2k baked PBR, COM origin, UCX box), shared Tools/UE/build_items.py importer",
+                         "ahead":  1,
+                         "merged":  false
                      },
                      {
                          "name":  "worktree-agent-aab0ef3128d9d2764",
@@ -822,7 +822,7 @@
                           "folder":  "agent-a0677851e43cc7e46",
                           "branch":  "worktree-agent-a0677851e43cc7e46",
                           "dirty":  34,
-                          "active":  "2026-09-28T12:58:31.7398043-07:00"
+                          "active":  "2026-09-28T12:58:50.6515621-07:00"
                       },
                       {
                           "folder":  "agent-a08d89b2f8d1de0bf",
@@ -900,7 +900,7 @@
                           "folder":  "agent-a726a968c0bd78573",
                           "branch":  "worktree-agent-a726a968c0bd78573",
                           "dirty":  4,
-                          "active":  "2026-09-28T12:58:31.8600048-07:00"
+                          "active":  "2026-09-28T12:58:44.9739383-07:00"
                       },
                       {
                           "folder":  "agent-a7448c06ac6e0c953",
@@ -936,7 +936,7 @@
                           "folder":  "agent-a872374ca5f5a7a5d",
                           "branch":  "worktree-agent-a872374ca5f5a7a5d",
                           "dirty":  38,
-                          "active":  "2026-09-28T12:58:31.8633045-07:00"
+                          "active":  "2026-09-28T12:58:51.7492935-07:00"
                       },
                       {
                           "folder":  "agent-a8d3fe226b9f67a2c",
@@ -965,8 +965,8 @@
                       {
                           "folder":  "agent-aa08ee8e693b5a274",
                           "branch":  "worktree-agent-aa08ee8e693b5a274",
-                          "dirty":  4,
-                          "active":  "2026-09-28T12:57:40.7040753-07:00"
+                          "dirty":  0,
+                          "active":  null
                       },
                       {
                           "folder":  "agent-aab0ef3128d9d2764",
@@ -978,7 +978,7 @@
                           "folder":  "agent-aaf055af3b87db083",
                           "branch":  "worktree-agent-aaf055af3b87db083",
                           "dirty":  39,
-                          "active":  "2026-09-28T12:58:12.1899462-07:00"
+                          "active":  "2026-09-28T12:58:51.9428580-07:00"
                       },
                       {
                           "folder":  "agent-ab11cc93b7268b66e",
@@ -1008,7 +1008,7 @@
                           "folder":  "agent-aca24d1e97bd5f47e",
                           "branch":  "worktree-agent-aca24d1e97bd5f47e",
                           "dirty":  42,
-                          "active":  "2026-09-28T12:58:33.6616110-07:00"
+                          "active":  "2026-09-28T12:58:52.0174373-07:00"
                       },
                       {
                           "folder":  "agent-acb72df481d7c8c3d",
@@ -1367,6 +1367,12 @@
                   ],
     "commits":  [
                     {
+                        "sha":  "21a33ad",
+                        "date":  "2026-09-28T12:58:49-07:00",
+                        "refs":  "worktree-agent-aa08ee8e693b5a274",
+                        "subject":  "Dynamite item model: procedural 3-stick taped bundle with blasting cap + safety fuse (10.7k tris, 2k baked PBR, COM origin, UCX box), shared Tools/UE/build_items.py importer"
+                    },
+                    {
                         "sha":  "dd884f3",
                         "date":  "2026-09-28T12:58:28-07:00",
                         "refs":  "worktree-agent-acdbf19db5d85b64e",
@@ -1405,7 +1411,7 @@
                     {
                         "sha":  "228fb7f",
                         "date":  "2026-09-28T12:44:49-07:00",
-                        "refs":  "worktree-agent-aa08ee8e693b5a274",
+                        "refs":  "",
                         "subject":  "Merge SA3: S_MPX (SMG-9X) procedural model - IoU 0.978, ring sights PASS, bolt/trigger/mag/stock rig PASS, hold + reload clips, -TMCustomizeGun QA switch"
                     },
                     {
@@ -1599,13 +1605,7 @@
                         "date":  "2026-09-27T17:19:36-07:00",
                         "refs":  "",
                         "subject":  "Police Station integration build: map rebuilt with structure, openings, lighting and police-infected lanes; editor re-saves of Env/Police materials"
-                    },
-                    {
-                        "sha":  "2ca141b",
-                        "date":  "2026-09-27T17:18:43-07:00",
-                        "refs":  "",
-                        "subject":  "Police structure: drop the duplicate flagpole hook line"
                     }
                 ],
-    "generatedAt":  "2026-09-28T12:58:31.1899523-07:00"
+    "generatedAt":  "2026-09-28T12:58:50.6174182-07:00"
 }
