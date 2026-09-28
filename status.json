@@ -710,7 +710,7 @@
                           "folder":  "agent-a0009bf327f4e898b",
                           "branch":  "worktree-agent-a0009bf327f4e898b",
                           "dirty":  250,
-                          "active":  "2026-09-27T17:26:24.6741934-07:00"
+                          "active":  "2026-09-27T17:27:23.8791781-07:00"
                       },
                       {
                           "folder":  "agent-a00e40f662f518017",
@@ -1453,5 +1453,5 @@
                         "subject":  "Campaign starts in the Safe House; mission board is a framed campaign map that opens the level selection"
                     }
                 ],
-    "generatedAt":  "2026-09-27T17:26:23.4796083-07:00"
+    "generatedAt":  "2026-09-27T17:27:23.5339131-07:00"
 }
