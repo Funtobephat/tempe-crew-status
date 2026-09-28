@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  9,
-                          "active":  "2026-09-28T14:27:23.7636325-07:00"
+                          "active":  "2026-09-28T14:28:19.0834635-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "Billboards: flip the poster vertically (M_PosterV_*), not left-right - the mesh\u0027s poster V is upside down"
                     }
                 ],
-    "generatedAt":  "2026-09-28T14:27:23.6489841-07:00"
+    "generatedAt":  "2026-09-28T14:28:23.6485716-07:00"
 }
