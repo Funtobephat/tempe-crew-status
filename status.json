@@ -1453,5 +1453,5 @@
                         "subject":  "Item model hooks: throwables and pickups load /Game/Generated/Items/SM_Item_\u003cKind\u003e when it exists (real size, own materials, pickups sit on their surface), placeholder shapes otherwise"
                     }
                 ],
-    "generatedAt":  "2026-09-28T15:25:24.1179226-07:00"
+    "generatedAt":  "2026-09-28T15:26:24.1013278-07:00"
 }
