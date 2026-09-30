@@ -703,7 +703,7 @@
                       {
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
-                          "dirty":  1,
+                          "dirty":  2,
                           "active":  "2026-09-28T16:22:44.8114081-07:00"
                       },
                       {
@@ -1453,5 +1453,5 @@
                         "subject":  "Merge SA9: R_M82 (M107) procedural model - IoU 0.975, scope sight PASS, bolt/barrel/trigger/mag/stock rig PASS, hold + reload clips"
                     }
                 ],
-    "generatedAt":  "2026-09-29T21:35:24.1109705-07:00"
+    "generatedAt":  "2026-09-29T21:36:24.0882387-07:00"
 }
