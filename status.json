@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  10,
-                          "active":  "2026-09-29T22:34:49.3658376-07:00"
+                          "active":  "2026-09-29T22:36:22.2804796-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "A_SCARL (Mk 16): procedural high-detail model from a CC BY-SA Commons photo (IoU 0.972), baked 2k FDE textures, ring sights, Mag/Bolt/Trigger/Stock rig, M4-family hold + reload clips, C++ twins; check_ads ring PASS, Test-Rig PASS"
                     }
                 ],
-    "generatedAt":  "2026-09-29T22:35:23.6174631-07:00"
+    "generatedAt":  "2026-09-29T22:36:23.6140539-07:00"
 }
