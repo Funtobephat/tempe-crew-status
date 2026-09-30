@@ -704,7 +704,7 @@
                           "folder":  "TempeMassacre",
                           "branch":  "guns-procedural",
                           "dirty":  152,
-                          "active":  "2026-09-29T22:51:23.7238572-07:00"
+                          "active":  "2026-09-29T22:52:23.8608333-07:00"
                       },
                       {
                           "folder":  "agent-a0009bf327f4e898b",
@@ -1453,5 +1453,5 @@
                         "subject":  "Dynamite item model: procedural 3-stick taped bundle with blasting cap + safety fuse (10.7k tris, 2k baked PBR, COM origin, UCX box), shared Tools/UE/build_items.py importer"
                     }
                 ],
-    "generatedAt":  "2026-09-29T22:51:23.7328747-07:00"
+    "generatedAt":  "2026-09-29T22:52:23.7244033-07:00"
 }
